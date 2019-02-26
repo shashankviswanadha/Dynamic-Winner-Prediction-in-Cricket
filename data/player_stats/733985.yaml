@@ -1,0 +1,137 @@
+DelhiDaredevils:
+- batting averages:
+  - {'0': '4', '100': '2', 4s: '212', '50': '9', 6s: '78', Ave: '35.01', BF: '1546',
+    HS: 126*, Inns: '67', Mat: '73', 'NO': '8', Player: Q de Kock, Runs: '2066', SR: '133.63',
+    Span: 2011-2014}
+  - {'0': '11', '100': '0', 4s: '310', '50': '27', 6s: '126', Ave: '38.16', BF: '3361',
+    HS: 99*, Inns: '155', Mat: '164', 'NO': '48', Player: JP Duminy, Runs: '4084',
+    SR: '121.51', Span: 2004-2014}
+  - {'0': '3', '100': '0', 4s: '64', '50': '4', 6s: '29', Ave: '25.41', BF: '553',
+    HS: 60*, Inns: '44', Mat: '48', 'NO': '13', Player: KM Jadhav, Runs: '788', SR: '142.49',
+    Span: 2007-2014}
+  - {'0': '10', '100': '0', 4s: '296', '50': '14', 6s: '85', Ave: '25.39', BF: '2328',
+    HS: 90*, Inns: '138', Mat: '155', 'NO': '20', Player: KD Karthik, Runs: '2997',
+    SR: '128.73', Span: 2006-2014}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '-', BF: '31', HS: 8*,
+    Inns: '9', Mat: '22', 'NO': '9', Player: S Kaul, Runs: '32', SR: '103.22', Span: 2012-2014}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.50', BF: '24', HS: '5',
+    Inns: '7', Mat: '35', 'NO': '3', Player: Mohammed Shami, Runs: '14', SR: '58.33',
+    Span: 2010-2014}
+  - {'0': '3', '100': '0', 4s: '10', '50': '0', 6s: '5', Ave: '10.00', BF: '149',
+    HS: 36*, Inns: '23', Mat: '59', 'NO': '8', Player: S Nadeem, Runs: '150', SR: '100.67',
+    Span: 2007-2014}
+  - {'0': '5', '100': '0', 4s: '34', '50': '0', 6s: '12', Ave: '13.29', BF: '360',
+    HS: 29*, Inns: '56', Mat: '110', 'NO': '25', Player: WD Parnell, Runs: '412',
+    SR: '114.44', Span: 2008-2014}
+  - {'0': '7', '100': '1', 4s: '232', '50': '13', 6s: '82', Ave: '33.29', BF: '1815',
+    HS: 103*, Inns: '87', Mat: '90', 'NO': '13', Player: KP Pietersen, Runs: '2464',
+    SR: '135.75', Span: 2003-2014}
+  - {'0': '5', '100': '0', 4s: '66', '50': '3', 6s: '35', Ave: '20.08', BF: '743',
+    HS: '76', Inns: '60', Mat: '76', 'NO': '15', Player: LR Shukla, Runs: '904', SR: '121.66',
+    Span: 2007-2014}
+  - {'0': '7', '100': '2', 4s: '261', '50': '15', 6s: '111', Ave: '25.60', BF: '2379',
+    HS: '127', Inns: '118', Mat: '120', 'NO': '4', Player: M Vijay, Runs: '2919',
+    SR: '122.69', Span: 2007-2014}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '43', Econ: '-', Inns: '-', Mat: '73',
+    Mdns: '-', Overs: '-', Player: Q de Kock, Runs: '-', SR: '-', Span: 2011-2014,
+    St: '12', Wkts: '-'}
+  - {'4': '2', '5': '0', Ave: '28.29', BBI: 4/20, Ct: '56', Econ: '7.54', Inns: '88',
+    Mat: '164', Mdns: '0', Overs: '191.2', Player: JP Duminy, Runs: '1443', SR: '22.5',
+    Span: 2004-2014, St: '0', Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '19.50', BBI: 2/23, Ct: '17', Econ: '8.66', Inns: '3',
+    Mat: '48', Mdns: '0', Overs: '9.0', Player: KM Jadhav, Runs: '78', SR: '13.5',
+    Span: 2007-2014, St: '2', Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '10.00', BBI: 1/10, Ct: '86', Econ: '5.00', Inns: '1',
+    Mat: '155', Mdns: '0', Overs: '2.0', Player: KD Karthik, Runs: '10', SR: '12.0',
+    Span: 2006-2014, St: '34', Wkts: '1'}
+  - {'4': '1', '5': '0', Ave: '21.45', BBI: 4/14, Ct: '5', Econ: '6.50', Inns: '22',
+    Mat: '22', Mdns: '2', Overs: '79.1', Player: S Kaul, Runs: '515', SR: '19.7',
+    Span: 2012-2014, St: '0', Wkts: '24'}
+  - {'4': '1', '5': '0', Ave: '21.09', BBI: 4/24, Ct: '8', Econ: '7.12', Inns: '35',
+    Mat: '35', Mdns: '2', Overs: '121.2', Player: Mohammed Shami, Runs: '865', SR: '17.7',
+    Span: 2010-2014, St: '0', Wkts: '41'}
+  - {'4': '0', '5': '0', Ave: '28.28', BBI: 3/16, Ct: '12', Econ: '6.32', Inns: '59',
+    Mat: '59', Mdns: '3', Overs: '219.0', Player: S Nadeem, Runs: '1386', SR: '26.8',
+    Span: 2007-2014, St: '0', Wkts: '49'}
+  - {'4': '2', '5': '0', Ave: '24.43', BBI: 4/13, Ct: '17', Econ: '7.43', Inns: '107',
+    Mat: '110', Mdns: '6', Overs: '361.2', Player: WD Parnell, Runs: '2688', SR: '19.7',
+    Span: 2008-2014, St: '0', Wkts: '110'}
+  - {'4': '0', '5': '0', Ave: '30.23', BBI: 3/33, Ct: '36', Econ: '8.03', Inns: '28',
+    Mat: '90', Mdns: '0', Overs: '64.0', Player: KP Pietersen, Runs: '514', SR: '22.5',
+    Span: 2003-2014, St: '0', Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '24.74', BBI: 3/6, Ct: '30', Econ: '7.22', Inns: '55',
+    Mat: '76', Mdns: '3', Overs: '147.2', Player: LR Shukla, Runs: '1064', SR: '20.5',
+    Span: 2007-2014, St: '0', Wkts: '43'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '52', Econ: '8.33', Inns: '3', Mat: '120',
+    Mdns: '0', Overs: '3.0', Player: M Vijay, Runs: '25', SR: '-', Span: 2007-2014,
+    St: '0', Wkts: '0'}
+KolkataKnightRiders:
+- batting averages:
+  - {'0': '15', '100': '0', 4s: '469', '50': '33', 6s: '62', Ave: '30.00', BF: '3321',
+    HS: '93', Inns: '152', Mat: '156', 'NO': '16', Player: G Gambhir, Runs: '4080',
+    SR: '122.85', Span: 2007-2014}
+  - {'0': '10', '100': '0', 4s: '363', '50': '27', 6s: '77', Ave: '31.66', BF: '3290',
+    HS: 89*, Inns: '138', Mat: '142', 'NO': '22', Player: JH Kallis, Runs: '3673',
+    SR: '111.64', Span: 2004-2014}
+  - {'0': '6', '100': '0', 4s: '13', '50': '0', 6s: '11', Ave: '9.68', BF: '170',
+    HS: '28', Inns: '40', Mat: '120', 'NO': '18', Player: SP Narine, Runs: '213',
+    SR: '125.29', Span: 2011-2014}
+  - {'0': '11', '100': '1', 4s: '188', '50': '9', 6s: '44', Ave: '25.23', BF: '1711',
+    HS: 114*, Inns: '89', Mat: '93', 'NO': '11', Player: MK Pandey, Runs: '1968',
+    SR: '115.02', Span: 2007-2014}
+  - {'0': '14', '100': '1', 4s: '236', '50': '14', 6s: '163', Ave: '25.70', BF: '1977',
+    HS: '100', Inns: '143', Mat: '158', 'NO': '28', Player: YK Pathan, Runs: '2956',
+    SR: '149.51', Span: 2007-2014}
+  - {'0': '10', '100': '0', 4s: '202', '50': '8', 6s: '66', Ave: '20.61', BF: '1698',
+    HS: 86*, Inns: '122', Mat: '133', 'NO': '16', Player: Shakib Al Hasan, Runs: '2185',
+    SR: '128.68', Span: 2006-2014}
+  - {'0': '10', '100': '2', 4s: '246', '50': '18', 6s: '183', Ave: '29.21', BF: '3001',
+    HS: 121*, Inns: '178', Mat: '199', 'NO': '37', Player: RN ten Doeschate, Runs: '4119',
+    SR: '137.25', Span: 2003-2014}
+  - {'0': '7', '100': '0', 4s: '324', '50': '17', 6s: '125', Ave: '26.57', BF: '2612',
+    HS: '92', Inns: '144', Mat: '150', 'NO': '16', Player: RV Uthappa, Runs: '3401',
+    SR: '130.20', Span: 2007-2014}
+  - {'0': '4', '100': '0', 4s: '27', '50': '0', 6s: '19', Ave: '12.18', BF: '367',
+    HS: '34', Inns: '58', Mat: '124', 'NO': '21', Player: R Vinay Kumar, Runs: '451',
+    SR: '122.88', Span: 2007-2014}
+  - {'0': '1', '100': '0', 4s: '39', '50': '0', 6s: '8', Ave: '19.90', BF: '320',
+    HS: '38', Inns: '25', Mat: '26', 'NO': '5', Player: SA Yadav, Runs: '398', SR: '124.37',
+    Span: 2010-2014}
+  - {'0': '4', '100': '0', 4s: '4', '50': '0', 6s: '5', Ave: '7.90', BF: '77', HS: '23',
+    Inns: '22', Mat: '67', 'NO': '12', Player: UT Yadav, Runs: '79', SR: '102.59',
+    Span: 2009-2014}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '30', Econ: '-', Inns: '-', Mat: '156',
+    Mdns: '-', Overs: '-', Player: G Gambhir, Runs: '-', SR: '-', Span: 2007-2014,
+    St: '0', Wkts: '-'}
+  - {'4': '2', '5': '0', Ave: '30.69', BBI: 4/15, Ct: '45', Econ: '7.70', Inns: '123',
+    Mat: '142', Mdns: '6', Overs: '378.2', Player: JH Kallis, Runs: '2916', SR: '23.8',
+    Span: 2004-2014, St: '0', Wkts: '95'}
+  - {'4': '7', '5': '1', Ave: '15.89', BBI: 5/19, Ct: '25', Econ: '5.45', Inns: '118',
+    Mat: '120', Mdns: '9', Overs: '457.1', Player: SP Narine, Runs: '2495', SR: '17.4',
+    Span: 2011-2014, St: '0', Wkts: '157'}
+  - {'4': '2', '5': '0', Ave: '21.20', BBI: 4/27, Ct: '50', Econ: '7.57', Inns: '10',
+    Mat: '93', Mdns: '0', Overs: '28.0', Player: MK Pandey, Runs: '212', SR: '16.8',
+    Span: 2007-2014, St: '0', Wkts: '10'}
+  - {'4': '2', '5': '0', Ave: '28.33', BBI: 4/10, Ct: '57', Econ: '7.68', Inns: '110',
+    Mat: '158', Mdns: '1', Overs: '306.0', Player: YK Pathan, Runs: '2352', SR: '22.1',
+    Span: 2007-2014, St: '0', Wkts: '83'}
+  - {'4': '3', '5': '2', Ave: '18.92', BBI: 6/6, Ct: '33', Econ: '6.51', Inns: '133',
+    Mat: '133', Mdns: '6', Overs: '484.5', Player: Shakib Al Hasan, Runs: '3161',
+    SR: '17.4', Span: 2006-2014, St: '0', Wkts: '167'}
+  - {'4': '1', '5': '0', Ave: '25.58', BBI: 4/24, Ct: '72', Econ: '8.04', Inns: '105',
+    Mat: '199', Mdns: '0', Overs: '286.2', Player: RN ten Doeschate, Runs: '2303',
+    SR: '19.0', Span: 2003-2014, St: '0', Wkts: '90'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '74', Econ: '11.00', Inns: '1', Mat: '150',
+    Mdns: '0', Overs: '1.0', Player: RV Uthappa, Runs: '11', SR: '-', Span: 2007-2014,
+    St: '17', Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '24.26', BBI: 4/40, Ct: '36', Econ: '7.87', Inns: '123',
+    Mat: '124', Mdns: '1', Overs: '425.1', Player: R Vinay Kumar, Runs: '3349', SR: '18.4',
+    Span: 2007-2014, St: '0', Wkts: '138'}
+  - {'4': '0', '5': '0', Ave: '18.66', BBI: 2/11, Ct: '12', Econ: '6.22', Inns: '8',
+    Mat: '26', Mdns: '0', Overs: '18.0', Player: SA Yadav, Runs: '112', SR: '18.0',
+    Span: 2010-2014, St: '0', Wkts: '6'}
+  - {'4': '1', '5': '1', Ave: '28.73', BBI: 5/18, Ct: '15', Econ: '7.88', Inns: '65',
+    Mat: '67', Mdns: '5', Overs: '229.3', Player: UT Yadav, Runs: '1810', SR: '21.8',
+    Span: 2009-2014, St: '0', Wkts: '63'}

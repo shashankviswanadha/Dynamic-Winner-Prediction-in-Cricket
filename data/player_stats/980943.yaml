@@ -1,0 +1,137 @@
+RisingPuneSupergiants:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '1.50', BF: '6', HS: 3*,
+    Inns: '3', Mat: '12', 'NO': '1', Player: M Ashwin, Runs: '3', SR: '50.00', Span: 2016-2016}
+  - {'0': '5', '100': '0', 4s: '42', '50': '0', 6s: '8', Ave: '13.15', BF: '399',
+    HS: '46', Inns: '58', Mat: '185', 'NO': '25', Player: R Ashwin, Runs: '434', SR: '108.77',
+    Span: 2007-2016}
+  - {'0': '7', '100': '1', 4s: '77', '50': '1', 6s: '39', Ave: '21.98', BF: '950',
+    HS: 107*, Inns: '84', Mat: '132', 'NO': '33', Player: R Bhatia, Runs: '1121',
+    SR: '118.00', Span: 2007-2016}
+  - {'0': '7', '100': '0', 4s: '335', '50': '17', 6s: '194', Ave: '37.23', BF: '3449',
+    HS: 73*, Inns: '209', Mat: '232', 'NO': '83', Player: MS Dhoni, Runs: '4692',
+    SR: '136.03', Span: 2006-2016}
+  - {'0': '8', '100': '0', 4s: '4', '50': '0', 6s: '0', Ave: '4.56', BF: '108', HS: '22',
+    Inns: '28', Mat: '108', 'NO': '12', Player: AB Dinda, Runs: '73', SR: '67.59',
+    Span: 2008-2016}
+  - {'0': '11', '100': '1', 4s: '316', '50': '20', 6s: '97', Ave: '28.33', BF: '2844',
+    HS: '119', Inns: '142', Mat: '156', 'NO': '16', Player: F du Plessis, Runs: '3570',
+    SR: '125.52', Span: 2007-2016}
+  - {'0': '2', '100': '0', 4s: '64', '50': '5', 6s: '55', Ave: '29.21', BF: '924',
+    HS: 77*, Inns: '52', Mat: '59', 'NO': '14', Player: MR Marsh, Runs: '1110', SR: '120.12',
+    Span: 2009-2016}
+  - {'0': '12', '100': '0', 4s: '136', '50': '2', 6s: '92', Ave: '19.26', BF: '1272',
+    HS: '72', Inns: '132', Mat: '161', 'NO': '38', Player: NLTC Perera, Runs: '1811',
+    SR: '142.37', Span: 2008-2016}
+  - {'0': '12', '100': '1', 4s: '348', '50': '27', 6s: '66', Ave: '30.21', BF: '2892',
+    HS: 103*, Inns: '127', Mat: '133', 'NO': '14', Player: AM Rahane, Runs: '3414',
+    SR: '118.04', Span: 2007-2016}
+  - {'0': '4', '100': '0', 4s: '215', '50': '8', 6s: '53', Ave: '27.84', BF: '2028',
+    HS: '90', Inns: '119', Mat: '138', 'NO': '29', Player: SPD Smith, Runs: '2506',
+    SR: '123.57', Span: 2008-2016}
+  - {'0': '3', '100': '0', 4s: '158', '50': '8', 6s: '81', Ave: '30.92', BF: '1724',
+    HS: '69', Inns: '96', Mat: '111', 'NO': '28', Player: SS Tiwary, Runs: '2103',
+    SR: '121.98', Span: 2007-2016}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '16.29', BBI: 3/18, Ct: '1', Econ: '6.59', Inns: '12',
+    Mat: '12', Mdns: '0', Overs: '42.0', Player: M Ashwin, Runs: '277', SR: '14.8',
+    Span: 2016-2016, St: '0', Wkts: '17'}
+  - {'4': '3', '5': '0', Ave: '23.23', BBI: 4/8, Ct: '40', Econ: '6.70', Inns: '182',
+    Mat: '185', Mdns: '7', Overs: '658.4', Player: R Ashwin, Runs: '4414', SR: '20.8',
+    Span: 2007-2016, St: '0', Wkts: '190'}
+  - {'4': '1', '5': '0', Ave: '26.89', BBI: 4/15, Ct: '38', Econ: '7.13', Inns: '124',
+    Mat: '132', Mdns: '1', Overs: '377.0', Player: R Bhatia, Runs: '2689', SR: '22.6',
+    Span: 2007-2016, St: '0', Wkts: '100'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '117', Econ: '12.50', Inns: '1',
+    Mat: '232', Mdns: '0', Overs: '2.0', Player: MS Dhoni, Runs: '25', SR: '-', Span: 2006-2016,
+    St: '56', Wkts: '0'}
+  - {'4': '3', '5': '0', Ave: '24.91', BBI: 4/13, Ct: '18', Econ: '7.59', Inns: '105',
+    Mat: '108', Mdns: '3', Overs: '357.4', Player: AB Dinda, Runs: '2716', SR: '19.6',
+    Span: 2008-2016, St: '0', Wkts: '109'}
+  - {'4': '1', '5': '2', Ave: '18.34', BBI: 5/19, Ct: '69', Econ: '6.96', Inns: '52',
+    Mat: '156', Mdns: '0', Overs: '131.4', Player: F du Plessis, Runs: '917', SR: '15.8',
+    Span: 2007-2016, St: '0', Wkts: '50'}
+  - {'4': '2', '5': '0', Ave: '25.48', BBI: 4/6, Ct: '22', Econ: '8.14', Inns: '45',
+    Mat: '59', Mdns: '1', Overs: '115.5', Player: MR Marsh, Runs: '943', SR: '18.7',
+    Span: 2009-2016, St: '0', Wkts: '37'}
+  - {'4': '0', '5': '1', Ave: '24.48', BBI: 5/26, Ct: '62', Econ: '8.20', Inns: '149',
+    Mat: '161', Mdns: '4', Overs: '435.4', Player: NLTC Perera, Runs: '3575', SR: '17.9',
+    Span: 2008-2016, St: '0', Wkts: '146'}
+  - {'4': '0', '5': '0', Ave: '5.00', BBI: 1/5, Ct: '57', Econ: '5.00', Inns: '1',
+    Mat: '133', Mdns: '0', Overs: '1.0', Player: AM Rahane, Runs: '5', SR: '6.0',
+    Span: 2007-2016, St: '0', Wkts: '1'}
+  - {'4': '2', '5': '0', Ave: '19.45', BBI: 4/13, Ct: '80', Econ: '7.58', Inns: '48',
+    Mat: '138', Mdns: '1', Overs: '130.5', Player: SPD Smith, Runs: '992', SR: '15.3',
+    Span: 2008-2016, St: '0', Wkts: '51'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '41', Econ: '-', Inns: '-', Mat: '111',
+    Mdns: '-', Overs: '-', Player: SS Tiwary, Runs: '-', SR: '-', Span: 2007-2016,
+    St: '0', Wkts: '-'}
+SunrisersHyderabad:
+- batting averages:
+  - {'0': '6', '100': '0', 4s: '48', '50': '2', 6s: '26', Ave: '21.30', BF: '509',
+    HS: 79*, Inns: '50', Mat: '68', 'NO': '17', Player: Bipul Sharma, Runs: '703',
+    SR: '138.11', Span: 2007-2016}
+  - {'0': '5', '100': '0', 4s: '450', '50': '30', 6s: '82', Ave: '30.29', BF: '3330',
+    HS: 95*, Inns: '148', Mat: '149', 'NO': '17', Player: S Dhawan, Runs: '3968',
+    SR: '119.15', Span: 2007-2016}
+  - {'0': '6', '100': '0', 4s: '175', '50': '8', 6s: '59', Ave: '25.42', BF: '1753',
+    HS: '77', Inns: '108', Mat: '123', 'NO': '23', Player: MC Henriques, Runs: '2161',
+    SR: '123.27', Span: 2006-2016}
+  - {'0': '3', '100': '0', 4s: '27', '50': '2', 6s: '18', Ave: '16.00', BF: '317',
+    HS: '54', Inns: '32', Mat: '42', 'NO': '6', Player: DJ Hooda, Runs: '416', SR: '131.23',
+    Span: 2013-2016}
+  - {'0': '3', '100': '0', 4s: '16', '50': '0', 6s: '4', Ave: '10.77', BF: '194',
+    HS: 24*, Inns: '35', Mat: '89', 'NO': '17', Player: B Kumar, Runs: '194', SR: '100.00',
+    Span: 2009-2016}
+  - {'0': '9', '100': '0', 4s: '326', '50': '18', 6s: '161', Ave: '26.31', BF: '3074',
+    HS: 85*, Inns: '177', Mat: '189', 'NO': '26', Player: EJG Morgan, Runs: '3974',
+    SR: '129.27', Span: 2006-2016}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '2.25', BF: '13', HS: '6',
+    Inns: '6', Mat: '29', 'NO': '2', Player: Mustafizur Rahman, Runs: '9', SR: '69.23',
+    Span: 2015-2016}
+  - {'0': '9', '100': '0', 4s: '4', '50': '0', 6s: '3', Ave: '5.23', BF: '101', HS: 22*,
+    Inns: '25', Mat: '114', 'NO': '12', Player: A Nehra, Runs: '68', SR: '67.32',
+    Span: 2008-2016}
+  - {'0': '12', '100': '0', 4s: '197', '50': '10', 6s: '113', Ave: '21.12', BF: '1828',
+    HS: 94*, Inns: '121', Mat: '130', 'NO': '17', Player: NV Ojha, Runs: '2197', SR: '120.18',
+    Span: 2007-2016}
+  - {'0': '3', '100': '0', 4s: '137', '50': '6', 6s: '37', Ave: '26.62', BF: '1004',
+    HS: '71', Inns: '57', Mat: '65', 'NO': '9', Player: AP Tare, Runs: '1278', SR: '127.29',
+    Span: 2009-2016}
+  - {'0': '15', '100': '5', 4s: '625', '50': '49', 6s: '269', Ave: '33.76', BF: '4398',
+    HS: 135*, Inns: '208', Mat: '209', 'NO': '21', Player: DA Warner, Runs: '6314',
+    SR: '143.56', Span: 2007-2016}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '20.74', BBI: 4/28, Ct: '25', Econ: '6.49', Inns: '56',
+    Mat: '68', Mdns: '0', Overs: '175.4', Player: Bipul Sharma, Runs: '1141', SR: '19.1',
+    Span: 2007-2016, St: '0', Wkts: '55'}
+  - {'4': '0', '5': '0', Ave: '16.50', BBI: 1/7, Ct: '56', Econ: '8.25', Inns: '6',
+    Mat: '149', Mdns: '0', Overs: '8.0', Player: S Dhawan, Runs: '66', SR: '12.0',
+    Span: 2007-2016, St: '0', Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '27.39', BBI: 3/11, Ct: '55', Econ: '8.11', Inns: '106',
+    Mat: '123', Mdns: '0', Overs: '307.2', Player: MC Henriques, Runs: '2493', SR: '20.2',
+    Span: 2006-2016, St: '0', Wkts: '91'}
+  - {'4': '0', '5': '0', Ave: '61.60', BBI: 3/23, Ct: '16', Econ: '7.66', Inns: '16',
+    Mat: '42', Mdns: '0', Overs: '40.1', Player: DJ Hooda, Runs: '308', SR: '48.2',
+    Span: 2013-2016, St: '0', Wkts: '5'}
+  - {'4': '2', '5': '0', Ave: '24.06', BBI: 4/14, Ct: '18', Econ: '6.98', Inns: '89',
+    Mat: '89', Mdns: '6', Overs: '320.3', Player: B Kumar, Runs: '2238', SR: '20.6',
+    Span: 2009-2016, St: '0', Wkts: '93'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '87', Econ: '-', Inns: '-', Mat: '189',
+    Mdns: '-', Overs: '-', Player: EJG Morgan, Runs: '-', SR: '-', Span: 2006-2016,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '1', Ave: '15.27', BBI: 5/22, Ct: '7', Econ: '5.92', Inns: '29',
+    Mat: '29', Mdns: '2', Overs: '110.5', Player: Mustafizur Rahman, Runs: '657',
+    SR: '15.4', Span: 2015-2016, St: '0', Wkts: '43'}
+  - {'4': '2', '5': '0', Ave: '22.65', BBI: 4/10, Ct: '24', Econ: '7.62', Inns: '114',
+    Mat: '114', Mdns: '2', Overs: '410.1', Player: A Nehra, Runs: '3126', SR: '17.8',
+    Span: 2008-2016, St: '0', Wkts: '138'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '80', Econ: '-', Inns: '-', Mat: '130',
+    Mdns: '-', Overs: '-', Player: NV Ojha, Runs: '-', SR: '-', Span: 2007-2016, St: '20',
+    Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '17', Econ: '-', Inns: '-', Mat: '65',
+    Mdns: '-', Overs: '-', Player: AP Tare, Runs: '-', SR: '-', Span: 2009-2016, St: '15',
+    Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '92', Econ: '13.00', Inns: '1', Mat: '209',
+    Mdns: '0', Overs: '1.0', Player: DA Warner, Runs: '13', SR: '-', Span: 2007-2016,
+    St: '0', Wkts: '0'}

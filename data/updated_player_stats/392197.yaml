@@ -1,0 +1,111 @@
+Kolkata Knight Riders:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '0', HS: '0',
+    Inns: '0', Mat: '1', 'NO': '0', Player: Anureet Singh, Runs: '0', SR: '0', Span: 2009-2009}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '2.0', BF: '6', HS: '2',
+    Inns: '4', Mat: '15', 'NO': '2', Player: AB Dinda, Runs: '4', SR: '66.67', Span: 2008-2009}
+  - {'0': '1', '100': '0', 4s: '84', '50': '4', 6s: '26', Ave: '25.77', BF: '699',
+    HS: '91', Inns: '32', Mat: '34', 'NO': '2', Player: SC Ganguly, Runs: '773', SR: '110.59',
+    Span: 2005-2009}
+  - {'0': '2', '100': '1', 4s: '47', '50': '3', 6s: '34', Ave: '36.67', BF: '416',
+    HS: '117', Inns: '19', Mat: '20', 'NO': '4', Player: CH Gayle, Runs: '550', SR: '132.21',
+    Span: 2005-2009}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '0', HS: '-1',
+    Inns: '0', Mat: '1', 'NO': '0', Player: AN Ghosh, Runs: '0', SR: '0', Span: 2007-2009}
+  - {'0': '0', '100': '1', 4s: '219', '50': '14', 6s: '46', Ave: '41.02', BF: '1472',
+    HS: '106', Inns: '56', Mat: '59', 'NO': '8', Player: BJ Hodge, Runs: '1969', SR: '133.76',
+    Span: 2003-2009}
+  - {'0': '0', '100': '1', 4s: '119', '50': '7', 6s: '62', Ave: '31.75', BF: '863',
+    HS: '158', Inns: '46', Mat: '46', 'NO': '6', Player: BB McCullum, Runs: '1270',
+    SR: '147.16', Span: 2005-2009}
+  - {'0': '3', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '4.0', BF: '25', HS: '9',
+    Inns: '7', Mat: '17', 'NO': '3', Player: BAW Mendis, Runs: '16', SR: '64.0', Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '8.0', BF: '27', HS: '9',
+    Inns: '10', Mat: '23', 'NO': '7', Player: I Sharma, Runs: '24', SR: '88.89', Span: 2007-2009}
+  - {'0': '1', '100': '0', 4s: '29', '50': '1', 6s: '11', Ave: '25.5', BF: '273',
+    HS: '76', Inns: '21', Mat: '23', 'NO': '7', Player: LR Shukla, Runs: '357', SR: '130.77',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '13', '50': '0', 6s: '1', Ave: '20.4', BF: '83', HS: '34',
+    Inns: '5', Mat: '6', 'NO': '0', Player: Yashpal Singh, Runs: '102', SR: '122.89',
+    Span: 2007-2009}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '17.5', Econ: '8.75', Inns: '1', Mat: '1', Overs: '4.0',
+    Player: Anureet Singh, Runs: '35', SR: '12.0', Span: 2009-2009, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '28.91', Econ: '6.91', Inns: '14', Mat: '15', Overs: '46.0',
+    Player: AB Dinda, Runs: '318', SR: '25.09', Span: 2008-2009, Wkts: '11'}
+  - {'4': '0', '5': '0', Ave: '21.33', Econ: '7.02', Inns: '27', Mat: '34', Overs: '77.3',
+    Player: SC Ganguly, Runs: '576', SR: '17.22', Span: 2005-2009, Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '18.75', Econ: '5.88', Inns: '16', Mat: '20', Overs: '46.3',
+    Player: CH Gayle, Runs: '300', SR: '17.44', Span: 2005-2009, Wkts: '16'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '1', Overs: '0.0', Player: AN
+      Ghosh, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '20.96', Econ: '7.51', Inns: '26', Mat: '59', Overs: '67.0',
+    Player: BJ Hodge, Runs: '503', SR: '16.75', Span: 2003-2009, Wkts: '24'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '46', Overs: '0.0',
+    Player: BB McCullum, Runs: '0', SR: '0', Span: 2005-2009, Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '11.82', Econ: '5.04', Inns: '17', Mat: '17', Overs: '59.4',
+    Player: BAW Mendis, Runs: '331', SR: '12.79', Span: 2007-2009, Wkts: '28'}
+  - {'4': '0', '5': '0', Ave: '42.69', Econ: '6.85', Inns: '23', Mat: '23', Overs: '76.3',
+    Player: I Sharma, Runs: '555', SR: '35.31', Span: 2007-2009, Wkts: '13'}
+  - {'4': '0', '5': '0', Ave: '20.5', Econ: '8.7', Inns: '17', Mat: '23', Overs: '33.0',
+    Player: LR Shukla, Runs: '287', SR: '14.14', Span: 2007-2009, Wkts: '14'}
+  - {'4': '0', '5': '0', Ave: '18.75', Econ: '7.03', Inns: '3', Mat: '6', Overs: '9.1',
+    Player: Yashpal Singh, Runs: '75', SR: '13.75', Span: 2007-2009, Wkts: '4'}
+Mumbai Indians:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '36', '50': '2', 6s: '14', Ave: '24.94', BF: '296',
+    HS: '64', Inns: '22', Mat: '25', 'NO': '6', Player: DJ Bravo, Runs: '399', SR: '134.8',
+    Span: 2006-2009}
+  - {'0': '1', '100': '0', 4s: '49', '50': '4', 6s: '8', Ave: '28.81', BF: '415',
+    HS: '68', Inns: '21', Mat: '21', 'NO': '5', Player: S Dhawan, Runs: '461', SR: '111.08',
+    Span: 2007-2009}
+  - {'0': '4', '100': '0', 4s: '105', '50': '7', 6s: '27', Ave: '31.06', BF: '915',
+    HS: '93', Inns: '41', Mat: '43', 'NO': '6', Player: JP Duminy, Runs: '1087', SR: '118.8',
+    Span: 2004-2009}
+  - {'0': '1', '100': '0', 4s: '11', '50': '0', 6s: '10', Ave: '12.85', BF: '125',
+    HS: '31', Inns: '16', Mat: '30', 'NO': '3', Player: Harbhajan Singh, Runs: '167',
+    SR: '133.6', Span: 2005-2009}
+  - {'0': '4', '100': '1', 4s: '131', '50': '5', 6s: '60', Ave: '29.36', BF: '725',
+    HS: '114', Inns: '43', Mat: '43', 'NO': '4', Player: ST Jayasuriya, Runs: '1145',
+    SR: '157.93', Span: 2004-2009}
+  - {'0': '1', '100': '0', 4s: '10', '50': '0', 6s: '0', Ave: '10.67', BF: '108',
+    HS: '26', Inns: '17', Mat: '26', 'NO': '8', Player: Z Khan, Runs: '96', SR: '88.89',
+    Span: 2006-2009}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '3', Ave: '11.4', BF: '54', HS: '27',
+    Inns: '7', Mat: '22', 'NO': '2', Player: SL Malinga, Runs: '57', SR: '105.56',
+    Span: 2004-2009}
+  - {'0': '0', '100': '0', 4s: '18', '50': '0', 6s: '13', Ave: '25.1', BF: '158',
+    HS: '45', Inns: '12', Mat: '17', 'NO': '2', Player: AM Nayar, Runs: '251', SR: '158.86',
+    Span: 2007-2009}
+  - {'0': '1', '100': '0', 4s: '17', '50': '1', 6s: '1', Ave: '20.14', BF: '108',
+    HS: '71', Inns: '10', Mat: '11', 'NO': '3', Player: PR Shah, Runs: '141', SR: '130.56',
+    Span: 2007-2009}
+  - {'0': '1', '100': '0', 4s: '66', '50': '4', 6s: '9', Ave: '40.08', BF: '372',
+    HS: '69', Inns: '14', Mat: '14', 'NO': '2', Player: SR Tendulkar, Runs: '481',
+    SR: '129.3', Span: 2006-2009}
+  - {'0': '0', '100': '0', 4s: '19', '50': '2', 6s: '9', Ave: '27.0', BF: '102', HS: '69',
+    Inns: '6', Mat: '7', 'NO': '0', Player: SS Tiwary, Runs: '162', SR: '158.82',
+    Span: 2007-2009}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '25.62', Econ: '7.4', Inns: '22', Mat: '25', Overs: '66.4',
+    Player: DJ Bravo, Runs: '538', SR: '19.05', Span: 2006-2009, Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '21', Overs: '0.0',
+    Player: S Dhawan, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '20.78', Econ: '7.79', Inns: '13', Mat: '43', Overs: '24.0',
+    Player: JP Duminy, Runs: '187', SR: '16.0', Span: 2004-2009, Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '24.19', Econ: '6.55', Inns: '28', Mat: '30', Overs: '96.0',
+    Player: Harbhajan Singh, Runs: '629', SR: '22.15', Span: 2005-2009, Wkts: '26'}
+  - {'4': '1', '5': '0', Ave: '19.97', Econ: '7.49', Inns: '32', Mat: '43', Overs: '98.2',
+    Player: ST Jayasuriya, Runs: '759', SR: '15.53', Span: 2004-2009, Wkts: '38'}
+  - {'4': '0', '5': '0', Ave: '32.17', Econ: '7.72', Inns: '26', Mat: '26', Overs: '100.0',
+    Player: Z Khan, Runs: '772', SR: '25.0', Span: 2006-2009, Wkts: '24'}
+  - {'4': '0', '5': '0', Ave: '18.74', Econ: '6.53', Inns: '20', Mat: '22', Overs: '66.0',
+    Player: SL Malinga, Runs: '431', SR: '17.22', Span: 2004-2009, Wkts: '23'}
+  - {'4': '0', '5': '0', Ave: '43.0', Econ: '9.56', Inns: '6', Mat: '17', Overs: '9.0',
+    Player: AM Nayar, Runs: '86', SR: '27.0', Span: 2007-2009, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '11', Overs: '0.0',
+    Player: PR Shah, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '32.5', Econ: '4.64', Inns: '4', Mat: '14', Overs: '9.3',
+    Player: SR Tendulkar, Runs: '65', SR: '28.5', Span: 2006-2009, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '7', Overs: '0.0', Player: SS
+      Tiwary, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}

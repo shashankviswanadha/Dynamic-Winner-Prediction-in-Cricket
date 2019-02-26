@@ -1,0 +1,111 @@
+Rajasthan Royals:
+- batting averages:
+  - {'0': '5', '100': '1', 4s: '66', '50': '1', 6s: '36', Ave: '22.45', BF: '827',
+    HS: '107', Inns: '73', Mat: '116', 'NO': '29', Player: R Bhatia, Runs: '988',
+    SR: '119.47', Span: 2007-2014}
+  - {'0': '3', '100': '0', 4s: '66', '50': '0', 6s: '32', Ave: '22.53', BF: '648',
+    HS: '49', Inns: '54', Mat: '67', 'NO': '16', Player: STR Binny, Runs: '856', SR: '132.1',
+    Span: 2009-2014}
+  - {'0': '1', '100': '0', 4s: '20', '50': '0', 6s: '9', Ave: '14.04', BF: '303',
+    HS: '-1', Inns: '45', Mat: '70', 'NO': '21', Player: JP Faulkner, Runs: '337',
+    SR: '111.22', Span: 2009-2014}
+  - {'0': '1', '100': '0', 4s: '31', '50': '2', 6s: '11', Ave: '24.0', BF: '302',
+    HS: '73', Inns: '19', Mat: '21', 'NO': '4', Player: KK Nair, Runs: '360', SR: '119.21',
+    Span: 2013-2014}
+  - {'0': '9', '100': '1', 4s: '247', '50': '19', 6s: '45', Ave: '27.91', BF: '2077',
+    HS: '103', Inns: '96', Mat: '100', 'NO': '10', Player: AM Rahane, Runs: '2400',
+    SR: '115.55', Span: 2007-2014}
+  - {'0': '3', '100': '0', 4s: '9', '50': '0', 6s: '3', Ave: '10.0', BF: '108', HS: '26',
+    Inns: '14', Mat: '36', 'NO': '3', Player: KW Richardson, Runs: '110', SR: '101.85',
+    Span: 2009-2014}
+  - {'0': '3', '100': '0', 4s: '74', '50': '6', 6s: '31', Ave: '23.81', BF: '724',
+    HS: '68', Inns: '41', Mat: '43', 'NO': '5', Player: SV Samson, Runs: '857', SR: '118.37',
+    Span: 2011-2014}
+  - {'0': '3', '100': '0', 4s: '140', '50': '4', 6s: '38', Ave: '27.17', BF: '1479',
+    HS: '65', Inns: '90', Mat: '105', 'NO': '25', Player: SPD Smith, Runs: '1766',
+    SR: '119.41', Span: 2008-2014}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '11.0', BF: '31', HS: '14',
+    Inns: '6', Mat: '20', 'NO': '4', Player: PV Tambe, Runs: '22', SR: '70.97', Span: 2013-2014}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '0', HS: '0',
+    Inns: '0', Mat: '1', 'NO': '0', Player: R Tewatia, Runs: '0', SR: '0', Span: 2014-2014}
+  - {'0': '7', '100': '1', 4s: '328', '50': '25', 6s: '183', Ave: '31.62', BF: '2526',
+    HS: '101', Inns: '130', Mat: '135', 'NO': '16', Player: SR Watson, Runs: '3605',
+    SR: '142.72', Span: 2004-2014}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '25.56', Econ: '7.18', Inns: '108', Mat: '116', Overs: '324.0',
+    Player: R Bhatia, Runs: '2326', SR: '21.36', Span: 2007-2014, Wkts: '91'}
+  - {'4': '1', '5': '0', Ave: '22.95', Econ: '7.19', Inns: '55', Mat: '67', Overs: '118.0',
+    Player: STR Binny, Runs: '849', SR: '19.14', Span: 2009-2014, Wkts: '37'}
+  - {'4': '1', '5': '2', Ave: '21.8', Econ: '7.24', Inns: '70', Mat: '70', Overs: '254.3',
+    Player: JP Faulkner, Runs: '1875', SR: '17.76', Span: 2009-2014, Wkts: '86'}
+  - {'4': '0', '5': '0', Ave: '19.0', Econ: '7.6', Inns: '4', Mat: '21', Overs: '5.0',
+    Player: KK Nair, Runs: '38', SR: '15.0', Span: 2013-2014, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '100', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2014, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '25.83', Econ: '7.14', Inns: '34', Mat: '36', Overs: '122.5',
+    Player: KW Richardson, Runs: '930', SR: '20.47', Span: 2009-2014, Wkts: '36'}
+  - {'4': '0', '5': '0', Ave: '4.0', Econ: '0.8', Inns: '1', Mat: '43', Overs: '0.3',
+    Player: SV Samson, Runs: '4', SR: '3.0', Span: 2011-2014, Wkts: '1'}
+  - {'4': '2', '5': '0', Ave: '19.37', Econ: '7.19', Inns: '47', Mat: '105', Overs: '129.5',
+    Player: SPD Smith, Runs: '988', SR: '15.27', Span: 2008-2014, Wkts: '51'}
+  - {'4': '2', '5': '0', Ave: '16.03', Econ: '6.12', Inns: '20', Mat: '20', Overs: '76.0',
+    Player: PV Tambe, Runs: '465', SR: '15.72', Span: 2013-2014, Wkts: '29'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '9.0', Inns: '1', Mat: '1', Overs: '2.0',
+    Player: R Tewatia, Runs: '18', SR: '0', Span: 2014-2014, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '23.6', Econ: '7.14', Inns: '112', Mat: '135', Overs: '372.5',
+    Player: SR Watson, Runs: '2714', SR: '19.45', Span: 2004-2014, Wkts: '115'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '4', '50': '0', 6s: '1', Ave: '12.75', BF: '56', HS: '17',
+    Inns: '10', Mat: '27', 'NO': '6', Player: VR Aaron, Runs: '51', SR: '91.07', Span: 2009-2014}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '9.0', BF: '32', HS: '10',
+    Inns: '9', Mat: '35', 'NO': '6', Player: YS Chahal, Runs: '27', SR: '84.38', Span: 2009-2014}
+  - {'0': '10', '100': '1', 4s: '271', '50': '20', 6s: '127', Ave: '30.04', BF: '2541',
+    HS: '105', Inns: '145', Mat: '158', 'NO': '31', Player: AB de Villiers, Runs: '3424',
+    SR: '134.75', Span: 2004-2014}
+  - {'0': '7', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '3.58', BF: '70', HS: '19',
+    Inns: '22', Mat: '93', 'NO': '10', Player: AB Dinda, Runs: '43', SR: '61.43',
+    Span: 2008-2014}
+  - {'0': '10', '100': '11', 4s: '473', '50': '39', 6s: '430', Ave: '42.52', BF: '4062',
+    HS: '175', Inns: '165', Mat: '168', 'NO': '22', Player: CH Gayle, Runs: '6081',
+    SR: '149.7', Span: 2005-2014}
+  - {'0': '5', '100': '0', 4s: '396', '50': '26', 6s: '115', Ave: '34.3', BF: '3133',
+    HS: '99', Inns: '139', Mat: '150', 'NO': '22', Player: V Kohli, Runs: '4013',
+    SR: '128.09', Span: 2007-2014}
+  - {'0': '12', '100': '0', 4s: '214', '50': '8', 6s: '198', Ave: '24.7', BF: '2472',
+    HS: '71', Inns: '213', Mat: '266', 'NO': '75', Player: JA Morkel, Runs: '3409',
+    SR: '137.9', Span: 2004-2014}
+  - {'0': '9', '100': '0', 4s: '275', '50': '9', 6s: '36', Ave: '21.07', BF: '1932',
+    HS: '82', Inns: '112', Mat: '115', 'NO': '8', Player: PA Patel, Runs: '2191',
+    SR: '113.41', Span: 2005-2014}
+  - {'0': '1', '100': '0', 4s: '8', '50': '0', 6s: '0', Ave: '7.5', BF: '108', HS: '29',
+    Inns: '19', Mat: '60', 'NO': '7', Player: MA Starc, Runs: '90', SR: '83.33', Span: 2009-2014}
+  - {'0': '3', '100': '0', 4s: '227', '50': '17', 6s: '165', Ave: '26.5', BF: '2273',
+    HS: '-1', Inns: '129', Mat: '134', 'NO': '16', Player: Yuvraj Singh, Runs: '2994',
+    SR: '131.72', Span: 2003-2014}
+  - {'0': '2', '100': '1', 4s: '27', '50': '1', 6s: '8', Ave: '31.38', BF: '193',
+    HS: '109', Inns: '8', Mat: '8', 'NO': '0', Player: VH Zol, Runs: '251', SR: '130.05',
+    Span: 2013-2014}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '26.21', Econ: '6.9', Inns: '26', Mat: '27', Overs: '98.5',
+    Player: VR Aaron, Runs: '734', SR: '21.18', Span: 2009-2014, Wkts: '28'}
+  - {'4': '0', '5': '0', Ave: '21.86', Econ: '5.47', Inns: '34', Mat: '35', Overs: '111.3',
+    Player: YS Chahal, Runs: '634', SR: '23.07', Span: 2009-2014, Wkts: '29'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '158', Overs: '0.0',
+    Player: AB de Villiers, Runs: '0', SR: '0', Span: 2004-2014, Wkts: '0'}
+  - {'4': '3', '5': '0', Ave: '22.84', Econ: '7.41', Inns: '90', Mat: '93', Overs: '308.2',
+    Player: AB Dinda, Runs: '2307', SR: '18.32', Span: 2008-2014, Wkts: '101'}
+  - {'4': '1', '5': '0', Ave: '31.1', Econ: '7.5', Inns: '108', Mat: '168', Overs: '278.0',
+    Player: CH Gayle, Runs: '2084', SR: '24.9', Span: 2005-2014, Wkts: '67'}
+  - {'4': '0', '5': '0', Ave: '89.0', Econ: '8.77', Inns: '40', Mat: '150', Overs: '71.0',
+    Player: V Kohli, Runs: '623', SR: '60.86', Span: 2007-2014, Wkts: '7'}
+  - {'4': '3', '5': '0', Ave: '27.08', Econ: '7.68', Inns: '241', Mat: '266', Overs: '725.5',
+    Player: JA Morkel, Runs: '5633', SR: '20.94', Span: 2004-2014, Wkts: '208'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '115', Overs: '0.0',
+    Player: PA Patel, Runs: '0', SR: '0', Span: 2005-2014, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '16.65', Econ: '7.05', Inns: '60', Mat: '60', Overs: '221.2',
+    Player: MA Starc, Runs: '1582', SR: '13.98', Span: 2009-2014, Wkts: '95'}
+  - {'4': '1', '5': '0', Ave: '21.49', Econ: '6.88', Inns: '87', Mat: '134', Overs: '190.4',
+    Player: Yuvraj Singh, Runs: '1354', SR: '18.16', Span: 2003-2014, Wkts: '63'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '8', Overs: '0.0', Player: VH
+      Zol, Runs: '0', SR: '0', Span: 2013-2014, Wkts: '0'}

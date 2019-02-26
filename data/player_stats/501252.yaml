@@ -1,0 +1,135 @@
+RajasthanRoyals:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '52', '50': '1', 6s: '13', Ave: '21.53', BF: '603',
+    HS: 67*, Inns: '56', Mat: '77', 'NO': '24', Player: J Botha, Runs: '689', SR: '114.26',
+    Span: 2004-2011}
+  - {'0': '4', '100': '0', 4s: '168', '50': '7', 6s: '22', Ave: '28.57', BF: '1267',
+    HS: 75*, Inns: '57', Mat: '64', 'NO': '5', Player: R Dravid, Runs: '1486', SR: '117.28',
+    Span: 2007-2011}
+  - {'0': '0', '100': '0', 4s: '7', '50': '0', 6s: '9', Ave: '18.62', BF: '124', HS: '34',
+    Inns: '9', Mat: '11', 'NO': '1', Player: AL Menaria, Runs: '149', SR: '120.16',
+    Span: 2011-2011}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '5.75', BF: '22', HS: '10',
+    Inns: '7', Mat: '15', 'NO': '3', Player: Pankaj Singh, Runs: '23', SR: '104.54',
+    Span: 2007-2011}
+  - {'0': '5', '100': '0', 4s: '47', '50': '4', 6s: '7', Ave: '16.31', BF: '445',
+    HS: 62*, Inns: '32', Mat: '35', 'NO': '3', Player: AM Rahane, Runs: '473', SR: '106.29',
+    Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '17', '50': '0', 6s: '8', Ave: '21.54', BF: '198',
+    HS: '43', Inns: '18', Mat: '27', 'NO': '7', Player: AS Raut, Runs: '237', SR: '119.69',
+    Span: 2009-2011}
+  - {'0': '5', '100': '1', 4s: '205', '50': '14', 6s: '164', Ave: '33.19', BF: '1895',
+    HS: 111*, Inns: '107', Mat: '113', 'NO': '23', Player: LRPL Taylor, Runs: '2788',
+    SR: '147.12', Span: 2006-2011}
+  - {'0': '2', '100': '0', 4s: '5', '50': '0', 6s: '1', Ave: '6.30', BF: '63', HS: '12',
+    Inns: '19', Mat: '59', 'NO': '9', Player: SK Trivedi, Runs: '63', SR: '100.00',
+    Span: 2007-2011}
+  - {'0': '8', '100': '0', 4s: '15', '50': '0', 6s: '7', Ave: '9.90', BF: '219', HS: 34*,
+    Inns: '30', Mat: '56', 'NO': '9', Player: SK Warne, Runs: '208', SR: '94.97',
+    Span: 2004-2011}
+  - {'0': '6', '100': '0', 4s: '144', '50': '13', 6s: '74', Ave: '30.88', BF: '1113',
+    HS: 97*, Inns: '61', Mat: '64', 'NO': '9', Player: SR Watson, Runs: '1606', SR: '144.29',
+    Span: 2004-2011}
+  - {'0': '0', '100': '0', 4s: '28', '50': '2', 6s: '9', Ave: '33.71', BF: '177',
+    HS: '70', Inns: '10', Mat: '13', 'NO': '3', Player: DH Yagnik, Runs: '236', SR: '133.33',
+    Span: 2007-2011}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '23.98', BBI: 4/19, Ct: '37', Econ: '6.06', Inns: '74',
+    Mat: '77', Mdns: '2', Overs: '277.0', Player: J Botha, Runs: '1679', SR: '23.7',
+    Span: 2004-2011, St: '0', Wkts: '70'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '13', Econ: '-', Inns: '-', Mat: '64',
+    Mdns: '-', Overs: '-', Player: R Dravid, Runs: '-', SR: '-', Span: 2007-2011,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '54.50', BBI: 2/20, Ct: '2', Econ: '7.78', Inns: '8',
+    Mat: '11', Mdns: '0', Overs: '14.0', Player: AL Menaria, Runs: '109', SR: '42.0',
+    Span: 2011-2011, St: '0', Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '53.37', BBI: 2/27, Ct: '4', Econ: '9.70', Inns: '15',
+    Mat: '15', Mdns: '3', Overs: '44.0', Player: Pankaj Singh, Runs: '427', SR: '33.0',
+    Span: 2007-2011, St: '0', Wkts: '8'}
+  - {'4': '0', '5': '0', Ave: '5.00', BBI: 1/5, Ct: '8', Econ: '5.00', Inns: '1',
+    Mat: '35', Mdns: '0', Overs: '1.0', Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2011,
+    St: '0', Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '42.00', BBI: 1/18, Ct: '9', Econ: '8.40', Inns: '7',
+    Mat: '27', Mdns: '0', Overs: '10.0', Player: AS Raut, Runs: '84', SR: '30.0',
+    Span: 2009-2011, St: '0', Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '35.00', BBI: 3/28, Ct: '55', Econ: '9.03', Inns: '15',
+    Mat: '113', Mdns: '0', Overs: '31.0', Player: LRPL Taylor, Runs: '280', SR: '23.2',
+    Span: 2006-2011, St: '0', Wkts: '8'}
+  - {'4': '2', '5': '0', Ave: '25.43', BBI: 4/29, Ct: '12', Econ: '7.92', Inns: '58',
+    Mat: '59', Mdns: '1', Overs: '192.4', Player: SK Trivedi, Runs: '1526', SR: '19.2',
+    Span: 2007-2011, St: '0', Wkts: '60'}
+  - {'4': '1', '5': '0', Ave: '25.72', BBI: 4/21, Ct: '16', Econ: '7.20', Inns: '56',
+    Mat: '56', Mdns: '1', Overs: '207.0', Player: SK Warne, Runs: '1492', SR: '21.4',
+    Span: 2004-2011, St: '0', Wkts: '58'}
+  - {'4': '1', '5': '0', Ave: '25.48', BBI: 4/15, Ct: '21', Econ: '7.29', Inns: '53',
+    Mat: '64', Mdns: '1', Overs: '181.4', Player: SR Watson, Runs: '1325', SR: '20.9',
+    Span: 2004-2011, St: '0', Wkts: '52'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '4', Econ: '-', Inns: '-', Mat: '13',
+    Mdns: '-', Overs: '-', Player: DH Yagnik, Runs: '-', SR: '-', Span: 2007-2011,
+    St: '4', Wkts: '-'}
+RoyalChallengersBangalore:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '-', BF: '12', HS: 4*,
+    Inns: '3', Mat: '21', 'NO': '3', Player: S Aravind, Runs: '8', SR: '66.66', Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '19', '50': '1', 6s: '6', Ave: '29.42', BF: '163',
+    HS: '58', Inns: '10', Mat: '11', 'NO': '3', Player: KB Arun Karthik, Runs: '206',
+    SR: '126.38', Span: 2009-2011}
+  - {'0': '7', '100': '1', 4s: '137', '50': '11', 6s: '59', Ave: '29.73', BF: '1436',
+    HS: 105*, Inns: '75', Mat: '82', 'NO': '14', Player: AB de Villiers, Runs: '1814',
+    SR: '126.32', Span: 2004-2011}
+  - {'0': '9', '100': '0', 4s: '222', '50': '13', 6s: '40', Ave: '25.31', BF: '1556',
+    HS: 96*, Inns: '85', Mat: '88', 'NO': '11', Player: TM Dilshan, Runs: '1873',
+    SR: '120.37', Span: 2004-2011}
+  - {'0': '5', '100': '3', 4s: '186', '50': '11', 6s: '117', Ave: '35.87', BF: '1302',
+    HS: '117', Inns: '61', Mat: '62', 'NO': '7', Player: CH Gayle, Runs: '1937', SR: '148.77',
+    Span: 2005-2011}
+  - {'0': '2', '100': '0', 4s: '68', '50': '4', 6s: '11', Ave: '21.53', BF: '591',
+    HS: '68', Inns: '36', Mat: '41', 'NO': '6', Player: M Kaif, Runs: '646', SR: '109.30',
+    Span: 2003-2011}
+  - {'0': '-', '100': '-', 4s: '-', '50': '-', 6s: '-', Ave: '-', BF: '-', HS: '-',
+    Inns: '-', Mat: '1', 'NO': '-', Player: AA Kazi, Runs: '-', SR: '-', Span: 2011-2011}
+  - {'0': '3', '100': '0', 4s: '13', '50': '0', 6s: '2', Ave: '9.71', BF: '139', HS: '26',
+    Inns: '32', Mat: '70', 'NO': '18', Player: Z Khan, Runs: '136', SR: '97.84', Span: 2006-2011}
+  - {'0': '1', '100': '0', 4s: '153', '50': '6', 6s: '44', Ave: '29.42', BF: '1204',
+    HS: '76', Inns: '63', Mat: '72', 'NO': '11', Player: V Kohli, Runs: '1530', SR: '127.07',
+    Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '7.20', BF: '46', HS: 9*,
+    Inns: '15', Mat: '67', 'NO': '10', Player: CK Langeveldt, Runs: '36', SR: '78.26',
+    Span: 2004-2011}
+  - {'0': '2', '100': '0', 4s: '82', '50': '5', 6s: '36', Ave: '29.31', BF: '714',
+    HS: '69', Inns: '38', Mat: '44', 'NO': '6', Player: SS Tiwary, Runs: '938', SR: '131.37',
+    Span: 2007-2011}
+- bowling averages:
+  - {'4': '2', '5': '0', Ave: '17.14', BBI: 4/14, Ct: '8', Econ: '6.85', Inns: '20',
+    Mat: '21', Mdns: '0', Overs: '67.3', Player: S Aravind, Runs: '463', SR: '15.0',
+    Span: 2007-2011, St: '0', Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '22.00', BBI: 1/13, Ct: '5', Econ: '11.00', Inns: '2',
+    Mat: '11', Mdns: '0', Overs: '4.0', Player: KB Arun Karthik, Runs: '44', SR: '12.0',
+    Span: 2009-2011, St: '0', Wkts: '2'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '67', Econ: '-', Inns: '-', Mat: '82',
+    Mdns: '-', Overs: '-', Player: AB de Villiers, Runs: '-', SR: '-', Span: 2004-2011,
+    St: '7', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '33.27', BBI: 3/23, Ct: '38', Econ: '7.11', Inns: '43',
+    Mat: '88', Mdns: '0', Overs: '84.1', Player: TM Dilshan, Runs: '599', SR: '28.0',
+    Span: 2004-2011, St: '3', Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '27.40', BBI: 3/13, Ct: '20', Econ: '7.20', Inns: '50',
+    Mat: '62', Mdns: '0', Overs: '140.4', Player: CH Gayle, Runs: '1014', SR: '22.8',
+    Span: 2005-2011, St: '0', Wkts: '37'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '22', Econ: '-', Inns: '-', Mat: '41',
+    Mdns: '-', Overs: '-', Player: M Kaif, Runs: '-', SR: '-', Span: 2003-2011, St: '0',
+    Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '0', Econ: '10.50', Inns: '1', Mat: '1',
+    Mdns: '0', Overs: '2.0', Player: AA Kazi, Runs: '21', SR: '-', Span: 2011-2011,
+    St: '0', Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '29.26', BBI: 4/19, Ct: '17', Econ: '7.79', Inns: '70',
+    Mat: '70', Mdns: '1', Overs: '259.0', Player: Z Khan, Runs: '2019', SR: '22.5',
+    Span: 2006-2011, St: '0', Wkts: '69'}
+  - {'4': '0', '5': '0', Ave: '101.33', BBI: 2/25, Ct: '28', Econ: '8.21', Inns: '20',
+    Mat: '72', Mdns: '0', Overs: '37.0', Player: V Kohli, Runs: '304', SR: '74.0',
+    Span: 2007-2011, St: '0', Wkts: '3'}
+  - {'4': '4', '5': '1', Ave: '17.45', BBI: 5/16, Ct: '17', Econ: '6.86', Inns: '66',
+    Mat: '67', Mdns: '4', Overs: '239.0', Player: CK Langeveldt, Runs: '1641', SR: '15.2',
+    Span: 2004-2011, St: '0', Wkts: '94'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '14', Econ: '-', Inns: '-', Mat: '44',
+    Mdns: '-', Overs: '-', Player: SS Tiwary, Runs: '-', SR: '-', Span: 2007-2011,
+    St: '0', Wkts: '-'}

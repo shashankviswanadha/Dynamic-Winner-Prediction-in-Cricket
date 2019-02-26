@@ -1,0 +1,132 @@
+DelhiDaredevils:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '3.57', BF: '37', HS: '19',
+    Inns: '11', Mat: '49', 'NO': '4', Player: AB Dinda, Runs: '25', SR: '67.56', Span: 2008-2011}
+  - {'0': '2', '100': '0', 4s: '118', '50': '9', 6s: '20', Ave: '25.97', BF: '789',
+    HS: '71', Inns: '47', Mat: '54', 'NO': '7', Player: JR Hopes, Runs: '1039', SR: '131.68',
+    Span: 2005-2011}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '7.33', BF: '58', HS: 8*,
+    Inns: '14', Mat: '50', 'NO': '8', Player: M Morkel, Runs: '44', SR: '75.86', Span: 2005-2011}
+  - {'0': '1', '100': '0', 4s: '11', '50': '0', 6s: '6', Ave: '15.88', BF: '123',
+    HS: 44*, Inns: '11', Mat: '17', 'NO': '2', Player: Y Nagar, Runs: '143', SR: '116.26',
+    Span: 2009-2011}
+  - {'0': '5', '100': '0', 4s: '87', '50': '5', 6s: '48', Ave: '23.32', BF: '770',
+    HS: 94*, Inns: '45', Mat: '45', 'NO': '5', Player: NV Ojha, Runs: '933', SR: '121.16',
+    Span: 2007-2011}
+  - {'0': '3', '100': '0', 4s: '62', '50': '1', 6s: '36', Ave: '22.02', BF: '658',
+    HS: '60', Inns: '60', Mat: '75', 'NO': '21', Player: IK Pathan, Runs: '859', SR: '130.54',
+    Span: 2005-2011}
+  - {'0': '6', '100': '0', 4s: '219', '50': '12', 6s: '68', Ave: '26.61', BF: '1111',
+    HS: 94*, Inns: '71', Mat: '72', 'NO': '4', Player: V Sehwag, Runs: '1783', SR: '160.48',
+    Span: 2003-2011}
+  - {'0': '4', '100': '0', 4s: '66', '50': '6', 6s: '37', Ave: '23.15', BF: '739',
+    HS: 71*, Inns: '47', Mat: '53', 'NO': '7', Player: Y Venugopal Rao, Runs: '926',
+    SR: '125.30', Span: 2007-2011}
+  - {'0': '1', '100': '0', 4s: '30', '50': '2', 6s: '11', Ave: '19.88', BF: '279',
+    HS: '80', Inns: '21', Mat: '26', 'NO': '4', Player: MS Wade, Runs: '338', SR: '121.14',
+    Span: 2009-2011}
+  - {'0': '7', '100': '1', 4s: '287', '50': '18', 6s: '111', Ave: '29.54', BF: '1940',
+    HS: 107*, Inns: '98', Mat: '98', 'NO': '5', Player: DA Warner, Runs: '2748', SR: '141.64',
+    Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '2.00', BF: '14', HS: 3*,
+    Inns: '5', Mat: '16', 'NO': '2', Player: UT Yadav, Runs: '6', SR: '42.85', Span: 2009-2011}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '22.89', BBI: 4/13, Ct: '5', Econ: '6.94', Inns: '47',
+    Mat: '49', Mdns: '0', Overs: '158.1', Player: AB Dinda, Runs: '1099', SR: '19.7',
+    Span: 2008-2011, St: '0', Wkts: '48'}
+  - {'4': '0', '5': '0', Ave: '33.92', BBI: 3/33, Ct: '14', Econ: '8.40', Inns: '51',
+    Mat: '54', Mdns: '0', Overs: '161.3', Player: JR Hopes, Runs: '1357', SR: '24.2',
+    Span: 2005-2011, St: '0', Wkts: '40'}
+  - {'4': '2', '5': '0', Ave: '23.15', BBI: 4/17, Ct: '7', Econ: '6.85', Inns: '49',
+    Mat: '50', Mdns: '4', Overs: '175.4', Player: M Morkel, Runs: '1204', SR: '20.2',
+    Span: 2005-2011, St: '0', Wkts: '52'}
+  - {'4': '0', '5': '0', Ave: '14.37', BBI: 3/15, Ct: '6', Econ: '7.07', Inns: '14',
+    Mat: '17', Mdns: '0', Overs: '32.3', Player: Y Nagar, Runs: '230', SR: '12.1',
+    Span: 2009-2011, St: '0', Wkts: '16'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '25', Econ: '-', Inns: '-', Mat: '45',
+    Mdns: '-', Overs: '-', Player: NV Ojha, Runs: '-', SR: '-', Span: 2007-2011, St: '7',
+    Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '24.34', BBI: 4/27, Ct: '17', Econ: '7.71', Inns: '73',
+    Mat: '75', Mdns: '6', Overs: '255.3', Player: IK Pathan, Runs: '1972', SR: '18.9',
+    Span: 2005-2011, St: '0', Wkts: '81'}
+  - {'4': '0', '5': '0', Ave: '20.68', BBI: 3/14, Ct: '15', Econ: '8.07', Inns: '20',
+    Mat: '72', Mdns: '0', Overs: '48.4', Player: V Sehwag, Runs: '393', SR: '15.3',
+    Span: 2003-2011, St: '0', Wkts: '19'}
+  - {'4': '0', '5': '0', Ave: '49.25', BBI: 2/23, Ct: '12', Econ: '8.56', Inns: '20',
+    Mat: '53', Mdns: '0', Overs: '46.0', Player: Y Venugopal Rao, Runs: '394', SR: '34.5',
+    Span: 2007-2011, St: '0', Wkts: '8'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '13', Econ: '-', Inns: '-', Mat: '26',
+    Mdns: '-', Overs: '-', Player: MS Wade, Runs: '-', SR: '-', Span: 2009-2011, St: '2',
+    Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '44', Econ: '-', Inns: '-', Mat: '98',
+    Mdns: '-', Overs: '-', Player: DA Warner, Runs: '-', SR: '-', Span: 2007-2011,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '44.60', BBI: 2/24, Ct: '5', Econ: '8.08', Inns: '16',
+    Mat: '16', Mdns: '0', Overs: '55.1', Player: UT Yadav, Runs: '446', SR: '33.1',
+    Span: 2009-2011, St: '0', Wkts: '10'}
+RoyalChallengersBangalore:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '-', BF: '12', HS: 4*,
+    Inns: '3', Mat: '17', 'NO': '3', Player: S Aravind, Runs: '8', SR: '66.66', Span: 2007-2011}
+  - {'0': '7', '100': '1', 4s: '134', '50': '11', 6s: '56', Ave: '29.35', BF: '1402',
+    HS: 105*, Inns: '73', Mat: '78', 'NO': '13', Player: AB de Villiers, Runs: '1761',
+    SR: '125.60', Span: 2004-2011}
+  - {'0': '9', '100': '0', 4s: '200', '50': '12', 6s: '39', Ave: '24.67', BF: '1473',
+    HS: 96*, Inns: '81', Mat: '84', 'NO': '10', Player: TM Dilshan, Runs: '1752',
+    SR: '118.94', Span: 2004-2011}
+  - {'0': '5', '100': '2', 4s: '163', '50': '10', 6s: '95', Ave: '32.68', BF: '1167',
+    HS: '117', Inns: '57', Mat: '58', 'NO': '6', Player: CH Gayle, Runs: '1667', SR: '142.84',
+    Span: 2005-2011}
+  - {'0': '3', '100': '0', 4s: '13', '50': '0', 6s: '2', Ave: '9.71', BF: '139', HS: '26',
+    Inns: '32', Mat: '66', 'NO': '18', Player: Z Khan, Runs: '136', SR: '97.84', Span: 2006-2011}
+  - {'0': '1', '100': '0', 4s: '139', '50': '5', 6s: '39', Ave: '27.40', BF: '1064',
+    HS: '76', Inns: '59', Mat: '68', 'NO': '9', Player: V Kohli, Runs: '1370', SR: '128.75',
+    Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '1.50', BF: '11', HS: '5',
+    Inns: '4', Mat: '12', 'NO': '0', Player: A Mithun, Runs: '6', SR: '54.54', Span: 2009-2011}
+  - {'0': '2', '100': '0', 4s: '35', '50': '0', 6s: '5', Ave: '21.71', BF: '272',
+    HS: 45*, Inns: '17', Mat: '24', 'NO': '3', Player: CA Pujara, Runs: '304', SR: '111.76',
+    Span: 2007-2011}
+  - {'0': '1', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '15.00', BF: '48', HS: '19',
+    Inns: '6', Mat: '10', 'NO': '3', Player: J Syed Mohammad, Runs: '45', SR: '93.75',
+    Span: 2009-2011}
+  - {'0': '2', '100': '0', 4s: '79', '50': '5', 6s: '35', Ave: '30.36', BF: '697',
+    HS: '69', Inns: '36', Mat: '40', 'NO': '6', Player: SS Tiwary, Runs: '911', SR: '130.70',
+    Span: 2007-2011}
+  - {'0': '3', '100': '0', 4s: '59', '50': '1', 6s: '14', Ave: '21.62', BF: '577',
+    HS: '57', Inns: '46', Mat: '63', 'NO': '14', Player: DL Vettori, Runs: '692',
+    SR: '119.93', Span: 2006-2011}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '21.17', BBI: 4/24, Ct: '6', Econ: '6.99', Inns: '16',
+    Mat: '17', Mdns: '0', Overs: '51.3', Player: S Aravind, Runs: '360', SR: '18.1',
+    Span: 2007-2011, St: '0', Wkts: '17'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '65', Econ: '-', Inns: '-', Mat: '78',
+    Mdns: '-', Overs: '-', Player: AB de Villiers, Runs: '-', SR: '-', Span: 2004-2011,
+    St: '7', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '32.83', BBI: 3/23, Ct: '38', Econ: '7.10', Inns: '42',
+    Mat: '84', Mdns: '0', Overs: '83.1', Player: TM Dilshan, Runs: '591', SR: '27.7',
+    Span: 2004-2011, St: '3', Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '30.19', BBI: 3/13, Ct: '20', Econ: '7.33', Inns: '46',
+    Mat: '58', Mdns: '0', Overs: '127.4', Player: CH Gayle, Runs: '936', SR: '24.7',
+    Span: 2005-2011, St: '0', Wkts: '31'}
+  - {'4': '1', '5': '0', Ave: '28.38', BBI: 4/19, Ct: '16', Econ: '7.82', Inns: '66',
+    Mat: '66', Mdns: '1', Overs: '243.0', Player: Z Khan, Runs: '1902', SR: '21.7',
+    Span: 2006-2011, St: '0', Wkts: '67'}
+  - {'4': '0', '5': '0', Ave: '93.33', BBI: 2/25, Ct: '27', Econ: '8.48', Inns: '18',
+    Mat: '68', Mdns: '0', Overs: '33.0', Player: V Kohli, Runs: '280', SR: '66.0',
+    Span: 2007-2011, St: '0', Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '40.12', BBI: 2/35, Ct: '2', Econ: '9.44', Inns: '12',
+    Mat: '12', Mdns: '0', Overs: '34.0', Player: A Mithun, Runs: '321', SR: '25.5',
+    Span: 2009-2011, St: '0', Wkts: '8'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '10', Econ: '-', Inns: '-', Mat: '24',
+    Mdns: '-', Overs: '-', Player: CA Pujara, Runs: '-', SR: '-', Span: 2007-2011,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '34.85', BBI: 2/23, Ct: '2', Econ: '7.39', Inns: '10',
+    Mat: '10', Mdns: '0', Overs: '33.0', Player: J Syed Mohammad, Runs: '244', SR: '28.2',
+    Span: 2009-2011, St: '0', Wkts: '7'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '12', Econ: '-', Inns: '-', Mat: '40',
+    Mdns: '-', Overs: '-', Player: SS Tiwary, Runs: '-', SR: '-', Span: 2007-2011,
+    St: '0', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '20.87', BBI: 4/20, Ct: '23', Econ: '6.14', Inns: '63',
+    Mat: '63', Mdns: '2', Overs: '237.4', Player: DL Vettori, Runs: '1461', SR: '20.3',
+    Span: 2006-2011, St: '0', Wkts: '70'}

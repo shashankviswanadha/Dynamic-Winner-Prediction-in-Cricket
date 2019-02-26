@@ -1,0 +1,136 @@
+KingsXIPunjab:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '5.00', BF: '11', HS: 6*,
+    Inns: '3', Mat: '20', 'NO': '1', Player: BA Bhatt, Runs: '10', SR: '90.90', Span: 2011-2012}
+  - {'0': '7', '100': '0', 4s: '46', '50': '0', 6s: '20', Ave: '17.12', BF: '466',
+    HS: 39*, Inns: '50', Mat: '81', 'NO': '17', Player: PP Chawla, Runs: '565', SR: '121.24',
+    Span: 2007-2012}
+  - {'0': '2', '100': '0', 4s: '32', '50': '2', 6s: '10', Ave: '22.00', BF: '511',
+    HS: 58*, Inns: '29', Mat: '31', 'NO': '6', Player: P Dogra, Runs: '506', SR: '99.02',
+    Span: 2007-2012}
+  - {'0': '7', '100': '3', 4s: '244', '50': '11', 6s: '112', Ave: '26.84', BF: '1582',
+    HS: 109*, Inns: '87', Mat: '87', 'NO': '3', Player: AC Gilchrist, Runs: '2255',
+    SR: '142.54', Span: 2005-2012}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '5.00', BF: '8', HS: '14',
+    Inns: '6', Mat: '23', 'NO': '3', Player: Harmeet Singh, Runs: '15', SR: '187.50',
+    Span: 2009-2012}
+  - {'0': '13', '100': '1', 4s: '292', '50': '24', 6s: '182', Ave: '31.47', BF: '3202',
+    HS: 100*, Inns: '169', Mat: '176', 'NO': '31', Player: DJ Hussey, Runs: '4343',
+    SR: '135.63', Span: 2004-2012}
+  - {'0': '8', '100': '0', 4s: '27', '50': '1', 6s: '18', Ave: '11.80', BF: '298',
+    HS: 76*, Inns: '44', Mat: '80', 'NO': '14', Player: P Kumar, Runs: '354', SR: '118.79',
+    Span: 2007-2012}
+  - {'0': '1', '100': '0', 4s: '44', '50': '1', 6s: '13', Ave: '28.47', BF: '408',
+    HS: 59*, Inns: '23', Mat: '26', 'NO': '6', Player: Mandeep Singh, Runs: '484',
+    SR: '118.62', Span: 2010-2012}
+  - {'0': '4', '100': '2', 4s: '229', '50': '18', 6s: '93', Ave: '42.31', BF: '1772',
+    HS: '115', Inns: '66', Mat: '67', 'NO': '9', Player: SE Marsh, Runs: '2412', SR: '136.11',
+    Span: 2006-2012}
+  - {'0': '10', '100': '0', 4s: '78', '50': '3', 6s: '46', Ave: '19.39', BF: '927',
+    HS: 57*, Inns: '82', Mat: '95', 'NO': '21', Player: AD Mascarenhas, Runs: '1183',
+    SR: '127.61', Span: 2003-2012}
+  - {'0': '1', '100': '1', 4s: '105', '50': '3', 6s: '24', Ave: '25.46', BF: '576',
+    HS: 120*, Inns: '31', Mat: '31', 'NO': '1', Player: PC Valthaty, Runs: '764',
+    SR: '132.63', Span: 2009-2012}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '25.75', BBI: 4/22, Ct: '7', Econ: '8.26', Inns: '18',
+    Mat: '20', Mdns: '0', Overs: '62.2', Player: BA Bhatt, Runs: '515', SR: '18.7',
+    Span: 2011-2012, St: '0', Wkts: '20'}
+  - {'4': '1', '5': '0', Ave: '23.66', BBI: 4/17, Ct: '24', Econ: '7.41', Inns: '81',
+    Mat: '81', Mdns: '1', Overs: '277.5', Player: PP Chawla, Runs: '2059', SR: '19.1',
+    Span: 2007-2012, St: '0', Wkts: '87'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '13', Econ: '-', Inns: '-', Mat: '31',
+    Mdns: '-', Overs: '-', Player: P Dogra, Runs: '-', SR: '-', Span: 2007-2012, St: '0',
+    Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '57', Econ: '-', Inns: '-', Mat: '87',
+    Mdns: '-', Overs: '-', Player: AC Gilchrist, Runs: '-', SR: '-', Span: 2005-2012,
+    St: '22', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '26.42', BBI: 3/24, Ct: '5', Econ: '7.90', Inns: '23',
+    Mat: '23', Mdns: '0', Overs: '70.1', Player: Harmeet Singh, Runs: '555', SR: '20.0',
+    Span: 2009-2012, St: '0', Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '26.07', BBI: 3/25, Ct: '100', Econ: '7.33', Inns: '83',
+    Mat: '176', Mdns: '2', Overs: '191.5', Player: DJ Hussey, Runs: '1408', SR: '21.3',
+    Span: 2004-2012, St: '0', Wkts: '54'}
+  - {'4': '0', '5': '0', Ave: '32.75', BBI: 3/18, Ct: '9', Econ: '7.61', Inns: '80',
+    Mat: '80', Mdns: '11', Overs: '279.4', Player: P Kumar, Runs: '2129', SR: '25.8',
+    Span: 2007-2012, St: '0', Wkts: '65'}
+  - {'4': '0', '5': '0', Ave: '11.00', BBI: 3/22, Ct: '8', Econ: '6.60', Inns: '2',
+    Mat: '26', Mdns: '0', Overs: '5.0', Player: Mandeep Singh, Runs: '33', SR: '10.0',
+    Span: 2010-2012, St: '0', Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '24', Econ: '6.50', Inns: '2', Mat: '67',
+    Mdns: '0', Overs: '2.0', Player: SE Marsh, Runs: '13', SR: '-', Span: 2006-2012,
+    St: '0', Wkts: '0'}
+  - {'4': '1', '5': '2', Ave: '19.49', BBI: 5/14, Ct: '24', Econ: '6.99', Inns: '91',
+    Mat: '95', Mdns: '7', Overs: '312.1', Player: AD Mascarenhas, Runs: '2183', SR: '16.7',
+    Span: 2003-2012, St: '0', Wkts: '112'}
+  - {'4': '1', '5': '0', Ave: '31.09', BBI: 4/29, Ct: '6', Econ: '8.30', Inns: '16',
+    Mat: '31', Mdns: '0', Overs: '41.1', Player: PC Valthaty, Runs: '342', SR: '22.4',
+    Span: 2009-2012, St: '0', Wkts: '11'}
+KolkataKnightRiders:
+- batting averages:
+  - {'0': '4', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '3.37', BF: '41', HS: '15',
+    Inns: '13', Mat: '63', 'NO': '5', Player: L Balaji, Runs: '27', SR: '65.85', Span: 2008-2012}
+  - {'0': '4', '100': '1', 4s: '42', '50': '1', 6s: '27', Ave: '23.46', BF: '588',
+    HS: 107*, Inns: '47', Mat: '73', 'NO': '17', Player: R Bhatia, Runs: '704', SR: '119.72',
+    Span: 2007-2012}
+  - {'0': '2', '100': '0', 4s: '82', '50': '3', 6s: '20', Ave: '23.10', BF: '797',
+    HS: 75*, Inns: '39', Mat: '39', 'NO': '2', Player: MS Bisla, Runs: '855', SR: '107.27',
+    Span: 2007-2012}
+  - {'0': '2', '100': '0', 4s: '14', '50': '0', 6s: '10', Ave: '20.80', BF: '177',
+    HS: 35*, Inns: '12', Mat: '15', 'NO': '2', Player: DB Das, Runs: '208', SR: '117.51',
+    Span: 2008-2012}
+  - {'0': '7', '100': '0', 4s: '312', '50': '21', 6s: '31', Ave: '31.22', BF: '2120',
+    HS: '86', Inns: '98', Mat: '100', 'NO': '14', Player: G Gambhir, Runs: '2623',
+    SR: '123.72', Span: 2007-2012}
+  - {'0': '5', '100': '0', 4s: '277', '50': '24', 6s: '61', Ave: '35.62', BF: '2435',
+    HS: 89*, Inns: '94', Mat: '95', 'NO': '16', Player: JH Kallis, Runs: '2779', SR: '114.12',
+    Span: 2004-2012}
+  - {'0': '6', '100': '0', 4s: '22', '50': '0', 6s: '16', Ave: '13.81', BF: '228',
+    HS: '48', Inns: '41', Mat: '80', 'NO': '19', Player: B Lee, Runs: '304', SR: '133.33',
+    Span: 2005-2012}
+  - {'0': '6', '100': '4', 4s: '355', '50': '18', 6s: '174', Ave: '31.94', BF: '2757',
+    HS: 158*, Inns: '133', Mat: '134', 'NO': '15', Player: BB McCullum, Runs: '3770',
+    SR: '136.74', Span: 2005-2012}
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '2', Ave: '6.16', BF: '32', HS: '22',
+    Inns: '7', Mat: '22', 'NO': '1', Player: SP Narine, Runs: '37', SR: '115.62',
+    Span: 2011-2012}
+  - {'0': '8', '100': '1', 4s: '177', '50': '11', 6s: '129', Ave: '25.67', BF: '1414',
+    HS: '100', Inns: '99', Mat: '111', 'NO': '14', Player: YK Pathan, Runs: '2182',
+    SR: '154.31', Span: 2007-2012}
+  - {'0': '5', '100': '0', 4s: '130', '50': '9', 6s: '38', Ave: '31.54', BF: '1364',
+    HS: 75*, Inns: '65', Mat: '74', 'NO': '15', Player: MK Tiwary, Runs: '1577', SR: '115.61',
+    Span: 2007-2012}
+- bowling averages:
+  - {'4': '2', '5': '1', Ave: '23.50', BBI: 5/24, Ct: '11', Econ: '7.80', Inns: '63',
+    Mat: '63', Mdns: '2', Overs: '207.5', Player: L Balaji, Runs: '1622', SR: '18.0',
+    Span: 2008-2012, St: '0', Wkts: '69'}
+  - {'4': '1', '5': '0', Ave: '24.30', BBI: 4/15, Ct: '19', Econ: '6.95', Inns: '67',
+    Mat: '73', Mdns: '0', Overs: '192.1', Player: R Bhatia, Runs: '1337', SR: '20.9',
+    Span: 2007-2012, St: '0', Wkts: '55'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '28', Econ: '-', Inns: '-', Mat: '39',
+    Mdns: '-', Overs: '-', Player: MS Bisla, Runs: '-', SR: '-', Span: 2007-2012,
+    St: '8', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '3', Econ: '-', Inns: '-', Mat: '15',
+    Mdns: '-', Overs: '-', Player: DB Das, Runs: '-', SR: '-', Span: 2008-2012, St: '0',
+    Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '16', Econ: '-', Inns: '-', Mat: '100',
+    Mdns: '-', Overs: '-', Player: G Gambhir, Runs: '-', SR: '-', Span: 2007-2012,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '38.65', BBI: 3/16, Ct: '37', Econ: '7.88', Inns: '79',
+    Mat: '95', Mdns: '4', Overs: '240.2', Player: JH Kallis, Runs: '1894', SR: '29.4',
+    Span: 2004-2012, St: '0', Wkts: '49'}
+  - {'4': '0', '5': '0', Ave: '29.62', BBI: 3/15, Ct: '21', Econ: '7.20', Inns: '80',
+    Mat: '80', Mdns: '7', Overs: '296.0', Player: B Lee, Runs: '2133', SR: '24.6',
+    Span: 2005-2012, St: '0', Wkts: '72'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '61', Econ: '-', Inns: '-', Mat: '134',
+    Mdns: '-', Overs: '-', Player: BB McCullum, Runs: '-', SR: '-', Span: 2005-2012,
+    St: '7', Wkts: '-'}
+  - {'4': '1', '5': '1', Ave: '13.86', BBI: 5/19, Ct: '6', Econ: '5.13', Inns: '21',
+    Mat: '22', Mdns: '1', Overs: '81.0', Player: SP Narine, Runs: '416', SR: '16.2',
+    Span: 2011-2012, St: '0', Wkts: '30'}
+  - {'4': '2', '5': '0', Ave: '26.08', BBI: 4/10, Ct: '43', Econ: '7.63', Inns: '93',
+    Mat: '111', Mdns: '1', Overs: '270.0', Player: YK Pathan, Runs: '2061', SR: '20.5',
+    Span: 2007-2012, St: '0', Wkts: '79'}
+  - {'4': '0', '5': '0', Ave: '27.70', BBI: 3/19, Ct: '37', Econ: '7.41', Inns: '19',
+    Mat: '74', Mdns: '0', Overs: '37.2', Player: MK Tiwary, Runs: '277', SR: '22.4',
+    Span: 2007-2012, St: '0', Wkts: '10'}

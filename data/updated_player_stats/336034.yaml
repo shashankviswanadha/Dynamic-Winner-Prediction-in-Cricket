@@ -1,0 +1,108 @@
+Deccan Chargers:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '16', '50': '1', 6s: '6', Ave: '14.0', BF: '116', HS: '67',
+    Inns: '11', Mat: '13', 'NO': '0', Player: SB Bangar, Runs: '154', SR: '132.76',
+    Span: 2007-2008}
+  - {'0': '6', '100': '0', 4s: '37', '50': '3', 6s: '8', Ave: '17.0', BF: '262', HS: '90',
+    Inns: '19', Mat: '19', 'NO': '1', Player: HH Gibbs, Runs: '306', SR: '116.79',
+    Span: 2004-2008}
+  - {'0': '0', '100': '1', 4s: '40', '50': '0', 6s: '26', Ave: '26.94', BF: '285',
+    HS: '109', Inns: '18', Mat: '18', 'NO': '2', Player: AC Gilchrist, Runs: '431',
+    SR: '151.23', Span: 2005-2008}
+  - {'0': '1', '100': '0', 4s: '15', '50': '0', 6s: '1', Ave: '25.75', BF: '88', HS: '-1',
+    Inns: '5', Mat: '5', 'NO': '1', Player: VVS Laxman, Runs: '103', SR: '117.05',
+    Span: 2008-2008}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '15.0', BF: '9', HS: '11',
+    Inns: '3', Mat: '9', 'NO': '2', Player: PP Ojha, Runs: '15', SR: '166.67', Span: 2007-2008}
+  - {'0': '1', '100': '0', 4s: '27', '50': '0', 6s: '17', Ave: '15.55', BF: '186',
+    HS: '49', Inns: '20', Mat: '24', 'NO': '0', Player: Shahid Afridi, Runs: '311',
+    SR: '167.2', Span: 2004-2008}
+  - {'0': '2', '100': '1', 4s: '55', '50': '3', 6s: '22', Ave: '52.6', BF: '352',
+    HS: '101', Inns: '16', Mat: '19', 'NO': '6', Player: RG Sharma, Runs: '526', SR: '149.43',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '12.0', BF: '13', HS: '4',
+    Inns: '7', Mat: '16', 'NO': '6', Player: RP Singh, Runs: '12', SR: '92.31', Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '71', '50': '6', 6s: '48', Ave: '24.15', BF: '726',
+    HS: '73', Inns: '43', Mat: '45', 'NO': '2', Player: SB Styris, Runs: '990', SR: '136.36',
+    Span: 2005-2008}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '6.0', BF: '6', HS: '6',
+    Inns: '2', Mat: '4', 'NO': '1', Player: DP Vijaykumar, Runs: '6', SR: '100.0',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '7', '50': '0', 6s: '1', Ave: '9.17', BF: '48', HS: '16',
+    Inns: '6', Mat: '7', 'NO': '0', Player: AS Yadav, Runs: '55', SR: '114.58', Span: 2007-2008}
+- bowling averages:
+  - {'4': '0', '5': '1', Ave: '18.73', Econ: '5.77', Inns: '12', Mat: '13', Overs: '42.4',
+    Player: SB Bangar, Runs: '281', SR: '17.07', Span: 2007-2008, Wkts: '15'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '19', Overs: '0.0',
+    Player: HH Gibbs, Runs: '0', SR: '0', Span: 2004-2008, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '18', Overs: '0.0',
+    Player: AC Gilchrist, Runs: '0', SR: '0', Span: 2005-2008, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '5', Overs: '0.0', Player: VVS
+      Laxman, Runs: '0', SR: '0', Span: 2008-2008, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '15.27', Econ: '6.72', Inns: '8', Mat: '9', Overs: '25.0',
+    Player: PP Ojha, Runs: '168', SR: '13.64', Span: 2007-2008, Wkts: '11'}
+  - {'4': '1', '5': '0', Ave: '18.77', Econ: '6.77', Inns: '24', Mat: '24', Overs: '86.0',
+    Player: Shahid Afridi, Runs: '582', SR: '16.65', Span: 2004-2008, Wkts: '31'}
+  - {'4': '0', '5': '0', Ave: '15.38', Econ: '6.47', Inns: '7', Mat: '19', Overs: '19.0',
+    Player: RG Sharma, Runs: '123', SR: '14.25', Span: 2007-2008, Wkts: '8'}
+  - {'4': '1', '5': '0', Ave: '22.47', Econ: '6.54', Inns: '15', Mat: '16', Overs: '57.5',
+    Player: RP Singh, Runs: '427', SR: '18.26', Span: 2007-2008, Wkts: '19'}
+  - {'4': '0', '5': '0', Ave: '27.57', Econ: '7.03', Inns: '33', Mat: '45', Overs: '111.4',
+    Player: SB Styris, Runs: '827', SR: '22.33', Span: 2005-2008, Wkts: '30'}
+  - {'4': '0', '5': '0', Ave: '22.4', Econ: '7.47', Inns: '4', Mat: '4', Overs: '15.0',
+    Player: DP Vijaykumar, Runs: '112', SR: '18.0', Span: 2007-2008, Wkts: '5'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '7', Overs: '0.0', Player: AS
+      Yadav, Runs: '0', SR: '0', Span: 2007-2008, Wkts: '0'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '32', '50': '1', 6s: '10', Ave: '28.71', BF: '380',
+    HS: '57', Inns: '19', Mat: '21', 'NO': '5', Player: MV Boucher, Runs: '402', SR: '105.79',
+    Span: 2004-2008}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '8.0', BF: '11', HS: '-1',
+    Inns: '1', Mat: '1', 'NO': '0', Player: B Chipli, Runs: '8', SR: '72.73', Span: 2008-2008}
+  - {'0': '2', '100': '0', 4s: '17', '50': '1', 6s: '1', Ave: '18.14', BF: '111',
+    HS: '54', Inns: '7', Mat: '7', 'NO': '0', Player: R Dravid, Runs: '127', SR: '114.41',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '6', '50': '1', 6s: '3', Ave: '17.5', BF: '63', HS: '50',
+    Inns: '4', Mat: '4', 'NO': '0', Player: W Jaffer, Runs: '70', SR: '111.11', Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '28', '50': '2', 6s: '8', Ave: '26.45', BF: '263',
+    HS: '54', Inns: '12', Mat: '12', 'NO': '1', Player: JH Kallis, Runs: '291', SR: '110.65',
+    Span: 2004-2008}
+  - {'0': '0', '100': '0', 4s: '9', '50': '0', 6s: '0', Ave: '12.0', BF: '88', HS: '26',
+    Inns: '11', Mat: '15', 'NO': '4', Player: Z Khan, Runs: '84', SR: '95.45', Span: 2006-2008}
+  - {'0': '0', '100': '0', 4s: '22', '50': '1', 6s: '5', Ave: '25.44', BF: '177',
+    HS: '76', Inns: '10', Mat: '10', 'NO': '1', Player: V Kohli, Runs: '229', SR: '129.38',
+    Span: 2007-2008}
+  - {'0': '1', '100': '0', 4s: '17', '50': '1', 6s: '7', Ave: '25.29', BF: '141',
+    HS: '76', Inns: '9', Mat: '10', 'NO': '2', Player: P Kumar, Runs: '177', SR: '125.53',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '8.0', BF: '7', HS: '8',
+    Inns: '1', Mat: '3', 'NO': '0', Player: A Kumble, Runs: '8', SR: '114.29', Span: 2006-2008}
+  - {'0': '3', '100': '1', 4s: '52', '50': '5', 6s: '26', Ave: '56.92', BF: '509',
+    HS: '107', Inns: '20', Mat: '23', 'NO': '8', Player: Misbah-ul-Haq, Runs: '683',
+    SR: '134.18', Span: 2006-2008}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '2.67', BF: '10', HS: '4',
+    Inns: '5', Mat: '18', 'NO': '2', Player: DW Steyn, Runs: '8', SR: '80.0', Span: 2005-2008}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '21', Overs: '0.0',
+    Player: MV Boucher, Runs: '0', SR: '0', Span: 2004-2008, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '1', Overs: '0.0', Player: B
+      Chipli, Runs: '0', SR: '0', Span: 2008-2008, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '7', Overs: '0.0', Player: R
+      Dravid, Runs: '0', SR: '0', Span: 2007-2008, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '4', Overs: '0.0', Player: W
+      Jaffer, Runs: '0', SR: '0', Span: 2007-2008, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '50.5', Econ: '10.63', Inns: '7', Mat: '12', Overs: '19.0',
+    Player: JH Kallis, Runs: '202', SR: '28.5', Span: 2004-2008, Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '24.94', Econ: '7.31', Inns: '15', Mat: '15', Overs: '58.0',
+    Player: Z Khan, Runs: '424', SR: '20.47', Span: 2006-2008, Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '11.0', Inns: '1', Mat: '10', Overs: '1.0',
+    Player: V Kohli, Runs: '11', SR: '0', Span: 2007-2008, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '27.33', Econ: '6.25', Inns: '10', Mat: '10', Overs: '36.2',
+    Player: P Kumar, Runs: '246', SR: '24.22', Span: 2007-2008, Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '17.0', Econ: '3.52', Inns: '3', Mat: '3', Overs: '11.5',
+    Player: A Kumble, Runs: '68', SR: '17.75', Span: 2006-2008, Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '23', Overs: '0.0',
+    Player: Misbah-ul-Haq, Runs: '0', SR: '0', Span: 2006-2008, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '23.28', Econ: '6.45', Inns: '17', Mat: '18', Overs: '65.0',
+    Player: DW Steyn, Runs: '419', SR: '21.67', Span: 2005-2008, Wkts: '18'}

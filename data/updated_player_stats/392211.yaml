@@ -1,0 +1,110 @@
+Delhi Daredevils:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '2', Ave: '10.2', BF: '53', HS: '17',
+    Inns: '6', Mat: '13', 'NO': '1', Player: R Bhatia, Runs: '51', SR: '96.23', Span: 2007-2009}
+  - {'0': '5', '100': '1', 4s: '62', '50': '4', 6s: '27', Ave: '27.36', BF: '588',
+    HS: '105', Inns: '34', Mat: '37', 'NO': '6', Player: AB de Villiers, Runs: '766',
+    SR: '130.27', Span: 2004-2009}
+  - {'0': '2', '100': '0', 4s: '61', '50': '5', 6s: '21', Ave: '24.58', BF: '521',
+    HS: '67', Inns: '31', Mat: '34', 'NO': '5', Player: TM Dilshan, Runs: '639', SR: '122.65',
+    Span: 2004-2009}
+  - {'0': '2', '100': '0', 4s: '129', '50': '10', 6s: '15', Ave: '31.48', BF: '810',
+    HS: '86', Inns: '36', Mat: '37', 'NO': '3', Player: G Gambhir, Runs: '1039', SR: '128.27',
+    Span: 2007-2009}
+  - {'0': '2', '100': '0', 4s: '52', '50': '2', 6s: '11', Ave: '22.36', BF: '388',
+    HS: '56', Inns: '27', Mat: '35', 'NO': '5', Player: KD Karthik, Runs: '492', SR: '126.8',
+    Span: 2006-2009}
+  - {'0': '1', '100': '0', 4s: '17', '50': '0', 6s: '2', Ave: '29.6', BF: '110', HS: '30',
+    Inns: '8', Mat: '10', 'NO': '3', Player: M Manhas, Runs: '148', SR: '134.55',
+    Span: 2007-2009}
+  - {'0': '3', '100': '0', 4s: '25', '50': '0', 6s: '2', Ave: '15.77', BF: '180',
+    HS: '49', Inns: '14', Mat: '19', 'NO': '1', Player: A Mishra, Runs: '205', SR: '113.89',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '0', BF: '5', HS: '5',
+    Inns: '2', Mat: '28', 'NO': '2', Player: DP Nannes, Runs: '6', SR: '120.0', Span: 2007-2009}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.0', BF: '13', HS: '2',
+    Inns: '5', Mat: '19', 'NO': '4', Player: A Nehra, Runs: '3', SR: '23.08', Span: 2008-2009}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.0', BF: '17', HS: '5',
+    Inns: '8', Mat: '18', 'NO': '4', Player: PJ Sangwan, Runs: '12', SR: '70.59',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '41', '50': '3', 6s: '19', Ave: '30.47', BF: '314',
+    HS: '89', Inns: '16', Mat: '16', 'NO': '1', Player: DA Warner, Runs: '457', SR: '145.54',
+    Span: 2007-2009}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '26.11', Econ: '8.1', Inns: '12', Mat: '13', Overs: '29.0',
+    Player: R Bhatia, Runs: '235', SR: '19.33', Span: 2007-2009, Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '37', Overs: '0.0',
+    Player: AB de Villiers, Runs: '0', SR: '0', Span: 2004-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '21.11', Econ: '6.79', Inns: '14', Mat: '34', Overs: '28.0',
+    Player: TM Dilshan, Runs: '190', SR: '18.67', Span: 2004-2009, Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '37', Overs: '0.0',
+    Player: G Gambhir, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '35', Overs: '0.0',
+    Player: KD Karthik, Runs: '0', SR: '0', Span: 2006-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '15.67', Econ: '9.4', Inns: '2', Mat: '10', Overs: '5.0',
+    Player: M Manhas, Runs: '47', SR: '10.0', Span: 2007-2009, Wkts: '3'}
+  - {'4': '0', '5': '1', Ave: '14.39', Econ: '6.08', Inns: '19', Mat: '19', Overs: '65.5',
+    Player: A Mishra, Runs: '446', SR: '12.74', Span: 2007-2009, Wkts: '31'}
+  - {'4': '3', '5': '0', Ave: '16.05', Econ: '6.42', Inns: '28', Mat: '28', Overs: '105.3',
+    Player: DP Nannes, Runs: '706', SR: '14.39', Span: 2007-2009, Wkts: '44'}
+  - {'4': '0', '5': '0', Ave: '23.57', Econ: '6.84', Inns: '19', Mat: '19', Overs: '64.5',
+    Player: A Nehra, Runs: '495', SR: '18.52', Span: 2008-2009, Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '39.54', Econ: '7.67', Inns: '18', Mat: '18', Overs: '62.3',
+    Player: PJ Sangwan, Runs: '514', SR: '28.85', Span: 2007-2009, Wkts: '13'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '16', Overs: '0.0',
+    Player: DA Warner, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+Kolkata Knight Riders:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '7', '50': '0', 6s: '3', Ave: '9.89', BF: '74', HS: '20',
+    Inns: '15', Mat: '22', 'NO': '6', Player: AB Agarkar, Runs: '89', SR: '120.27',
+    Span: 2006-2009}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '1.33', BF: '7', HS: '2',
+    Inns: '5', Mat: '19', 'NO': '2', Player: AB Dinda, Runs: '4', SR: '57.14', Span: 2008-2009}
+  - {'0': '2', '100': '0', 4s: '88', '50': '4', 6s: '28', Ave: '24.41', BF: '755',
+    HS: '91', Inns: '36', Mat: '38', 'NO': '2', Player: SC Ganguly, Runs: '830', SR: '109.93',
+    Span: 2005-2009}
+  - {'0': '0', '100': '0', 4s: '18', '50': '0', 6s: '2', Ave: '12.92', BF: '145',
+    HS: '42', Inns: '14', Mat: '17', 'NO': '1', Player: MC Henriques, Runs: '168',
+    SR: '115.86', Span: 2006-2009}
+  - {'0': '0', '100': '1', 4s: '239', '50': '16', 6s: '51', Ave: '42.22', BF: '1612',
+    HS: '106', Inns: '60', Mat: '63', 'NO': '9', Player: BJ Hodge, Runs: '2153', SR: '133.56',
+    Span: 2003-2009}
+  - {'0': '1', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '10.25', BF: '38', HS: '17',
+    Inns: '6', Mat: '31', 'NO': '2', Player: M Kartik, Runs: '41', SR: '107.89', Span: 2007-2009}
+  - {'0': '1', '100': '1', 4s: '120', '50': '7', 6s: '62', Ave: '29.43', BF: '908',
+    HS: '158', Inns: '50', Mat: '50', 'NO': '6', Player: BB McCullum, Runs: '1295',
+    SR: '142.62', Span: 2005-2009}
+  - {'0': '0', '100': '0', 4s: '22', '50': '1', 6s: '8', Ave: '24.4', BF: '197', HS: '59',
+    Inns: '16', Mat: '19', 'NO': '6', Player: WP Saha, Runs: '244', SR: '123.86',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '1', Ave: '10.0', BF: '30', HS: '9',
+    Inns: '11', Mat: '27', 'NO': '8', Player: I Sharma, Runs: '30', SR: '100.0', Span: 2007-2009}
+  - {'0': '1', '100': '0', 4s: '120', '50': '7', 6s: '15', Ave: '30.19', BF: '932',
+    HS: '89', Inns: '43', Mat: '47', 'NO': '7', Player: MN van Wyk, Runs: '1087',
+    SR: '116.63', Span: 2004-2009}
+  - {'0': '0', '100': '0', 4s: '13', '50': '0', 6s: '1', Ave: '18.33', BF: '91', HS: '34',
+    Inns: '6', Mat: '7', 'NO': '0', Player: Yashpal Singh, Runs: '110', SR: '120.88',
+    Span: 2007-2009}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '26.28', Econ: '7.51', Inns: '21', Mat: '22', Overs: '58.3',
+    Player: AB Agarkar, Runs: '473', SR: '19.5', Span: 2006-2009, Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '32.92', Econ: '7.45', Inns: '17', Mat: '19', Overs: '53.0',
+    Player: AB Dinda, Runs: '395', SR: '26.5', Span: 2008-2009, Wkts: '12'}
+  - {'4': '0', '5': '0', Ave: '22.89', Econ: '7.19', Inns: '30', Mat: '38', Overs: '81.3',
+    Player: SC Ganguly, Runs: '618', SR: '18.11', Span: 2005-2009, Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '30.18', Econ: '7.78', Inns: '14', Mat: '17', Overs: '41.1',
+    Player: MC Henriques, Runs: '332', SR: '22.45', Span: 2006-2009, Wkts: '11'}
+  - {'4': '2', '5': '0', Ave: '19.57', Econ: '7.53', Inns: '30', Mat: '63', Overs: '78.0',
+    Player: BJ Hodge, Runs: '587', SR: '15.6', Span: 2003-2009, Wkts: '30'}
+  - {'4': '0', '5': '1', Ave: '23.45', Econ: '6.37', Inns: '29', Mat: '31', Overs: '100.4',
+    Player: M Kartik, Runs: '680', SR: '20.83', Span: 2007-2009, Wkts: '29'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '50', Overs: '0.0',
+    Player: BB McCullum, Runs: '0', SR: '0', Span: 2005-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '19', Overs: '0.0',
+    Player: WP Saha, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '34.21', Econ: '6.7', Inns: '27', Mat: '27', Overs: '92.3',
+    Player: I Sharma, Runs: '650', SR: '29.21', Span: 2007-2009, Wkts: '19'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '47', Overs: '0.0',
+    Player: MN van Wyk, Runs: '0', SR: '0', Span: 2004-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '18.75', Econ: '7.03', Inns: '3', Mat: '7', Overs: '9.1',
+    Player: Yashpal Singh, Runs: '75', SR: '13.75', Span: 2007-2009, Wkts: '4'}

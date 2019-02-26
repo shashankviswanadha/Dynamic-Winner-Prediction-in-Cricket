@@ -1,0 +1,112 @@
+Chennai Super Kings:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '3.0', BF: '25', HS: '8',
+    Inns: '6', Mat: '15', 'NO': '1', Player: R Ashwin, Runs: '15', SR: '60.0', Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '49', '50': '3', 6s: '16', Ave: '24.81', BF: '445',
+    HS: '64', Inns: '30', Mat: '38', 'NO': '9', Player: S Badrinath, Runs: '521',
+    SR: '117.08', Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '3.8', BF: '24', HS: '15',
+    Inns: '6', Mat: '25', 'NO': '1', Player: L Balaji, Runs: '19', SR: '79.17', Span: 2008-2010}
+  - {'0': '1', '100': '0', 4s: '96', '50': '5', 6s: '41', Ave: '35.19', BF: '1002',
+    HS: '73', Inns: '51', Mat: '55', 'NO': '15', Player: MS Dhoni, Runs: '1267', SR: '126.45',
+    Span: 2006-2010}
+  - {'0': '1', '100': '0', 4s: '7', '50': '0', 6s: '9', Ave: '19.17', BF: '69', HS: '34',
+    Inns: '12', Mat: '28', 'NO': '6', Player: MS Gony, Runs: '115', SR: '166.67',
+    Span: 2008-2010}
+  - {'0': '0', '100': '0', 4s: '121', '50': '11', 6s: '43', Ave: '51.71', BF: '751',
+    HS: '89', Inns: '26', Mat: '26', 'NO': '5', Player: ML Hayden, Runs: '1086', SR: '144.61',
+    Span: 2005-2010}
+  - {'0': '2', '100': '0', 4s: '71', '50': '3', 6s: '56', Ave: '27.56', BF: '846',
+    HS: '89', Inns: '52', Mat: '60', 'NO': '13', Player: JM Kemp, Runs: '1075', SR: '127.07',
+    Span: 2004-2010}
+  - {'0': '3', '100': '0', 4s: '104', '50': '3', 6s: '71', Ave: '25.6', BF: '974',
+    HS: '71', Inns: '78', Mat: '94', 'NO': '25', Player: JA Morkel, Runs: '1357',
+    SR: '139.32', Span: 2004-2010}
+  - {'0': '5', '100': '0', 4s: '2', '50': '0', 6s: '1', Ave: '3.17', BF: '47', HS: '11',
+    Inns: '15', Mat: '53', 'NO': '3', Player: M Muralitharan, Runs: '38', SR: '80.85',
+    Span: 2005-2010}
+  - {'0': '1', '100': '0', 4s: '83', '50': '6', 6s: '47', Ave: '29.71', BF: '733',
+    HS: '98', Inns: '39', Mat: '42', 'NO': '5', Player: SK Raina, Runs: '1010', SR: '137.79',
+    Span: 2006-2010}
+  - {'0': '0', '100': '0', 4s: '14', '50': '1', 6s: '10', Ave: '18.0', BF: '222',
+    HS: '54', Inns: '14', Mat: '16', 'NO': '0', Player: M Vijay, Runs: '252', SR: '113.51',
+    Span: 2007-2010}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '16.22', Econ: '5.25', Inns: '14', Mat: '15', Overs: '49.4',
+    Player: R Ashwin, Runs: '292', SR: '16.56', Span: 2007-2010, Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '3.0', Inns: '1', Mat: '38', Overs: '2.0',
+    Player: S Badrinath, Runs: '6', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '24.68', Econ: '8.1', Inns: '25', Mat: '25', Overs: '82.2',
+    Player: L Balaji, Runs: '691', SR: '17.64', Span: 2008-2010, Wkts: '28'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '55', Overs: '0.0',
+    Player: MS Dhoni, Runs: '0', SR: '0', Span: 2006-2010, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '23.9', Econ: '7.34', Inns: '28', Mat: '28', Overs: '96.1',
+    Player: MS Gony, Runs: '717', SR: '19.23', Span: 2008-2010, Wkts: '30'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '26', Overs: '0.0',
+    Player: ML Hayden, Runs: '0', SR: '0', Span: 2005-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '20.03', Econ: '7.55', Inns: '30', Mat: '60', Overs: '77.0',
+    Player: JM Kemp, Runs: '581', SR: '15.93', Span: 2004-2010, Wkts: '29'}
+  - {'4': '2', '5': '0', Ave: '26.26', Econ: '7.86', Inns: '87', Mat: '94', Overs: '269.1',
+    Player: JA Morkel, Runs: '2127', SR: '19.94', Span: 2004-2010, Wkts: '81'}
+  - {'4': '3', '5': '0', Ave: '18.44', Econ: '5.81', Inns: '53', Mat: '53', Overs: '201.5',
+    Player: M Muralitharan, Runs: '1217', SR: '18.35', Span: 2005-2010, Wkts: '66'}
+  - {'4': '0', '5': '0', Ave: '23.33', Econ: '6.36', Inns: '14', Mat: '42', Overs: '33.0',
+    Player: SK Raina, Runs: '210', SR: '22.0', Span: 2006-2010, Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '4.0', Inns: '1', Mat: '16', Overs: '1.0',
+    Player: M Vijay, Runs: '4', SR: '0', Span: 2007-2010, Wkts: '0'}
+Kolkata Knight Riders:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '1', Ave: '4.43', BF: '29', HS: '8',
+    Inns: '13', Mat: '27', 'NO': '6', Player: SE Bond, Runs: '31', SR: '106.9', Span: 2005-2010}
+  - {'0': '4', '100': '0', 4s: '94', '50': '4', 6s: '31', Ave: '22.88', BF: '889',
+    HS: '91', Inns: '43', Mat: '46', 'NO': '2', Player: SC Ganguly, Runs: '938', SR: '105.51',
+    Span: 2005-2010}
+  - {'0': '1', '100': '0', 4s: '16', '50': '0', 6s: '1', Ave: '18.5', BF: '106', HS: '47',
+    Inns: '7', Mat: '9', 'NO': '1', Player: RS Gavaskar, Runs: '111', SR: '104.72',
+    Span: 2005-2010}
+  - {'0': '7', '100': '1', 4s: '281', '50': '19', 6s: '62', Ave: '38.38', BF: '2033',
+    HS: '106', Inns: '79', Mat: '82', 'NO': '11', Player: BJ Hodge, Runs: '2610',
+    SR: '128.38', Span: 2003-2010}
+  - {'0': '1', '100': '0', 4s: '4', '50': '0', 6s: '0', Ave: '8.86', BF: '68', HS: '-1',
+    Inns: '11', Mat: '49', 'NO': '4', Player: M Kartik, Runs: '62', SR: '91.18', Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '45', '50': '2', 6s: '16', Ave: '27.15', BF: '437',
+    HS: '65', Inns: '29', Mat: '32', 'NO': '9', Player: AD Mathews, Runs: '543', SR: '124.26',
+    Span: 2007-2010}
+  - {'0': '1', '100': '0', 4s: '42', '50': '2', 6s: '15', Ave: '26.19', BF: '304',
+    HS: '71', Inns: '25', Mat: '30', 'NO': '9', Player: WP Saha, Runs: '419', SR: '137.83',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '134', '50': '10', 6s: '77', Ave: '31.19', BF: '1268',
+    HS: '79', Inns: '67', Mat: '70', 'NO': '13', Player: OA Shah, Runs: '1684', SR: '132.81',
+    Span: 2003-2010}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '11.67', BF: '32', HS: '9',
+    Inns: '12', Mat: '40', 'NO': '9', Player: I Sharma, Runs: '35', SR: '109.38',
+    Span: 2007-2010}
+  - {'0': '1', '100': '0', 4s: '38', '50': '1', 6s: '17', Ave: '23.19', BF: '387',
+    HS: '76', Inns: '29', Mat: '34', 'NO': '8', Player: LR Shukla, Runs: '487', SR: '125.84',
+    Span: 2007-2010}
+  - {'0': '2', '100': '0', 4s: '56', '50': '4', 6s: '8', Ave: '29.11', BF: '458',
+    HS: '58', Inns: '23', Mat: '26', 'NO': '4', Player: MK Tiwary, Runs: '553', SR: '120.74',
+    Span: 2007-2010}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '20.0', Econ: '6.67', Inns: '27', Mat: '27', Overs: '106.3',
+    Player: SE Bond, Runs: '740', SR: '17.27', Span: 2005-2010, Wkts: '37'}
+  - {'4': '0', '5': '0', Ave: '23.56', Econ: '7.23', Inns: '31', Mat: '46', Overs: '83.3',
+    Player: SC Ganguly, Runs: '636', SR: '18.56', Span: 2005-2010, Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '37.33', Econ: '5.89', Inns: '6', Mat: '9', Overs: '14.3',
+    Player: RS Gavaskar, Runs: '112', SR: '29.0', Span: 2005-2010, Wkts: '3'}
+  - {'4': '2', '5': '0', Ave: '22.31', Econ: '7.68', Inns: '39', Mat: '82', Overs: '93.0',
+    Player: BJ Hodge, Runs: '714', SR: '17.44', Span: 2003-2010, Wkts: '32'}
+  - {'4': '0', '5': '1', Ave: '27.43', Econ: '6.35', Inns: '47', Mat: '49', Overs: '166.4',
+    Player: M Kartik, Runs: '1097', SR: '25.0', Span: 2007-2010, Wkts: '40'}
+  - {'4': '1', '5': '0', Ave: '21.91', Econ: '7.23', Inns: '22', Mat: '32', Overs: '63.4',
+    Player: AD Mathews, Runs: '504', SR: '16.61', Span: 2007-2010, Wkts: '23'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '30', Overs: '0.0',
+    Player: WP Saha, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '21.0', Econ: '3.94', Inns: '3', Mat: '70', Overs: '2.2',
+    Player: OA Shah, Runs: '21', SR: '14.0', Span: 2003-2010, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '39.46', Econ: '7.12', Inns: '40', Mat: '40', Overs: '139.3',
+    Player: I Sharma, Runs: '1026', SR: '32.19', Span: 2007-2010, Wkts: '26'}
+  - {'4': '0', '5': '0', Ave: '23.43', Econ: '7.94', Inns: '26', Mat: '34', Overs: '62.0',
+    Player: LR Shukla, Runs: '492', SR: '17.71', Span: 2007-2010, Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '26.33', Econ: '7.52', Inns: '10', Mat: '26', Overs: '21.0',
+    Player: MK Tiwary, Runs: '158', SR: '21.0', Span: 2007-2010, Wkts: '6'}

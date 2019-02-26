@@ -1,0 +1,134 @@
+DelhiDaredevils:
+- batting averages:
+  - {'0': '5', '100': '1', 4s: '89', '50': '6', 6s: '30', Ave: '32.83', BF: '789',
+    HS: 105*, Inns: '40', Mat: '44', 'NO': '9', Player: AB de Villiers, Runs: '1018',
+    SR: '129.02', Span: 2004-2009}
+  - {'0': '2', '100': '0', 4s: '145', '50': '11', 6s: '17', Ave: '31.00', BF: '977',
+    HS: '86', Inns: '43', Mat: '44', 'NO': '4', Player: G Gambhir, Runs: '1209', SR: '123.74',
+    Span: 2007-2009}
+  - {'0': '2', '100': '0', 4s: '59', '50': '2', 6s: '16', Ave: '26.83', BF: '505',
+    HS: 56*, Inns: '33', Mat: '42', 'NO': '9', Player: KD Karthik, Runs: '644', SR: '127.52',
+    Span: 2006-2009}
+  - {'0': '1', '100': '0', 4s: '17', '50': '0', 6s: '7', Ave: '19.46', BF: '197',
+    HS: '43', Inns: '18', Mat: '19', 'NO': '5', Player: AB McDonald, Runs: '253',
+    SR: '128.42', Span: 2006-2009}
+  - {'0': '2', '100': '0', 4s: '16', '50': '0', 6s: '10', Ave: '21.54', BF: '190',
+    HS: '39', Inns: '20', Mat: '29', 'NO': '9', Player: MF Maharoof, Runs: '237',
+    SR: '124.73', Span: 2004-2009}
+  - {'0': '2', '100': '0', 4s: '19', '50': '0', 6s: '2', Ave: '24.85', BF: '137',
+    HS: '30', Inns: '10', Mat: '16', 'NO': '3', Player: M Manhas, Runs: '174', SR: '127.00',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '20.00', BF: '20', HS: '20',
+    Inns: '1', Mat: '1', 'NO': '0', Player: Y Nagar, Runs: '20', SR: '100.00', Span: 2009-2009}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '4.00', BF: '14', HS: 2*,
+    Inns: '6', Mat: '26', 'NO': '5', Player: A Nehra, Runs: '4', SR: '28.57', Span: 2008-2009}
+  - {'0': '-', '100': '-', 4s: '-', '50': '-', 6s: '-', Ave: '-', BF: '-', HS: '-',
+    Inns: '-', Mat: '8', 'NO': '-', Player: AM Salvi, Runs: '-', SR: '-', Span: 2007-2009}
+  - {'0': '5', '100': '0', 4s: '109', '50': '5', 6s: '41', Ave: '23.50', BF: '598',
+    HS: 94*, Inns: '44', Mat: '45', 'NO': '4', Player: V Sehwag, Runs: '940', SR: '157.19',
+    Span: 2003-2009}
+  - {'0': '1', '100': '0', 4s: '27', '50': '0', 6s: '4', Ave: '18.28', BF: '202',
+    HS: '47', Inns: '19', Mat: '28', 'NO': '5', Player: DL Vettori, Runs: '256', SR: '126.73',
+    Span: 2006-2009}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '39', Econ: '-', Inns: '-', Mat: '44',
+    Mdns: '-', Overs: '-', Player: AB de Villiers, Runs: '-', SR: '-', Span: 2004-2009,
+    St: '4', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '7', Econ: '-', Inns: '-', Mat: '44',
+    Mdns: '-', Overs: '-', Player: G Gambhir, Runs: '-', SR: '-', Span: 2007-2009,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '30', Econ: '-', Inns: '-', Mat: '42',
+    Mdns: '-', Overs: '-', Player: KD Karthik, Runs: '-', SR: '-', Span: 2006-2009,
+    St: '13', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '24.93', BBI: 3/20, Ct: '5', Econ: '7.79', Inns: '16',
+    Mat: '19', Mdns: '0', Overs: '48.0', Player: AB McDonald, Runs: '374', SR: '19.2',
+    Span: 2006-2009, St: '0', Wkts: '15'}
+  - {'4': '0', '5': '0', Ave: '21.69', BBI: 3/21, Ct: '7', Econ: '7.16', Inns: '29',
+    Mat: '29', Mdns: '0', Overs: '100.0', Player: MF Maharoof, Runs: '716', SR: '18.1',
+    Span: 2004-2009, St: '0', Wkts: '33'}
+  - {'4': '0', '5': '0', Ave: '15.66', BBI: 3/33, Ct: '3', Econ: '9.40', Inns: '2',
+    Mat: '16', Mdns: '0', Overs: '5.0', Player: M Manhas, Runs: '47', SR: '10.0',
+    Span: 2007-2009, St: '0', Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '10.00', BBI: 2/20, Ct: '1', Econ: '10.00', Inns: '1',
+    Mat: '1', Mdns: '0', Overs: '2.0', Player: Y Nagar, Runs: '20', SR: '6.0', Span: 2009-2009,
+    St: '0', Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '21.86', BBI: 3/13, Ct: '10', Econ: '7.14', Inns: '26',
+    Mat: '26', Mdns: '1', Overs: '91.5', Player: A Nehra, Runs: '656', SR: '18.3',
+    Span: 2008-2009, St: '0', Wkts: '30'}
+  - {'4': '0', '5': '0', Ave: '28.42', BBI: 3/28, Ct: '2', Econ: '7.65', Inns: '8',
+    Mat: '8', Mdns: '0', Overs: '26.0', Player: AM Salvi, Runs: '199', SR: '22.2',
+    Span: 2007-2009, St: '0', Wkts: '7'}
+  - {'4': '0', '5': '0', Ave: '21.56', BBI: 3/14, Ct: '8', Econ: '8.21', Inns: '16',
+    Mat: '45', Mdns: '0', Overs: '42.0', Player: V Sehwag, Runs: '345', SR: '15.7',
+    Span: 2003-2009, St: '0', Wkts: '16'}
+  - {'4': '1', '5': '0', Ave: '17.77', BBI: 4/20, Ct: '12', Econ: '6.02', Inns: '28',
+    Mat: '28', Mdns: '0', Overs: '106.1', Player: DL Vettori, Runs: '640', SR: '17.6',
+    Span: 2006-2009, St: '0', Wkts: '36'}
+RoyalChallengersBangalore:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '24', '50': '0', 6s: '7', Ave: '19.16', BF: '157',
+    HS: '35', Inns: '19', Mat: '21', 'NO': '7', Player: B Akhil, Runs: '230', SR: '146.49',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '62', '50': '2', 6s: '19', Ave: '31.50', BF: '662',
+    HS: 57*, Inns: '36', Mat: '39', 'NO': '12', Player: MV Boucher, Runs: '756', SR: '114.19',
+    Span: 2004-2009}
+  - {'0': '3', '100': '0', 4s: '66', '50': '4', 6s: '14', Ave: '26.58', BF: '514',
+    HS: 75*, Inns: '25', Mat: '26', 'NO': '1', Player: R Dravid, Runs: '638', SR: '124.12',
+    Span: 2007-2009}
+  - {'0': '3', '100': '0', 4s: '74', '50': '5', 6s: '17', Ave: '25.50', BF: '658',
+    HS: 69*, Inns: '31', Mat: '31', 'NO': '3', Player: JH Kallis, Runs: '714', SR: '108.51',
+    Span: 2004-2009}
+  - {'0': '1', '100': '0', 4s: '55', '50': '2', 6s: '11', Ave: '20.76', BF: '478',
+    HS: '76', Inns: '27', Mat: '31', 'NO': '1', Player: V Kohli, Runs: '540', SR: '112.97',
+    Span: 2007-2009}
+  - {'0': '4', '100': '0', 4s: '24', '50': '1', 6s: '14', Ave: '16.00', BF: '227',
+    HS: 76*, Inns: '24', Mat: '28', 'NO': '6', Player: P Kumar, Runs: '288', SR: '126.87',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '9.00', BF: '42', HS: '8',
+    Inns: '12', Mat: '25', 'NO': '8', Player: A Kumble, Runs: '36', SR: '85.71', Span: 2006-2009}
+  - {'0': '2', '100': '0', 4s: '10', '50': '1', 6s: '1', Ave: '14.88', BF: '113',
+    HS: '67', Inns: '10', Mat: '12', 'NO': '1', Player: MK Pandey, Runs: '134', SR: '118.58',
+    Span: 2007-2009}
+  - {'0': '3', '100': '1', 4s: '83', '50': '5', 6s: '66', Ave: '32.81', BF: '682',
+    HS: 111*, Inns: '36', Mat: '37', 'NO': '3', Player: LRPL Taylor, Runs: '1083',
+    SR: '158.79', Span: 2006-2009}
+  - {'0': '2', '100': '0', 4s: '87', '50': '2', 6s: '21', Ave: '22.10', BF: '707',
+    HS: 66*, Inns: '43', Mat: '44', 'NO': '6', Player: RV Uthappa, Runs: '818', SR: '115.70',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '31', '50': '2', 6s: '14', Ave: '21.80', BF: '243',
+    HS: 70*, Inns: '17', Mat: '20', 'NO': '2', Player: RE van der Merwe, Runs: '327',
+    SR: '134.56', Span: 2008-2009}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '28.07', BBI: 3/16, Ct: '6', Econ: '6.87', Inns: '19',
+    Mat: '21', Mdns: '1', Overs: '57.1', Player: B Akhil, Runs: '393', SR: '24.5',
+    Span: 2007-2009, St: '0', Wkts: '14'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '24', Econ: '-', Inns: '-', Mat: '39',
+    Mdns: '-', Overs: '-', Player: MV Boucher, Runs: '-', SR: '-', Span: 2004-2009,
+    St: '3', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '4', Econ: '-', Inns: '-', Mat: '26',
+    Mdns: '-', Overs: '-', Player: R Dravid, Runs: '-', SR: '-', Span: 2007-2009,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '66.00', BBI: 2/18, Ct: '13', Econ: '8.64', Inns: '25',
+    Mat: '31', Mdns: '1', Overs: '76.2', Player: JH Kallis, Runs: '660', SR: '45.8',
+    Span: 2004-2009, St: '0', Wkts: '10'}
+  - {'4': '0', '5': '0', Ave: '41.00', BBI: 2/25, Ct: '13', Econ: '7.68', Inns: '6',
+    Mat: '31', Mdns: '0', Overs: '10.4', Player: V Kohli, Runs: '82', SR: '32.0',
+    Span: 2007-2009, St: '0', Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '25.17', BBI: 3/23, Ct: '4', Econ: '7.32', Inns: '28',
+    Mat: '28', Mdns: '3', Overs: '99.4', Player: P Kumar, Runs: '730', SR: '20.6',
+    Span: 2007-2009, St: '0', Wkts: '29'}
+  - {'4': '0', '5': '1', Ave: '24.15', BBI: 5/5, Ct: '7', Econ: '6.72', Inns: '25',
+    Mat: '25', Mdns: '1', Overs: '93.2', Player: A Kumble, Runs: '628', SR: '21.5',
+    Span: 2006-2009, St: '0', Wkts: '26'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '1', Econ: '-', Inns: '-', Mat: '12',
+    Mdns: '-', Overs: '-', Player: MK Pandey, Runs: '-', SR: '-', Span: 2007-2009,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '25.14', BBI: 3/28, Ct: '18', Econ: '9.26', Inns: '7',
+    Mat: '37', Mdns: '0', Overs: '19.0', Player: LRPL Taylor, Runs: '176', SR: '16.2',
+    Span: 2006-2009, St: '0', Wkts: '7'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '18', Econ: '-', Inns: '-', Mat: '44',
+    Mdns: '-', Overs: '-', Player: RV Uthappa, Runs: '-', SR: '-', Span: 2007-2009,
+    St: '1', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '19.92', BBI: 3/18, Ct: '8', Econ: '7.52', Inns: '20',
+    Mat: '20', Mdns: '1', Overs: '66.1', Player: RE van der Merwe, Runs: '498', SR: '15.8',
+    Span: 2008-2009, St: '0', Wkts: '25'}

@@ -1,0 +1,111 @@
+Kolkata Knight Riders:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '3.86', BF: '40', HS: '15',
+    Inns: '12', Mat: '52', 'NO': '5', Player: L Balaji, Runs: '27', SR: '67.5', Span: 2008-2011}
+  - {'0': '3', '100': '0', 4s: '25', '50': '0', 6s: '10', Ave: '17.86', BF: '333',
+    HS: '44', Inns: '30', Mat: '50', 'NO': '9', Player: R Bhatia, Runs: '375', SR: '112.61',
+    Span: 2007-2011}
+  - {'0': '0', '100': '0', 4s: '88', '50': '4', 6s: '37', Ave: '27.8', BF: '1069',
+    HS: '60', Inns: '67', Mat: '81', 'NO': '23', Player: MV Boucher, Runs: '1223',
+    SR: '114.41', Span: 2004-2011}
+  - {'0': '5', '100': '0', 4s: '257', '50': '16', 6s: '22', Ave: '29.44', BF: '1761',
+    HS: '86', Inns: '81', Mat: '83', 'NO': '8', Player: G Gambhir, Runs: '2149', SR: '122.03',
+    Span: 2007-2011}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '2', Ave: '16.75', BF: '64', HS: '21',
+    Inns: '11', Mat: '31', 'NO': '7', Player: Iqbal Abdulla, Runs: '67', SR: '104.69',
+    Span: 2007-2011}
+  - {'0': '5', '100': '0', 4s: '238', '50': '20', 6s: '48', Ave: '35.14', BF: '2044',
+    HS: '89', Inns: '78', Mat: '78', 'NO': '12', Player: JH Kallis, Runs: '2319',
+    SR: '113.45', Span: 2004-2011}
+  - {'0': '3', '100': '0', 4s: '18', '50': '0', 6s: '12', Ave: '15.53', BF: '178',
+    HS: '48', Inns: '28', Mat: '51', 'NO': '13', Player: B Lee, Runs: '233', SR: '130.9',
+    Span: 2005-2011}
+  - {'0': '4', '100': '0', 4s: '140', '50': '7', 6s: '52', Ave: '26.02', BF: '1186',
+    HS: '85', Inns: '70', Mat: '77', 'NO': '11', Player: EJG Morgan, Runs: '1535',
+    SR: '129.43', Span: 2006-2011}
+  - {'0': '6', '100': '1', 4s: '140', '50': '9', 6s: '104', Ave: '24.74', BF: '1036',
+    HS: '100', Inns: '77', Mat: '85', 'NO': '9', Player: YK Pathan, Runs: '1682',
+    SR: '162.36', Span: 2007-2011}
+  - {'0': '4', '100': '0', 4s: '105', '50': '8', 6s: '33', Ave: '35.22', BF: '1062',
+    HS: '75', Inns: '50', Mat: '56', 'NO': '14', Player: MK Tiwary, Runs: '1268',
+    SR: '119.4', Span: 2007-2011}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '2.0', BF: '7', HS: '2',
+    Inns: '2', Mat: '13', 'NO': '1', Player: JD Unadkat, Runs: '2', SR: '28.57', Span: 2010-2011}
+- bowling averages:
+  - {'4': '1', '5': '1', Ave: '25.09', Econ: '7.57', Inns: '52', Mat: '52', Overs: '174.3',
+    Player: L Balaji, Runs: '1355', SR: '19.39', Span: 2008-2011, Wkts: '54'}
+  - {'4': '1', '5': '0', Ave: '25.21', Econ: '7.17', Inns: '47', Mat: '50', Overs: '132.1',
+    Player: R Bhatia, Runs: '958', SR: '20.87', Span: 2007-2011, Wkts: '38'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '81', Overs: '0.0',
+    Player: MV Boucher, Runs: '0', SR: '0', Span: 2004-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '83', Overs: '0.0',
+    Player: G Gambhir, Runs: '0', SR: '0', Span: 2007-2011, Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '18.85', Econ: '5.74', Inns: '31', Mat: '31', Overs: '105.4',
+    Player: Iqbal Abdulla, Runs: '641', SR: '18.65', Span: 2007-2011, Wkts: '34'}
+  - {'4': '0', '5': '0', Ave: '41.03', Econ: '7.87', Inns: '65', Mat: '78', Overs: '200.2',
+    Player: JH Kallis, Runs: '1600', SR: '30.82', Span: 2004-2011, Wkts: '39'}
+  - {'4': '0', '5': '0', Ave: '31.29', Econ: '7.06', Inns: '51', Mat: '51', Overs: '186.0',
+    Player: B Lee, Runs: '1314', SR: '26.57', Span: 2005-2011, Wkts: '42'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '77', Overs: '0.0',
+    Player: EJG Morgan, Runs: '0', SR: '0', Span: 2006-2011, Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '24.18', Econ: '7.52', Inns: '71', Mat: '85', Overs: '209.0',
+    Player: YK Pathan, Runs: '1572', SR: '19.29', Span: 2007-2011, Wkts: '65'}
+  - {'4': '0', '5': '0', Ave: '26.2', Econ: '7.28', Inns: '18', Mat: '56', Overs: '36.0',
+    Player: MK Tiwary, Runs: '262', SR: '21.6', Span: 2007-2011, Wkts: '10'}
+  - {'4': '0', '5': '0', Ave: '15.26', Econ: '7.07', Inns: '12', Mat: '13', Overs: '41.0',
+    Player: JD Unadkat, Runs: '290', SR: '12.95', Span: 2010-2011, Wkts: '19'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '12', HS: '4',
+    Inns: '3', Mat: '21', 'NO': '3', Player: S Aravind, Runs: '8', SR: '66.67', Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '19', '50': '1', 6s: '6', Ave: '29.43', BF: '163',
+    HS: '58', Inns: '10', Mat: '11', 'NO': '3', Player: KB Arun Karthik, Runs: '206',
+    SR: '126.38', Span: 2009-2011}
+  - {'0': '7', '100': '1', 4s: '137', '50': '11', 6s: '59', Ave: '29.74', BF: '1436',
+    HS: '105', Inns: '75', Mat: '82', 'NO': '14', Player: AB de Villiers, Runs: '1814',
+    SR: '126.32', Span: 2004-2011}
+  - {'0': '5', '100': '3', 4s: '186', '50': '11', 6s: '117', Ave: '35.87', BF: '1302',
+    HS: '117', Inns: '61', Mat: '62', 'NO': '7', Player: CH Gayle, Runs: '1937', SR: '148.77',
+    Span: 2005-2011}
+  - {'0': '2', '100': '0', 4s: '68', '50': '4', 6s: '11', Ave: '21.53', BF: '591',
+    HS: '68', Inns: '36', Mat: '41', 'NO': '6', Player: M Kaif, Runs: '646', SR: '109.31',
+    Span: 2003-2011}
+  - {'0': '3', '100': '0', 4s: '13', '50': '0', 6s: '2', Ave: '9.71', BF: '139', HS: '26',
+    Inns: '32', Mat: '70', 'NO': '18', Player: Z Khan, Runs: '136', SR: '97.84', Span: 2006-2011}
+  - {'0': '1', '100': '0', 4s: '153', '50': '6', 6s: '44', Ave: '29.42', BF: '1204',
+    HS: '76', Inns: '63', Mat: '72', 'NO': '11', Player: V Kohli, Runs: '1530', SR: '127.08',
+    Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '7.2', BF: '46', HS: '9',
+    Inns: '15', Mat: '67', 'NO': '10', Player: CK Langeveldt, Runs: '36', SR: '78.26',
+    Span: 2004-2011}
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '2.4', BF: '14', HS: '6',
+    Inns: '7', Mat: '15', 'NO': '2', Player: A Mithun, Runs: '12', SR: '85.71', Span: 2009-2011}
+  - {'0': '1', '100': '0', 4s: '47', '50': '2', 6s: '28', Ave: '23.83', BF: '441',
+    HS: '79', Inns: '29', Mat: '30', 'NO': '5', Player: LA Pomersbach, Runs: '572',
+    SR: '129.71', Span: 2006-2011}
+  - {'0': '2', '100': '0', 4s: '82', '50': '5', 6s: '36', Ave: '29.31', BF: '714',
+    HS: '69', Inns: '38', Mat: '44', 'NO': '6', Player: SS Tiwary, Runs: '938', SR: '131.37',
+    Span: 2007-2011}
+- bowling averages:
+  - {'4': '2', '5': '0', Ave: '17.15', Econ: '6.43', Inns: '20', Mat: '21', Overs: '67.3',
+    Player: S Aravind, Runs: '463', SR: '15.0', Span: 2007-2011, Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '22.0', Econ: '11.0', Inns: '2', Mat: '11', Overs: '4.0',
+    Player: KB Arun Karthik, Runs: '44', SR: '12.0', Span: 2009-2011, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '82', Overs: '0.0',
+    Player: AB de Villiers, Runs: '0', SR: '0', Span: 2004-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '27.41', Econ: '6.91', Inns: '50', Mat: '62', Overs: '140.4',
+    Player: CH Gayle, Runs: '1014', SR: '22.81', Span: 2005-2011, Wkts: '37'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '41', Overs: '0.0',
+    Player: M Kaif, Runs: '0', SR: '0', Span: 2003-2011, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '29.26', Econ: '7.8', Inns: '70', Mat: '70', Overs: '259.0',
+    Player: Z Khan, Runs: '2019', SR: '22.52', Span: 2006-2011, Wkts: '69'}
+  - {'4': '0', '5': '0', Ave: '101.33', Econ: '8.22', Inns: '20', Mat: '72', Overs: '37.0',
+    Player: V Kohli, Runs: '304', SR: '74.0', Span: 2007-2011, Wkts: '3'}
+  - {'4': '4', '5': '1', Ave: '17.46', Econ: '6.87', Inns: '66', Mat: '67', Overs: '239.0',
+    Player: CK Langeveldt, Runs: '1641', SR: '15.26', Span: 2004-2011, Wkts: '94'}
+  - {'4': '0', '5': '0', Ave: '44.11', Econ: '9.02', Inns: '15', Mat: '15', Overs: '44.0',
+    Player: A Mithun, Runs: '397', SR: '29.33', Span: 2009-2011, Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '30', Overs: '0.0',
+    Player: LA Pomersbach, Runs: '0', SR: '0', Span: 2006-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '44', Overs: '0.0',
+    Player: SS Tiwary, Runs: '0', SR: '0', Span: 2007-2011, Wkts: '0'}

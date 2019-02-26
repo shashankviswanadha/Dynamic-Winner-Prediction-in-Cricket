@@ -1,0 +1,114 @@
+Delhi Daredevils:
+- batting averages:
+  - {'0': '5', '100': '3', 4s: '363', '50': '16', 6s: '118', Ave: '34.52', BF: '2389',
+    HS: '126', Inns: '105', Mat: '111', 'NO': '10', Player: Q de Kock, Runs: '3279',
+    SR: '137.25', Span: 2011-2016}
+  - {'0': '11', '100': '0', 4s: '363', '50': '33', 6s: '170', Ave: '38.48', BF: '4081',
+    HS: '99', Inns: '191', Mat: '203', 'NO': '61', Player: JP Duminy, Runs: '5002',
+    SR: '122.57', Span: 2004-2016}
+  - {'0': '3', '100': '0', 4s: '11', '50': '0', 6s: '4', Ave: '9.42', BF: '89', HS: '17',
+    Inns: '23', Mat: '124', 'NO': '11', Player: Imran Tahir, Runs: '113', SR: '126.97',
+    Span: 2006-2016}
+  - {'0': '7', '100': '0', 4s: '17', '50': '0', 6s: '3', Ave: '9.25', BF: '204', HS: '26',
+    Inns: '45', Mat: '119', 'NO': '25', Player: Z Khan, Runs: '185', SR: '90.69',
+    Span: 2006-2016}
+  - {'0': '13', '100': '0', 4s: '62', '50': '0', 6s: '5', Ave: '13.79', BF: '668',
+    HS: '49', Inns: '77', Mat: '157', 'NO': '30', Player: A Mishra, Runs: '648', SR: '97.01',
+    Span: 2007-2016}
+  - {'0': '8', '100': '0', 4s: '44', '50': '0', 6s: '32', Ave: '21.0', BF: '435',
+    HS: '-1', Inns: '58', Mat: '109', 'NO': '27', Player: CH Morris, Runs: '651',
+    SR: '149.66', Span: 2011-2016}
+  - {'0': '3', '100': '0', 4s: '12', '50': '0', 6s: '5', Ave: '8.81', BF: '205', HS: '36',
+    Inns: '31', Mat: '79', 'NO': '10', Player: S Nadeem, Runs: '185', SR: '90.24',
+    Span: 2007-2016}
+  - {'0': '1', '100': '0', 4s: '89', '50': '6', 6s: '23', Ave: '21.05', BF: '722',
+    HS: '73', Inns: '49', Mat: '54', 'NO': '7', Player: KK Nair, Runs: '884', SR: '122.44',
+    Span: 2013-2016}
+  - {'0': '2', '100': '0', 4s: '40', '50': '0', 6s: '22', Ave: '19.54', BF: '386',
+    HS: '41', Inns: '46', Mat: '61', 'NO': '20', Player: P Negi, Runs: '508', SR: '131.61',
+    Span: 2011-2016}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '0', HS: '-1',
+    Inns: '0', Mat: '0', 'NO': '0', Player: RR Pant, Runs: '0', SR: '0', Span: 2016-2016}
+  - {'0': '6', '100': '0', 4s: '145', '50': '13', 6s: '65', Ave: '25.55', BF: '1485',
+    HS: '87', Inns: '76', Mat: '81', 'NO': '7', Player: SV Samson, Runs: '1763', SR: '118.72',
+    Span: 2011-2016}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '111', Overs: '0.0',
+    Player: Q de Kock, Runs: '0', SR: '0', Span: 2011-2016, Wkts: '0'}
+  - {'4': '3', '5': '0', Ave: '28.45', Econ: '7.45', Inns: '112', Mat: '203', Overs: '245.2',
+    Player: JP Duminy, Runs: '1849', SR: '22.65', Span: 2004-2016, Wkts: '65'}
+  - {'4': '3', '5': '0', Ave: '20.83', Econ: '6.82', Inns: '119', Mat: '124', Overs: '443.0',
+    Player: Imran Tahir, Runs: '3020', SR: '18.33', Span: 2006-2016, Wkts: '145'}
+  - {'4': '2', '5': '0', Ave: '26.8', Econ: '7.37', Inns: '118', Mat: '119', Overs: '437.4',
+    Player: Z Khan, Runs: '3270', SR: '21.52', Span: 2006-2016, Wkts: '122'}
+  - {'4': '4', '5': '2', Ave: '20.46', Econ: '6.89', Inns: '156', Mat: '157', Overs: '556.5',
+    Player: A Mishra, Runs: '3887', SR: '17.58', Span: 2007-2016, Wkts: '190'}
+  - {'4': '5', '5': '0', Ave: '21.81', Econ: '7.46', Inns: '107', Mat: '109', Overs: '385.4',
+    Player: CH Morris, Runs: '2923', SR: '17.27', Span: 2011-2016, Wkts: '134'}
+  - {'4': '0', '5': '0', Ave: '27.41', Econ: '6.49', Inns: '77', Mat: '79', Overs: '287.0',
+    Player: S Nadeem, Runs: '1864', SR: '25.32', Span: 2007-2016, Wkts: '68'}
+  - {'4': '0', '5': '0', Ave: '27.5', Econ: '6.88', Inns: '6', Mat: '54', Overs: '8.0',
+    Player: KK Nair, Runs: '55', SR: '24.0', Span: 2013-2016, Wkts: '2'}
+  - {'4': '1', '5': '1', Ave: '27.23', Econ: '7.18', Inns: '54', Mat: '61', Overs: '170.5',
+    Player: P Negi, Runs: '1280', SR: '21.81', Span: 2011-2016, Wkts: '47'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '0', Overs: '0.0', Player: RR
+      Pant, Runs: '0', SR: '0', Span: 2016-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '4.0', Econ: '0.8', Inns: '1', Mat: '81', Overs: '0.3',
+    Player: SV Samson, Runs: '4', SR: '3.0', Span: 2011-2016, Wkts: '1'}
+Gujarat Lions:
+- batting averages:
+  - {'0': '11', '100': '0', 4s: '319', '50': '17', 6s: '207', Ave: '26.28', BF: '3761',
+    HS: '70', Inns: '248', Mat: '296', 'NO': '69', Player: DJ Bravo, Runs: '4704',
+    SR: '125.07', Span: 2006-2016}
+  - {'0': '2', '100': '0', 4s: '55', '50': '1', 6s: '50', Ave: '22.02', BF: '933',
+    HS: '73', Inns: '94', Mat: '128', 'NO': '40', Player: JP Faulkner, Runs: '1189',
+    SR: '127.44', Span: 2009-2016}
+  - {'0': '2', '100': '0', 4s: '23', '50': '0', 6s: '6', Ave: '16.4', BF: '264', HS: '48',
+    Inns: '15', Mat: '15', 'NO': '0', Player: Ishan Kishan, Runs: '246', SR: '93.18',
+    Span: 2014-2016}
+  - {'0': '8', '100': '0', 4s: '121', '50': '0', 6s: '61', Ave: '20.64', BF: '1418',
+    HS: '48', Inns: '118', Mat: '170', 'NO': '34', Player: RA Jadeja, Runs: '1734',
+    SR: '122.28', Span: 2007-2016}
+  - {'0': '11', '100': '0', 4s: '341', '50': '16', 6s: '96', Ave: '24.33', BF: '2703',
+    HS: '90', Inns: '164', Mat: '188', 'NO': '22', Player: KD Karthik, Runs: '3455',
+    SR: '127.82', Span: 2006-2016}
+  - {'0': '0', '100': '0', 4s: '7', '50': '0', 6s: '3', Ave: '13.33', BF: '129', HS: '28',
+    Inns: '24', Mat: '83', 'NO': '15', Player: DS Kulkarni, Runs: '120', SR: '93.02',
+    Span: 2007-2016}
+  - {'0': '11', '100': '0', 4s: '49', '50': '1', 6s: '28', Ave: '12.3', BF: '516',
+    HS: '76', Inns: '76', Mat: '151', 'NO': '26', Player: P Kumar, Runs: '615', SR: '119.19',
+    Span: 2007-2016}
+  - {'0': '11', '100': '7', 4s: '614', '50': '31', 6s: '297', Ave: '32.29', BF: '4676',
+    HS: '158', Inns: '221', Mat: '224', 'NO': '22', Player: BB McCullum, Runs: '6426',
+    SR: '137.43', Span: 2005-2016}
+  - {'0': '10', '100': '3', 4s: '533', '50': '34', 6s: '239', Ave: '33.52', BF: '4369',
+    HS: '109', Inns: '218', Mat: '232', 'NO': '36', Player: SK Raina, Runs: '6101',
+    SR: '139.64', Span: 2006-2016}
+  - {'0': '19', '100': '3', 4s: '527', '50': '32', 6s: '277', Ave: '26.27', BF: '4462',
+    HS: '110', Inns: '237', Mat: '244', 'NO': '21', Player: DR Smith, Runs: '5674',
+    SR: '127.16', Span: 2006-2016}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '7.25', BF: '48', HS: '14',
+    Inns: '10', Mat: '51', 'NO': '6', Player: PV Tambe, Runs: '29', SR: '60.42', Span: 2013-2016}
+- bowling averages:
+  - {'4': '7', '5': '1', Ave: '24.38', Econ: '8.04', Inns: '280', Mat: '296', Overs: '922.0',
+    Player: DJ Bravo, Runs: '7412', SR: '18.2', Span: 2006-2016, Wkts: '304'}
+  - {'4': '1', '5': '3', Ave: '23.1', Econ: '7.8', Inns: '128', Mat: '128', Overs: '450.2',
+    Player: JP Faulkner, Runs: '3535', SR: '17.66', Span: 2009-2016, Wkts: '153'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '15', Overs: '0.0',
+    Player: Ishan Kishan, Runs: '0', SR: '0', Span: 2014-2016, Wkts: '0'}
+  - {'4': '3', '5': '1', Ave: '28.97', Econ: '7.51', Inns: '145', Mat: '170', Overs: '431.3',
+    Player: RA Jadeja, Runs: '3274', SR: '22.91', Span: 2007-2016, Wkts: '113'}
+  - {'4': '0', '5': '0', Ave: '10.0', Econ: '5.0', Inns: '1', Mat: '188', Overs: '2.0',
+    Player: KD Karthik, Runs: '10', SR: '12.0', Span: 2006-2016, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '24.81', Econ: '7.65', Inns: '82', Mat: '83', Overs: '274.3',
+    Player: DS Kulkarni, Runs: '2134', SR: '19.15', Span: 2007-2016, Wkts: '86'}
+  - {'4': '0', '5': '0', Ave: '32.63', Econ: '7.41', Inns: '151', Mat: '151', Overs: '533.0',
+    Player: P Kumar, Runs: '3948', SR: '26.43', Span: 2007-2016, Wkts: '121'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '224', Overs: '0.0',
+    Player: BB McCullum, Runs: '0', SR: '0', Span: 2005-2016, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '29.74', Econ: '6.95', Inns: '95', Mat: '232', Overs: '209.3',
+    Player: SK Raina, Runs: '1487', SR: '25.14', Span: 2006-2016, Wkts: '50'}
+  - {'4': '1', '5': '0', Ave: '26.21', Econ: '7.84', Inns: '132', Mat: '244', Overs: '301.0',
+    Player: DR Smith, Runs: '2359', SR: '20.07', Span: 2006-2016, Wkts: '90'}
+  - {'4': '2', '5': '0', Ave: '21.68', Econ: '6.91', Inns: '51', Mat: '51', Overs: '185.0',
+    Player: PV Tambe, Runs: '1279', SR: '18.81', Span: 2013-2016, Wkts: '59'}

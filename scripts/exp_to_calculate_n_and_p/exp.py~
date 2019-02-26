@@ -1,0 +1,48 @@
+import yaml
+import sys
+sys.path.append("/home/shashank/intern_17/scripts/")
+from match_sim import *
+from os import listdir
+from os.path import isfile, join
+
+def yaml_loader(filepath):
+    with open(filepath,'r') as file_descriptor:
+        data = yaml.load(file_descriptor)
+    return data
+
+def yaml_dump(filepath,data):
+    with open(filepath,"w") as file_descriptor:
+        yaml.dump(data,file_descriptor)
+
+def rank_players_in_match(matchState):
+    batsman = {}
+    bowlers = {}
+    teams = [matchState.team_a,matchState.team_b]
+    for team in teams:
+        for pl in team.player_list:
+            if pl.balls_played > 0 or pl.is_batting > 0:
+                batsman[pl.name] = pl.runs_scored * float(pl.runs_scored)/float(pl.balls_played)
+            if pl.balls_bowled > 0:
+                if pl.wickets_taken == 0:
+                    strike_rate = 24.0
+                else:
+                    strike_rate = float(pl.balls_bowled)/float(pl.wickets_taken)
+                if pl.runs_conceded == 0:
+                    pl.runs_conceded = 1
+                i,d = divmod(pl.overs_bowled,1)
+                econ = float(pl.runs_conceded)/(i + 100*d/6)
+                bowlers[pl.name] = round(1/(econ*strike_rate),7)
+
+    return (batsman,bowlers)
+
+
+
+name = '419106.yaml'
+n = 3
+p = 0.2
+last_n_path = '/home/shashank/intern_17/data/last_' + str(n) + '_scores/'
+
+ball_by_ball = load_ball_by_ball_data(name)
+matchState = initialize_match(ball_by_ball,name)
+simulate_match(ball_by_ball,matchState)
+print rank_players_in_match(matchState)

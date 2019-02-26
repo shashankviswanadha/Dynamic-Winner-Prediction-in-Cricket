@@ -1,0 +1,113 @@
+Deccan Chargers:
+- batting averages:
+  - {'0': '14', '100': '0', 4s: '188', '50': '14', 6s: '61', Ave: '25.92', BF: '1513',
+    HS: '98', Inns: '78', Mat: '80', 'NO': '6', Player: HH Gibbs, Runs: '1866', SR: '123.33',
+    Span: 2004-2010}
+  - {'0': '5', '100': '1', 4s: '165', '50': '8', 6s: '79', Ave: '28.2', BF: '1025',
+    HS: '109', Inns: '56', Mat: '56', 'NO': '2', Player: AC Gilchrist, Runs: '1523',
+    SR: '148.59', Span: 2005-2010}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0.0', BF: '0', HS: '0',
+    Inns: '2', Mat: '12', 'NO': '1', Player: Harmeet Singh, Runs: '0', SR: '0', Span: 2009-2010}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '3', Ave: '10.45', BF: '113', HS: '31',
+    Inns: '18', Mat: '33', 'NO': '7', Player: RJ Harris, Runs: '115', SR: '101.77',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '35', '50': '2', 6s: '10', Ave: '26.09', BF: '202',
+    HS: '84', Inns: '12', Mat: '12', 'NO': '1', Player: MD Mishra, Runs: '287', SR: '142.08',
+    Span: 2007-2010}
+  - {'0': '4', '100': '0', 4s: '0', '50': '0', 6s: '2', Ave: '4.43', BF: '29', HS: '11',
+    Inns: '17', Mat: '50', 'NO': '10', Player: PP Ojha, Runs: '31', SR: '106.9', Span: 2007-2010}
+  - {'0': '2', '100': '1', 4s: '147', '50': '8', 6s: '74', Ave: '32.38', BF: '1296',
+    HS: '101', Inns: '65', Mat: '68', 'NO': '12', Player: RG Sharma, Runs: '1716',
+    SR: '132.41', Span: 2007-2010}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '4.87', BF: '96', HS: '10',
+    Inns: '29', Mat: '57', 'NO': '14', Player: RP Singh, Runs: '73', SR: '76.04',
+    Span: 2007-2010}
+  - {'0': '4', '100': '0', 4s: '46', '50': '2', 6s: '18', Ave: '28.55', BF: '479',
+    HS: '78', Inns: '28', Mat: '28', 'NO': '8', Player: TL Suman, Runs: '571', SR: '119.21',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '6', '50': '0', 6s: '2', Ave: '28.67', BF: '62', HS: '46',
+    Inns: '7', Mat: '9', 'NO': '4', Player: B Sumanth, Runs: '86', SR: '138.71', Span: 2007-2010}
+  - {'0': '5', '100': '2', 4s: '156', '50': '9', 6s: '60', Ave: '39.39', BF: '1025',
+    HS: '117', Inns: '54', Mat: '58', 'NO': '13', Player: A Symonds, Runs: '1615',
+    SR: '157.56', Span: 2003-2010}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '80', Overs: '0.0',
+    Player: HH Gibbs, Runs: '0', SR: '0', Span: 2004-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '56', Overs: '0.0',
+    Player: AC Gilchrist, Runs: '0', SR: '0', Span: 2005-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '47.5', Econ: '6.73', Inns: '12', Mat: '12', Overs: '34.5',
+    Player: Harmeet Singh, Runs: '285', SR: '34.83', Span: 2009-2010, Wkts: '6'}
+  - {'4': '0', '5': '0', Ave: '20.42', Econ: '6.84', Inns: '32', Mat: '33', Overs: '120.5',
+    Player: RJ Harris, Runs: '878', SR: '16.86', Span: 2007-2010, Wkts: '43'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '12', Overs: '0.0',
+    Player: MD Mishra, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '18.89', Econ: '6.94', Inns: '49', Mat: '50', Overs: '172.3',
+    Player: PP Ojha, Runs: '1228', SR: '15.92', Span: 2007-2010, Wkts: '65'}
+  - {'4': '1', '5': '0', Ave: '22.15', Econ: '7.11', Inns: '35', Mat: '68', Overs: '81.0',
+    Player: RG Sharma, Runs: '576', SR: '18.69', Span: 2007-2010, Wkts: '26'}
+  - {'4': '2', '5': '0', Ave: '22.25', Econ: '7.67', Inns: '56', Mat: '57', Overs: '206.0',
+    Player: RP Singh, Runs: '1580', SR: '17.41', Span: 2007-2010, Wkts: '71'}
+  - {'4': '0', '5': '0', Ave: '22.91', Econ: '7.88', Inns: '13', Mat: '28', Overs: '32.0',
+    Player: TL Suman, Runs: '252', SR: '17.45', Span: 2007-2010, Wkts: '11'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '5.0', Inns: '1', Mat: '9', Overs: '1.0',
+    Player: B Sumanth, Runs: '5', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '32.7', Econ: '7.91', Inns: '53', Mat: '58', Overs: '153.0',
+    Player: A Symonds, Runs: '1210', SR: '24.81', Span: 2003-2010, Wkts: '37'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '0', BF: '6', HS: '9',
+    Inns: '3', Mat: '9', 'NO': '3', Player: KP Appanna, Runs: '10', SR: '166.67',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '95', '50': '5', 6s: '20', Ave: '26.23', BF: '757',
+    HS: '75', Inns: '37', Mat: '44', 'NO': '2', Player: R Dravid, Runs: '918', SR: '121.27',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '180', '50': '15', 6s: '32', Ave: '36.11', BF: '1395',
+    HS: '89', Inns: '54', Mat: '54', 'NO': '9', Player: JH Kallis, Runs: '1625', SR: '116.49',
+    Span: 2004-2010}
+  - {'0': '1', '100': '0', 4s: '88', '50': '3', 6s: '26', Ave: '24.68', BF: '727',
+    HS: '76', Inns: '43', Mat: '49', 'NO': '6', Player: V Kohli, Runs: '913', SR: '125.58',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '10.0', BF: '47', HS: '8',
+    Inns: '16', Mat: '44', 'NO': '12', Player: A Kumble, Runs: '40', SR: '85.11',
+    Span: 2006-2010}
+  - {'0': '5', '100': '1', 4s: '61', '50': '1', 6s: '13', Ave: '28.23', BF: '503',
+    HS: '114', Inns: '27', Mat: '29', 'NO': '5', Player: MK Pandey, Runs: '621', SR: '123.46',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '2', '50': '0', 6s: '2', Ave: '5.71', BF: '39', HS: '22',
+    Inns: '11', Mat: '54', 'NO': '4', Player: DW Steyn, Runs: '40', SR: '102.56',
+    Span: 2005-2010}
+  - {'0': '3', '100': '1', 4s: '146', '50': '12', 6s: '119', Ave: '33.72', BF: '1223',
+    HS: '111', Inns: '68', Mat: '70', 'NO': '11', Player: LRPL Taylor, Runs: '1922',
+    SR: '157.15', Span: 2006-2010}
+  - {'0': '2', '100': '0', 4s: '120', '50': '6', 6s: '51', Ave: '25.46', BF: '992',
+    HS: '68', Inns: '60', Mat: '64', 'NO': '10', Player: RV Uthappa, Runs: '1273',
+    SR: '128.33', Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '10', '50': '0', 6s: '7', Ave: '10.57', BF: '109',
+    HS: '25', Inns: '21', Mat: '40', 'NO': '7', Player: R Vinay Kumar, Runs: '148',
+    SR: '135.78', Span: 2007-2010}
+  - {'0': '4', '100': '2', 4s: '101', '50': '9', 6s: '85', Ave: '34.21', BF: '1160',
+    HS: '141', Inns: '64', Mat: '67', 'NO': '17', Player: CL White, Runs: '1608',
+    SR: '138.62', Span: 2005-2010}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '35.2', Econ: '7.33', Inns: '9', Mat: '9', Overs: '24.0',
+    Player: KP Appanna, Runs: '176', SR: '28.8', Span: 2007-2010, Wkts: '5'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '44', Overs: '0.0',
+    Player: R Dravid, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '47.6', Econ: '8.17', Inns: '47', Mat: '54', Overs: '144.1',
+    Player: JH Kallis, Runs: '1190', SR: '34.6', Span: 2004-2010, Wkts: '25'}
+  - {'4': '0', '5': '0', Ave: '77.0', Econ: '8.56', Inns: '10', Mat: '49', Overs: '18.0',
+    Player: V Kohli, Runs: '154', SR: '54.0', Span: 2007-2010, Wkts: '2'}
+  - {'4': '1', '5': '1', Ave: '23.81', Econ: '6.66', Inns: '44', Mat: '44', Overs: '168.0',
+    Player: A Kumble, Runs: '1119', SR: '21.45', Span: 2006-2010, Wkts: '47'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '29', Overs: '0.0',
+    Player: MK Pandey, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '24.44', Econ: '6.96', Inns: '53', Mat: '54', Overs: '200.0',
+    Player: DW Steyn, Runs: '1393', SR: '21.05', Span: 2005-2010, Wkts: '57'}
+  - {'4': '0', '5': '0', Ave: '33.63', Econ: '8.97', Inns: '14', Mat: '70', Overs: '30.0',
+    Player: LRPL Taylor, Runs: '269', SR: '22.5', Span: 2006-2010, Wkts: '8'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '64', Overs: '0.0',
+    Player: RV Uthappa, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '25.65', Econ: '7.64', Inns: '40', Mat: '40', Overs: '126.5',
+    Player: R Vinay Kumar, Runs: '1026', SR: '19.02', Span: 2007-2010, Wkts: '40'}
+  - {'4': '1', '5': '0', Ave: '21.68', Econ: '7.99', Inns: '25', Mat: '67', Overs: '53.4',
+    Player: CL White, Runs: '477', SR: '14.64', Span: 2005-2010, Wkts: '22'}

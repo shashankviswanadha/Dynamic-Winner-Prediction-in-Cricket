@@ -1,0 +1,137 @@
+DeccanChargers:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '6', '50': '0', 6s: '11', Ave: '17.25', BF: '90', HS: 29*,
+    Inns: '12', Mat: '17', 'NO': '4', Player: A Ashish Reddy, Runs: '138', SR: '153.33',
+    Span: 2009-2012}
+  - {'0': '3', '100': '0', 4s: '201', '50': '14', 6s: '36', Ave: '29.93', BF: '1590',
+    HS: 95*, Inns: '71', Mat: '72', 'NO': '9', Player: S Dhawan, Runs: '1856', SR: '116.72',
+    Span: 2007-2012}
+  - {'0': '0', '100': '1', 4s: '148', '50': '6', 6s: '45', Ave: '35.42', BF: '963',
+    HS: 108*, Inns: '41', Mat: '43', 'NO': '3', Player: DJ Harris, Runs: '1346', SR: '139.77',
+    Span: 2007-2012}
+  - {'0': '1', '100': '0', 4s: '37', '50': '2', 6s: '8', Ave: '18.15', BF: '454',
+    HS: 54*, Inns: '32', Mat: '37', 'NO': '6', Player: AA Jhunjhunwala, Runs: '472',
+    SR: '103.96', Span: 2007-2012}
+  - {'0': '9', '100': '0', 4s: '45', '50': '0', 6s: '4', Ave: '15.20', BF: '403',
+    HS: '49', Inns: '48', Mat: '84', 'NO': '19', Player: A Mishra, Runs: '441', SR: '109.42',
+    Span: 2007-2012}
+  - {'0': '7', '100': '0', 4s: '158', '50': '4', 6s: '18', Ave: '19.50', BF: '1116',
+    HS: '57', Inns: '68', Mat: '71', 'NO': '5', Player: PA Patel, Runs: '1229', SR: '110.12',
+    Span: 2005-2012}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0.00', BF: '1', HS: '0',
+    Inns: '1', Mat: '7', 'NO': '0', Player: V Pratap Singh, Runs: '0', SR: '0.00',
+    Span: 2012-2012}
+  - {'0': '2', '100': '1', 4s: '18', '50': '0', 6s: '13', Ave: '26.63', BF: '239',
+    HS: 105*, Inns: '13', Mat: '14', 'NO': '2', Player: PA Reddy, Runs: '293', SR: '122.59',
+    Span: 2010-2012}
+  - {'0': '8', '100': '0', 4s: '331', '50': '19', 6s: '54', Ave: '30.46', BF: '2304',
+    HS: '94', Inns: '106', Mat: '110', 'NO': '9', Player: KC Sangakkara, Runs: '2955',
+    SR: '128.25', Span: 2004-2012}
+  - {'0': '3', '100': '0', 4s: '8', '50': '0', 6s: '3', Ave: '12.30', BF: '109', HS: 31*,
+    Inns: '24', Mat: '69', 'NO': '14', Player: J Theron, Runs: '123', SR: '112.84',
+    Span: 2008-2012}
+  - {'0': '6', '100': '2', 4s: '159', '50': '13', 6s: '128', Ave: '30.31', BF: '1932',
+    HS: 141*, Inns: '110', Mat: '115', 'NO': '25', Player: CL White, Runs: '2577',
+    SR: '133.38', Span: 2005-2012}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '19.76', BBI: 2/11, Ct: '3', Econ: '8.38', Inns: '17',
+    Mat: '17', Mdns: '0', Overs: '49.3', Player: A Ashish Reddy, Runs: '415', SR: '14.1',
+    Span: 2009-2012, St: '0', Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '13.00', BBI: 1/7, Ct: '32', Econ: '6.50', Inns: '5',
+    Mat: '72', Mdns: '0', Overs: '6.0', Player: S Dhawan, Runs: '39', SR: '12.0',
+    Span: 2007-2012, St: '0', Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '20.38', BBI: 3/18, Ct: '21', Econ: '8.64', Inns: '13',
+    Mat: '43', Mdns: '0', Overs: '30.4', Player: DJ Harris, Runs: '265', SR: '14.1',
+    Span: 2007-2012, St: '0', Wkts: '13'}
+  - {'4': '0', '5': '0', Ave: '53.00', BBI: 1/5, Ct: '20', Econ: '8.29', Inns: '13',
+    Mat: '37', Mdns: '0', Overs: '19.1', Player: AA Jhunjhunwala, Runs: '159', SR: '38.3',
+    Span: 2007-2012, St: '0', Wkts: '3'}
+  - {'4': '1', '5': '2', Ave: '19.54', BBI: 5/17, Ct: '18', Econ: '6.87', Inns: '84',
+    Mat: '84', Mdns: '7', Overs: '304.1', Player: A Mishra, Runs: '2091', SR: '17.0',
+    Span: 2007-2012, St: '0', Wkts: '107'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '30', Econ: '-', Inns: '-', Mat: '71',
+    Mdns: '-', Overs: '-', Player: PA Patel, Runs: '-', SR: '-', Span: 2005-2012,
+    St: '9', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '34.14', BBI: 2/35, Ct: '0', Econ: '9.19', Inns: '7',
+    Mat: '7', Mdns: '0', Overs: '26.0', Player: V Pratap Singh, Runs: '239', SR: '22.2',
+    Span: 2012-2012, St: '0', Wkts: '7'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '4', Econ: '-', Inns: '-', Mat: '14',
+    Mdns: '-', Overs: '-', Player: PA Reddy, Runs: '-', SR: '-', Span: 2010-2012,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '69', Econ: '-', Inns: '-', Mat: '110',
+    Mdns: '-', Overs: '-', Player: KC Sangakkara, Runs: '-', SR: '-', Span: 2004-2012,
+    St: '28', Wkts: '-'}
+  - {'4': '2', '5': '0', Ave: '22.32', BBI: 4/27, Ct: '20', Econ: '7.05', Inns: '69',
+    Mat: '69', Mdns: '0', Overs: '246.4', Player: J Theron, Runs: '1741', SR: '18.9',
+    Span: 2008-2012, St: '0', Wkts: '78'}
+  - {'4': '1', '5': '0', Ave: '23.04', BBI: 4/10, Ct: '48', Econ: '9.03', Inns: '28',
+    Mat: '115', Mdns: '0', Overs: '58.4', Player: CL White, Runs: '530', SR: '15.3',
+    Span: 2005-2012, St: '0', Wkts: '23'}
+KingsXIPunjab:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '-', BF: '4', HS: 7*,
+    Inns: '2', Mat: '10', 'NO': '2', Player: P Awana, Runs: '7', SR: '175.00', Span: 2010-2012}
+  - {'0': '3', '100': '2', 4s: '231', '50': '10', 6s: '89', Ave: '29.26', BF: '1716',
+    HS: 106*, Inns: '111', Mat: '124', 'NO': '27', Player: Azhar Mahmood, Runs: '2458',
+    SR: '143.24', Span: 2003-2012}
+  - {'0': '8', '100': '0', 4s: '48', '50': '0', 6s: '21', Ave: '16.65', BF: '477',
+    HS: 39*, Inns: '54', Mat: '88', 'NO': '19', Player: PP Chawla, Runs: '583', SR: '122.22',
+    Span: 2007-2012}
+  - {'0': '0', '100': '0', 4s: '16', '50': '1', 6s: '18', Ave: '28.11', BF: '142',
+    HS: 89*, Inns: '16', Mat: '21', 'NO': '7', Player: SD Chitnis, Runs: '253', SR: '178.16',
+    Span: 2008-2012}
+  - {'0': '13', '100': '1', 4s: '308', '50': '25', 6s: '191', Ave: '31.59', BF: '3350',
+    HS: 100*, Inns: '176', Mat: '183', 'NO': '32', Player: DJ Hussey, Runs: '4549',
+    SR: '135.79', Span: 2004-2012}
+  - {'0': '8', '100': '0', 4s: '28', '50': '1', 6s: '18', Ave: '12.23', BF: '312',
+    HS: 76*, Inns: '46', Mat: '87', 'NO': '16', Player: P Kumar, Runs: '367', SR: '117.62',
+    Span: 2007-2012}
+  - {'0': '1', '100': '0', 4s: '70', '50': '3', 6s: '19', Ave: '30.45', BF: '594',
+    HS: '75', Inns: '30', Mat: '33', 'NO': '6', Player: Mandeep Singh, Runs: '731',
+    SR: '123.06', Span: 2010-2012}
+  - {'0': '4', '100': '2', 4s: '251', '50': '19', 6s: '99', Ave: '41.57', BF: '1934',
+    HS: '115', Inns: '73', Mat: '74', 'NO': '10', Player: SE Marsh, Runs: '2619',
+    SR: '135.41', Span: 2006-2012}
+  - {'0': '4', '100': '0', 4s: '73', '50': '4', 6s: '31', Ave: '34.85', BF: '773',
+    HS: 90*, Inns: '43', Mat: '50', 'NO': '15', Player: DA Miller, Runs: '976', SR: '126.26',
+    Span: 2008-2012}
+  - {'0': '1', '100': '0', 4s: '7', '50': '0', 6s: '1', Ave: '18.00', BF: '70', HS: 28*,
+    Inns: '11', Mat: '28', 'NO': '7', Player: RR Powar, Runs: '72', SR: '102.85',
+    Span: 2007-2012}
+  - {'0': '0', '100': '0', 4s: '29', '50': '1', 6s: '0', Ave: '18.00', BF: '324',
+    HS: '50', Inns: '18', Mat: '22', 'NO': '0', Player: N Saini, Runs: '324', SR: '100.00',
+    Span: 2009-2012}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '21.85', BBI: 4/34, Ct: '2', Econ: '7.84', Inns: '10',
+    Mat: '10', Mdns: '0', Overs: '39.0', Player: P Awana, Runs: '306', SR: '16.7',
+    Span: 2010-2012, St: '0', Wkts: '14'}
+  - {'4': '2', '5': '0', Ave: '24.96', BBI: 4/20, Ct: '27', Econ: '7.57', Inns: '124',
+    Mat: '124', Mdns: '4', Overs: '422.1', Player: Azhar Mahmood, Runs: '3196', SR: '19.7',
+    Span: 2003-2012, St: '0', Wkts: '128'}
+  - {'4': '1', '5': '0', Ave: '23.90', BBI: 4/17, Ct: '26', Econ: '7.44', Inns: '88',
+    Mat: '88', Mdns: '1', Overs: '304.5', Player: PP Chawla, Runs: '2271', SR: '19.2',
+    Span: 2007-2012, St: '0', Wkts: '95'}
+  - {'4': '0', '5': '0', Ave: '28.50', BBI: 2/40, Ct: '7', Econ: '9.50', Inns: '5',
+    Mat: '21', Mdns: '0', Overs: '12.0', Player: SD Chitnis, Runs: '114', SR: '18.0',
+    Span: 2008-2012, St: '0', Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '25.15', BBI: 3/25, Ct: '102', Econ: '7.28', Inns: '87',
+    Mat: '183', Mdns: '2', Overs: '196.5', Player: DJ Hussey, Runs: '1434', SR: '20.7',
+    Span: 2004-2012, St: '0', Wkts: '57'}
+  - {'4': '0', '5': '0', Ave: '33.14', BBI: 3/18, Ct: '9', Econ: '7.54', Inns: '87',
+    Mat: '87', Mdns: '12', Overs: '307.4', Player: P Kumar, Runs: '2320', SR: '26.3',
+    Span: 2007-2012, St: '0', Wkts: '70'}
+  - {'4': '0', '5': '0', Ave: '11.00', BBI: 3/22, Ct: '10', Econ: '6.60', Inns: '2',
+    Mat: '33', Mdns: '0', Overs: '5.0', Player: Mandeep Singh, Runs: '33', SR: '10.0',
+    Span: 2010-2012, St: '0', Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '31', Econ: '6.50', Inns: '2', Mat: '74',
+    Mdns: '0', Overs: '2.0', Player: SE Marsh, Runs: '13', SR: '-', Span: 2006-2012,
+    St: '0', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '26', Econ: '10.33', Inns: '3', Mat: '50',
+    Mdns: '0', Overs: '3.0', Player: DA Miller, Runs: '31', SR: '-', Span: 2008-2012,
+    St: '0', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '40.14', BBI: 2/11, Ct: '5', Econ: '7.49', Inns: '27',
+    Mat: '28', Mdns: '0', Overs: '75.0', Player: RR Powar, Runs: '562', SR: '32.1',
+    Span: 2007-2012, St: '0', Wkts: '14'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '18', Econ: '-', Inns: '-', Mat: '22',
+    Mdns: '-', Overs: '-', Player: N Saini, Runs: '-', SR: '-', Span: 2009-2012, St: '7',
+    Wkts: '-'}

@@ -1,0 +1,114 @@
+Rajasthan Royals:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '92', '50': '2', 6s: '24', Ave: '21.98', BF: '1100',
+    HS: '67', Inns: '87', Mat: '115', 'NO': '31', Player: J Botha, Runs: '1231', SR: '111.91',
+    Span: 2004-2012}
+  - {'0': '4', '100': '0', 4s: '188', '50': '7', 6s: '27', Ave: '28.17', BF: '1449',
+    HS: '75', Inns: '66', Mat: '73', 'NO': '6', Player: R Dravid, Runs: '1690', SR: '116.63',
+    Span: 2007-2012}
+  - {'0': '4', '100': '0', 4s: '44', '50': '1', 6s: '4', Ave: '16.5', BF: '505', HS: '52',
+    Inns: '29', Mat: '32', 'NO': '1', Player: SP Goswami, Runs: '462', SR: '91.49',
+    Span: 2008-2012}
+  - {'0': '10', '100': '2', 4s: '447', '50': '29', 6s: '116', Ave: '36.16', BF: '3373',
+    HS: '106', Inns: '143', Mat: '147', 'NO': '24', Player: BJ Hodge, Runs: '4303',
+    SR: '127.57', Span: 2003-2012}
+  - {'0': '3', '100': '0', 4s: '12', '50': '1', 6s: '5', Ave: '15.47', BF: '218',
+    HS: '54', Inns: '20', Mat: '39', 'NO': '5', Player: GB Hogg, Runs: '232', SR: '106.42',
+    Span: 2004-2012}
+  - {'0': '2', '100': '0', 4s: '25', '50': '1', 6s: '14', Ave: '19.24', BF: '275',
+    HS: '52', Inns: '18', Mat: '21', 'NO': '1', Player: AL Menaria, Runs: '327', SR: '118.91',
+    Span: 2011-2012}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '5.4', BF: '32', HS: '10',
+    Inns: '10', Mat: '19', 'NO': '5', Player: Pankaj Singh, Runs: '27', SR: '84.38',
+    Span: 2007-2012}
+  - {'0': '7', '100': '0', 4s: '84', '50': '5', 6s: '11', Ave: '18.97', BF: '647',
+    HS: '-1', Inns: '42', Mat: '46', 'NO': '3', Player: AM Rahane, Runs: '740', SR: '114.37',
+    Span: 2007-2012}
+  - {'0': '7', '100': '0', 4s: '297', '50': '21', 6s: '147', Ave: '35.25', BF: '2829',
+    HS: '80', Inns: '136', Mat: '143', 'NO': '31', Player: OA Shah, Runs: '3701',
+    SR: '130.82', Span: 2003-2012}
+  - {'0': '3', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '2.17', BF: '24', HS: '5',
+    Inns: '8', Mat: '25', 'NO': '2', Player: A Singh, Runs: '13', SR: '54.17', Span: 2009-2012}
+  - {'0': '2', '100': '0', 4s: '5', '50': '0', 6s: '1', Ave: '6.8', BF: '69', HS: '12',
+    Inns: '20', Mat: '68', 'NO': '10', Player: SK Trivedi, Runs: '68', SR: '98.55',
+    Span: 2007-2012}
+- bowling averages:
+  - {'4': '2', '5': '0', Ave: '24.5', Econ: '6.04', Inns: '112', Mat: '115', Overs: '411.4',
+    Player: J Botha, Runs: '2524', SR: '23.98', Span: 2004-2012, Wkts: '103'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '73', Overs: '0.0',
+    Player: R Dravid, Runs: '0', SR: '0', Span: 2007-2012, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '32', Overs: '0.0',
+    Player: SP Goswami, Runs: '0', SR: '0', Span: 2008-2012, Wkts: '0'}
+  - {'4': '3', '5': '0', Ave: '22.47', Econ: '7.71', Inns: '73', Mat: '147', Overs: '169.0',
+    Player: BJ Hodge, Runs: '1303', SR: '17.48', Span: 2003-2012, Wkts: '58'}
+  - {'4': '3', '5': '0', Ave: '17.18', Econ: '6.27', Inns: '39', Mat: '39', Overs: '144.4',
+    Player: GB Hogg, Runs: '945', SR: '15.78', Span: 2004-2012, Wkts: '55'}
+  - {'4': '0', '5': '0', Ave: '50.33', Econ: '8.39', Inns: '12', Mat: '21', Overs: '18.0',
+    Player: AL Menaria, Runs: '151', SR: '36.0', Span: 2011-2012, Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '48.09', Econ: '8.72', Inns: '19', Mat: '19', Overs: '59.1',
+    Player: Pankaj Singh, Runs: '529', SR: '32.27', Span: 2007-2012, Wkts: '11'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '46', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2012, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '15.6', Econ: '5.57', Inns: '8', Mat: '143', Overs: '9.3',
+    Player: OA Shah, Runs: '78', SR: '11.4', Span: 2003-2012, Wkts: '5'}
+  - {'4': '1', '5': '0', Ave: '20.3', Econ: '6.39', Inns: '25', Mat: '25', Overs: '87.5',
+    Player: A Singh, Runs: '609', SR: '17.57', Span: 2009-2012, Wkts: '30'}
+  - {'4': '2', '5': '0', Ave: '24.67', Econ: '7.73', Inns: '67', Mat: '68', Overs: '223.4',
+    Player: SK Trivedi, Runs: '1776', SR: '18.64', Span: 2007-2012, Wkts: '72'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '38', '50': '2', 6s: '21', Ave: '20.73', BF: '353',
+    HS: '57', Inns: '23', Mat: '24', 'NO': '1', Player: MA Agarwal, Runs: '456', SR: '129.18',
+    Span: 2010-2012}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '30.0', BF: '26', HS: '-1',
+    Inns: '8', Mat: '33', 'NO': '7', Player: S Aravind, Runs: '30', SR: '115.38',
+    Span: 2007-2012}
+  - {'0': '8', '100': '1', 4s: '160', '50': '12', 6s: '67', Ave: '29.58', BF: '1676',
+    HS: '105', Inns: '89', Mat: '96', 'NO': '18', Player: AB de Villiers, Runs: '2100',
+    SR: '125.3', Span: 2004-2012}
+  - {'0': '10', '100': '7', 4s: '271', '50': '20', 6s: '228', Ave: '40.83', BF: '2133',
+    HS: '117', Inns: '93', Mat: '94', 'NO': '12', Player: CH Gayle, Runs: '3307',
+    SR: '155.04', Span: 2005-2012}
+  - {'0': '3', '100': '0', 4s: '81', '50': '4', 6s: '13', Ave: '19.95', BF: '715',
+    HS: '68', Inns: '46', Mat: '53', 'NO': '7', Player: M Kaif, Runs: '778', SR: '108.81',
+    Span: 2003-2012}
+  - {'0': '5', '100': '0', 4s: '16', '50': '0', 6s: '2', Ave: '11.2', BF: '167', HS: '26',
+    Inns: '35', Mat: '78', 'NO': '20', Player: Z Khan, Runs: '168', SR: '100.6', Span: 2006-2012}
+  - {'0': '2', '100': '0', 4s: '214', '50': '11', 6s: '64', Ave: '30.28', BF: '1715',
+    HS: '84', Inns: '85', Mat: '95', 'NO': '13', Player: V Kohli, Runs: '2180', SR: '127.11',
+    Span: 2007-2012}
+  - {'0': '8', '100': '0', 4s: '3', '50': '0', 6s: '2', Ave: '3.67', BF: '81', HS: '11',
+    Inns: '28', Mat: '111', 'NO': '10', Player: M Muralitharan, Runs: '66', SR: '81.48',
+    Span: 2005-2012}
+  - {'0': '3', '100': '0', 4s: '93', '50': '5', 6s: '47', Ave: '26.42', BF: '976',
+    HS: '69', Inns: '55', Mat: '61', 'NO': '10', Player: SS Tiwary, Runs: '1189',
+    SR: '121.82', Span: 2007-2012}
+  - {'0': '4', '100': '0', 4s: '80', '50': '1', 6s: '19', Ave: '18.68', BF: '712',
+    HS: '57', Inns: '62', Mat: '89', 'NO': '15', Player: DL Vettori, Runs: '878',
+    SR: '123.31', Span: 2006-2012}
+  - {'0': '3', '100': '0', 4s: '16', '50': '0', 6s: '11', Ave: '11.0', BF: '244',
+    HS: '25', Inns: '37', Mat: '74', 'NO': '11', Player: R Vinay Kumar, Runs: '286',
+    SR: '117.21', Span: 2007-2012}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '24', Overs: '0.0',
+    Player: MA Agarwal, Runs: '0', SR: '0', Span: 2010-2012, Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '21.56', Econ: '7.69', Inns: '32', Mat: '33', Overs: '110.3',
+    Player: S Aravind, Runs: '884', SR: '16.17', Span: 2007-2012, Wkts: '41'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '96', Overs: '0.0',
+    Player: AB de Villiers, Runs: '0', SR: '0', Span: 2004-2012, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '33.48', Econ: '7.41', Inns: '78', Mat: '94', Overs: '212.3',
+    Player: CH Gayle, Runs: '1607', SR: '26.56', Span: 2005-2012, Wkts: '48'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '53', Overs: '0.0',
+    Player: M Kaif, Runs: '0', SR: '0', Span: 2003-2012, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '28.44', Econ: '7.75', Inns: '78', Mat: '78', Overs: '290.0',
+    Player: Z Khan, Runs: '2247', SR: '22.03', Span: 2006-2012, Wkts: '79'}
+  - {'4': '0', '5': '0', Ave: '82.83', Econ: '8.62', Inns: '33', Mat: '95', Overs: '56.1',
+    Player: V Kohli, Runs: '497', SR: '56.17', Span: 2007-2012, Wkts: '6'}
+  - {'4': '3', '5': '0', Ave: '20.27', Econ: '6.41', Inns: '111', Mat: '111', Overs: '417.0',
+    Player: M Muralitharan, Runs: '2675', SR: '18.95', Span: 2005-2012, Wkts: '132'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '61', Overs: '0.0',
+    Player: SS Tiwary, Runs: '0', SR: '0', Span: 2007-2012, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '21.56', Econ: '6.24', Inns: '89', Mat: '89', Overs: '332.2',
+    Player: DL Vettori, Runs: '2091', SR: '20.56', Span: 2006-2012, Wkts: '97'}
+  - {'4': '1', '5': '0', Ave: '26.97', Econ: '7.77', Inns: '74', Mat: '74', Overs: '245.3',
+    Player: R Vinay Kumar, Runs: '1942', SR: '20.46', Span: 2007-2012, Wkts: '72'}

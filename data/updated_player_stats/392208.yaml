@@ -1,0 +1,114 @@
+Mumbai Indians:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '37', '50': '2', 6s: '15', Ave: '23.17', BF: '321',
+    HS: '64', Inns: '24', Mat: '27', 'NO': '6', Player: DJ Bravo, Runs: '417', SR: '129.91',
+    Span: 2006-2009}
+  - {'0': '1', '100': '0', 4s: '50', '50': '4', 6s: '8', Ave: '26.44', BF: '432',
+    HS: '68', Inns: '23', Mat: '23', 'NO': '5', Player: S Dhawan, Runs: '476', SR: '110.19',
+    Span: 2007-2009}
+  - {'0': '4', '100': '0', 4s: '111', '50': '9', 6s: '31', Ave: '33.78', BF: '1029',
+    HS: '93', Inns: '44', Mat: '46', 'NO': '8', Player: JP Duminy, Runs: '1216', SR: '118.17',
+    Span: 2004-2009}
+  - {'0': '1', '100': '0', 4s: '13', '50': '0', 6s: '12', Ave: '12.31', BF: '145',
+    HS: '31', Inns: '19', Mat: '33', 'NO': '3', Player: Harbhajan Singh, Runs: '197',
+    SR: '135.86', Span: 2005-2009}
+  - {'0': '5', '100': '1', 4s: '134', '50': '6', 6s: '64', Ave: '28.64', BF: '766',
+    HS: '114', Inns: '46', Mat: '46', 'NO': '4', Player: ST Jayasuriya, Runs: '1203',
+    SR: '157.05', Span: 2004-2009}
+  - {'0': '1', '100': '0', 4s: '10', '50': '0', 6s: '0', Ave: '10.89', BF: '110',
+    HS: '26', Inns: '19', Mat: '29', 'NO': '10', Player: Z Khan, Runs: '98', SR: '89.09',
+    Span: 2006-2009}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '3', Ave: '11.4', BF: '54', HS: '27',
+    Inns: '7', Mat: '25', 'NO': '2', Player: SL Malinga, Runs: '57', SR: '105.56',
+    Span: 2004-2009}
+  - {'0': '0', '100': '0', 4s: '20', '50': '0', 6s: '13', Ave: '21.46', BF: '189',
+    HS: '45', Inns: '15', Mat: '20', 'NO': '2', Player: AM Nayar, Runs: '279', SR: '147.62',
+    Span: 2007-2009}
+  - {'0': '4', '100': '0', 4s: '14', '50': '1', 6s: '0', Ave: '14.89', BF: '154',
+    HS: '50', Inns: '10', Mat: '10', 'NO': '1', Player: AM Rahane, Runs: '134', SR: '87.01',
+    Span: 2007-2009}
+  - {'0': '1', '100': '0', 4s: '17', '50': '1', 6s: '1', Ave: '20.14', BF: '108',
+    HS: '71', Inns: '10', Mat: '14', 'NO': '3', Player: PR Shah, Runs: '141', SR: '130.56',
+    Span: 2007-2009}
+  - {'0': '1', '100': '0', 4s: '75', '50': '5', 6s: '15', Ave: '38.93', BF: '453',
+    HS: '69', Inns: '17', Mat: '17', 'NO': '2', Player: SR Tendulkar, Runs: '584',
+    SR: '128.92', Span: 2006-2009}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '24.71', Econ: '7.54', Inns: '24', Mat: '27', Overs: '72.4',
+    Player: DJ Bravo, Runs: '593', SR: '18.17', Span: 2006-2009, Wkts: '24'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '23', Overs: '0.0',
+    Player: S Dhawan, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '21.0', Econ: '7.78', Inns: '14', Mat: '46', Overs: '27.0',
+    Player: JP Duminy, Runs: '210', SR: '16.2', Span: 2004-2009, Wkts: '10'}
+  - {'4': '0', '5': '0', Ave: '25.59', Econ: '6.52', Inns: '31', Mat: '33', Overs: '106.0',
+    Player: Harbhajan Singh, Runs: '691', SR: '23.56', Span: 2005-2009, Wkts: '27'}
+  - {'4': '1', '5': '0', Ave: '19.92', Econ: '7.52', Inns: '34', Mat: '46', Overs: '100.2',
+    Player: ST Jayasuriya, Runs: '777', SR: '15.44', Span: 2004-2009, Wkts: '39'}
+  - {'4': '0', '5': '0', Ave: '28.83', Econ: '7.53', Inns: '29', Mat: '29', Overs: '111.0',
+    Player: Z Khan, Runs: '836', SR: '22.97', Span: 2006-2009, Wkts: '29'}
+  - {'4': '0', '5': '0', Ave: '17.04', Econ: '6.01', Inns: '23', Mat: '25', Overs: '76.2',
+    Player: SL Malinga, Runs: '477', SR: '16.36', Span: 2004-2009, Wkts: '28'}
+  - {'4': '0', '5': '0', Ave: '19.83', Econ: '7.93', Inns: '8', Mat: '20', Overs: '15.0',
+    Player: AM Nayar, Runs: '119', SR: '15.0', Span: 2007-2009, Wkts: '6'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '10', Overs: '0.0',
+    Player: AM Rahane, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '14', Overs: '0.0',
+    Player: PR Shah, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '41.5', Econ: '4.88', Inns: '6', Mat: '17', Overs: '12.3',
+    Player: SR Tendulkar, Runs: '83', SR: '37.5', Span: 2006-2009, Wkts: '2'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '59', '50': '2', 6s: '16', Ave: '30.64', BF: '597',
+    HS: '57', Inns: '31', Mat: '33', 'NO': '9', Player: MV Boucher, Runs: '674', SR: '112.9',
+    Span: 2004-2009}
+  - {'0': '2', '100': '0', 4s: '59', '50': '4', 6s: '14', Ave: '30.0', BF: '447',
+    HS: '75', Inns: '20', Mat: '20', 'NO': '1', Player: R Dravid, Runs: '570', SR: '127.52',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '11', '50': '0', 6s: '14', Ave: '17.79', BF: '185',
+    HS: '40', Inns: '22', Mat: '29', 'NO': '8', Player: D du Preez, Runs: '249', SR: '134.59',
+    Span: 2006-2009}
+  - {'0': '1', '100': '0', 4s: '13', '50': '1', 6s: '3', Ave: '17.0', BF: '109', HS: '50',
+    Inns: '7', Mat: '7', 'NO': '0', Player: W Jaffer, Runs: '119', SR: '109.17', Span: 2007-2009}
+  - {'0': '2', '100': '0', 4s: '61', '50': '3', 6s: '11', Ave: '22.21', BF: '484',
+    HS: '-1', Inns: '25', Mat: '25', 'NO': '1', Player: JH Kallis, Runs: '533', SR: '110.12',
+    Span: 2004-2009}
+  - {'0': '1', '100': '0', 4s: '46', '50': '2', 6s: '9', Ave: '20.3', BF: '399', HS: '76',
+    Inns: '24', Mat: '25', 'NO': '1', Player: V Kohli, Runs: '467', SR: '117.04',
+    Span: 2007-2009}
+  - {'0': '4', '100': '0', 4s: '24', '50': '1', 6s: '12', Ave: '15.82', BF: '217',
+    HS: '76', Inns: '22', Mat: '24', 'NO': '5', Player: P Kumar, Runs: '269', SR: '123.96',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '7.25', BF: '36', HS: '8',
+    Inns: '10', Mat: '19', 'NO': '6', Player: A Kumble, Runs: '29', SR: '80.56', Span: 2006-2009}
+  - {'0': '2', '100': '0', 4s: '74', '50': '1', 6s: '19', Ave: '22.41', BF: '622',
+    HS: '-1', Inns: '37', Mat: '38', 'NO': '5', Player: RV Uthappa, Runs: '717', SR: '115.27',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '30', '50': '2', 6s: '14', Ave: '25.5', BF: '217',
+    HS: '70', Inns: '14', Mat: '15', 'NO': '2', Player: RE van der Merwe, Runs: '306',
+    SR: '141.01', Span: 2008-2009}
+  - {'0': '2', '100': '0', 4s: '8', '50': '0', 6s: '6', Ave: '13.75', BF: '68', HS: '25',
+    Inns: '14', Mat: '19', 'NO': '6', Player: R Vinay Kumar, Runs: '110', SR: '161.76',
+    Span: 2007-2009}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '33', Overs: '0.0',
+    Player: MV Boucher, Runs: '0', SR: '0', Span: 2004-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '20', Overs: '0.0',
+    Player: R Dravid, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '26.5', Econ: '7.31', Inns: '29', Mat: '29', Overs: '87.0',
+    Player: D du Preez, Runs: '636', SR: '21.75', Span: 2006-2009, Wkts: '24'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '7', Overs: '0.0', Player: W
+      Jaffer, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '86.5', Econ: '9.21', Inns: '19', Mat: '25', Overs: '53.2',
+    Player: JH Kallis, Runs: '519', SR: '53.33', Span: 2004-2009, Wkts: '6'}
+  - {'4': '0', '5': '0', Ave: '35.0', Econ: '4.77', Inns: '5', Mat: '25', Overs: '8.4',
+    Player: V Kohli, Runs: '70', SR: '26.0', Span: 2007-2009, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '24.76', Econ: '7.28', Inns: '24', Mat: '24', Overs: '85.0',
+    Player: P Kumar, Runs: '619', SR: '20.4', Span: 2007-2009, Wkts: '25'}
+  - {'4': '0', '5': '1', Ave: '23.9', Econ: '6.58', Inns: '19', Mat: '19', Overs: '73.2',
+    Player: A Kumble, Runs: '502', SR: '20.95', Span: 2006-2009, Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '38', Overs: '0.0',
+    Player: RV Uthappa, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '18.24', Econ: '7.27', Inns: '15', Mat: '15', Overs: '51.1',
+    Player: RE van der Merwe, Runs: '383', SR: '14.62', Span: 2008-2009, Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '31.21', Econ: '7.45', Inns: '19', Mat: '19', Overs: '57.1',
+    Player: R Vinay Kumar, Runs: '437', SR: '24.5', Span: 2007-2009, Wkts: '14'}

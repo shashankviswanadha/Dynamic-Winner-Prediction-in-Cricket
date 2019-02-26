@@ -1,0 +1,115 @@
+Delhi Daredevils:
+- batting averages:
+  - {'0': '5', '100': '3', 4s: '361', '50': '16', 6s: '118', Ave: '34.79', BF: '2382',
+    HS: '126', Inns: '104', Mat: '110', 'NO': '10', Player: Q de Kock, Runs: '3270',
+    SR: '137.28', Span: 2011-2016}
+  - {'0': '11', '100': '0', 4s: '360', '50': '33', 6s: '168', Ave: '38.1', BF: '4050',
+    HS: '99', Inns: '190', Mat: '202', 'NO': '60', Player: JP Duminy, Runs: '4953',
+    SR: '122.3', Span: 2004-2016}
+  - {'0': '3', '100': '0', 4s: '11', '50': '0', 6s: '4', Ave: '9.42', BF: '89', HS: '17',
+    Inns: '23', Mat: '123', 'NO': '11', Player: Imran Tahir, Runs: '113', SR: '126.97',
+    Span: 2006-2016}
+  - {'0': '4', '100': '0', 4s: '74', '50': '6', 6s: '32', Ave: '25.63', BF: '594',
+    HS: '86', Inns: '32', Mat: '32', 'NO': '2', Player: SS Iyer, Runs: '769', SR: '129.46',
+    Span: 2014-2016}
+  - {'0': '7', '100': '0', 4s: '17', '50': '0', 6s: '3', Ave: '9.25', BF: '204', HS: '26',
+    Inns: '45', Mat: '118', 'NO': '25', Player: Z Khan, Runs: '185', SR: '90.69',
+    Span: 2006-2016}
+  - {'0': '13', '100': '0', 4s: '62', '50': '0', 6s: '5', Ave: '13.79', BF: '668',
+    HS: '49', Inns: '77', Mat: '156', 'NO': '30', Player: A Mishra, Runs: '648', SR: '97.01',
+    Span: 2007-2016}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '3.33', BF: '31', HS: '5',
+    Inns: '11', Mat: '43', 'NO': '5', Player: Mohammed Shami, Runs: '20', SR: '64.52',
+    Span: 2010-2016}
+  - {'0': '8', '100': '0', 4s: '44', '50': '0', 6s: '32', Ave: '21.0', BF: '435',
+    HS: '41', Inns: '58', Mat: '108', 'NO': '27', Player: CH Morris, Runs: '651',
+    SR: '149.66', Span: 2011-2016}
+  - {'0': '1', '100': '0', 4s: '88', '50': '6', 6s: '23', Ave: '21.44', BF: '717',
+    HS: '73', Inns: '48', Mat: '53', 'NO': '7', Player: KK Nair, Runs: '879', SR: '122.59',
+    Span: 2013-2016}
+  - {'0': '2', '100': '0', 4s: '39', '50': '0', 6s: '22', Ave: '19.15', BF: '376',
+    HS: '41', Inns: '45', Mat: '60', 'NO': '19', Player: P Negi, Runs: '498', SR: '132.45',
+    Span: 2011-2016}
+  - {'0': '6', '100': '0', 4s: '141', '50': '12', 6s: '63', Ave: '25.04', BF: '1437',
+    HS: '87', Inns: '75', Mat: '80', 'NO': '7', Player: SV Samson, Runs: '1703', SR: '118.51',
+    Span: 2011-2016}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '110', Overs: '0.0',
+    Player: Q de Kock, Runs: '0', SR: '0', Span: 2011-2016, Wkts: '0'}
+  - {'4': '3', '5': '0', Ave: '28.45', Econ: '7.45', Inns: '112', Mat: '202', Overs: '245.2',
+    Player: JP Duminy, Runs: '1849', SR: '22.65', Span: 2004-2016, Wkts: '65'}
+  - {'4': '3', '5': '0', Ave: '20.63', Econ: '6.81', Inns: '118', Mat: '123', Overs: '439.0',
+    Player: Imran Tahir, Runs: '2991', SR: '18.17', Span: 2006-2016, Wkts: '145'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '32', Overs: '0.0',
+    Player: SS Iyer, Runs: '0', SR: '0', Span: 2014-2016, Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '26.78', Econ: '7.37', Inns: '117', Mat: '118', Overs: '433.4',
+    Player: Z Khan, Runs: '3240', SR: '21.5', Span: 2006-2016, Wkts: '121'}
+  - {'4': '4', '5': '2', Ave: '20.55', Econ: '6.89', Inns: '155', Mat: '156', Overs: '552.5',
+    Player: A Mishra, Runs: '3863', SR: '17.64', Span: 2007-2016, Wkts: '188'}
+  - {'4': '1', '5': '0', Ave: '20.13', Econ: '7.07', Inns: '43', Mat: '43', Overs: '147.4',
+    Player: Mohammed Shami, Runs: '1087', SR: '16.41', Span: 2010-2016, Wkts: '54'}
+  - {'4': '5', '5': '0', Ave: '21.77', Econ: '7.47', Inns: '106', Mat: '108', Overs: '381.4',
+    Player: CH Morris, Runs: '2896', SR: '17.22', Span: 2011-2016, Wkts: '133'}
+  - {'4': '0', '5': '0', Ave: '27.5', Econ: '6.88', Inns: '6', Mat: '53', Overs: '8.0',
+    Player: KK Nair, Runs: '55', SR: '24.0', Span: 2013-2016, Wkts: '2'}
+  - {'4': '1', '5': '1', Ave: '26.83', Econ: '7.11', Inns: '53', Mat: '60', Overs: '169.5',
+    Player: P Negi, Runs: '1261', SR: '21.68', Span: 2011-2016, Wkts: '47'}
+  - {'4': '0', '5': '0', Ave: '4.0', Econ: '0.8', Inns: '1', Mat: '80', Overs: '0.3',
+    Player: SV Samson, Runs: '4', SR: '3.0', Span: 2011-2016, Wkts: '1'}
+Mumbai Indians:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '2', Ave: '9.0', BF: '31', HS: '14',
+    Inns: '9', Mat: '68', 'NO': '6', Player: JJ Bumrah, Runs: '27', SR: '87.1', Span: 2013-2016}
+  - {'0': '7', '100': '0', 4s: '210', '50': '14', 6s: '115', Ave: '27.34', BF: '1824',
+    HS: '72', Inns: '125', Mat: '143', 'NO': '28', Player: JC Buttler, Runs: '2652',
+    SR: '145.39', Span: 2009-2016}
+  - {'0': '16', '100': '0', 4s: '124', '50': '2', 6s: '68', Ave: '16.49', BF: '928',
+    HS: '78', Inns: '121', Mat: '200', 'NO': '42', Player: Harbhajan Singh, Runs: '1303',
+    SR: '140.41', Span: 2005-2016}
+  - {'0': '6', '100': '0', 4s: '6', '50': '0', 6s: '8', Ave: '10.09', BF: '76', HS: '20',
+    Inns: '27', Mat: '89', 'NO': '16', Player: MJ McClenaghan, Runs: '111', SR: '146.05',
+    Span: 2009-2016}
+  - {'0': '3', '100': '0', 4s: '71', '50': '5', 6s: '47', Ave: '26.54', BF: '789',
+    HS: '86', Inns: '46', Mat: '59', 'NO': '9', Player: HH Pandya, Runs: '982', SR: '124.46',
+    Span: 2013-2016}
+  - {'0': '0', '100': '0', 4s: '16', '50': '1', 6s: '10', Ave: '33.71', BF: '160',
+    HS: '51', Inns: '11', Mat: '18', 'NO': '4', Player: KH Pandya, Runs: '236', SR: '147.5',
+    Span: 2013-2016}
+  - {'0': '11', '100': '0', 4s: '394', '50': '16', 6s: '53', Ave: '22.56', BF: '2559',
+    HS: '82', Inns: '147', Mat: '150', 'NO': '11', Player: PA Patel, Runs: '3068',
+    SR: '119.89', Span: 2005-2016}
+  - {'0': '10', '100': '0', 4s: '389', '50': '29', 6s: '391', Ave: '31.37', BF: '3876',
+    HS: '89', Inns: '271', Mat: '303', 'NO': '82', Player: KA Pollard, Runs: '5929',
+    SR: '152.97', Span: 2006-2016}
+  - {'0': '11', '100': '0', 4s: '255', '50': '16', 6s: '87', Ave: '24.61', BF: '2391',
+    HS: '81', Inns: '139', Mat: '149', 'NO': '20', Player: AT Rayudu, Runs: '2928',
+    SR: '122.46', Span: 2007-2016}
+  - {'0': '11', '100': '3', 4s: '493', '50': '39', 6s: '238', Ave: '32.66', BF: '4432',
+    HS: '109', Inns: '214', Mat: '225', 'NO': '36', Player: RG Sharma, Runs: '5813',
+    SR: '131.16', Span: 2007-2016}
+  - {'0': '12', '100': '0', 4s: '40', '50': '1', 6s: '22', Ave: '10.63', BF: '290',
+    HS: '74', Inns: '54', Mat: '113', 'NO': '13', Player: TG Southee, Runs: '436',
+    SR: '150.34', Span: 2007-2016}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '23.89', Econ: '7.14', Inns: '68', Mat: '68', Overs: '251.2',
+    Player: JJ Bumrah, Runs: '1816', SR: '19.84', Span: 2013-2016, Wkts: '76'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '143', Overs: '0.0',
+    Player: JC Buttler, Runs: '0', SR: '0', Span: 2009-2016, Wkts: '0'}
+  - {'4': '3', '5': '1', Ave: '24.87', Econ: '6.66', Inns: '189', Mat: '200', Overs: '683.0',
+    Player: Harbhajan Singh, Runs: '4552', SR: '22.39', Span: 2005-2016, Wkts: '183'}
+  - {'4': '1', '5': '1', Ave: '21.38', Econ: '7.81', Inns: '88', Mat: '89', Overs: '318.3',
+    Player: MJ McClenaghan, Runs: '2523', SR: '16.19', Span: 2009-2016, Wkts: '118'}
+  - {'4': '0', '5': '0', Ave: '28.58', Econ: '7.56', Inns: '57', Mat: '59', Overs: '161.1',
+    Player: HH Pandya, Runs: '1229', SR: '22.49', Span: 2013-2016, Wkts: '43'}
+  - {'4': '0', '5': '0', Ave: '16.11', Econ: '5.31', Inns: '16', Mat: '18', Overs: '51.4',
+    Player: KH Pandya, Runs: '306', SR: '16.32', Span: 2013-2016, Wkts: '19'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '150', Overs: '0.0',
+    Player: PA Patel, Runs: '0', SR: '0', Span: 2005-2016, Wkts: '0'}
+  - {'4': '4', '5': '0', Ave: '23.0', Econ: '7.85', Inns: '232', Mat: '303', Overs: '619.5',
+    Player: KA Pollard, Runs: '4923', SR: '17.38', Span: 2006-2016, Wkts: '214'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '149', Overs: '0.0',
+    Player: AT Rayudu, Runs: '0', SR: '0', Span: 2007-2016, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '28.17', Econ: '7.38', Inns: '57', Mat: '225', Overs: '104.4',
+    Player: RG Sharma, Runs: '817', SR: '21.66', Span: 2007-2016, Wkts: '29'}
+  - {'4': '0', '5': '2', Ave: '25.66', Econ: '8.07', Inns: '111', Mat: '113', Overs: '405.5',
+    Player: TG Southee, Runs: '3336', SR: '18.73', Span: 2007-2016, Wkts: '130'}

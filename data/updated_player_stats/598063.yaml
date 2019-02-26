@@ -1,0 +1,114 @@
+Mumbai Indians:
+- batting averages:
+  - {'0': '7', '100': '0', 4s: '76', '50': '0', 6s: '41', Ave: '17.02', BF: '570',
+    HS: '49', Inns: '79', Mat: '135', 'NO': '31', Player: Harbhajan Singh, Runs: '817',
+    SR: '143.33', Span: 2005-2013}
+  - {'0': '2', '100': '0', 4s: '15', '50': '0', 6s: '5', Ave: '13.54', BF: '149',
+    HS: '30', Inns: '23', Mat: '47', 'NO': '10', Player: MG Johnson, Runs: '176',
+    SR: '118.12', Span: 2006-2013}
+  - {'0': '7', '100': '0', 4s: '260', '50': '12', 6s: '69', Ave: '26.42', BF: '1981',
+    HS: '90', Inns: '116', Mat: '132', 'NO': '18', Player: KD Karthik, Runs: '2589',
+    SR: '130.69', Span: 2006-2013}
+  - {'0': '0', '100': '0', 4s: '4', '50': '0', 6s: '1', Ave: '10.5', BF: '78', HS: '14',
+    Inns: '17', Mat: '47', 'NO': '11', Player: DS Kulkarni, Runs: '63', SR: '80.77',
+    Span: 2007-2013}
+  - {'0': '8', '100': '0', 4s: '14', '50': '0', 6s: '15', Ave: '8.4', BF: '249', HS: '37',
+    Inns: '49', Mat: '152', 'NO': '19', Player: SL Malinga, Runs: '252', SR: '101.2',
+    Span: 2004-2013}
+  - {'0': '1', '100': '0', 4s: '51', '50': '3', 6s: '28', Ave: '22.46', BF: '403',
+    HS: '82', Inns: '33', Mat: '41', 'NO': '7', Player: GJ Maxwell, Runs: '584', SR: '144.91',
+    Span: 2010-2013}
+  - {'0': '5', '100': '0', 4s: '0', '50': '0', 6s: '3', Ave: '4.25', BF: '64', HS: '11',
+    Inns: '26', Mat: '97', 'NO': '14', Player: PP Ojha, Runs: '51', SR: '79.69', Span: 2007-2013}
+  - {'0': '5', '100': '0', 4s: '239', '50': '19', 6s: '261', Ave: '29.73', BF: '2330',
+    HS: '89', Inns: '172', Mat: '197', 'NO': '47', Player: KA Pollard, Runs: '3716',
+    SR: '159.48', Span: 2006-2013}
+  - {'0': '6', '100': '0', 4s: '183', '50': '12', 6s: '57', Ave: '24.99', BF: '1645',
+    HS: '81', Inns: '93', Mat: '98', 'NO': '13', Player: AT Rayudu, Runs: '1999',
+    SR: '121.52', Span: 2007-2013}
+  - {'0': '7', '100': '2', 4s: '315', '50': '25', 6s: '159', Ave: '33.25', BF: '2899',
+    HS: '109', Inns: '143', Mat: '154', 'NO': '29', Player: RG Sharma, Runs: '3791',
+    SR: '130.77', Span: 2007-2013}
+  - {'0': '0', '100': '0', 4s: '41', '50': '1', 6s: '12', Ave: '25.27', BF: '305',
+    HS: '62', Inns: '18', Mat: '21', 'NO': '3', Player: AP Tare, Runs: '379', SR: '124.26',
+    Span: 2009-2013}
+- bowling averages:
+  - {'4': '2', '5': '1', Ave: '26.06', Econ: '6.64', Inns: '129', Mat: '135', Overs: '459.0',
+    Player: Harbhajan Singh, Runs: '3049', SR: '23.54', Span: 2005-2013, Wkts: '117'}
+  - {'4': '0', '5': '0', Ave: '20.59', Econ: '7.12', Inns: '46', Mat: '47', Overs: '166.1',
+    Player: MG Johnson, Runs: '1194', SR: '17.19', Span: 2006-2013, Wkts: '58'}
+  - {'4': '0', '5': '0', Ave: '10.0', Econ: '5.0', Inns: '1', Mat: '132', Overs: '2.0',
+    Player: KD Karthik, Runs: '10', SR: '12.0', Span: 2006-2013, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '27.47', Econ: '8.04', Inns: '46', Mat: '47', Overs: '152.1',
+    Player: DS Kulkarni, Runs: '1236', SR: '20.29', Span: 2007-2013, Wkts: '45'}
+  - {'4': '5', '5': '4', Ave: '17.52', Econ: '6.45', Inns: '148', Mat: '152', Overs: '548.5',
+    Player: SL Malinga, Runs: '3591', SR: '16.06', Span: 2004-2013, Wkts: '205'}
+  - {'4': '0', '5': '0', Ave: '30.53', Econ: '6.64', Inns: '30', Mat: '41', Overs: '64.3',
+    Player: GJ Maxwell, Runs: '458', SR: '25.8', Span: 2010-2013, Wkts: '15'}
+  - {'4': '2', '5': '0', Ave: '19.99', Econ: '6.82', Inns: '94', Mat: '97', Overs: '332.3',
+    Player: PP Ojha, Runs: '2299', SR: '17.35', Span: 2007-2013, Wkts: '115'}
+  - {'4': '3', '5': '0', Ave: '22.7', Econ: '7.85', Inns: '152', Mat: '197', Overs: '421.4',
+    Player: KA Pollard, Runs: '3359', SR: '17.09', Span: 2006-2013, Wkts: '148'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '98', Overs: '0.0',
+    Player: AT Rayudu, Runs: '0', SR: '0', Span: 2007-2013, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '28.21', Econ: '7.57', Inns: '54', Mat: '154', Overs: '101.2',
+    Player: RG Sharma, Runs: '790', SR: '21.71', Span: 2007-2013, Wkts: '28'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '21', Overs: '0.0',
+    Player: AP Tare, Runs: '0', SR: '0', Span: 2009-2013, Wkts: '0'}
+Rajasthan Royals:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '47', '50': '0', 6s: '24', Ave: '23.46', BF: '459',
+    HS: '49', Inns: '38', Mat: '49', 'NO': '12', Player: STR Binny, Runs: '610', SR: '132.9',
+    Span: 2009-2013}
+  - {'0': '0', '100': '0', 4s: '8', '50': '0', 6s: '7', Ave: '17.11', BF: '120', HS: '44',
+    Inns: '13', Mat: '25', 'NO': '4', Player: AA Chavan, Runs: '154', SR: '128.33',
+    Span: 2009-2013}
+  - {'0': '7', '100': '0', 4s: '17', '50': '0', 6s: '13', Ave: '10.35', BF: '178',
+    HS: '28', Inns: '39', Mat: '66', 'NO': '16', Player: KK Cooper, Runs: '238', SR: '133.71',
+    Span: 2008-2013}
+  - {'0': '4', '100': '0', 4s: '292', '50': '13', 6s: '33', Ave: '29.21', BF: '2130',
+    HS: '75', Inns: '91', Mat: '99', 'NO': '7', Player: R Dravid, Runs: '2454', SR: '115.21',
+    Span: 2007-2013}
+  - {'0': '1', '100': '0', 4s: '11', '50': '0', 6s: '5', Ave: '14.63', BF: '212',
+    HS: '38', Inns: '28', Mat: '46', 'NO': '12', Player: JP Faulkner, Runs: '234',
+    SR: '110.38', Span: 2009-2013}
+  - {'0': '10', '100': '2', 4s: '564', '50': '36', 6s: '152', Ave: '36.31', BF: '4213',
+    HS: '106', Inns: '184', Mat: '192', 'NO': '34', Player: BJ Hodge, Runs: '5447',
+    SR: '129.29', Span: 2003-2013}
+  - {'0': '8', '100': '1', 4s: '188', '50': '13', 6s: '33', Ave: '26.95', BF: '1524',
+    HS: '103', Inns: '75', Mat: '79', 'NO': '9', Player: AM Rahane, Runs: '1779',
+    SR: '116.73', Span: 2007-2013}
+  - {'0': '2', '100': '0', 4s: '29', '50': '1', 6s: '11', Ave: '28.17', BF: '276',
+    HS: '63', Inns: '15', Mat: '17', 'NO': '3', Player: SV Samson, Runs: '338', SR: '122.46',
+    Span: 2011-2013}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '0', HS: '0',
+    Inns: '0', Mat: '1', 'NO': '0', Player: PV Tambe, Runs: '0', SR: '0', Span: 2013-2013}
+  - {'0': '7', '100': '1', 4s: '291', '50': '24', 6s: '162', Ave: '34.88', BF: '2177',
+    HS: '101', Inns: '105', Mat: '108', 'NO': '14', Player: SR Watson, Runs: '3174',
+    SR: '145.8', Span: 2004-2013}
+  - {'0': '2', '100': '0', 4s: '48', '50': '2', 6s: '11', Ave: '19.48', BF: '338',
+    HS: '70', Inns: '26', Mat: '35', 'NO': '5', Player: DH Yagnik, Runs: '409', SR: '121.01',
+    Span: 2007-2013}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '21.91', Econ: '7.16', Inns: '40', Mat: '49', Overs: '101.0',
+    Player: STR Binny, Runs: '723', SR: '18.36', Span: 2009-2013, Wkts: '33'}
+  - {'4': '1', '5': '0', Ave: '32.0', Econ: '7.66', Inns: '25', Mat: '25', Overs: '76.2',
+    Player: AA Chavan, Runs: '608', SR: '24.11', Span: 2009-2013, Wkts: '19'}
+  - {'4': '2', '5': '0', Ave: '17.95', Econ: '6.32', Inns: '60', Mat: '66', Overs: '216.5',
+    Player: KK Cooper, Runs: '1418', SR: '16.47', Span: 2008-2013, Wkts: '79'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '99', Overs: '0.0',
+    Player: R Dravid, Runs: '0', SR: '0', Span: 2007-2013, Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '20.95', Econ: '7.25', Inns: '46', Mat: '46', Overs: '163.1',
+    Player: JP Faulkner, Runs: '1194', SR: '17.18', Span: 2009-2013, Wkts: '57'}
+  - {'4': '3', '5': '0', Ave: '22.08', Econ: '7.78', Inns: '78', Mat: '192', Overs: '176.0',
+    Player: BJ Hodge, Runs: '1369', SR: '17.03', Span: 2003-2013, Wkts: '62'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '79', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2013, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '4.0', Econ: '0.8', Inns: '1', Mat: '17', Overs: '0.3',
+    Player: SV Samson, Runs: '4', SR: '3.0', Span: 2011-2013, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '7.5', Inns: '1', Mat: '1', Overs: '4.0',
+    Player: PV Tambe, Runs: '30', SR: '0', Span: 2013-2013, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '22.84', Econ: '7.0', Inns: '87', Mat: '108', Overs: '300.2',
+    Player: SR Watson, Runs: '2124', SR: '19.38', Span: 2004-2013, Wkts: '93'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '35', Overs: '0.0',
+    Player: DH Yagnik, Runs: '0', SR: '0', Span: 2007-2013, Wkts: '0'}

@@ -1,0 +1,133 @@
+ChennaiSuperKings:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '4.87', BF: '59', HS: 11*,
+    Inns: '10', Mat: '23', 'NO': '2', Player: R Ashwin, Runs: '39', SR: '66.10', Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '77', '50': '4', 6s: '18', Ave: '27.42', BF: '648',
+    HS: '64', Inns: '41', Mat: '50', 'NO': '13', Player: S Badrinath, Runs: '768',
+    SR: '118.51', Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '3.66', BF: '34', HS: '15',
+    Inns: '8', Mat: '31', 'NO': '2', Player: L Balaji, Runs: '22', SR: '64.70', Span: 2008-2010}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '1', Ave: '23.00', BF: '22', HS: 16*,
+    Inns: '3', Mat: '24', 'NO': '2', Player: DE Bollinger, Runs: '23', SR: '104.54',
+    Span: 2006-2010}
+  - {'0': '3', '100': '0', 4s: '109', '50': '6', 6s: '44', Ave: '33.47', BF: '1107',
+    HS: 73*, Inns: '58', Mat: '64', 'NO': '16', Player: MS Dhoni, Runs: '1406', SR: '127.00',
+    Span: 2006-2010}
+  - {'0': '1', '100': '0', 4s: '154', '50': '12', 6s: '56', Ave: '41.96', BF: '971',
+    HS: '93', Inns: '38', Mat: '38', 'NO': '5', Player: ML Hayden, Runs: '1385', SR: '142.63',
+    Span: 2005-2010}
+  - {'0': '1', '100': '1', 4s: '69', '50': '4', 6s: '24', Ave: '38.90', BF: '597',
+    HS: 116*, Inns: '26', Mat: '33', 'NO': '6', Player: MEK Hussey, Runs: '778', SR: '130.31',
+    Span: 2003-2010}
+  - {'0': '0', '100': '0', 4s: '13', '50': '0', 6s: '1', Ave: '17.83', BF: '79', HS: '43',
+    Inns: '8', Mat: '22', 'NO': '2', Player: SB Jakati, Runs: '107', SR: '135.44',
+    Span: 2007-2010}
+  - {'0': '4', '100': '0', 4s: '110', '50': '4', 6s: '80', Ave: '25.08', BF: '1061',
+    HS: '71', Inns: '85', Mat: '104', 'NO': '26', Player: JA Morkel, Runs: '1480',
+    SR: '139.49', Span: 2004-2010}
+  - {'0': '1', '100': '0', 4s: '120', '50': '9', 6s: '62', Ave: '33.78', BF: '1028',
+    HS: '98', Inns: '51', Mat: '54', 'NO': '9', Player: SK Raina, Runs: '1419', SR: '138.03',
+    Span: 2006-2010}
+  - {'0': '1', '100': '1', 4s: '46', '50': '3', 6s: '33', Ave: '28.39', BF: '468',
+    HS: '127', Inns: '25', Mat: '27', 'NO': '2', Player: M Vijay, Runs: '653', SR: '139.52',
+    Span: 2007-2010}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '17.89', BBI: 3/15, Ct: '8', Econ: '6.13', Inns: '22',
+    Mat: '23', Mdns: '0', Overs: '81.4', Player: R Ashwin, Runs: '501', SR: '17.5',
+    Span: 2007-2010, St: '0', Wkts: '28'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '15', Econ: '3.00', Inns: '1', Mat: '50',
+    Mdns: '0', Overs: '2.0', Player: S Badrinath, Runs: '6', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '24.62', BBI: 5/24, Ct: '5', Econ: '8.47', Inns: '31',
+    Mat: '31', Mdns: '0', Overs: '101.4', Player: L Balaji, Runs: '862', SR: '17.4',
+    Span: 2008-2010, St: '0', Wkts: '35'}
+  - {'4': '0', '5': '0', Ave: '28.09', BBI: 3/22, Ct: '6', Econ: '7.43', Inns: '23',
+    Mat: '24', Mdns: '1', Overs: '83.1', Player: DE Bollinger, Runs: '618', SR: '22.6',
+    Span: 2006-2010, St: '0', Wkts: '22'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '20', Econ: '-', Inns: '-', Mat: '64',
+    Mdns: '-', Overs: '-', Player: MS Dhoni, Runs: '-', SR: '-', Span: 2006-2010,
+    St: '11', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '11', Econ: '-', Inns: '-', Mat: '38',
+    Mdns: '-', Overs: '-', Player: ML Hayden, Runs: '-', SR: '-', Span: 2005-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '18', Econ: '5.00', Inns: '1', Mat: '33',
+    Mdns: '0', Overs: '1.0', Player: MEK Hussey, Runs: '5', SR: '-', Span: 2003-2010,
+    St: '0', Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '19.28', BBI: 4/22, Ct: '5', Econ: '6.83', Inns: '21',
+    Mat: '22', Mdns: '1', Overs: '79.0', Player: SB Jakati, Runs: '540', SR: '16.9',
+    Span: 2007-2010, St: '0', Wkts: '28'}
+  - {'4': '2', '5': '0', Ave: '27.05', BBI: 4/30, Ct: '22', Econ: '7.95', Inns: '97',
+    Mat: '104', Mdns: '4', Overs: '302.5', Player: JA Morkel, Runs: '2408', SR: '20.4',
+    Span: 2004-2010, St: '0', Wkts: '89'}
+  - {'4': '0', '5': '0', Ave: '27.83', BBI: 2/17, Ct: '28', Econ: '6.61', Inns: '23',
+    Mat: '54', Mdns: '0', Overs: '50.3', Player: SK Raina, Runs: '334', SR: '25.2',
+    Span: 2006-2010, St: '0', Wkts: '12'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '12', Econ: '4.00', Inns: '1', Mat: '27',
+    Mdns: '0', Overs: '1.0', Player: M Vijay, Runs: '4', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '0'}
+DelhiDaredevils:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '51', '50': '5', 6s: '32', Ave: '21.11', BF: '544',
+    HS: '79', Inns: '37', Mat: '40', 'NO': '3', Player: PD Collingwood, Runs: '718',
+    SR: '131.98', Span: 2005-2010}
+  - {'0': '7', '100': '0', 4s: '168', '50': '11', 6s: '36', Ave: '25.60', BF: '1205',
+    HS: 96*, Inns: '65', Mat: '68', 'NO': '7', Player: TM Dilshan, Runs: '1485', SR: '123.23',
+    Span: 2004-2010}
+  - {'0': '4', '100': '0', 4s: '214', '50': '15', 6s: '20', Ave: '29.51', BF: '1443',
+    HS: '86', Inns: '65', Mat: '67', 'NO': '5', Player: G Gambhir, Runs: '1771', SR: '122.73',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '95', '50': '4', 6s: '26', Ave: '25.02', BF: '826',
+    HS: '69', Inns: '53', Mat: '62', 'NO': '12', Player: KD Karthik, Runs: '1026',
+    SR: '124.21', Span: 2006-2010}
+  - {'0': '2', '100': '0', 4s: '33', '50': '0', 6s: '2', Ave: '30.27', BF: '298',
+    HS: 32*, Inns: '18', Mat: '25', 'NO': '7', Player: M Manhas, Runs: '333', SR: '111.74',
+    Span: 2007-2010}
+  - {'0': '5', '100': '0', 4s: '27', '50': '0', 6s: '3', Ave: '15.00', BF: '253',
+    HS: '49', Inns: '25', Mat: '43', 'NO': '7', Player: A Mishra, Runs: '270', SR: '106.71',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '6.66', BF: '28', HS: '6',
+    Inns: '7', Mat: '61', 'NO': '4', Player: DP Nannes, Runs: '20', SR: '71.42', Span: 2007-2010}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '2', Ave: '9.00', BF: '31', HS: '22',
+    Inns: '8', Mat: '35', 'NO': '5', Player: A Nehra, Runs: '27', SR: '87.09', Span: 2008-2010}
+  - {'0': '6', '100': '0', 4s: '194', '50': '11', 6s: '63', Ave: '26.68', BF: '1004',
+    HS: 94*, Inns: '64', Mat: '65', 'NO': '4', Player: V Sehwag, Runs: '1601', SR: '159.46',
+    Span: 2003-2010}
+  - {'0': '6', '100': '1', 4s: '166', '50': '10', 6s: '75', Ave: '30.20', BF: '1071',
+    HS: 107*, Inns: '56', Mat: '56', 'NO': '2', Player: DA Warner, Runs: '1631', SR: '152.28',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '-', BF: '4', HS: 3*,
+    Inns: '1', Mat: '8', 'NO': '1', Player: UT Yadav, Runs: '3', SR: '75.00', Span: 2009-2010}
+- bowling averages:
+  - {'4': '1', '5': '1', Ave: '16.25', BBI: 5/14, Ct: '12', Econ: '7.65', Inns: '28',
+    Mat: '40', Mdns: '0', Overs: '65.5', Player: PD Collingwood, Runs: '504', SR: '12.7',
+    Span: 2005-2010, St: '0', Wkts: '31'}
+  - {'4': '0', '5': '0', Ave: '26.70', BBI: 3/23, Ct: '37', Econ: '6.75', Inns: '33',
+    Mat: '68', Mdns: '0', Overs: '67.1', Player: TM Dilshan, Runs: '454', SR: '23.7',
+    Span: 2004-2010, St: '3', Wkts: '17'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '10', Econ: '-', Inns: '-', Mat: '67',
+    Mdns: '-', Overs: '-', Player: G Gambhir, Runs: '-', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '38', Econ: '-', Inns: '-', Mat: '62',
+    Mdns: '-', Overs: '-', Player: KD Karthik, Runs: '-', SR: '-', Span: 2006-2010,
+    St: '20', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '15.66', BBI: 3/33, Ct: '6', Econ: '9.40', Inns: '2',
+    Mat: '25', Mdns: '0', Overs: '5.0', Player: M Manhas, Runs: '47', SR: '10.0',
+    Span: 2007-2010, St: '0', Wkts: '3'}
+  - {'4': '0', '5': '1', Ave: '18.20', BBI: 5/17, Ct: '11', Econ: '6.91', Inns: '43',
+    Mat: '43', Mdns: '2', Overs: '157.5', Player: A Mishra, Runs: '1092', SR: '15.7',
+    Span: 2007-2010, St: '0', Wkts: '60'}
+  - {'4': '4', '5': '0', Ave: '18.63', BBI: 4/11, Ct: '11', Econ: '6.87', Inns: '60',
+    Mat: '61', Mdns: '3', Overs: '227.4', Player: DP Nannes, Runs: '1565', SR: '16.2',
+    Span: 2007-2010, St: '0', Wkts: '84'}
+  - {'4': '0', '5': '0', Ave: '25.55', BBI: 3/13, Ct: '12', Econ: '7.47', Inns: '35',
+    Mat: '35', Mdns: '1', Overs: '123.0', Player: A Nehra, Runs: '920', SR: '20.5',
+    Span: 2008-2010, St: '0', Wkts: '36'}
+  - {'4': '0', '5': '0', Ave: '20.68', BBI: 3/14, Ct: '10', Econ: '8.07', Inns: '20',
+    Mat: '65', Mdns: '0', Overs: '48.4', Player: V Sehwag, Runs: '393', SR: '15.3',
+    Span: 2003-2010, St: '0', Wkts: '19'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '19', Econ: '-', Inns: '-', Mat: '56',
+    Mdns: '-', Overs: '-', Player: DA Warner, Runs: '-', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '46.60', BBI: 2/27, Ct: '1', Econ: '8.57', Inns: '8',
+    Mat: '8', Mdns: '0', Overs: '27.1', Player: UT Yadav, Runs: '233', SR: '32.6',
+    Span: 2009-2010, St: '0', Wkts: '5'}

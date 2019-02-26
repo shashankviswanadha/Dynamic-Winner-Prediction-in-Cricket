@@ -1,0 +1,132 @@
+DelhiDaredevils:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '1.75', BF: '22', HS: '5',
+    Inns: '4', Mat: '4', 'NO': '0', Player: UBT Chand, Runs: '7', SR: '31.81', Span: 2010-2011}
+  - {'0': '3', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '3.57', BF: '37', HS: '19',
+    Inns: '11', Mat: '46', 'NO': '4', Player: AB Dinda, Runs: '25', SR: '67.56', Span: 2008-2011}
+  - {'0': '1', '100': '0', 4s: '75', '50': '6', 6s: '27', Ave: '44.22', BF: '605',
+    HS: 93*, Inns: '23', Mat: '26', 'NO': '5', Player: AJ Finch, Runs: '796', SR: '131.57',
+    Span: 2009-2011}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '6.00', BF: '55', HS: '8',
+    Inns: '13', Mat: '47', 'NO': '7', Player: M Morkel, Runs: '36', SR: '65.45', Span: 2005-2011}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '4', Ave: '16.00', BF: '66', HS: 30*,
+    Inns: '6', Mat: '14', 'NO': '1', Player: S Nadeem, Runs: '80', SR: '121.21', Span: 2007-2011}
+  - {'0': '5', '100': '0', 4s: '86', '50': '5', 6s: '43', Ave: '23.91', BF: '738',
+    HS: 94*, Inns: '41', Mat: '41', 'NO': '4', Player: NV Ojha, Runs: '885', SR: '119.91',
+    Span: 2007-2011}
+  - {'0': '3', '100': '0', 4s: '61', '50': '1', 6s: '34', Ave: '22.35', BF: '626',
+    HS: '60', Inns: '57', Mat: '71', 'NO': '20', Player: IK Pathan, Runs: '827', SR: '132.10',
+    Span: 2005-2011}
+  - {'0': '6', '100': '0', 4s: '199', '50': '11', 6s: '64', Ave: '25.90', BF: '1028',
+    HS: 94*, Inns: '67', Mat: '68', 'NO': '4', Player: V Sehwag, Runs: '1632', SR: '158.75',
+    Span: 2003-2011}
+  - {'0': '1', '100': '0', 4s: '46', '50': '3', 6s: '26', Ave: '20.29', BF: '431',
+    HS: 70*, Inns: '35', Mat: '52', 'NO': '8', Player: RE van der Merwe, Runs: '548',
+    SR: '127.14', Span: 2008-2011}
+  - {'0': '4', '100': '0', 4s: '57', '50': '6', 6s: '32', Ave: '22.21', BF: '660',
+    HS: 71*, Inns: '43', Mat: '49', 'NO': '6', Player: Y Venugopal Rao, Runs: '822',
+    SR: '124.54', Span: 2007-2011}
+  - {'0': '7', '100': '1', 4s: '268', '50': '16', 6s: '104', Ave: '28.84', BF: '1805',
+    HS: 107*, Inns: '94', Mat: '94', 'NO': '5', Player: DA Warner, Runs: '2567', SR: '142.21',
+    Span: 2007-2011}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '0', Econ: '-', Inns: '-', Mat: '4',
+    Mdns: '-', Overs: '-', Player: UBT Chand, Runs: '-', SR: '-', Span: 2010-2011,
+    St: '0', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '22.45', BBI: 4/13, Ct: '5', Econ: '6.73', Inns: '44',
+    Mat: '46', Mdns: '0', Overs: '146.4', Player: AB Dinda, Runs: '988', SR: '20.0',
+    Span: 2008-2011, St: '0', Wkts: '44'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '10', Econ: '5.68', Inns: '2', Mat: '26',
+    Mdns: '0', Overs: '3.1', Player: AJ Finch, Runs: '18', SR: '-', Span: 2009-2011,
+    St: '0', Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '23.25', BBI: 4/17, Ct: '7', Econ: '6.81', Inns: '46',
+    Mat: '47', Mdns: '4', Overs: '163.4', Player: M Morkel, Runs: '1116', SR: '20.4',
+    Span: 2005-2011, St: '0', Wkts: '48'}
+  - {'4': '0', '5': '0', Ave: '21.46', BBI: 3/20, Ct: '3', Econ: '5.47', Inns: '14',
+    Mat: '14', Mdns: '1', Overs: '51.0', Player: S Nadeem, Runs: '279', SR: '23.5',
+    Span: 2007-2011, St: '0', Wkts: '13'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '23', Econ: '-', Inns: '-', Mat: '41',
+    Mdns: '-', Overs: '-', Player: NV Ojha, Runs: '-', SR: '-', Span: 2007-2011, St: '7',
+    Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '23.59', BBI: 4/27, Ct: '16', Econ: '7.68', Inns: '69',
+    Mat: '71', Mdns: '5', Overs: '242.3', Player: IK Pathan, Runs: '1864', SR: '18.4',
+    Span: 2005-2011, St: '0', Wkts: '79'}
+  - {'4': '0', '5': '0', Ave: '20.68', BBI: 3/14, Ct: '11', Econ: '8.07', Inns: '20',
+    Mat: '68', Mdns: '0', Overs: '48.4', Player: V Sehwag, Runs: '393', SR: '15.3',
+    Span: 2003-2011, St: '0', Wkts: '19'}
+  - {'4': '0', '5': '0', Ave: '22.49', BBI: 3/18, Ct: '20', Econ: '7.23', Inns: '52',
+    Mat: '52', Mdns: '1', Overs: '177.1', Player: RE van der Merwe, Runs: '1282',
+    SR: '18.6', Span: 2008-2011, St: '0', Wkts: '57'}
+  - {'4': '0', '5': '0', Ave: '47.50', BBI: 2/23, Ct: '11', Econ: '8.44', Inns: '19',
+    Mat: '49', Mdns: '0', Overs: '45.0', Player: Y Venugopal Rao, Runs: '380', SR: '33.7',
+    Span: 2007-2011, St: '0', Wkts: '8'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '41', Econ: '-', Inns: '-', Mat: '94',
+    Mdns: '-', Overs: '-', Player: DA Warner, Runs: '-', SR: '-', Span: 2007-2011,
+    St: '0', Wkts: '-'}
+RajasthanRoyals:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '44', '50': '1', 6s: '12', Ave: '20.92', BF: '484',
+    HS: 67*, Inns: '49', Mat: '70', 'NO': '22', Player: J Botha, Runs: '565', SR: '116.73',
+    Span: 2004-2011}
+  - {'0': '4', '100': '0', 4s: '138', '50': '6', 6s: '21', Ave: '28.47', BF: '1055',
+    HS: 75*, Inns: '49', Mat: '56', 'NO': '5', Player: R Dravid, Runs: '1253', SR: '118.76',
+    Span: 2007-2011}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '3', Ave: '22.00', BF: '15', HS: '22',
+    Inns: '1', Mat: '2', 'NO': '0', Player: AL Menaria, Runs: '22', SR: '146.66',
+    Span: 2011-2011}
+  - {'0': '3', '100': '0', 4s: '23', '50': '1', 6s: '5', Ave: '19.20', BF: '161',
+    HS: 78*, Inns: '11', Mat: '11', 'NO': '1', Player: AG Paunikar, Runs: '192', SR: '119.25',
+    Span: 2009-2011}
+  - {'0': '5', '100': '0', 4s: '37', '50': '3', 6s: '6', Ave: '15.16', BF: '373',
+    HS: 62*, Inns: '27', Mat: '28', 'NO': '2', Player: AM Rahane, Runs: '379', SR: '101.60',
+    Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '12', '50': '0', 6s: '7', Ave: '22.12', BF: '140',
+    HS: '43', Inns: '14', Mat: '22', 'NO': '6', Player: AS Raut, Runs: '177', SR: '126.42',
+    Span: 2009-2011}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '3.00', BF: '8', HS: '5',
+    Inns: '3', Mat: '10', 'NO': '1', Player: A Singh, Runs: '6', SR: '75.00', Span: 2009-2011}
+  - {'0': '3', '100': '0', 4s: '3', '50': '0', 6s: '4', Ave: '6.41', BF: '104', HS: 14*,
+    Inns: '18', Mat: '59', 'NO': '6', Player: SW Tait, Runs: '77', SR: '74.03', Span: 2005-2011}
+  - {'0': '4', '100': '1', 4s: '196', '50': '14', 6s: '160', Ave: '33.49', BF: '1767',
+    HS: 111*, Inns: '98', Mat: '104', 'NO': '19', Player: LRPL Taylor, Runs: '2646',
+    SR: '149.74', Span: 2006-2011}
+  - {'0': '1', '100': '0', 4s: '5', '50': '0', 6s: '1', Ave: '7.00', BF: '61', HS: '12',
+    Inns: '17', Mat: '50', 'NO': '8', Player: SK Trivedi, Runs: '63', SR: '103.27',
+    Span: 2007-2011}
+  - {'0': '7', '100': '0', 4s: '14', '50': '0', 6s: '7', Ave: '10.00', BF: '208',
+    HS: 34*, Inns: '27', Mat: '47', 'NO': '7', Player: SK Warne, Runs: '200', SR: '96.15',
+    Span: 2004-2011}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '24.30', BBI: 4/19, Ct: '35', Econ: '6.05', Inns: '67',
+    Mat: '70', Mdns: '2', Overs: '253.0', Player: J Botha, Runs: '1531', SR: '24.0',
+    Span: 2004-2011, St: '0', Wkts: '63'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '13', Econ: '-', Inns: '-', Mat: '56',
+    Mdns: '-', Overs: '-', Player: R Dravid, Runs: '-', SR: '-', Span: 2007-2011,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '1', Econ: '8.00', Inns: '1', Mat: '2',
+    Mdns: '0', Overs: '1.0', Player: AL Menaria, Runs: '8', SR: '-', Span: 2011-2011,
+    St: '0', Wkts: '0'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '3', Econ: '-', Inns: '-', Mat: '11',
+    Mdns: '-', Overs: '-', Player: AG Paunikar, Runs: '-', SR: '-', Span: 2009-2011,
+    St: '1', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '5.00', BBI: 1/5, Ct: '7', Econ: '5.00', Inns: '1',
+    Mat: '28', Mdns: '0', Overs: '1.0', Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2011,
+    St: '0', Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '38.00', BBI: 1/18, Ct: '7', Econ: '8.44', Inns: '6',
+    Mat: '22', Mdns: '0', Overs: '9.0', Player: AS Raut, Runs: '76', SR: '27.0', Span: 2009-2011,
+    St: '0', Wkts: '2'}
+  - {'4': '1', '5': '0', Ave: '13.06', BBI: 4/19, Ct: '0', Econ: '5.88', Inns: '10',
+    Mat: '10', Mdns: '2', Overs: '35.3', Player: A Singh, Runs: '209', SR: '13.3',
+    Span: 2009-2011, St: '0', Wkts: '16'}
+  - {'4': '1', '5': '0', Ave: '20.04', BBI: 4/14, Ct: '13', Econ: '7.66', Inns: '59',
+    Mat: '59', Mdns: '4', Overs: '217.1', Player: SW Tait, Runs: '1664', SR: '15.6',
+    Span: 2005-2011, St: '0', Wkts: '83'}
+  - {'4': '0', '5': '0', Ave: '33.62', BBI: 3/28, Ct: '52', Econ: '8.96', Inns: '14',
+    Mat: '104', Mdns: '0', Overs: '30.0', Player: LRPL Taylor, Runs: '269', SR: '22.5',
+    Span: 2006-2011, St: '0', Wkts: '8'}
+  - {'4': '2', '5': '0', Ave: '23.75', BBI: 4/29, Ct: '12', Econ: '7.72', Inns: '49',
+    Mat: '50', Mdns: '1', Overs: '166.0', Player: SK Trivedi, Runs: '1283', SR: '18.4',
+    Span: 2007-2011, St: '0', Wkts: '54'}
+  - {'4': '1', '5': '0', Ave: '25.26', BBI: 4/21, Ct: '15', Econ: '7.34', Inns: '47',
+    Mat: '47', Mdns: '1', Overs: '172.0', Player: SK Warne, Runs: '1263', SR: '20.6',
+    Span: 2004-2011, St: '0', Wkts: '50'}

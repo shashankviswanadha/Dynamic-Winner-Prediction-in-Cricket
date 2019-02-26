@@ -1,0 +1,112 @@
+Delhi Daredevils:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0.0', BF: '9', HS: '0',
+    Inns: '2', Mat: '4', 'NO': '1', Player: S Ladda, Runs: '0', SR: '0.0', Span: 2010-2010}
+  - {'0': '2', '100': '0', 4s: '51', '50': '5', 6s: '32', Ave: '21.7', BF: '539',
+    HS: '79', Inns: '36', Mat: '38', 'NO': '3', Player: PD Collingwood, Runs: '716',
+    SR: '132.84', Span: 2005-2010}
+  - {'0': '5', '100': '1', 4s: '117', '50': '8', 6s: '39', Ave: '30.15', BF: '1082',
+    HS: '105', Inns: '57', Mat: '61', 'NO': '11', Player: AB de Villiers, Runs: '1387',
+    SR: '128.19', Span: 2004-2010}
+  - {'0': '4', '100': '0', 4s: '206', '50': '14', 6s: '20', Ave: '28.76', BF: '1378',
+    HS: '86', Inns: '63', Mat: '65', 'NO': '4', Player: G Gambhir, Runs: '1697', SR: '123.15',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '94', '50': '4', 6s: '26', Ave: '25.69', BF: '796',
+    HS: '69', Inns: '51', Mat: '60', 'NO': '12', Player: KD Karthik, Runs: '1002',
+    SR: '125.88', Span: 2006-2010}
+  - {'0': '1', '100': '0', 4s: '33', '50': '0', 6s: '11', Ave: '26.0', BF: '364',
+    HS: '43', Inns: '29', Mat: '34', 'NO': '11', Player: AB McDonald, Runs: '468',
+    SR: '128.57', Span: 2006-2010}
+  - {'0': '5', '100': '0', 4s: '27', '50': '0', 6s: '3', Ave: '15.18', BF: '236',
+    HS: '49', Inns: '24', Mat: '41', 'NO': '7', Player: A Mishra, Runs: '258', SR: '109.32',
+    Span: 2007-2010}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '2', Ave: '9.0', BF: '31', HS: '22',
+    Inns: '8', Mat: '33', 'NO': '5', Player: A Nehra, Runs: '27', SR: '87.1', Span: 2008-2010}
+  - {'0': '3', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.14', BF: '35', HS: '-1',
+    Inns: '14', Mat: '39', 'NO': '7', Player: PJ Sangwan, Runs: '22', SR: '62.86',
+    Span: 2007-2010}
+  - {'0': '6', '100': '0', 4s: '191', '50': '11', 6s: '63', Ave: '27.19', BF: '982',
+    HS: '94', Inns: '62', Mat: '63', 'NO': '4', Player: V Sehwag, Runs: '1577', SR: '160.59',
+    Span: 2003-2010}
+  - {'0': '5', '100': '1', 4s: '161', '50': '10', 6s: '74', Ave: '30.77', BF: '1054',
+    HS: '107', Inns: '54', Mat: '54', 'NO': '2', Player: DA Warner, Runs: '1600',
+    SR: '151.8', Span: 2007-2010}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '32.25', Econ: '9.21', Inns: '4', Mat: '4', Overs: '14.0',
+    Player: S Ladda, Runs: '129', SR: '21.0', Span: 2010-2010, Wkts: '4'}
+  - {'4': '1', '5': '1', Ave: '15.39', Econ: '6.88', Inns: '27', Mat: '38', Overs: '61.5',
+    Player: PD Collingwood, Runs: '477', SR: '11.97', Span: 2005-2010, Wkts: '31'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '61', Overs: '0.0',
+    Player: AB de Villiers, Runs: '0', SR: '0', Span: 2004-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '65', Overs: '0.0',
+    Player: G Gambhir, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '60', Overs: '0.0',
+    Player: KD Karthik, Runs: '0', SR: '0', Span: 2006-2010, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '20.66', Econ: '7.53', Inns: '30', Mat: '34', Overs: '96.0',
+    Player: AB McDonald, Runs: '723', SR: '16.46', Span: 2006-2010, Wkts: '35'}
+  - {'4': '0', '5': '1', Ave: '17.78', Econ: '6.63', Inns: '41', Mat: '41', Overs: '150.5',
+    Player: A Mishra, Runs: '1049', SR: '15.34', Span: 2007-2010, Wkts: '59'}
+  - {'4': '0', '5': '0', Ave: '27.0', Econ: '7.51', Inns: '33', Mat: '33', Overs: '115.0',
+    Player: A Nehra, Runs: '864', SR: '21.56', Span: 2008-2010, Wkts: '32'}
+  - {'4': '0', '5': '0', Ave: '28.18', Econ: '7.72', Inns: '38', Mat: '39', Overs: '137.1',
+    Player: PJ Sangwan, Runs: '1071', SR: '21.66', Span: 2007-2010, Wkts: '38'}
+  - {'4': '0', '5': '0', Ave: '22.06', Econ: '7.4', Inns: '19', Mat: '63', Overs: '44.4',
+    Player: V Sehwag, Runs: '375', SR: '15.76', Span: 2003-2010, Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '54', Overs: '0.0',
+    Player: DA Warner, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+Mumbai Indians:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '75', '50': '7', 6s: '41', Ave: '24.97', BF: '754',
+    HS: '70', Inns: '53', Mat: '59', 'NO': '14', Player: DJ Bravo, Runs: '974', SR: '129.18',
+    Span: 2006-2010}
+  - {'0': '6', '100': '0', 4s: '152', '50': '14', 6s: '51', Ave: '35.02', BF: '1504',
+    HS: '99', Inns: '66', Mat: '69', 'NO': '15', Player: JP Duminy, Runs: '1786',
+    SR: '118.75', Span: 2004-2010}
+  - {'0': '2', '100': '0', 4s: '5', '50': '0', 6s: '0', Ave: '5.67', BF: '33', HS: '21',
+    Inns: '12', Mat: '33', 'NO': '6', Player: CRD Fernando, Runs: '34', SR: '103.03',
+    Span: 2004-2010}
+  - {'0': '2', '100': '0', 4s: '31', '50': '0', 6s: '19', Ave: '15.57', BF: '248',
+    HS: '49', Inns: '32', Mat: '57', 'NO': '9', Player: Harbhajan Singh, Runs: '358',
+    SR: '144.35', Span: 2005-2010}
+  - {'0': '2', '100': '0', 4s: '13', '50': '0', 6s: '1', Ave: '11.45', BF: '125',
+    HS: '26', Inns: '26', Mat: '49', 'NO': '15', Player: Z Khan, Runs: '126', SR: '100.8',
+    Span: 2006-2010}
+  - {'0': '0', '100': '0', 4s: '6', '50': '1', 6s: '5', Ave: '68.5', BF: '111', HS: '69',
+    Inns: '4', Mat: '5', 'NO': '2', Player: C Madan, Runs: '137', SR: '123.42', Span: 2009-2010}
+  - {'0': '0', '100': '0', 4s: '7', '50': '0', 6s: '1', Ave: '30.67', BF: '102', HS: '39',
+    Inns: '5', Mat: '7', 'NO': '2', Player: AG Murtaza, Runs: '92', SR: '90.2', Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '56', '50': '3', 6s: '45', Ave: '22.15', BF: '488',
+    HS: '83', Inns: '39', Mat: '47', 'NO': '5', Player: KA Pollard, Runs: '753', SR: '154.3',
+    Span: 2006-2010}
+  - {'0': '1', '100': '0', 4s: '35', '50': '4', 6s: '11', Ave: '28.08', BF: '259',
+    HS: '75', Inns: '15', Mat: '15', 'NO': '2', Player: AT Rayudu, Runs: '365', SR: '140.93',
+    Span: 2007-2010}
+  - {'0': '2', '100': '0', 4s: '166', '50': '10', 6s: '20', Ave: '40.71', BF: '966',
+    HS: '89', Inns: '36', Mat: '36', 'NO': '5', Player: SR Tendulkar, Runs: '1262',
+    SR: '130.64', Span: 2006-2010}
+  - {'0': '0', '100': '0', 4s: '61', '50': '4', 6s: '22', Ave: '29.14', BF: '464',
+    HS: '69', Inns: '24', Mat: '26', 'NO': '3', Player: SS Tiwary, Runs: '612', SR: '131.9',
+    Span: 2007-2010}
+- bowling averages:
+  - {'4': '2', '5': '0', Ave: '25.41', Econ: '8.47', Inns: '56', Mat: '59', Overs: '174.0',
+    Player: DJ Bravo, Runs: '1474', SR: '18.0', Span: 2006-2010, Wkts: '58'}
+  - {'4': '1', '5': '0', Ave: '19.57', Econ: '6.36', Inns: '27', Mat: '69', Overs: '58.4',
+    Player: JP Duminy, Runs: '411', SR: '16.76', Span: 2004-2010, Wkts: '21'}
+  - {'4': '2', '5': '0', Ave: '21.1', Econ: '7.38', Inns: '33', Mat: '33', Overs: '120.0',
+    Player: CRD Fernando, Runs: '886', SR: '17.14', Span: 2004-2010, Wkts: '42'}
+  - {'4': '1', '5': '0', Ave: '23.11', Econ: '6.28', Inns: '54', Mat: '57', Overs: '190.3',
+    Player: Harbhajan Singh, Runs: '1225', SR: '21.57', Span: 2005-2010, Wkts: '53'}
+  - {'4': '1', '5': '0', Ave: '24.74', Econ: '7.51', Inns: '49', Mat: '49', Overs: '178.0',
+    Player: Z Khan, Runs: '1336', SR: '19.78', Span: 2006-2010, Wkts: '54'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '5', Overs: '0.0', Player: C
+      Madan, Runs: '0', SR: '0', Span: 2009-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '18.57', Econ: '7.65', Inns: '6', Mat: '7', Overs: '17.0',
+    Player: AG Murtaza, Runs: '130', SR: '14.57', Span: 2007-2010, Wkts: '7'}
+  - {'4': '0', '5': '0', Ave: '21.47', Econ: '7.77', Inns: '37', Mat: '47', Overs: '94.0',
+    Player: KA Pollard, Runs: '730', SR: '16.59', Span: 2006-2010, Wkts: '34'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '15', Overs: '0.0',
+    Player: AT Rayudu, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '61.5', Econ: '6.15', Inns: '8', Mat: '36', Overs: '15.3',
+    Player: SR Tendulkar, Runs: '123', SR: '46.5', Span: 2006-2010, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '26', Overs: '0.0',
+    Player: SS Tiwary, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}

@@ -1,0 +1,136 @@
+DelhiDaredevils:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '102', '50': '5', 6s: '35', Ave: '20.86', BF: '1019',
+    HS: 61*, Inns: '67', Mat: '71', 'NO': '7', Player: SW Billings, Runs: '1252',
+    SR: '122.86', Span: 2011-2016}
+  - {'0': '2', '100': '0', 4s: '18', '50': '0', 6s: '36', Ave: '16.76', BF: '280',
+    HS: 36*, Inns: '34', Mat: '49', 'NO': '8', Player: CR Brathwaite, Runs: '436',
+    SR: '155.71', Span: 2011-2016}
+  - {'0': '5', '100': '3', 4s: '374', '50': '17', 6s: '121', Ave: '34.17', BF: '2478',
+    HS: 126*, Inns: '109', Mat: '115', 'NO': '10', Player: Q de Kock, Runs: '3383',
+    SR: '136.52', Span: 2011-2016}
+  - {'0': '7', '100': '0', 4s: '17', '50': '0', 6s: '3', Ave: '9.25', BF: '204', HS: '26',
+    Inns: '45', Mat: '123', 'NO': '25', Player: Z Khan, Runs: '185', SR: '90.68',
+    Span: 2006-2016}
+  - {'0': '13', '100': '0', 4s: '62', '50': '0', 6s: '5', Ave: '13.78', BF: '668',
+    HS: '49', Inns: '77', Mat: '162', 'NO': '30', Player: A Mishra, Runs: '648', SR: '97.00',
+    Span: 2007-2016}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '3.66', BF: '35', HS: '5',
+    Inns: '13', Mat: '48', 'NO': '7', Player: Mohammed Shami, Runs: '22', SR: '62.85',
+    Span: 2010-2016}
+  - {'0': '9', '100': '0', 4s: '48', '50': '1', 6s: '41', Ave: '23.43', BF: '481',
+    HS: 82*, Inns: '61', Mat: '113', 'NO': '29', Player: CH Morris, Runs: '750', SR: '155.92',
+    Span: 2011-2016}
+  - {'0': '3', '100': '0', 4s: '12', '50': '0', 6s: '5', Ave: '8.80', BF: '205', HS: 36*,
+    Inns: '31', Mat: '82', 'NO': '10', Player: S Nadeem, Runs: '185', SR: '90.24',
+    Span: 2007-2016}
+  - {'0': '1', '100': '0', 4s: '105', '50': '7', 6s: '24', Ave: '22.08', BF: '827',
+    HS: 73*, Inns: '53', Mat: '59', 'NO': '7', Player: KK Nair, Runs: '1016', SR: '122.85',
+    Span: 2013-2016}
+  - {'0': '0', '100': '0', 4s: '12', '50': '1', 6s: '2', Ave: '24.75', BF: '72', HS: '69',
+    Inns: '5', Mat: '5', 'NO': '1', Player: RR Pant, Runs: '99', SR: '137.50', Span: 2016-2016}
+  - {'0': '6', '100': '0', 4s: '155', '50': '13', 6s: '67', Ave: '25.57', BF: '1571',
+    HS: '87', Inns: '81', Mat: '86', 'NO': '8', Player: SV Samson, Runs: '1867', SR: '118.84',
+    Span: 2011-2016}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '48', Econ: '-', Inns: '-', Mat: '71',
+    Mdns: '-', Overs: '-', Player: SW Billings, Runs: '-', SR: '-', Span: 2011-2016,
+    St: '5', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '26.56', BBI: 4/23, Ct: '16', Econ: '7.33', Inns: '48',
+    Mat: '49', Mdns: '2', Overs: '148.3', Player: CR Brathwaite, Runs: '1089', SR: '21.7',
+    Span: 2011-2016, St: '0', Wkts: '41'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '68', Econ: '-', Inns: '-', Mat: '115',
+    Mdns: '-', Overs: '-', Player: Q de Kock, Runs: '-', SR: '-', Span: 2011-2016,
+    St: '20', Wkts: '-'}
+  - {'4': '2', '5': '0', Ave: '26.70', BBI: 4/17, Ct: '26', Econ: '7.49', Inns: '122',
+    Mat: '123', Mdns: '5', Overs: '452.1', Player: Z Khan, Runs: '3391', SR: '21.3',
+    Span: 2006-2016, St: '0', Wkts: '127'}
+  - {'4': '4', '5': '2', Ave: '20.90', BBI: 5/17, Ct: '28', Econ: '7.01', Inns: '161',
+    Mat: '162', Mdns: '10', Overs: '574.5', Player: A Mishra, Runs: '4034', SR: '17.8',
+    Span: 2007-2016, St: '0', Wkts: '193'}
+  - {'4': '1', '5': '0', Ave: '22.48', BBI: 4/24, Ct: '11', Econ: '7.63', Inns: '48',
+    Mat: '48', Mdns: '2', Overs: '164.5', Player: Mohammed Shami, Runs: '1259', SR: '17.6',
+    Span: 2010-2016, St: '0', Wkts: '56'}
+  - {'4': '5', '5': '0', Ave: '21.70', BBI: 4/9, Ct: '46', Econ: '7.58', Inns: '111',
+    Mat: '113', Mdns: '8', Overs: '400.4', Player: CH Morris, Runs: '3039', SR: '17.1',
+    Span: 2011-2016, St: '0', Wkts: '140'}
+  - {'4': '0', '5': '0', Ave: '27.84', BBI: 3/16, Ct: '18', Econ: '6.54', Inns: '80',
+    Mat: '82', Mdns: '4', Overs: '298.0', Player: S Nadeem, Runs: '1949', SR: '25.5',
+    Span: 2007-2016, St: '0', Wkts: '70'}
+  - {'4': '0', '5': '0', Ave: '27.50', BBI: 1/3, Ct: '16', Econ: '6.87', Inns: '6',
+    Mat: '59', Mdns: '0', Overs: '8.0', Player: KK Nair, Runs: '55', SR: '24.0', Span: 2013-2016,
+    St: '0', Wkts: '2'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '1', Econ: '-', Inns: '-', Mat: '5',
+    Mdns: '-', Overs: '-', Player: RR Pant, Runs: '-', SR: '-', Span: 2016-2016, St: '0',
+    Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '4.00', BBI: 1/4, Ct: '53', Econ: '8.00', Inns: '1',
+    Mat: '86', Mdns: '0', Overs: '0.3', Player: SV Samson, Runs: '4', SR: '3.0', Span: 2011-2016,
+    St: '6', Wkts: '1'}
+KingsXIPunjab:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '281', '50': '16', 6s: '41', Ave: '30.97', BF: '1947',
+    HS: 97*, Inns: '88', Mat: '89', 'NO': '9', Player: HM Amla, Runs: '2447', SR: '125.68',
+    Span: 2004-2016}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '1.00', BF: '3', HS: '1',
+    Inns: '2', Mat: '7', 'NO': '1', Player: KC Cariappa, Runs: '1', SR: '33.33', Span: 2015-2016}
+  - {'0': '7', '100': '0', 4s: '92', '50': '4', 6s: '23', Ave: '20.60', BF: '698',
+    HS: 93*, Inns: '50', Mat: '58', 'NO': '9', Player: Gurkeerat Singh, Runs: '845',
+    SR: '121.06', Span: 2011-2016}
+  - {'0': '12', '100': '0', 4s: '260', '50': '16', 6s: '161', Ave: '22.57', BF: '2019',
+    HS: '95', Inns: '150', Mat: '159', 'NO': '13', Player: GJ Maxwell, Runs: '3093',
+    SR: '153.19', Span: 2010-2016}
+  - {'0': '11', '100': '1', 4s: '323', '50': '22', 6s: '189', Ave: '36.09', BF: '3241',
+    HS: 101*, Inns: '181', Mat: '198', 'NO': '57', Player: DA Miller, Runs: '4476',
+    SR: '138.10', Span: 2008-2016}
+  - {'0': '5', '100': '0', 4s: '41', '50': '0', 6s: '24', Ave: '18.76', BF: '432',
+    HS: 43*, Inns: '44', Mat: '62', 'NO': '14', Player: AR Patel, Runs: '563', SR: '130.32',
+    Span: 2013-2016}
+  - {'0': '4', '100': '1', 4s: '186', '50': '11', 6s: '89', Ave: '24.80', BF: '1734',
+    HS: 115*, Inns: '118', Mat: '141', 'NO': '27', Player: WP Saha, Runs: '2257',
+    SR: '130.16', Span: 2007-2016}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '15.00', BF: '25', HS: '7',
+    Inns: '10', Mat: '54', 'NO': '9', Player: Sandeep Sharma, Runs: '15', SR: '60.00',
+    Span: 2013-2016}
+  - {'0': '3', '100': '0', 4s: '2', '50': '0', 6s: '3', Ave: '7.14', BF: '48', HS: 21*,
+    Inns: '17', Mat: '74', 'NO': '10', Player: MM Sharma, Runs: '50', SR: '104.16',
+    Span: 2013-2016}
+  - {'0': '2', '100': '0', 4s: '33', '50': '2', 6s: '7', Ave: '18.50', BF: '329',
+    HS: '52', Inns: '22', Mat: '24', 'NO': '2', Player: MP Stoinis, Runs: '370', SR: '112.46',
+    Span: 2012-2016}
+  - {'0': '8', '100': '2', 4s: '321', '50': '17', 6s: '125', Ave: '24.89', BF: '2854',
+    HS: '127', Inns: '143', Mat: '145', 'NO': '4', Player: M Vijay, Runs: '3460',
+    SR: '121.23', Span: 2007-2016}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '29', Econ: '15.00', Inns: '2', Mat: '89',
+    Mdns: '0', Overs: '0.2', Player: HM Amla, Runs: '5', SR: '-', Span: 2004-2016,
+    St: '0', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '20.00', BBI: 2/14, Ct: '1', Econ: '7.50', Inns: '7',
+    Mat: '7', Mdns: '0', Overs: '24.0', Player: KC Cariappa, Runs: '180', SR: '16.0',
+    Span: 2015-2016, St: '0', Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '33.25', BBI: 2/17, Ct: '24', Econ: '7.38', Inns: '9',
+    Mat: '58', Mdns: '0', Overs: '18.0', Player: Gurkeerat Singh, Runs: '133', SR: '27.0',
+    Span: 2011-2016, St: '3', Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '34.56', BBI: 3/13, Ct: '75', Econ: '7.84', Inns: '108',
+    Mat: '159', Mdns: '1', Overs: '233.3', Player: GJ Maxwell, Runs: '1832', SR: '26.4',
+    Span: 2010-2016, St: '0', Wkts: '53'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '128', Econ: '10.33', Inns: '3',
+    Mat: '198', Mdns: '0', Overs: '3.0', Player: DA Miller, Runs: '31', SR: '-', Span: 2008-2016,
+    St: '0', Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '24.53', BBI: 4/21, Ct: '20', Econ: '6.83', Inns: '62',
+    Mat: '62', Mdns: '2', Overs: '222.4', Player: AR Patel, Runs: '1521', SR: '21.5',
+    Span: 2013-2016, St: '0', Wkts: '62'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '71', Econ: '-', Inns: '-', Mat: '141',
+    Mdns: '-', Overs: '-', Player: WP Saha, Runs: '-', SR: '-', Span: 2007-2016, St: '23',
+    Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '22.30', BBI: 4/25, Ct: '14', Econ: '7.30', Inns: '54',
+    Mat: '54', Mdns: '9', Overs: '192.2', Player: Sandeep Sharma, Runs: '1405', SR: '18.3',
+    Span: 2013-2016, St: '0', Wkts: '63'}
+  - {'4': '2', '5': '0', Ave: '23.21', BBI: 4/14, Ct: '18', Econ: '7.91', Inns: '73',
+    Mat: '74', Mdns: '0', Overs: '246.2', Player: MM Sharma, Runs: '1950', SR: '17.5',
+    Span: 2013-2016, St: '0', Wkts: '84'}
+  - {'4': '0', '5': '0', Ave: '17.93', BBI: 3/11, Ct: '4', Econ: '7.91', Inns: '15',
+    Mat: '24', Mdns: '0', Overs: '34.0', Player: MP Stoinis, Runs: '269', SR: '13.6',
+    Span: 2012-2016, St: '0', Wkts: '15'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '59', Econ: '6.88', Inns: '6', Mat: '145',
+    Mdns: '0', Overs: '9.0', Player: M Vijay, Runs: '62', SR: '-', Span: 2007-2016,
+    St: '0', Wkts: '0'}

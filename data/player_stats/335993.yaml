@@ -1,0 +1,131 @@
+ChennaiSuperKings:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '1.00', BF: '1', HS: '1',
+    Inns: '3', Mat: '8', 'NO': '2', Player: P Amarnath, Runs: '1', SR: '100.00', Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '9', '50': '0', 6s: '6', Ave: '54.66', BF: '134', HS: 40*,
+    Inns: '7', Mat: '8', 'NO': '4', Player: S Badrinath, Runs: '164', SR: '122.38',
+    Span: 2007-2008}
+  - {'0': '1', '100': '0', 4s: '30', '50': '1', 6s: '15', Ave: '33.63', BF: '266',
+    HS: 73*, Inns: '16', Mat: '17', 'NO': '5', Player: MS Dhoni, Runs: '370', SR: '139.09',
+    Span: 2006-2008}
+  - {'0': '-', '100': '-', 4s: '-', '50': '-', 6s: '-', Ave: '-', BF: '-', HS: '-',
+    Inns: '-', Mat: '3', 'NO': '-', Player: MS Gony, Runs: '-', SR: '-', Span: 2008-2008}
+  - {'0': '0', '100': '0', 4s: '59', '50': '6', 6s: '19', Ave: '60.50', BF: '326',
+    HS: '81', Inns: '12', Mat: '12', 'NO': '4', Player: ML Hayden, Runs: '484', SR: '148.46',
+    Span: 2005-2008}
+  - {'0': '0', '100': '1', 4s: '56', '50': '3', 6s: '20', Ave: '43.21', BF: '454',
+    HS: 116*, Inns: '17', Mat: '23', 'NO': '3', Player: MEK Hussey, Runs: '605', SR: '133.25',
+    Span: 2003-2008}
+  - {'0': '2', '100': '0', 4s: '7', '50': '0', 6s: '3', Ave: '14.60', BF: '55', HS: '35',
+    Inns: '7', Mat: '15', 'NO': '2', Player: Joginder Sharma, Runs: '73', SR: '132.72',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '16.00', BF: '10', HS: '9',
+    Inns: '2', Mat: '11', 'NO': '1', Player: M Muralitharan, Runs: '16', SR: '160.00',
+    Span: 2005-2008}
+  - {'0': '0', '100': '0', 4s: '37', '50': '3', 6s: '24', Ave: '32.69', BF: '277',
+    HS: 66*, Inns: '18', Mat: '20', 'NO': '5', Player: JDP Oram, Runs: '425', SR: '153.42',
+    Span: 2005-2008}
+  - {'0': '0', '100': '0', 4s: '33', '50': '1', 6s: '2', Ave: '19.00', BF: '166',
+    HS: '57', Inns: '11', Mat: '12', 'NO': '0', Player: PA Patel, Runs: '209', SR: '125.90',
+    Span: 2005-2008}
+  - {'0': '0', '100': '0', 4s: '5', '50': '1', 6s: '6', Ave: '44.00', BF: '54', HS: '53',
+    Inns: '3', Mat: '4', 'NO': '1', Player: SK Raina, Runs: '88', SR: '162.96', Span: 2006-2008}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '25.09', BBI: 2/25, Ct: '2', Econ: '8.90', Inns: '8',
+    Mat: '8', Mdns: '1', Overs: '31.0', Player: P Amarnath, Runs: '276', SR: '16.9',
+    Span: 2007-2008, St: '0', Wkts: '11'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '6', Econ: '3.00', Inns: '1', Mat: '8',
+    Mdns: '0', Overs: '2.0', Player: S Badrinath, Runs: '6', SR: '-', Span: 2007-2008,
+    St: '0', Wkts: '0'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '3', Econ: '-', Inns: '-', Mat: '17',
+    Mdns: '-', Overs: '-', Player: MS Dhoni, Runs: '-', SR: '-', Span: 2006-2008,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '25.00', BBI: 2/40, Ct: '0', Econ: '8.33', Inns: '3',
+    Mat: '3', Mdns: '1', Overs: '12.0', Player: MS Gony, Runs: '100', SR: '18.0',
+    Span: 2008-2008, St: '0', Wkts: '4'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '1', Econ: '-', Inns: '-', Mat: '12',
+    Mdns: '-', Overs: '-', Player: ML Hayden, Runs: '-', SR: '-', Span: 2005-2008,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '14', Econ: '-', Inns: '-', Mat: '23',
+    Mdns: '-', Overs: '-', Player: MEK Hussey, Runs: '-', SR: '-', Span: 2003-2008,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '29.64', BBI: 3/23, Ct: '8', Econ: '8.21', Inns: '15',
+    Mat: '15', Mdns: '0', Overs: '50.3', Player: Joginder Sharma, Runs: '415', SR: '21.6',
+    Span: 2007-2008, St: '0', Wkts: '14'}
+  - {'4': '2', '5': '0', Ave: '12.05', BBI: 4/18, Ct: '3', Econ: '5.87', Inns: '11',
+    Mat: '11', Mdns: '1', Overs: '41.0', Player: M Muralitharan, Runs: '241', SR: '12.3',
+    Span: 2005-2008, St: '0', Wkts: '20'}
+  - {'4': '0', '5': '0', Ave: '57.77', BBI: 3/32, Ct: '6', Econ: '9.71', Inns: '17',
+    Mat: '20', Mdns: '0', Overs: '53.3', Player: JDP Oram, Runs: '520', SR: '35.6',
+    Span: 2005-2008, St: '0', Wkts: '9'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '5', Econ: '-', Inns: '-', Mat: '12',
+    Mdns: '-', Overs: '-', Player: PA Patel, Runs: '-', SR: '-', Span: 2005-2008,
+    St: '3', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '5', Econ: '-', Inns: '-', Mat: '4',
+    Mdns: '-', Overs: '-', Player: SK Raina, Runs: '-', SR: '-', Span: 2006-2008,
+    St: '0', Wkts: '-'}
+KolkataKnightRiders:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '8.00', BF: '26', HS: '14',
+    Inns: '6', Mat: '11', 'NO': '2', Player: AB Agarkar, Runs: '32', SR: '123.07',
+    Span: 2006-2008}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '-', BF: '0', HS: 0*,
+    Inns: '1', Mat: '3', 'NO': '1', Player: AB Dinda, Runs: '0', SR: '-', Span: 2008-2008}
+  - {'0': '1', '100': '0', 4s: '51', '50': '1', 6s: '9', Ave: '21.73', BF: '411',
+    HS: '73', Inns: '20', Mat: '21', 'NO': '1', Player: SC Ganguly, Runs: '413', SR: '100.48',
+    Span: 2005-2008}
+  - {'0': '5', '100': '0', 4s: '89', '50': '7', 6s: '49', Ave: '30.61', BF: '863',
+    HS: '86', Inns: '45', Mat: '48', 'NO': '6', Player: DJ Hussey, Runs: '1194', SR: '138.35',
+    Span: 2004-2008}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '2.00', BF: '4', HS: '3',
+    Inns: '3', Mat: '10', 'NO': '1', Player: M Kartik, Runs: '4', SR: '100.00', Span: 2007-2008}
+  - {'0': '0', '100': '1', 4s: '90', '50': '3', 6s: '47', Ave: '30.83', BF: '586',
+    HS: 158*, Inns: '34', Mat: '34', 'NO': '4', Player: BB McCullum, Runs: '925',
+    SR: '157.84', Span: 2005-2008}
+  - {'0': '0', '100': '0', 4s: '105', '50': '4', 6s: '33', Ave: '28.56', BF: '570',
+    HS: '79', Inns: '34', Mat: '34', 'NO': '4', Player: Mohammad Hafeez, Runs: '857',
+    SR: '150.35', Span: 2005-2008}
+  - {'0': '3', '100': '0', 4s: '34', '50': '2', 6s: '12', Ave: '29.58', BF: '270',
+    HS: 98*, Inns: '14', Mat: '14', 'NO': '2', Player: RT Ponting, Runs: '355', SR: '131.48',
+    Span: 2004-2008}
+  - {'0': '0', '100': '0', 4s: '15', '50': '0', 6s: '1', Ave: '15.50', BF: '93', HS: '27',
+    Inns: '6', Mat: '7', 'NO': '0', Player: WP Saha, Runs: '93', SR: '100.00', Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '-', BF: '9', HS: 4*,
+    Inns: '3', Mat: '7', 'NO': '3', Player: I Sharma, Runs: '7', SR: '77.77', Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '15', '50': '1', 6s: '7', Ave: '43.80', BF: '171',
+    HS: '76', Inns: '9', Mat: '10', 'NO': '4', Player: LR Shukla, Runs: '219', SR: '128.07',
+    Span: 2007-2008}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '16.71', BBI: 3/25, Ct: '0', Econ: '7.20', Inns: '10',
+    Mat: '11', Mdns: '1', Overs: '32.3', Player: AB Agarkar, Runs: '234', SR: '13.9',
+    Span: 2006-2008, St: '0', Wkts: '14'}
+  - {'4': '0', '5': '0', Ave: '17.33', BBI: 2/9, Ct: '1', Econ: '5.77', Inns: '3',
+    Mat: '3', Mdns: '0', Overs: '9.0', Player: AB Dinda, Runs: '52', SR: '18.0', Span: 2008-2008,
+    St: '0', Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '19.71', BBI: 3/27, Ct: '7', Econ: '7.73', Inns: '18',
+    Mat: '21', Mdns: '1', Overs: '53.3', Player: SC Ganguly, Runs: '414', SR: '15.2',
+    Span: 2005-2008, St: '0', Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '18.80', BBI: 2/10, Ct: '31', Econ: '7.10', Inns: '17',
+    Mat: '48', Mdns: '0', Overs: '39.4', Player: DJ Hussey, Runs: '282', SR: '15.8',
+    Span: 2004-2008, St: '0', Wkts: '15'}
+  - {'4': '0', '5': '1', Ave: '14.50', BBI: 5/13, Ct: '6', Econ: '6.28', Inns: '8',
+    Mat: '10', Mdns: '0', Overs: '27.4', Player: M Kartik, Runs: '174', SR: '13.8',
+    Span: 2007-2008, St: '0', Wkts: '12'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '18', Econ: '-', Inns: '-', Mat: '34',
+    Mdns: '-', Overs: '-', Player: BB McCullum, Runs: '-', SR: '-', Span: 2005-2008,
+    St: '3', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '24.92', BBI: 3/16, Ct: '13', Econ: '6.66', Inns: '31',
+    Mat: '34', Mdns: '0', Overs: '104.4', Player: Mohammad Hafeez, Runs: '698', SR: '22.4',
+    Span: 2005-2008, St: '0', Wkts: '28'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '8', Econ: '-', Inns: '-', Mat: '14',
+    Mdns: '-', Overs: '-', Player: RT Ponting, Runs: '-', SR: '-', Span: 2004-2008,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '4', Econ: '-', Inns: '-', Mat: '7',
+    Mdns: '-', Overs: '-', Player: WP Saha, Runs: '-', SR: '-', Span: 2007-2008, St: '1',
+    Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '33.66', BBI: 1/7, Ct: '1', Econ: '4.52', Inns: '7',
+    Mat: '7', Mdns: '1', Overs: '22.2', Player: I Sharma, Runs: '101', SR: '44.6',
+    Span: 2007-2008, St: '0', Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '19.00', BBI: 2/15, Ct: '4', Econ: '7.71', Inns: '9',
+    Mat: '10', Mdns: '0', Overs: '22.1', Player: LR Shukla, Runs: '171', SR: '14.7',
+    Span: 2007-2008, St: '0', Wkts: '9'}

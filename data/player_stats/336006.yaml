@@ -1,0 +1,134 @@
+KingsXIPunjab:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '10', '50': '0', 6s: '3', Ave: '23.75', BF: '65', HS: '33',
+    Inns: '6', Mat: '11', 'NO': '2', Player: PP Chawla, Runs: '95', SR: '146.15',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '12.00', BF: '27', HS: '15',
+    Inns: '2', Mat: '13', 'NO': '0', Player: Gagandeep Singh, Runs: '24', SR: '88.88',
+    Span: 2007-2008}
+  - {'0': '1', '100': '0', 4s: '43', '50': '2', 6s: '5', Ave: '18.43', BF: '221',
+    HS: '71', Inns: '16', Mat: '19', 'NO': '0', Player: JR Hopes, Runs: '295', SR: '133.48',
+    Span: 2005-2008}
+  - {'0': '1', '100': '0', 4s: '29', '50': '1', 6s: '7', Ave: '23.75', BF: '203',
+    HS: '65', Inns: '16', Mat: '16', 'NO': '4', Player: DPMD Jayawardene, Runs: '285',
+    SR: '140.39', Span: 2004-2008}
+  - {'0': '-', '100': '-', 4s: '-', '50': '-', 6s: '-', Ave: '-', BF: '-', HS: '-',
+    Inns: '-', Mat: '1', 'NO': '-', Player: U Kaul, Runs: '-', SR: '-', Span: 2008-2008}
+  - {'0': '0', '100': '0', 4s: '54', '50': '4', 6s: '16', Ave: '44.41', BF: '417',
+    HS: '86', Inns: '14', Mat: '14', 'NO': '2', Player: SE Marsh, Runs: '533', SR: '127.81',
+    Span: 2006-2008}
+  - {'0': '1', '100': '0', 4s: '13', '50': '0', 6s: '10', Ave: '16.46', BF: '190',
+    HS: '26', Inns: '21', Mat: '28', 'NO': '8', Player: IK Pathan, Runs: '214', SR: '112.63',
+    Span: 2005-2008}
+  - {'0': '1', '100': '0', 4s: '13', '50': '0', 6s: '5', Ave: '18.40', BF: '199',
+    HS: 49*, Inns: '12', Mat: '12', 'NO': '2', Player: RR Sarwan, Runs: '184', SR: '92.46',
+    Span: 2006-2008}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '19.50', BF: '30', HS: 22*,
+    Inns: '5', Mat: '15', 'NO': '3', Player: VRV Singh, Runs: '39', SR: '130.00',
+    Span: 2007-2008}
+  - {'0': '4', '100': '0', 4s: '7', '50': '0', 6s: '0', Ave: '7.80', BF: '41', HS: 19*,
+    Inns: '7', Mat: '20', 'NO': '2', Player: S Sreesanth, Runs: '39', SR: '95.12',
+    Span: 2006-2008}
+  - {'0': '1', '100': '0', 4s: '69', '50': '5', 6s: '32', Ave: '28.12', BF: '471',
+    HS: '71', Inns: '26', Mat: '27', 'NO': '2', Player: Yuvraj Singh, Runs: '675',
+    SR: '143.31', Span: 2003-2008}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '19.84', BBI: 3/23, Ct: '2', Econ: '7.37', Inns: '11',
+    Mat: '11', Mdns: '0', Overs: '35.0', Player: PP Chawla, Runs: '258', SR: '16.1',
+    Span: 2007-2008, St: '0', Wkts: '13'}
+  - {'4': '0', '5': '0', Ave: '30.63', BBI: 2/21, Ct: '0', Econ: '7.02', Inns: '13',
+    Mat: '13', Mdns: '1', Overs: '48.0', Player: Gagandeep Singh, Runs: '337', SR: '26.1',
+    Span: 2007-2008, St: '0', Wkts: '11'}
+  - {'4': '0', '5': '0', Ave: '42.81', BBI: 2/26, Ct: '6', Econ: '8.97', Inns: '16',
+    Mat: '19', Mdns: '0', Overs: '52.3', Player: JR Hopes, Runs: '471', SR: '28.6',
+    Span: 2005-2008, St: '0', Wkts: '11'}
+  - {'4': '0', '5': '0', Ave: '30.50', BBI: 2/22, Ct: '6', Econ: '7.17', Inns: '3',
+    Mat: '16', Mdns: '0', Overs: '8.3', Player: DPMD Jayawardene, Runs: '61', SR: '25.5',
+    Span: 2004-2008, St: '0', Wkts: '2'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '2', Econ: '-', Inns: '-', Mat: '1',
+    Mdns: '-', Overs: '-', Player: U Kaul, Runs: '-', SR: '-', Span: 2008-2008, St: '0',
+    Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '3', Econ: '11.00', Inns: '1', Mat: '14',
+    Mdns: '0', Overs: '1.0', Player: SE Marsh, Runs: '11', SR: '-', Span: 2006-2008,
+    St: '0', Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '16.97', BBI: 4/27, Ct: '4', Econ: '6.87', Inns: '26',
+    Mat: '28', Mdns: '3', Overs: '96.2', Player: IK Pathan, Runs: '662', SR: '14.8',
+    Span: 2005-2008, St: '0', Wkts: '39'}
+  - {'4': '0', '5': '0', Ave: '11.00', BBI: 2/10, Ct: '2', Econ: '7.33', Inns: '2',
+    Mat: '12', Mdns: '0', Overs: '3.0', Player: RR Sarwan, Runs: '22', SR: '9.0',
+    Span: 2006-2008, St: '0', Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '24.05', BBI: 3/16, Ct: '3', Econ: '7.41', Inns: '15',
+    Mat: '15', Mdns: '0', Overs: '55.1', Player: VRV Singh, Runs: '409', SR: '19.4',
+    Span: 2007-2008, St: '0', Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '31.94', BBI: 2/12, Ct: '5', Econ: '8.43', Inns: '19',
+    Mat: '20', Mdns: '2', Overs: '68.1', Player: S Sreesanth, Runs: '575', SR: '22.7',
+    Span: 2006-2008, St: '0', Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '16.18', BBI: 3/20, Ct: '8', Econ: '7.73', Inns: '11',
+    Mat: '27', Mdns: '0', Overs: '23.0', Player: Yuvraj Singh, Runs: '178', SR: '12.5',
+    Span: 2003-2008, St: '0', Wkts: '11'}
+RoyalChallengersBangalore:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '27', '50': '2', 6s: '4', Ave: '24.33', BF: '181',
+    HS: '66', Inns: '9', Mat: '9', 'NO': '0', Player: R Dravid, Runs: '219', SR: '120.99',
+    Span: 2007-2008}
+  - {'0': '1', '100': '0', 4s: '12', '50': '1', 6s: '3', Ave: '19.00', BF: '104',
+    HS: '50', Inns: '6', Mat: '6', 'NO': '0', Player: W Jaffer, Runs: '114', SR: '109.61',
+    Span: 2007-2008}
+  - {'0': '1', '100': '0', 4s: '29', '50': '2', 6s: '8', Ave: '22.84', BF: '271',
+    HS: '54', Inns: '14', Mat: '14', 'NO': '1', Player: JH Kallis, Runs: '297', SR: '109.59',
+    Span: 2004-2008}
+  - {'0': '1', '100': '0', 4s: '9', '50': '0', 6s: '0', Ave: '12.00', BF: '89', HS: '26',
+    Inns: '12', Mat: '17', 'NO': '5', Player: Z Khan, Runs: '84', SR: '94.38', Span: 2006-2008}
+  - {'0': '0', '100': '0', 4s: '28', '50': '1', 6s: '7', Ave: '27.36', BF: '242',
+    HS: '76', Inns: '12', Mat: '12', 'NO': '1', Player: V Kohli, Runs: '301', SR: '124.38',
+    Span: 2007-2008}
+  - {'0': '2', '100': '0', 4s: '19', '50': '1', 6s: '7', Ave: '20.55', BF: '147',
+    HS: 76*, Inns: '11', Mat: '12', 'NO': '2', Player: P Kumar, Runs: '185', SR: '125.85',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '5.50', BF: '14', HS: '8',
+    Inns: '2', Mat: '5', 'NO': '0', Player: A Kumble, Runs: '11', SR: '78.57', Span: 2006-2008}
+  - {'0': '3', '100': '1', 4s: '53', '50': '5', 6s: '26', Ave: '49.57', BF: '521',
+    HS: 107*, Inns: '22', Mat: '25', 'NO': '8', Player: Misbah-ul-Haq, Runs: '694',
+    SR: '133.20', Span: 2006-2008}
+  - {'0': '0', '100': '0', 4s: '28', '50': '0', 6s: '2', Ave: '22.00', BF: '190',
+    HS: '44', Inns: '10', Mat: '10', 'NO': '0', Player: DT Patil, Runs: '220', SR: '115.78',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.00', BF: '13', HS: 4*,
+    Inns: '6', Mat: '20', 'NO': '3', Player: DW Steyn, Runs: '9', SR: '69.23', Span: 2005-2008}
+  - {'0': '3', '100': '2', 4s: '62', '50': '5', 6s: '49', Ave: '40.18', BF: '557',
+    HS: 141*, Inns: '28', Mat: '28', 'NO': '6', Player: CL White, Runs: '884', SR: '158.70',
+    Span: 2005-2008}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '2', Econ: '-', Inns: '-', Mat: '9',
+    Mdns: '-', Overs: '-', Player: R Dravid, Runs: '-', SR: '-', Span: 2007-2008,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '2', Econ: '-', Inns: '-', Mat: '6',
+    Mdns: '-', Overs: '-', Player: W Jaffer, Runs: '-', SR: '-', Span: 2007-2008,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '50.20', BBI: 2/39, Ct: '6', Econ: '9.65', Inns: '9',
+    Mat: '14', Mdns: '0', Overs: '26.0', Player: JH Kallis, Runs: '251', SR: '31.2',
+    Span: 2004-2008, St: '0', Wkts: '5'}
+  - {'4': '0', '5': '0', Ave: '22.71', BBI: 3/38, Ct: '4', Econ: '7.22', Inns: '17',
+    Mat: '17', Mdns: '0', Overs: '66.0', Player: Z Khan, Runs: '477', SR: '18.8',
+    Span: 2006-2008, St: '0', Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '5', Econ: '11.00', Inns: '1', Mat: '12',
+    Mdns: '0', Overs: '1.0', Player: V Kohli, Runs: '11', SR: '-', Span: 2007-2008,
+    St: '0', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '20.78', BBI: 3/23, Ct: '2', Econ: '6.56', Inns: '12',
+    Mat: '12', Mdns: '2', Overs: '44.2', Player: P Kumar, Runs: '291', SR: '19.0',
+    Span: 2007-2008, St: '0', Wkts: '14'}
+  - {'4': '0', '5': '0', Ave: '37.75', BBI: 2/20, Ct: '2', Econ: '7.87', Inns: '5',
+    Mat: '5', Mdns: '0', Overs: '19.1', Player: A Kumble, Runs: '151', SR: '28.7',
+    Span: 2006-2008, St: '0', Wkts: '4'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '8', Econ: '-', Inns: '-', Mat: '25',
+    Mdns: '-', Overs: '-', Player: Misbah-ul-Haq, Runs: '-', SR: '-', Span: 2006-2008,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '7', Econ: '-', Inns: '-', Mat: '10',
+    Mdns: '-', Overs: '-', Player: DT Patil, Runs: '-', SR: '-', Span: 2007-2008,
+    St: '2', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '25.27', BBI: 4/9, Ct: '3', Econ: '6.23', Inns: '19',
+    Mat: '20', Mdns: '0', Overs: '73.0', Player: DW Steyn, Runs: '455', SR: '24.3',
+    Span: 2005-2008, St: '0', Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '23.35', BBI: 3/8, Ct: '13', Econ: '8.69', Inns: '19',
+    Mat: '28', Mdns: '0', Overs: '45.4', Player: CL White, Runs: '397', SR: '16.1',
+    Span: 2005-2008, St: '0', Wkts: '17'}

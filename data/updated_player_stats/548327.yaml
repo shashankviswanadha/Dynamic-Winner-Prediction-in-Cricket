@@ -1,0 +1,111 @@
+Pune Warriors:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '3.38', BF: '42', HS: '19',
+    Inns: '12', Mat: '58', 'NO': '4', Player: AB Dinda, Runs: '27', SR: '64.29', Span: 2008-2012}
+  - {'0': '5', '100': '0', 4s: '161', '50': '8', 6s: '47', Ave: '26.09', BF: '1391',
+    HS: '91', Inns: '62', Mat: '66', 'NO': '4', Player: SC Ganguly, Runs: '1513',
+    SR: '108.77', Span: 2005-2012}
+  - {'0': '0', '100': '0', 4s: '4', '50': '0', 6s: '0', Ave: '8.0', BF: '44', HS: '17',
+    Inns: '7', Mat: '13', 'NO': '2', Player: B Kumar, Runs: '40', SR: '90.91', Span: 2009-2012}
+  - {'0': '6', '100': '0', 4s: '68', '50': '1', 6s: '11', Ave: '23.21', BF: '782',
+    HS: '52', Inns: '43', Mat: '51', 'NO': '9', Player: M Manhas, Runs: '789', SR: '100.9',
+    Span: 2007-2012}
+  - {'0': '1', '100': '0', 4s: '72', '50': '3', 6s: '24', Ave: '23.79', BF: '759',
+    HS: '65', Inns: '51', Mat: '61', 'NO': '13', Player: AD Mathews, Runs: '904',
+    SR: '119.1', Span: 2007-2012}
+  - {'0': '4', '100': '0', 4s: '3', '50': '0', 6s: '3', Ave: '8.5', BF: '55', HS: '22',
+    Inns: '13', Mat: '50', 'NO': '7', Player: A Nehra, Runs: '51', SR: '92.73', Span: 2008-2012}
+  - {'0': '6', '100': '0', 4s: '136', '50': '10', 6s: '48', Ave: '23.92', BF: '924',
+    HS: '86', Inns: '57', Mat: '60', 'NO': '4', Player: JD Ryder, Runs: '1268', SR: '137.23',
+    Span: 2006-2012}
+  - {'0': '6', '100': '1', 4s: '98', '50': '8', 6s: '58', Ave: '30.39', BF: '1053',
+    HS: '102', Inns: '51', Mat: '51', 'NO': '10', Player: MN Samuels, Runs: '1246',
+    SR: '118.33', Span: 2006-2012}
+  - {'0': '4', '100': '0', 4s: '5', '50': '0', 6s: '4', Ave: '6.08', BF: '72', HS: '14',
+    Inns: '18', Mat: '38', 'NO': '6', Player: R Sharma, Runs: '73', SR: '101.39',
+    Span: 2009-2012}
+  - {'0': '2', '100': '0', 4s: '69', '50': '1', 6s: '20', Ave: '21.2', BF: '716',
+    HS: '51', Inns: '53', Mat: '63', 'NO': '13', Player: SPD Smith, Runs: '848', SR: '118.44',
+    Span: 2008-2012}
+  - {'0': '5', '100': '0', 4s: '202', '50': '10', 6s: '92', Ave: '26.0', BF: '1611',
+    HS: '92', Inns: '99', Mat: '105', 'NO': '15', Player: RV Uthappa, Runs: '2184',
+    SR: '135.57', Span: 2007-2012}
+- bowling averages:
+  - {'4': '2', '5': '0', Ave: '20.88', Econ: '6.69', Inns: '55', Mat: '58', Overs: '184.2',
+    Player: AB Dinda, Runs: '1253', SR: '18.43', Span: 2008-2012, Wkts: '60'}
+  - {'4': '0', '5': '0', Ave: '24.48', Econ: '7.34', Inns: '33', Mat: '66', Overs: '85.3',
+    Player: SC Ganguly, Runs: '661', SR: '19.0', Span: 2005-2012, Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '42.43', Econ: '7.07', Inns: '13', Mat: '13', Overs: '42.0',
+    Player: B Kumar, Runs: '297', SR: '36.0', Span: 2009-2012, Wkts: '7'}
+  - {'4': '0', '5': '0', Ave: '28.6', Econ: '7.03', Inns: '8', Mat: '51', Overs: '17.2',
+    Player: M Manhas, Runs: '143', SR: '20.8', Span: 2007-2012, Wkts: '5'}
+  - {'4': '1', '5': '0', Ave: '27.41', Econ: '7.85', Inns: '41', Mat: '61', Overs: '117.1',
+    Player: AD Mathews, Runs: '932', SR: '20.68', Span: 2007-2012, Wkts: '34'}
+  - {'4': '0', '5': '0', Ave: '22.24', Econ: '7.33', Inns: '50', Mat: '50', Overs: '176.0',
+    Player: A Nehra, Runs: '1290', SR: '18.21', Span: 2008-2012, Wkts: '58'}
+  - {'4': '0', '5': '0', Ave: '46.21', Econ: '7.47', Inns: '30', Mat: '60', Overs: '80.4',
+    Player: JD Ryder, Runs: '647', SR: '34.57', Span: 2006-2012, Wkts: '14'}
+  - {'4': '0', '5': '0', Ave: '26.63', Econ: '6.46', Inns: '31', Mat: '51', Overs: '103.5',
+    Player: MN Samuels, Runs: '719', SR: '23.07', Span: 2006-2012, Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '21.63', Econ: '6.5', Inns: '38', Mat: '38', Overs: '133.0',
+    Player: R Sharma, Runs: '865', SR: '19.95', Span: 2009-2012, Wkts: '40'}
+  - {'4': '2', '5': '0', Ave: '18.96', Econ: '7.33', Inns: '45', Mat: '63', Overs: '127.3',
+    Player: SPD Smith, Runs: '967', SR: '15.0', Span: 2008-2012, Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '105', Overs: '0.0',
+    Player: RV Uthappa, Runs: '0', SR: '0', Span: 2007-2012, Wkts: '0'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '41', '50': '2', 6s: '24', Ave: '21.3', BF: '374',
+    HS: '57', Inns: '24', Mat: '25', 'NO': '1', Player: MA Agarwal, Runs: '490', SR: '131.02',
+    Span: 2010-2012}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '13.0', BF: '10', HS: '9',
+    Inns: '6', Mat: '16', 'NO': '5', Player: KP Appanna, Runs: '13', SR: '130.0',
+    Span: 2007-2012}
+  - {'0': '8', '100': '1', 4s: '160', '50': '12', 6s: '67', Ave: '29.25', BF: '1685',
+    HS: '105', Inns: '90', Mat: '97', 'NO': '18', Player: AB de Villiers, Runs: '2106',
+    SR: '124.99', Span: 2004-2012}
+  - {'0': '9', '100': '1', 4s: '267', '50': '15', 6s: '52', Ave: '27.21', BF: '1792',
+    HS: '104', Inns: '95', Mat: '98', 'NO': '13', Player: TM Dilshan, Runs: '2231',
+    SR: '124.5', Span: 2004-2012}
+  - {'0': '10', '100': '7', 4s: '271', '50': '20', 6s: '229', Ave: '40.43', BF: '2142',
+    HS: '117', Inns: '94', Mat: '95', 'NO': '12', Player: CH Gayle, Runs: '3315',
+    SR: '154.76', Span: 2005-2012}
+  - {'0': '4', '100': '0', 4s: '16', '50': '0', 6s: '2', Ave: '10.5', BF: '170', HS: '26',
+    Inns: '36', Mat: '79', 'NO': '20', Player: Z Khan, Runs: '168', SR: '98.82', Span: 2006-2012}
+  - {'0': '2', '100': '0', 4s: '216', '50': '11', 6s: '64', Ave: '30.16', BF: '1733',
+    HS: '84', Inns: '86', Mat: '96', 'NO': '13', Player: V Kohli, Runs: '2202', SR: '127.06',
+    Span: 2007-2012}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '8.5', BF: '21', HS: '10',
+    Inns: '5', Mat: '7', 'NO': '3', Player: HV Patel, Runs: '17', SR: '80.95', Span: 2011-2012}
+  - {'0': '3', '100': '0', 4s: '93', '50': '5', 6s: '48', Ave: '26.22', BF: '992',
+    HS: '69', Inns: '56', Mat: '62', 'NO': '10', Player: SS Tiwary, Runs: '1206',
+    SR: '121.57', Span: 2007-2012}
+  - {'0': '4', '100': '0', 4s: '80', '50': '1', 6s: '19', Ave: '18.31', BF: '714',
+    HS: '57', Inns: '63', Mat: '90', 'NO': '15', Player: DL Vettori, Runs: '879',
+    SR: '123.11', Span: 2006-2012}
+  - {'0': '3', '100': '0', 4s: '17', '50': '0', 6s: '11', Ave: '11.0', BF: '253',
+    HS: '25', Inns: '38', Mat: '75', 'NO': '11', Player: R Vinay Kumar, Runs: '297',
+    SR: '117.39', Span: 2007-2012}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '25', Overs: '0.0',
+    Player: MA Agarwal, Runs: '0', SR: '0', Span: 2010-2012, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '23.8', Econ: '7.14', Inns: '16', Mat: '16', Overs: '50.0',
+    Player: KP Appanna, Runs: '357', SR: '20.0', Span: 2007-2012, Wkts: '15'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '97', Overs: '0.0',
+    Player: AB de Villiers, Runs: '0', SR: '0', Span: 2004-2012, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '27.54', Econ: '6.71', Inns: '49', Mat: '98', Overs: '105.1',
+    Player: TM Dilshan, Runs: '716', SR: '24.27', Span: 2004-2012, Wkts: '26'}
+  - {'4': '1', '5': '0', Ave: '33.92', Econ: '7.47', Inns: '79', Mat: '95', Overs: '213.3',
+    Player: CH Gayle, Runs: '1628', SR: '26.69', Span: 2005-2012, Wkts: '48'}
+  - {'4': '1', '5': '0', Ave: '28.27', Econ: '7.69', Inns: '79', Mat: '79', Overs: '294.0',
+    Player: Z Khan, Runs: '2262', SR: '22.05', Span: 2006-2012, Wkts: '80'}
+  - {'4': '0', '5': '0', Ave: '82.83', Econ: '8.62', Inns: '33', Mat: '96', Overs: '56.1',
+    Player: V Kohli, Runs: '497', SR: '56.17', Span: 2007-2012, Wkts: '6'}
+  - {'4': '0', '5': '0', Ave: '24.17', Econ: '5.18', Inns: '7', Mat: '7', Overs: '23.3',
+    Player: HV Patel, Runs: '145', SR: '23.5', Span: 2011-2012, Wkts: '6'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '62', Overs: '0.0',
+    Player: SS Tiwary, Runs: '0', SR: '0', Span: 2007-2012, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '21.54', Econ: '6.22', Inns: '90', Mat: '90', Overs: '336.2',
+    Player: DL Vettori, Runs: '2111', SR: '20.59', Span: 2006-2012, Wkts: '98'}
+  - {'4': '1', '5': '0', Ave: '27.68', Econ: '7.85', Inns: '75', Mat: '75', Overs: '249.3',
+    Player: R Vinay Kumar, Runs: '1993', SR: '20.79', Span: 2007-2012, Wkts: '72'}

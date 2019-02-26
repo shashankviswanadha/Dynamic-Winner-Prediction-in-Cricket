@@ -1,0 +1,115 @@
+Delhi Daredevils:
+- batting averages:
+  - {'0': '7', '100': '0', 4s: '112', '50': '6', 6s: '92', Ave: '26.03', BF: '1182',
+    HS: '95', Inns: '78', Mat: '93', 'NO': '16', Player: CJ Anderson, Runs: '1614',
+    SR: '136.55', Span: 2009-2017}
+  - {'0': '3', '100': '0', 4s: '31', '50': '0', 6s: '43', Ave: '15.15', BF: '419',
+    HS: '37', Inns: '50', Mat: '68', 'NO': '10', Player: CR Brathwaite, Runs: '606',
+    SR: '144.63', Span: 2011-2017}
+  - {'0': '3', '100': '0', 4s: '14', '50': '0', 6s: '11', Ave: '13.21', BF: '217',
+    HS: '39', Inns: '34', Mat: '66', 'NO': '15', Player: PJ Cummins, Runs: '251',
+    SR: '115.67', Span: 2011-2017}
+  - {'0': '5', '100': '0', 4s: '108', '50': '8', 6s: '45', Ave: '25.73', BF: '916',
+    HS: '-1', Inns: '50', Mat: '50', 'NO': '5', Player: SS Iyer, Runs: '1158', SR: '126.42',
+    Span: 2014-2017}
+  - {'0': '7', '100': '0', 4s: '17', '50': '0', 6s: '3', Ave: '8.64', BF: '220', HS: '26',
+    Inns: '48', Mat: '135', 'NO': '26', Player: Z Khan, Runs: '190', SR: '86.36',
+    Span: 2006-2017}
+  - {'0': '14', '100': '0', 4s: '62', '50': '0', 6s: '5', Ave: '13.67', BF: '710',
+    HS: '49', Inns: '82', Mat: '181', 'NO': '33', Player: A Mishra, Runs: '670', SR: '94.37',
+    Span: 2007-2017}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '3.88', BF: '44', HS: '7',
+    Inns: '16', Mat: '57', 'NO': '8', Player: Mohammed Shami, Runs: '31', SR: '70.45',
+    Span: 2010-2017}
+  - {'0': '2', '100': '0', 4s: '145', '50': '8', 6s: '34', Ave: '21.75', BF: '1135',
+    HS: '83', Inns: '71', Mat: '78', 'NO': '8', Player: KK Nair, Runs: '1370', SR: '120.7',
+    Span: 2013-2017}
+  - {'0': '3', '100': '0', 4s: '44', '50': '3', 6s: '30', Ave: '25.9', BF: '356',
+    HS: '97', Inns: '25', Mat: '25', 'NO': '4', Player: RR Pant, Runs: '544', SR: '152.81',
+    Span: 2016-2017}
+  - {'0': '7', '100': '1', 4s: '186', '50': '15', 6s: '94', Ave: '26.19', BF: '1966',
+    HS: '102', Inns: '101', Mat: '107', 'NO': '10', Player: SV Samson, Runs: '2383',
+    SR: '121.21', Span: 2011-2017}
+  - {'0': '7', '100': '2', 4s: '326', '50': '25', 6s: '150', Ave: '32.4', BF: '3202',
+    HS: '106', Inns: '148', Mat: '151', 'NO': '32', Player: MN Samuels, Runs: '3758',
+    SR: '117.36', Span: 2006-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '34.44', Econ: '8.21', Inns: '42', Mat: '93', Overs: '105.5',
+    Player: CJ Anderson, Runs: '930', SR: '23.52', Span: 2009-2017, Wkts: '27'}
+  - {'4': '1', '5': '0', Ave: '26.51', Econ: '7.5', Inns: '66', Mat: '68', Overs: '207.1',
+    Player: CR Brathwaite, Runs: '1564', SR: '21.07', Span: 2011-2017, Wkts: '59'}
+  - {'4': '2', '5': '0', Ave: '25.47', Econ: '7.77', Inns: '66', Mat: '66', Overs: '249.2',
+    Player: PJ Cummins, Runs: '1961', SR: '19.43', Span: 2011-2017, Wkts: '77'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '50', Overs: '0.0',
+    Player: SS Iyer, Runs: '0', SR: '0', Span: 2014-2017, Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '27.32', Econ: '7.46', Inns: '134', Mat: '135', Overs: '495.2',
+    Player: Z Khan, Runs: '3716', SR: '21.85', Span: 2006-2017, Wkts: '136'}
+  - {'4': '4', '5': '2', Ave: '21.4', Econ: '7.02', Inns: '180', Mat: '181', Overs: '634.4',
+    Player: A Mishra, Runs: '4495', SR: '18.13', Span: 2007-2017, Wkts: '210'}
+  - {'4': '1', '5': '0', Ave: '24.44', Econ: '7.81', Inns: '57', Mat: '57', Overs: '189.3',
+    Player: Mohammed Shami, Runs: '1515', SR: '18.34', Span: 2010-2017, Wkts: '62'}
+  - {'4': '0', '5': '0', Ave: '27.5', Econ: '6.88', Inns: '6', Mat: '78', Overs: '8.0',
+    Player: KK Nair, Runs: '55', SR: '24.0', Span: 2013-2017, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '25', Overs: '0.0',
+    Player: RR Pant, Runs: '0', SR: '0', Span: 2016-2017, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '4.0', Econ: '0.8', Inns: '1', Mat: '107', Overs: '0.3',
+    Player: SV Samson, Runs: '4', SR: '3.0', Span: 2011-2017, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '26.54', Econ: '7.01', Inns: '83', Mat: '151', Overs: '256.1',
+    Player: MN Samuels, Runs: '1805', SR: '22.6', Span: 2006-2017, Wkts: '68'}
+Gujarat Lions:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '7.0', BF: '3', HS: '7',
+    Inns: '2', Mat: '5', 'NO': '1', Player: Ankit Soni, Runs: '7', SR: '233.33', Span: 2017-2017}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '28.0', BF: '29', HS: '13',
+    Inns: '7', Mat: '34', 'NO': '6', Player: Basil Thampi, Runs: '28', SR: '96.55',
+    Span: 2014-2017}
+  - {'0': '2', '100': '0', 4s: '65', '50': '1', 6s: '52', Ave: '20.85', BF: '1080',
+    HS: '73', Inns: '110', Mat: '147', 'NO': '45', Player: JP Faulkner, Runs: '1355',
+    SR: '125.46', Span: 2009-2017}
+  - {'0': '11', '100': '2', 4s: '560', '50': '43', 6s: '210', Ave: '34.36', BF: '4127',
+    HS: '156', Inns: '180', Mat: '184', 'NO': '16', Player: AJ Finch, Runs: '5635',
+    SR: '136.54', Span: 2009-2017}
+  - {'0': '3', '100': '0', 4s: '49', '50': '1', 6s: '23', Ave: '18.37', BF: '488',
+    HS: '67', Inns: '30', Mat: '31', 'NO': '0', Player: Ishan Kishan, Runs: '551',
+    SR: '112.91', Span: 2014-2017}
+  - {'0': '9', '100': '0', 4s: '144', '50': '0', 6s: '68', Ave: '21.4', BF: '1643',
+    HS: '48', Inns: '137', Mat: '193', 'NO': '43', Player: RA Jadeja, Runs: '2012',
+    SR: '122.46', Span: 2007-2017}
+  - {'0': '12', '100': '0', 4s: '400', '50': '20', 6s: '112', Ave: '24.73', BF: '3201',
+    HS: '90', Inns: '191', Mat: '216', 'NO': '25', Player: KD Karthik, Runs: '4106',
+    SR: '128.27', Span: 2006-2017}
+  - {'0': '0', '100': '0', 4s: '9', '50': '0', 6s: '3', Ave: '11.92', BF: '145', HS: '28',
+    Inns: '30', Mat: '101', 'NO': '18', Player: DS Kulkarni, Runs: '143', SR: '98.62',
+    Span: 2007-2017}
+  - {'0': '10', '100': '3', 4s: '602', '50': '40', 6s: '265', Ave: '33.81', BF: '4926',
+    HS: '109', Inns: '243', Mat: '257', 'NO': '40', Player: SK Raina, Runs: '6864',
+    SR: '139.34', Span: 2006-2017}
+  - {'0': '5', '100': '0', 4s: '14', '50': '0', 6s: '3', Ave: '9.82', BF: '169', HS: '24',
+    Inns: '35', Mat: '75', 'NO': '18', Player: PJ Sangwan, Runs: '167', SR: '98.82',
+    Span: 2007-2017}
+  - {'0': '26', '100': '3', 4s: '654', '50': '42', 6s: '327', Ave: '26.08', BF: '5389',
+    HS: '110', Inns: '287', Mat: '294', 'NO': '24', Player: DR Smith, Runs: '6859',
+    SR: '127.28', Span: 2006-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '56.5', Econ: '7.06', Inns: '5', Mat: '5', Overs: '16.0',
+    Player: Ankit Soni, Runs: '113', SR: '48.0', Span: 2017-2017, Wkts: '2'}
+  - {'4': '1', '5': '0', Ave: '26.61', Econ: '7.64', Inns: '34', Mat: '34', Overs: '122.2',
+    Player: Basil Thampi, Runs: '958', SR: '20.39', Span: 2014-2017, Wkts: '36'}
+  - {'4': '1', '5': '3', Ave: '23.98', Econ: '7.83', Inns: '147', Mat: '147', Overs: '508.4',
+    Player: JP Faulkner, Runs: '4028', SR: '18.17', Span: 2009-2017, Wkts: '168'}
+  - {'4': '0', '5': '0', Ave: '47.86', Econ: '7.73', Inns: '24', Mat: '184', Overs: '35.5',
+    Player: AJ Finch, Runs: '335', SR: '30.71', Span: 2009-2017, Wkts: '7'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '31', Overs: '0.0',
+    Player: Ishan Kishan, Runs: '0', SR: '0', Span: 2014-2017, Wkts: '0'}
+  - {'4': '3', '5': '1', Ave: '31.04', Econ: '7.68', Inns: '167', Mat: '193', Overs: '493.5',
+    Player: RA Jadeja, Runs: '3849', SR: '23.9', Span: 2007-2017, Wkts: '124'}
+  - {'4': '0', '5': '0', Ave: '10.0', Econ: '5.0', Inns: '1', Mat: '216', Overs: '2.0',
+    Player: KD Karthik, Runs: '10', SR: '12.0', Span: 2006-2017, Wkts: '1'}
+  - {'4': '1', '5': '0', Ave: '24.8', Econ: '7.69', Inns: '100', Mat: '101', Overs: '337.3',
+    Player: DS Kulkarni, Runs: '2629', SR: '19.1', Span: 2007-2017, Wkts: '106'}
+  - {'4': '1', '5': '0', Ave: '33.8', Econ: '7.15', Inns: '107', Mat: '257', Overs: '236.3',
+    Player: SK Raina, Runs: '1724', SR: '27.82', Span: 2006-2017, Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '27.8', Econ: '7.48', Inns: '74', Mat: '75', Overs: '255.3',
+    Player: PJ Sangwan, Runs: '1946', SR: '21.9', Span: 2007-2017, Wkts: '70'}
+  - {'4': '2', '5': '0', Ave: '27.78', Econ: '8.03', Inns: '159', Mat: '294', Overs: '353.0',
+    Player: DR Smith, Runs: '2834', SR: '20.76', Span: 2006-2017, Wkts: '102'}

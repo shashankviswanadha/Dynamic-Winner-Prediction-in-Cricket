@@ -1,0 +1,114 @@
+Chennai Super Kings:
+- batting averages:
+  - {'0': '4', '100': '0', 4s: '33', '50': '0', 6s: '7', Ave: '12.5', BF: '318', HS: '46',
+    Inns: '49', Mat: '159', 'NO': '21', Player: R Ashwin, Runs: '350', SR: '110.06',
+    Span: 2007-2015}
+  - {'0': '6', '100': '0', 4s: '264', '50': '15', 6s: '177', Ave: '26.73', BF: '3140',
+    HS: '70', Inns: '200', Mat: '243', 'NO': '53', Player: DJ Bravo, Runs: '3929',
+    SR: '125.13', Span: 2006-2015}
+  - {'0': '8', '100': '0', 4s: '311', '50': '17', 6s: '183', Ave: '37.62', BF: '3216',
+    HS: '73', Inns: '186', Mat: '205', 'NO': '70', Player: MS Dhoni, Runs: '4364',
+    SR: '135.7', Span: 2006-2015}
+  - {'0': '11', '100': '1', 4s: '258', '50': '16', 6s: '78', Ave: '27.49', BF: '2314',
+    HS: '119', Inns: '120', Mat: '134', 'NO': '14', Player: F du Plessis, Runs: '2914',
+    SR: '125.93', Span: 2007-2015}
+  - {'0': '3', '100': '1', 4s: '378', '50': '30', 6s: '106', Ave: '38.26', BF: '3167',
+    HS: '116', Inns: '128', Mat: '137', 'NO': '24', Player: MEK Hussey, Runs: '3979',
+    SR: '125.64', Span: 2003-2015}
+  - {'0': '7', '100': '0', 4s: '117', '50': '0', 6s: '59', Ave: '21.39', BF: '1335',
+    HS: '48', Inns: '106', Mat: '148', 'NO': '29', Player: RA Jadeja, Runs: '1647',
+    SR: '123.37', Span: 2007-2015}
+  - {'0': '2', '100': '0', 4s: '24', '50': '0', 6s: '10', Ave: '14.4', BF: '241',
+    HS: '36', Inns: '32', Mat: '44', 'NO': '12', Player: P Negi, Runs: '288', SR: '119.5',
+    Span: 2011-2015}
+  - {'0': '9', '100': '0', 4s: '4', '50': '0', 6s: '3', Ave: '6.2', BF: '77', HS: '22',
+    Inns: '21', Mat: '92', 'NO': '11', Player: A Nehra, Runs: '62', SR: '80.52', Span: 2008-2015}
+  - {'0': '8', '100': '3', 4s: '476', '50': '33', 6s: '220', Ave: '34.56', BF: '3884',
+    HS: '109', Inns: '190', Mat: '200', 'NO': '32', Player: SK Raina, Runs: '5460',
+    SR: '140.58', Span: 2006-2015}
+  - {'0': '3', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '1.25', BF: '17', HS: '-1',
+    Inns: '8', Mat: '58', 'NO': '4', Player: MM Sharma, Runs: '5', SR: '29.41', Span: 2013-2015}
+  - {'0': '20', '100': '3', 4s: '472', '50': '28', 6s: '258', Ave: '25.97', BF: '3971',
+    HS: '110', Inns: '218', Mat: '225', 'NO': '20', Player: DR Smith, Runs: '5142',
+    SR: '129.49', Span: 2006-2015}
+- bowling averages:
+  - {'4': '2', '5': '0', Ave: '23.86', Econ: '6.69', Inns: '156', Mat: '159', Overs: '571.4',
+    Player: R Ashwin, Runs: '3866', SR: '21.17', Span: 2007-2015, Wkts: '162'}
+  - {'4': '3', '5': '0', Ave: '24.83', Econ: '8.0', Inns: '228', Mat: '243', Overs: '731.3',
+    Player: DJ Bravo, Runs: '5885', SR: '18.52', Span: 2006-2015, Wkts: '237'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '12.5', Inns: '1', Mat: '205', Overs: '2.0',
+    Player: MS Dhoni, Runs: '25', SR: '0', Span: 2006-2015, Wkts: '0'}
+  - {'4': '1', '5': '2', Ave: '18.34', Econ: '6.66', Inns: '52', Mat: '134', Overs: '131.4',
+    Player: F du Plessis, Runs: '917', SR: '15.8', Span: 2007-2015, Wkts: '50'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '5.0', Inns: '1', Mat: '137', Overs: '1.0',
+    Player: MEK Hussey, Runs: '5', SR: '0', Span: 2003-2015, Wkts: '0'}
+  - {'4': '3', '5': '1', Ave: '29.77', Econ: '7.59', Inns: '123', Mat: '148', Overs: '358.4',
+    Player: RA Jadeja, Runs: '2769', SR: '23.14', Span: 2007-2015, Wkts: '93'}
+  - {'4': '1', '5': '1', Ave: '23.48', Econ: '6.77', Inns: '40', Mat: '44', Overs: '132.4',
+    Player: P Negi, Runs: '939', SR: '19.9', Span: 2011-2015, Wkts: '40'}
+  - {'4': '2', '5': '0', Ave: '22.54', Econ: '7.69', Inns: '92', Mat: '92', Overs: '334.0',
+    Player: A Nehra, Runs: '2570', SR: '17.58', Span: 2008-2015, Wkts: '114'}
+  - {'4': '1', '5': '0', Ave: '31.95', Econ: '7.03', Inns: '82', Mat: '200', Overs: '183.2',
+    Player: SK Raina, Runs: '1310', SR: '26.83', Span: 2006-2015, Wkts: '41'}
+  - {'4': '2', '5': '0', Ave: '22.62', Econ: '7.81', Inns: '57', Mat: '58', Overs: '192.3',
+    Player: MM Sharma, Runs: '1538', SR: '16.99', Span: 2013-2015, Wkts: '68'}
+  - {'4': '1', '5': '0', Ave: '25.97', Econ: '7.77', Inns: '127', Mat: '225', Overs: '294.0',
+    Player: DR Smith, Runs: '2285', SR: '20.05', Span: 2006-2015, Wkts: '88'}
+Mumbai Indians:
+- batting averages:
+  - {'0': '13', '100': '0', 4s: '111', '50': '2', 6s: '64', Ave: '16.12', BF: '838',
+    HS: '78', Inns: '111', Mat: '185', 'NO': '37', Player: Harbhajan Singh, Runs: '1193',
+    SR: '142.36', Span: 2005-2015}
+  - {'0': '3', '100': '0', 4s: '5', '50': '0', 6s: '3', Ave: '13.2', BF: '49', HS: '13',
+    Inns: '17', Mat: '56', 'NO': '12', Player: MJ McClenaghan, Runs: '66', SR: '134.69',
+    Span: 2009-2015}
+  - {'0': '15', '100': '0', 4s: '18', '50': '0', 6s: '16', Ave: '6.95', BF: '289',
+    HS: '37', Inns: '65', Mat: '214', 'NO': '24', Player: SL Malinga, Runs: '285',
+    SR: '98.62', Span: 2004-2015}
+  - {'0': '1', '100': '0', 4s: '34', '50': '2', 6s: '24', Ave: '29.53', BF: '406',
+    HS: '82', Inns: '22', Mat: '26', 'NO': '5', Player: HH Pandya, Runs: '502', SR: '123.65',
+    Span: 2013-2015}
+  - {'0': '10', '100': '0', 4s: '336', '50': '12', 6s: '41', Ave: '21.51', BF: '2257',
+    HS: '82', Inns: '132', Mat: '135', 'NO': '10', Player: PA Patel, Runs: '2624',
+    SR: '116.26', Span: 2005-2015}
+  - {'0': '10', '100': '0', 4s: '353', '50': '27', 6s: '355', Ave: '31.06', BF: '3494',
+    HS: '89', Inns: '249', Mat: '280', 'NO': '76', Player: KA Pollard, Runs: '5373',
+    SR: '153.78', Span: 2006-2015}
+  - {'0': '9', '100': '0', 4s: '244', '50': '15', 6s: '81', Ave: '24.6', BF: '2238',
+    HS: '81', Inns: '131', Mat: '140', 'NO': '19', Player: AT Rayudu, Runs: '2755',
+    SR: '123.1', Span: 2007-2015}
+  - {'0': '9', '100': '2', 4s: '415', '50': '33', 6s: '211', Ave: '32.64', BF: '3840',
+    HS: '109', Inns: '189', Mat: '200', 'NO': '35', Player: RG Sharma, Runs: '5026',
+    SR: '130.89', Span: 2007-2015}
+  - {'0': '13', '100': '1', 4s: '334', '50': '26', 6s: '141', Ave: '31.45', BF: '3094',
+    HS: '100', Inns: '128', Mat: '130', 'NO': '14', Player: LMP Simmons, Runs: '3585',
+    SR: '115.87', Span: 2007-2015}
+  - {'0': '0', '100': '0', 4s: '4', '50': '0', 6s: '3', Ave: '15.5', BF: '47', HS: '34',
+    Inns: '8', Mat: '18', 'NO': '4', Player: J Suchith, Runs: '62', SR: '131.91',
+    Span: 2014-2015}
+  - {'0': '5', '100': '0', 4s: '27', '50': '0', 6s: '19', Ave: '11.87', BF: '369',
+    HS: '34', Inns: '62', Mat: '137', 'NO': '24', Player: R Vinay Kumar, Runs: '451',
+    SR: '122.22', Span: 2007-2015}
+- bowling averages:
+  - {'4': '3', '5': '1', Ave: '25.58', Econ: '6.7', Inns: '174', Mat: '185', Overs: '630.0',
+    Player: Harbhajan Singh, Runs: '4220', SR: '22.91', Span: 2005-2015, Wkts: '165'}
+  - {'4': '0', '5': '1', Ave: '22.53', Econ: '7.78', Inns: '55', Mat: '56', Overs: '201.1',
+    Player: MJ McClenaghan, Runs: '1577', SR: '17.24', Span: 2009-2015, Wkts: '70'}
+  - {'4': '7', '5': '4', Ave: '18.3', Econ: '6.62', Inns: '209', Mat: '214', Overs: '777.5',
+    Player: SL Malinga, Runs: '5198', SR: '16.43', Span: 2004-2015, Wkts: '284'}
+  - {'4': '0', '5': '0', Ave: '31.29', Econ: '7.39', Inns: '25', Mat: '26', Overs: '72.0',
+    Player: HH Pandya, Runs: '532', SR: '25.41', Span: 2013-2015, Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '135', Overs: '0.0',
+    Player: PA Patel, Runs: '0', SR: '0', Span: 2005-2015, Wkts: '0'}
+  - {'4': '3', '5': '0', Ave: '23.28', Econ: '7.94', Inns: '214', Mat: '280', Overs: '558.5',
+    Player: KA Pollard, Runs: '4494', SR: '17.37', Span: 2006-2015, Wkts: '193'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '140', Overs: '0.0',
+    Player: AT Rayudu, Runs: '0', SR: '0', Span: 2007-2015, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '28.17', Econ: '7.38', Inns: '57', Mat: '200', Overs: '104.4',
+    Player: RG Sharma, Runs: '817', SR: '21.66', Span: 2007-2015, Wkts: '29'}
+  - {'4': '1', '5': '0', Ave: '22.82', Econ: '8.41', Inns: '28', Mat: '130', Overs: '58.1',
+    Player: LMP Simmons, Runs: '502', SR: '15.86', Span: 2007-2015, Wkts: '22'}
+  - {'4': '0', '5': '0', Ave: '30.64', Econ: '7.66', Inns: '18', Mat: '18', Overs: '56.0',
+    Player: J Suchith, Runs: '429', SR: '24.0', Span: 2014-2015, Wkts: '14'}
+  - {'4': '1', '5': '0', Ave: '26.07', Econ: '7.84', Inns: '136', Mat: '137', Overs: '469.4',
+    Player: R Vinay Kumar, Runs: '3728', SR: '19.71', Span: 2007-2015, Wkts: '143'}

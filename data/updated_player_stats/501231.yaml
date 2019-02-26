@@ -1,0 +1,114 @@
+Mumbai Indians:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '36', '50': '0', 6s: '21', Ave: '15.0', BF: '282',
+    HS: '49', Inns: '39', Mat: '75', 'NO': '12', Player: Harbhajan Singh, Runs: '405',
+    SR: '143.62', Span: 2005-2011}
+  - {'0': '3', '100': '0', 4s: '113', '50': '6', 6s: '45', Ave: '27.4', BF: '1090',
+    HS: '74', Inns: '56', Mat: '59', 'NO': '9', Player: DJ Jacobs, Runs: '1288', SR: '118.17',
+    Span: 2004-2011}
+  - {'0': '3', '100': '0', 4s: '3', '50': '0', 6s: '3', Ave: '7.56', BF: '76', HS: '27',
+    Inns: '20', Mat: '77', 'NO': '11', Player: SL Malinga, Runs: '68', SR: '89.47',
+    Span: 2004-2011}
+  - {'0': '0', '100': '0', 4s: '7', '50': '0', 6s: '1', Ave: '31.33', BF: '104', HS: '39',
+    Inns: '6', Mat: '18', 'NO': '3', Player: AG Murtaza, Runs: '94', SR: '90.38',
+    Span: 2007-2011}
+  - {'0': '3', '100': '0', 4s: '5', '50': '0', 6s: '0', Ave: '9.25', BF: '32', HS: '23',
+    Inns: '9', Mat: '38', 'NO': '5', Player: MM Patel, Runs: '37', SR: '115.63', Span: 2008-2011}
+  - {'0': '4', '100': '0', 4s: '102', '50': '9', 6s: '124', Ave: '26.44', BF: '984',
+    HS: '89', Inns: '80', Mat: '94', 'NO': '17', Player: KA Pollard, Runs: '1666',
+    SR: '169.31', Span: 2006-2011}
+  - {'0': '1', '100': '0', 4s: '77', '50': '6', 6s: '23', Ave: '27.23', BF: '673',
+    HS: '75', Inns: '34', Mat: '34', 'NO': '3', Player: AT Rayudu, Runs: '844', SR: '125.41',
+    Span: 2007-2011}
+  - {'0': '1', '100': '0', 4s: '21', '50': '0', 6s: '4', Ave: '18.5', BF: '179', HS: '24',
+    Inns: '19', Mat: '26', 'NO': '7', Player: R Sathish, Runs: '222', SR: '124.02',
+    Span: 2009-2011}
+  - {'0': '3', '100': '1', 4s: '194', '50': '14', 6s: '94', Ave: '35.63', BF: '1653',
+    HS: '101', Inns: '80', Mat: '86', 'NO': '18', Player: RG Sharma, Runs: '2209',
+    SR: '133.64', Span: 2007-2011}
+  - {'0': '5', '100': '2', 4s: '188', '50': '12', 6s: '83', Ave: '35.1', BF: '1358',
+    HS: '117', Inns: '75', Mat: '82', 'NO': '16', Player: A Symonds, Runs: '2071',
+    SR: '152.5', Span: 2003-2011}
+  - {'0': '2', '100': '1', 4s: '230', '50': '12', 6s: '25', Ave: '42.5', BF: '1404',
+    HS: '100', Inns: '50', Mat: '50', 'NO': '8', Player: SR Tendulkar, Runs: '1785',
+    SR: '127.14', Span: 2006-2011}
+- bowling averages:
+  - {'4': '1', '5': '1', Ave: '25.16', Econ: '6.58', Inns: '72', Mat: '75', Overs: '260.0',
+    Player: Harbhajan Singh, Runs: '1711', SR: '22.94', Span: 2005-2011, Wkts: '68'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '14.0', Inns: '1', Mat: '59', Overs: '1.0',
+    Player: DJ Jacobs, Runs: '14', SR: '0', Span: 2004-2011, Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '18.65', Econ: '6.7', Inns: '75', Mat: '77', Overs: '270.5',
+    Player: SL Malinga, Runs: '1865', SR: '16.25', Span: 2004-2011, Wkts: '100'}
+  - {'4': '0', '5': '0', Ave: '22.5', Econ: '7.11', Inns: '17', Mat: '18', Overs: '57.0',
+    Player: AG Murtaza, Runs: '405', SR: '19.0', Span: 2007-2011, Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '24.46', Econ: '7.41', Inns: '38', Mat: '38', Overs: '127.1',
+    Player: MM Patel, Runs: '954', SR: '19.56', Span: 2008-2011, Wkts: '39'}
+  - {'4': '2', '5': '0', Ave: '19.8', Econ: '7.69', Inns: '80', Mat: '94', Overs: '231.2',
+    Player: KA Pollard, Runs: '1802', SR: '15.25', Span: 2006-2011, Wkts: '91'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '34', Overs: '0.0',
+    Player: AT Rayudu, Runs: '0', SR: '0', Span: 2007-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '66.0', Econ: '8.25', Inns: '13', Mat: '26', Overs: '24.0',
+    Player: R Sathish, Runs: '198', SR: '48.0', Span: 2009-2011, Wkts: '3'}
+  - {'4': '1', '5': '0', Ave: '23.73', Econ: '7.26', Inns: '38', Mat: '86', Overs: '85.0',
+    Player: RG Sharma, Runs: '617', SR: '19.62', Span: 2007-2011, Wkts: '26'}
+  - {'4': '0', '5': '1', Ave: '31.37', Econ: '7.93', Inns: '71', Mat: '82', Overs: '200.1',
+    Player: A Symonds, Runs: '1600', SR: '23.55', Span: 2003-2011, Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '61.5', Econ: '6.15', Inns: '8', Mat: '50', Overs: '15.3',
+    Player: SR Tendulkar, Runs: '123', SR: '46.5', Span: 2006-2011, Wkts: '2'}
+Rajasthan Royals:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '6', '50': '0', 6s: '1', Ave: '16.0', BF: '78', HS: '30',
+    Inns: '7', Mat: '10', 'NO': '2', Player: STR Binny, Runs: '80', SR: '102.56',
+    Span: 2009-2011}
+  - {'0': '3', '100': '0', 4s: '47', '50': '1', 6s: '12', Ave: '21.89', BF: '503',
+    HS: '67', Inns: '51', Mat: '72', 'NO': '24', Player: J Botha, Runs: '591', SR: '117.5',
+    Span: 2004-2011}
+  - {'0': '4', '100': '0', 4s: '148', '50': '6', 6s: '22', Ave: '28.51', BF: '1133',
+    HS: '75', Inns: '52', Mat: '59', 'NO': '5', Player: R Dravid, Runs: '1340', SR: '118.27',
+    Span: 2007-2011}
+  - {'0': '0', '100': '0', 4s: '5', '50': '0', 6s: '6', Ave: '26.0', BF: '79', HS: '34',
+    Inns: '4', Mat: '6', 'NO': '0', Player: AL Menaria, Runs: '104', SR: '131.65',
+    Span: 2011-2011}
+  - {'0': '5', '100': '0', 4s: '37', '50': '3', 6s: '6', Ave: '14.81', BF: '382',
+    HS: '62', Inns: '28', Mat: '30', 'NO': '2', Player: AM Rahane, Runs: '385', SR: '100.79',
+    Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '2.0', BF: '10', HS: '5',
+    Inns: '4', Mat: '13', 'NO': '1', Player: A Singh, Runs: '6', SR: '60.0', Span: 2009-2011}
+  - {'0': '5', '100': '1', 4s: '198', '50': '14', 6s: '162', Ave: '33.2', BF: '1807',
+    HS: '111', Inns: '102', Mat: '108', 'NO': '21', Player: LRPL Taylor, Runs: '2689',
+    SR: '148.81', Span: 2006-2011}
+  - {'0': '2', '100': '0', 4s: '5', '50': '0', 6s: '1', Ave: '6.3', BF: '63', HS: '12',
+    Inns: '18', Mat: '54', 'NO': '8', Player: SK Trivedi, Runs: '63', SR: '100.0',
+    Span: 2007-2011}
+  - {'0': '7', '100': '0', 4s: '15', '50': '0', 6s: '7', Ave: '10.4', BF: '217', HS: '34',
+    Inns: '29', Mat: '51', 'NO': '9', Player: SK Warne, Runs: '208', SR: '95.85',
+    Span: 2004-2011}
+  - {'0': '6', '100': '0', 4s: '132', '50': '13', 6s: '70', Ave: '31.72', BF: '1002',
+    HS: '97', Inns: '56', Mat: '59', 'NO': '9', Player: SR Watson, Runs: '1491', SR: '148.8',
+    Span: 2004-2011}
+  - {'0': '0', '100': '0', 4s: '28', '50': '2', 6s: '9', Ave: '38.33', BF: '164',
+    HS: '70', Inns: '7', Mat: '8', 'NO': '1', Player: DH Yagnik, Runs: '230', SR: '140.24',
+    Span: 2007-2011}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '34.0', Econ: '7.73', Inns: '9', Mat: '10', Overs: '22.0',
+    Player: STR Binny, Runs: '170', SR: '26.4', Span: 2009-2011, Wkts: '5'}
+  - {'4': '1', '5': '0', Ave: '24.42', Econ: '6.03', Inns: '69', Mat: '72', Overs: '259.0',
+    Player: J Botha, Runs: '1563', SR: '24.28', Span: 2004-2011, Wkts: '64'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '59', Overs: '0.0',
+    Player: R Dravid, Runs: '0', SR: '0', Span: 2007-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '8.25', Inns: '3', Mat: '6', Overs: '4.0',
+    Player: AL Menaria, Runs: '33', SR: '0', Span: 2011-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '30', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2011, Wkts: '1'}
+  - {'4': '1', '5': '0', Ave: '15.76', Econ: '6.23', Inns: '13', Mat: '13', Overs: '43.0',
+    Player: A Singh, Runs: '268', SR: '15.18', Span: 2009-2011, Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '33.63', Econ: '8.97', Inns: '14', Mat: '108', Overs: '30.0',
+    Player: LRPL Taylor, Runs: '269', SR: '22.5', Span: 2006-2011, Wkts: '8'}
+  - {'4': '2', '5': '0', Ave: '24.61', Econ: '7.84', Inns: '53', Mat: '54', Overs: '179.0',
+    Player: SK Trivedi, Runs: '1403', SR: '18.84', Span: 2007-2011, Wkts: '57'}
+  - {'4': '1', '5': '0', Ave: '24.98', Econ: '7.31', Inns: '51', Mat: '51', Overs: '188.0',
+    Player: SK Warne, Runs: '1374', SR: '20.51', Span: 2004-2011, Wkts: '55'}
+  - {'4': '1', '5': '0', Ave: '23.29', Econ: '7.0', Inns: '48', Mat: '59', Overs: '163.4',
+    Player: SR Watson, Runs: '1188', SR: '19.25', Span: 2004-2011, Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '8', Overs: '0.0', Player: DH
+      Yagnik, Runs: '0', SR: '0', Span: 2007-2011, Wkts: '0'}

@@ -1,0 +1,134 @@
+DelhiDaredevils:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '47', '50': '4', 6s: '8', Ave: '33.15', BF: '375',
+    HS: 68*, Inns: '18', Mat: '18', 'NO': '5', Player: S Dhawan, Runs: '431', SR: '114.93',
+    Span: 2007-2008}
+  - {'0': '1', '100': '0', 4s: '11', '50': '0', 6s: '6', Ave: '12.90', BF: '128',
+    HS: '38', Inns: '13', Mat: '15', 'NO': '2', Player: TM Dilshan, Runs: '142', SR: '110.93',
+    Span: 2004-2008}
+  - {'0': '1', '100': '0', 4s: '115', '50': '10', 6s: '14', Ave: '38.75', BF: '701',
+    HS: '86', Inns: '26', Mat: '27', 'NO': '2', Player: G Gambhir, Runs: '930', SR: '132.66',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '4', Ave: '23.50', BF: '25', HS: '28',
+    Inns: '2', Mat: '7', 'NO': '0', Player: B Geeves, Runs: '47', SR: '188.00', Span: 2007-2008}
+  - {'0': '2', '100': '0', 4s: '38', '50': '1', 6s: '8', Ave: '22.18', BF: '285',
+    HS: 56*, Inns: '21', Mat: '28', 'NO': '5', Player: KD Karthik, Runs: '355', SR: '124.56',
+    Span: 2006-2008}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '1.66', BF: '15', HS: '5',
+    Inns: '4', Mat: '16', 'NO': '1', Player: GD McGrath, Runs: '5', SR: '33.33', Span: 2005-2008}
+  - {'0': '2', '100': '0', 4s: '14', '50': '0', 6s: '7', Ave: '21.37', BF: '129',
+    HS: '39', Inns: '12', Mat: '17', 'NO': '4', Player: MF Maharoof, Runs: '171',
+    SR: '132.55', Span: 2004-2008}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '2', Ave: '10.50', BF: '40', HS: '13',
+    Inns: '9', Mat: '20', 'NO': '5', Player: VY Mahesh, Runs: '42', SR: '105.00',
+    Span: 2007-2008}
+  - {'0': '2', '100': '0', 4s: '24', '50': '0', 6s: '1', Ave: '17.45', BF: '163',
+    HS: '49', Inns: '11', Mat: '14', 'NO': '0', Player: A Mishra, Runs: '192', SR: '117.79',
+    Span: 2007-2008}
+  - {'0': '4', '100': '0', 4s: '90', '50': '5', 6s: '32', Ave: '27.75', BF: '492',
+    HS: 94*, Inns: '31', Mat: '32', 'NO': '3', Player: V Sehwag, Runs: '777', SR: '157.92',
+    Span: 2003-2008}
+  - {'0': '0', '100': '0', 4s: '41', '50': '2', 6s: '2', Ave: '40.55', BF: '296',
+    HS: '58', Inns: '12', Mat: '14', 'NO': '3', Player: MK Tiwary, Runs: '365', SR: '123.31',
+    Span: 2007-2008}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '9', Econ: '-', Inns: '-', Mat: '18',
+    Mdns: '-', Overs: '-', Player: S Dhawan, Runs: '-', SR: '-', Span: 2007-2008,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '12.57', BBI: 3/23, Ct: '10', Econ: '5.50', Inns: '7',
+    Mat: '15', Mdns: '0', Overs: '16.0', Player: TM Dilshan, Runs: '88', SR: '13.7',
+    Span: 2004-2008, St: '0', Wkts: '7'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '5', Econ: '-', Inns: '-', Mat: '27',
+    Mdns: '-', Overs: '-', Player: G Gambhir, Runs: '-', SR: '-', Span: 2007-2008,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '27.00', BBI: 3/36, Ct: '4', Econ: '9.00', Inns: '7',
+    Mat: '7', Mdns: '0', Overs: '27.0', Player: B Geeves, Runs: '243', SR: '18.0',
+    Span: 2007-2008, St: '0', Wkts: '9'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '19', Econ: '-', Inns: '-', Mat: '28',
+    Mdns: '-', Overs: '-', Player: KD Karthik, Runs: '-', SR: '-', Span: 2006-2008,
+    St: '8', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '22.72', BBI: 4/29, Ct: '5', Econ: '6.59', Inns: '16',
+    Mat: '16', Mdns: '2', Overs: '62.0', Player: GD McGrath, Runs: '409', SR: '20.6',
+    Span: 2005-2008, St: '0', Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '27.00', BBI: 2/11, Ct: '4', Econ: '7.23', Inns: '17',
+    Mat: '17', Mdns: '0', Overs: '56.0', Player: MF Maharoof, Runs: '405', SR: '22.4',
+    Span: 2004-2008, St: '0', Wkts: '15'}
+  - {'4': '1', '5': '0', Ave: '26.00', BBI: 4/36, Ct: '8', Econ: '7.95', Inns: '20',
+    Mat: '20', Mdns: '0', Overs: '75.1', Player: VY Mahesh, Runs: '598', SR: '19.6',
+    Span: 2007-2008, St: '0', Wkts: '23'}
+  - {'4': '0', '5': '1', Ave: '12.50', BBI: 5/17, Ct: '4', Econ: '6.40', Inns: '14',
+    Mat: '14', Mdns: '0', Overs: '46.5', Player: A Mishra, Runs: '300', SR: '11.7',
+    Span: 2007-2008, St: '0', Wkts: '24'}
+  - {'4': '0', '5': '0', Ave: '21.56', BBI: 3/14, Ct: '3', Econ: '8.21', Inns: '16',
+    Mat: '32', Mdns: '0', Overs: '42.0', Player: V Sehwag, Runs: '345', SR: '15.7',
+    Span: 2003-2008, St: '0', Wkts: '16'}
+  - {'4': '0', '5': '0', Ave: '14.16', BBI: 3/19, Ct: '10', Econ: '7.08', Inns: '5',
+    Mat: '14', Mdns: '0', Overs: '12.0', Player: MK Tiwary, Runs: '85', SR: '12.0',
+    Span: 2007-2008, St: '0', Wkts: '6'}
+MumbaiIndians:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '9.00', BF: '10', HS: '15',
+    Inns: '2', Mat: '3', 'NO': '0', Player: SD Chitnis, Runs: '18', SR: '180.00',
+    Span: 2008-2008}
+  - {'0': '3', '100': '1', 4s: '92', '50': '4', 6s: '41', Ave: '34.77', BF: '450',
+    HS: 114*, Inns: '26', Mat: '26', 'NO': '4', Player: ST Jayasuriya, Runs: '765',
+    SR: '170.00', Span: 2004-2008}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '-', BF: '16', HS: 2*,
+    Inns: '1', Mat: '10', 'NO': '1', Player: DS Kulkarni, Runs: '2', SR: '12.50',
+    Span: 2007-2008}
+  - {'0': '0', '100': '0', 4s: '13', '50': '0', 6s: '9', Ave: '25.85', BF: '120',
+    HS: 45*, Inns: '9', Mat: '13', 'NO': '2', Player: AM Nayar, Runs: '181', SR: '150.83',
+    Span: 2007-2008}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.00', BF: '13', HS: 2*,
+    Inns: '4', Mat: '12', 'NO': '3', Player: A Nehra, Runs: '3', SR: '23.07', Span: 2008-2008}
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '5', Ave: '5.66', BF: '33', HS: '12',
+    Inns: '10', Mat: '19', 'NO': '1', Player: A Nel, Runs: '51', SR: '154.54', Span: 2003-2008}
+  - {'0': '4', '100': '0', 4s: '40', '50': '1', 6s: '24', Ave: '22.76', BF: '332',
+    HS: '59', Inns: '25', Mat: '33', 'NO': '4', Player: SM Pollock, Runs: '478', SR: '143.97',
+    Span: 2004-2008}
+  - {'0': '1', '100': '0', 4s: '17', '50': '1', 6s: '1', Ave: '20.00', BF: '107',
+    HS: '71', Inns: '8', Mat: '9', 'NO': '1', Player: PR Shah, Runs: '140', SR: '130.84',
+    Span: 2007-2008}
+  - {'0': '1', '100': '0', 4s: '8', '50': '0', 6s: '6', Ave: '9.90', BF: '84', HS: '29',
+    Inns: '11', Mat: '11', 'NO': '0', Player: DR Smith, Runs: '109', SR: '129.76',
+    Span: 2006-2008}
+  - {'0': '1', '100': '0', 4s: '50', '50': '3', 6s: '6', Ave: '31.60', BF: '219',
+    HS: '69', Inns: '10', Mat: '10', 'NO': '0', Player: SR Tendulkar, Runs: '316',
+    SR: '144.29', Span: 2006-2008}
+  - {'0': '1', '100': '0', 4s: '67', '50': '1', 6s: '18', Ave: '25.52', BF: '528',
+    HS: '50', Inns: '29', Mat: '30', 'NO': '4', Player: RV Uthappa, Runs: '638', SR: '120.83',
+    Span: 2007-2008}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '30.00', BBI: 2/40, Ct: '1', Econ: '10.00', Inns: '2',
+    Mat: '3', Mdns: '0', Overs: '6.0', Player: SD Chitnis, Runs: '60', SR: '18.0',
+    Span: 2008-2008, St: '0', Wkts: '2'}
+  - {'4': '1', '5': '0', Ave: '17.40', BBI: 4/24, Ct: '4', Econ: '7.50', Inns: '19',
+    Mat: '26', Mdns: '1', Overs: '62.4', Player: ST Jayasuriya, Runs: '470', SR: '13.9',
+    Span: 2004-2008, St: '0', Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '17.91', BBI: 3/33, Ct: '3', Econ: '7.54', Inns: '10',
+    Mat: '10', Mdns: '0', Overs: '28.3', Player: DS Kulkarni, Runs: '215', SR: '14.2',
+    Span: 2007-2008, St: '0', Wkts: '12'}
+  - {'4': '0', '5': '0', Ave: '41.00', BBI: 1/18, Ct: '5', Econ: '10.25', Inns: '5',
+    Mat: '13', Mdns: '0', Overs: '8.0', Player: AM Nayar, Runs: '82', SR: '24.0',
+    Span: 2007-2008, St: '0', Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '28.09', BBI: 3/13, Ct: '5', Econ: '7.95', Inns: '12',
+    Mat: '12', Mdns: '0', Overs: '38.5', Player: A Nehra, Runs: '309', SR: '21.1',
+    Span: 2008-2008, St: '0', Wkts: '11'}
+  - {'4': '0', '5': '0', Ave: '23.22', BBI: 2/13, Ct: '6', Econ: '5.97', Inns: '19',
+    Mat: '19', Mdns: '3', Overs: '70.0', Player: A Nel, Runs: '418', SR: '23.3', Span: 2003-2008,
+    St: '0', Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '23.03', BBI: 3/12, Ct: '6', Econ: '6.73', Inns: '30',
+    Mat: '33', Mdns: '3', Overs: '109.3', Player: SM Pollock, Runs: '737', SR: '20.5',
+    Span: 2004-2008, St: '0', Wkts: '32'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '7', Econ: '-', Inns: '-', Mat: '9',
+    Mdns: '-', Overs: '-', Player: PR Shah, Runs: '-', SR: '-', Span: 2007-2008, St: '1',
+    Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '16.07', BBI: 4/9, Ct: '3', Econ: '7.08', Inns: '10',
+    Mat: '11', Mdns: '0', Overs: '29.3', Player: DR Smith, Runs: '209', SR: '13.6',
+    Span: 2006-2008, St: '0', Wkts: '13'}
+  - {'4': '0', '5': '0', Ave: '32.50', BBI: 1/12, Ct: '6', Econ: '6.84', Inns: '4',
+    Mat: '10', Mdns: '0', Overs: '9.3', Player: SR Tendulkar, Runs: '65', SR: '28.5',
+    Span: 2006-2008, St: '0', Wkts: '2'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '10', Econ: '-', Inns: '-', Mat: '30',
+    Mdns: '-', Overs: '-', Player: RV Uthappa, Runs: '-', SR: '-', Span: 2007-2008,
+    St: '0', Wkts: '-'}

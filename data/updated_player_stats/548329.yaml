@@ -1,0 +1,115 @@
+Deccan Chargers:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '6', '50': '0', 6s: '5', Ave: '8.91', BF: '83', HS: '41',
+    Inns: '13', Mat: '21', 'NO': '2', Player: Ankit Sharma, Runs: '98', SR: '118.07',
+    Span: 2010-2012}
+  - {'0': '1', '100': '0', 4s: '6', '50': '0', 6s: '11', Ave: '17.25', BF: '90', HS: '29',
+    Inns: '12', Mat: '17', 'NO': '4', Player: A Ashish Reddy, Runs: '138', SR: '153.33',
+    Span: 2009-2012}
+  - {'0': '3', '100': '0', 4s: '201', '50': '14', 6s: '36', Ave: '29.94', BF: '1590',
+    HS: '95', Inns: '71', Mat: '72', 'NO': '9', Player: S Dhawan, Runs: '1856', SR: '116.73',
+    Span: 2007-2012}
+  - {'0': '9', '100': '0', 4s: '215', '50': '18', 6s: '88', Ave: '33.78', BF: '2298',
+    HS: '99', Inns: '110', Mat: '116', 'NO': '28', Player: JP Duminy, Runs: '2770',
+    SR: '120.54', Span: 2004-2012}
+  - {'0': '2', '100': '0', 4s: '10', '50': '0', 6s: '10', Ave: '13.92', BF: '126',
+    HS: '34', Inns: '21', Mat: '46', 'NO': '9', Player: MS Gony, Runs: '167', SR: '132.54',
+    Span: 2008-2012}
+  - {'0': '0', '100': '1', 4s: '148', '50': '6', 6s: '45', Ave: '35.42', BF: '963',
+    HS: '108', Inns: '41', Mat: '43', 'NO': '3', Player: DJ Harris, Runs: '1346',
+    SR: '139.77', Span: 2007-2012}
+  - {'0': '9', '100': '0', 4s: '45', '50': '0', 6s: '4', Ave: '15.21', BF: '403',
+    HS: '49', Inns: '48', Mat: '84', 'NO': '19', Player: A Mishra, Runs: '441', SR: '109.43',
+    Span: 2007-2012}
+  - {'0': '7', '100': '0', 4s: '158', '50': '4', 6s: '18', Ave: '19.2', BF: '1116',
+    HS: '57', Inns: '69', Mat: '71', 'NO': '5', Player: PA Patel, Runs: '1229', SR: '110.13',
+    Span: 2005-2012}
+  - {'0': '8', '100': '0', 4s: '331', '50': '19', 6s: '54', Ave: '30.46', BF: '2304',
+    HS: '94', Inns: '106', Mat: '110', 'NO': '9', Player: KC Sangakkara, Runs: '2955',
+    SR: '128.26', Span: 2004-2012}
+  - {'0': '0', '100': '0', 4s: '5', '50': '0', 6s: '0', Ave: '12.5', BF: '79', HS: '13',
+    Inns: '15', Mat: '25', 'NO': '9', Player: TP Sudhindra, Runs: '75', SR: '94.94',
+    Span: 2007-2012}
+  - {'0': '6', '100': '2', 4s: '159', '50': '13', 6s: '128', Ave: '30.32', BF: '1932',
+    HS: '141', Inns: '110', Mat: '115', 'NO': '25', Player: CL White, Runs: '2577',
+    SR: '133.39', Span: 2005-2012}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '24.83', Econ: '6.88', Inns: '21', Mat: '21', Overs: '65.0',
+    Player: Ankit Sharma, Runs: '447', SR: '21.67', Span: 2010-2012, Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '19.76', Econ: '7.69', Inns: '17', Mat: '17', Overs: '49.3',
+    Player: A Ashish Reddy, Runs: '415', SR: '14.14', Span: 2009-2012, Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '13.0', Econ: '6.5', Inns: '5', Mat: '72', Overs: '6.0',
+    Player: S Dhawan, Runs: '39', SR: '12.0', Span: 2007-2012, Wkts: '3'}
+  - {'4': '2', '5': '0', Ave: '25.37', Econ: '7.68', Inns: '54', Mat: '116', Overs: '114.1',
+    Player: JP Duminy, Runs: '888', SR: '19.57', Span: 2004-2012, Wkts: '35'}
+  - {'4': '1', '5': '0', Ave: '23.58', Econ: '7.31', Inns: '45', Mat: '46', Overs: '153.5',
+    Player: MS Gony, Runs: '1179', SR: '18.46', Span: 2008-2012, Wkts: '50'}
+  - {'4': '0', '5': '0', Ave: '20.38', Econ: '7.23', Inns: '13', Mat: '43', Overs: '30.4',
+    Player: DJ Harris, Runs: '265', SR: '14.15', Span: 2007-2012, Wkts: '13'}
+  - {'4': '1', '5': '2', Ave: '19.54', Econ: '6.84', Inns: '84', Mat: '84', Overs: '304.1',
+    Player: A Mishra, Runs: '2091', SR: '17.06', Span: 2007-2012, Wkts: '107'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '71', Overs: '0.0',
+    Player: PA Patel, Runs: '0', SR: '0', Span: 2005-2012, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '110', Overs: '0.0',
+    Player: KC Sangakkara, Runs: '0', SR: '0', Span: 2004-2012, Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '17.91', Econ: '6.09', Inns: '25', Mat: '25', Overs: '98.3',
+    Player: TP Sudhindra, Runs: '627', SR: '16.89', Span: 2007-2012, Wkts: '35'}
+  - {'4': '1', '5': '0', Ave: '23.04', Econ: '8.2', Inns: '28', Mat: '115', Overs: '58.4',
+    Player: CL White, Runs: '530', SR: '15.3', Span: 2005-2012, Wkts: '23'}
+Delhi Daredevils:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '5.33', BF: '20', HS: '6',
+    Inns: '6', Mat: '13', 'NO': '3', Player: VR Aaron, Runs: '16', SR: '80.0', Span: 2009-2012}
+  - {'0': '6', '100': '2', 4s: '311', '50': '18', 6s: '70', Ave: '30.0', BF: '2067',
+    HS: '110', Inns: '112', Mat: '115', 'NO': '19', Player: DPMD Jayawardene, Runs: '2790',
+    SR: '134.98', Span: 2004-2012}
+  - {'0': '3', '100': '0', 4s: '6', '50': '0', 6s: '2', Ave: '9.88', BF: '82', HS: '16',
+    Inns: '20', Mat: '73', 'NO': '12', Player: M Morkel, Runs: '79', SR: '96.34',
+    Span: 2005-2012}
+  - {'0': '1', '100': '0', 4s: '4', '50': '0', 6s: '4', Ave: '12.71', BF: '79', HS: '30',
+    Inns: '11', Mat: '31', 'NO': '4', Player: S Nadeem, Runs: '89', SR: '112.66',
+    Span: 2007-2012}
+  - {'0': '3', '100': '0', 4s: '33', '50': '0', 6s: '14', Ave: '16.23', BF: '375',
+    HS: '44', Inns: '32', Mat: '43', 'NO': '6', Player: Y Nagar, Runs: '422', SR: '112.53',
+    Span: 2009-2012}
+  - {'0': '6', '100': '0', 4s: '117', '50': '6', 6s: '68', Ave: '21.53', BF: '1027',
+    HS: '94', Inns: '66', Mat: '68', 'NO': '8', Player: NV Ojha, Runs: '1249', SR: '121.62',
+    Span: 2007-2012}
+  - {'0': '4', '100': '0', 4s: '87', '50': '1', 6s: '50', Ave: '23.98', BF: '916',
+    HS: '60', Inns: '79', Mat: '100', 'NO': '29', Player: IK Pathan, Runs: '1199',
+    SR: '130.9', Span: 2005-2012}
+  - {'0': '2', '100': '0', 4s: '25', '50': '1', 6s: '20', Ave: '19.32', BF: '247',
+    HS: '58', Inns: '26', Mat: '33', 'NO': '7', Player: AD Russell, Runs: '367', SR: '148.58',
+    Span: 2010-2012}
+  - {'0': '7', '100': '1', 4s: '310', '50': '18', 6s: '103', Ave: '29.82', BF: '1620',
+    HS: '119', Inns: '92', Mat: '93', 'NO': '5', Player: V Sehwag, Runs: '2594', SR: '160.12',
+    Span: 2003-2012}
+  - {'0': '4', '100': '0', 4s: '81', '50': '6', 6s: '41', Ave: '22.71', BF: '898',
+    HS: '71', Inns: '56', Mat: '64', 'NO': '8', Player: Y Venugopal Rao, Runs: '1090',
+    SR: '121.38', Span: 2007-2012}
+  - {'0': '10', '100': '4', 4s: '346', '50': '19', 6s: '148', Ave: '30.78', BF: '2423',
+    HS: '135', Inns: '120', Mat: '120', 'NO': '8', Player: DA Warner, Runs: '3447',
+    SR: '142.26', Span: 2007-2012}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '32.22', Econ: '5.72', Inns: '12', Mat: '13', Overs: '44.4',
+    Player: VR Aaron, Runs: '290', SR: '29.78', Span: 2009-2012, Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '27.33', Econ: '5.12', Inns: '4', Mat: '115', Overs: '11.3',
+    Player: DPMD Jayawardene, Runs: '82', SR: '23.0', Span: 2004-2012, Wkts: '3'}
+  - {'4': '2', '5': '0', Ave: '21.6', Econ: '6.96', Inns: '72', Mat: '73', Overs: '265.3',
+    Player: M Morkel, Runs: '1879', SR: '18.31', Span: 2005-2012, Wkts: '87'}
+  - {'4': '0', '5': '0', Ave: '24.21', Econ: '6.1', Inns: '31', Mat: '31', Overs: '115.0',
+    Player: S Nadeem, Runs: '702', SR: '23.79', Span: 2007-2012, Wkts: '29'}
+  - {'4': '0', '5': '0', Ave: '17.19', Econ: '7.17', Inns: '17', Mat: '43', Overs: '35.2',
+    Player: Y Nagar, Runs: '275', SR: '13.25', Span: 2009-2012, Wkts: '16'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '68', Overs: '0.0',
+    Player: NV Ojha, Runs: '0', SR: '0', Span: 2007-2012, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '25.69', Econ: '7.51', Inns: '97', Mat: '100', Overs: '344.3',
+    Player: IK Pathan, Runs: '2620', SR: '20.26', Span: 2005-2012, Wkts: '102'}
+  - {'4': '1', '5': '0', Ave: '41.05', Econ: '8.04', Inns: '32', Mat: '33', Overs: '97.0',
+    Player: AD Russell, Runs: '780', SR: '30.63', Span: 2010-2012, Wkts: '19'}
+  - {'4': '0', '5': '0', Ave: '20.36', Econ: '7.26', Inns: '24', Mat: '93', Overs: '55.4',
+    Player: V Sehwag, Runs: '448', SR: '15.18', Span: 2003-2012, Wkts: '22'}
+  - {'4': '0', '5': '0', Ave: '50.75', Econ: '8.64', Inns: '21', Mat: '64', Overs: '47.0',
+    Player: Y Venugopal Rao, Runs: '406', SR: '35.25', Span: 2007-2012, Wkts: '8'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '13.0', Inns: '1', Mat: '120', Overs: '1.0',
+    Player: DA Warner, Runs: '13', SR: '0', Span: 2007-2012, Wkts: '0'}

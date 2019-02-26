@@ -1,0 +1,113 @@
+Deccan Chargers:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '22', '50': '2', 6s: '2', Ave: '21.82', BF: '246',
+    HS: '62', Inns: '13', Mat: '13', 'NO': '2', Player: AA Bilakhia, Runs: '240',
+    SR: '97.56', Span: 2007-2009}
+  - {'0': '12', '100': '0', 4s: '136', '50': '10', 6s: '41', Ave: '25.8', BF: '1075',
+    HS: '98', Inns: '56', Mat: '58', 'NO': '5', Player: HH Gibbs, Runs: '1316', SR: '122.42',
+    Span: 2004-2009}
+  - {'0': '3', '100': '1', 4s: '132', '50': '6', 6s: '61', Ave: '30.07', BF: '832',
+    HS: '109', Inns: '42', Mat: '42', 'NO': '2', Player: AC Gilchrist, Runs: '1203',
+    SR: '144.59', Span: 2005-2009}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '0', HS: '0',
+    Inns: '0', Mat: '6', 'NO': '0', Player: Harmeet Singh, Runs: '0', SR: '0', Span: 2009-2009}
+  - {'0': '1', '100': '0', 4s: '2', '50': '0', 6s: '3', Ave: '11.5', BF: '95', HS: '31',
+    Inns: '14', Mat: '20', 'NO': '6', Player: RJ Harris, Runs: '92', SR: '96.84',
+    Span: 2007-2009}
+  - {'0': '4', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '3.6', BF: '20', HS: '11',
+    Inns: '10', Mat: '31', 'NO': '5', Player: PP Ojha, Runs: '18', SR: '90.0', Span: 2007-2009}
+  - {'0': '2', '100': '1', 4s: '95', '50': '6', 6s: '52', Ave: '34.41', BF: '824',
+    HS: '101', Inns: '41', Mat: '44', 'NO': '9', Player: RG Sharma, Runs: '1101',
+    SR: '133.62', Span: 2007-2009}
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '1', Ave: '4.78', BF: '49', HS: '10',
+    Inns: '19', Mat: '40', 'NO': '10', Player: RP Singh, Runs: '43', SR: '87.76',
+    Span: 2007-2009}
+  - {'0': '2', '100': '0', 4s: '23', '50': '0', 6s: '9', Ave: '22.67', BF: '217',
+    HS: '42', Inns: '14', Mat: '14', 'NO': '2', Player: TL Suman, Runs: '272', SR: '125.35',
+    Span: 2007-2009}
+  - {'0': '4', '100': '2', 4s: '119', '50': '6', 6s: '43', Ave: '46.28', BF: '668',
+    HS: '117', Inns: '34', Mat: '38', 'NO': '9', Player: A Symonds, Runs: '1157',
+    SR: '173.2', Span: 2003-2009}
+  - {'0': '3', '100': '0', 4s: '32', '50': '3', 6s: '19', Ave: '23.29', BF: '405',
+    HS: '71', Inns: '26', Mat: '31', 'NO': '5', Player: Y Venugopal Rao, Runs: '489',
+    SR: '120.74', Span: 2007-2009}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '13', Overs: '0.0',
+    Player: AA Bilakhia, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '58', Overs: '0.0',
+    Player: HH Gibbs, Runs: '0', SR: '0', Span: 2004-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '42', Overs: '0.0',
+    Player: AC Gilchrist, Runs: '0', SR: '0', Span: 2005-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '169.0', Econ: '6.42', Inns: '6', Mat: '6', Overs: '18.5',
+    Player: Harmeet Singh, Runs: '169', SR: '113.0', Span: 2009-2009, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '21.22', Econ: '6.78', Inns: '19', Mat: '20', Overs: '72.0',
+    Player: RJ Harris, Runs: '488', SR: '18.78', Span: 2007-2009, Wkts: '23'}
+  - {'4': '0', '5': '0', Ave: '20.29', Econ: '6.64', Inns: '30', Mat: '31', Overs: '102.3',
+    Player: PP Ojha, Runs: '710', SR: '17.57', Span: 2007-2009, Wkts: '35'}
+  - {'4': '1', '5': '0', Ave: '15.0', Econ: '6.67', Inns: '19', Mat: '44', Overs: '45.0',
+    Player: RG Sharma, Runs: '300', SR: '13.5', Span: 2007-2009, Wkts: '20'}
+  - {'4': '2', '5': '0', Ave: '22.22', Econ: '7.71', Inns: '39', Mat: '40', Overs: '147.0',
+    Player: RP Singh, Runs: '1133', SR: '17.29', Span: 2007-2009, Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '22.13', Econ: '7.38', Inns: '8', Mat: '14', Overs: '24.0',
+    Player: TL Suman, Runs: '177', SR: '18.0', Span: 2007-2009, Wkts: '8'}
+  - {'4': '0', '5': '0', Ave: '37.09', Econ: '8.24', Inns: '35', Mat: '38', Overs: '99.0',
+    Player: A Symonds, Runs: '816', SR: '27.0', Span: 2003-2009, Wkts: '22'}
+  - {'4': '0', '5': '0', Ave: '45.13', Econ: '8.4', Inns: '17', Mat: '31', Overs: '43.0',
+    Player: Y Venugopal Rao, Runs: '361', SR: '32.25', Span: 2007-2009, Wkts: '8'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '62', '50': '2', 6s: '19', Ave: '31.5', BF: '662',
+    HS: '57', Inns: '36', Mat: '41', 'NO': '12', Player: MV Boucher, Runs: '756',
+    SR: '114.2', Span: 2004-2009}
+  - {'0': '3', '100': '0', 4s: '72', '50': '4', 6s: '14', Ave: '26.46', BF: '562',
+    HS: '75', Inns: '27', Mat: '28', 'NO': '1', Player: R Dravid, Runs: '688', SR: '122.42',
+    Span: 2007-2009}
+  - {'0': '3', '100': '0', 4s: '76', '50': '5', 6s: '17', Ave: '24.27', BF: '672',
+    HS: '69', Inns: '33', Mat: '33', 'NO': '3', Player: JH Kallis, Runs: '728', SR: '108.33',
+    Span: 2004-2009}
+  - {'0': '1', '100': '0', 4s: '56', '50': '2', 6s: '15', Ave: '22.42', BF: '504',
+    HS: '76', Inns: '29', Mat: '33', 'NO': '3', Player: V Kohli, Runs: '583', SR: '115.67',
+    Span: 2007-2009}
+  - {'0': '4', '100': '0', 4s: '24', '50': '1', 6s: '14', Ave: '16.0', BF: '227',
+    HS: '76', Inns: '24', Mat: '30', 'NO': '6', Player: P Kumar, Runs: '288', SR: '126.87',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '9.0', BF: '42', HS: '8',
+    Inns: '12', Mat: '27', 'NO': '8', Player: A Kumble, Runs: '36', SR: '85.71', Span: 2006-2009}
+  - {'0': '2', '100': '1', 4s: '27', '50': '1', 6s: '5', Ave: '29.6', BF: '221', HS: '114',
+    Inns: '12', Mat: '14', 'NO': '2', Player: MK Pandey, Runs: '296', SR: '133.94',
+    Span: 2007-2009}
+  - {'0': '3', '100': '1', 4s: '83', '50': '5', 6s: '68', Ave: '32.38', BF: '698',
+    HS: '111', Inns: '38', Mat: '39', 'NO': '4', Player: LRPL Taylor, Runs: '1101',
+    SR: '157.74', Span: 2006-2009}
+  - {'0': '2', '100': '0', 4s: '87', '50': '2', 6s: '21', Ave: '22.11', BF: '707',
+    HS: '66', Inns: '43', Mat: '46', 'NO': '6', Player: RV Uthappa, Runs: '818', SR: '115.7',
+    Span: 2007-2009}
+  - {'0': '0', '100': '0', 4s: '34', '50': '2', 6s: '15', Ave: '20.71', BF: '266',
+    HS: '70', Inns: '19', Mat: '22', 'NO': '2', Player: RE van der Merwe, Runs: '352',
+    SR: '132.33', Span: 2008-2009}
+  - {'0': '2', '100': '0', 4s: '9', '50': '0', 6s: '7', Ave: '13.5', BF: '95', HS: '25',
+    Inns: '17', Mat: '25', 'NO': '7', Player: R Vinay Kumar, Runs: '135', SR: '142.11',
+    Span: 2007-2009}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '41', Overs: '0.0',
+    Player: MV Boucher, Runs: '0', SR: '0', Span: 2004-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '28', Overs: '0.0',
+    Player: R Dravid, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '63.09', Econ: '8.23', Inns: '27', Mat: '33', Overs: '81.2',
+    Player: JH Kallis, Runs: '694', SR: '44.36', Span: 2004-2009, Wkts: '11'}
+  - {'4': '0', '5': '0', Ave: '53.5', Econ: '5.44', Inns: '7', Mat: '33', Overs: '13.4',
+    Player: V Kohli, Runs: '107', SR: '41.0', Span: 2007-2009, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '26.7', Econ: '7.05', Inns: '30', Mat: '30', Overs: '107.4',
+    Player: P Kumar, Runs: '801', SR: '21.53', Span: 2007-2009, Wkts: '30'}
+  - {'4': '0', '5': '1', Ave: '24.32', Econ: '6.53', Inns: '27', Mat: '27', Overs: '101.2',
+    Player: A Kumble, Runs: '681', SR: '21.71', Span: 2006-2009, Wkts: '28'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '14', Overs: '0.0',
+    Player: MK Pandey, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '25.14', Econ: '9.26', Inns: '7', Mat: '39', Overs: '19.0',
+    Player: LRPL Taylor, Runs: '176', SR: '16.29', Span: 2006-2009, Wkts: '7'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '46', Overs: '0.0',
+    Player: RV Uthappa, Runs: '0', SR: '0', Span: 2007-2009, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '20.48', Econ: '7.47', Inns: '22', Mat: '22', Overs: '74.0',
+    Player: RE van der Merwe, Runs: '553', SR: '16.44', Span: 2008-2009, Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '29.0', Econ: '7.91', Inns: '25', Mat: '25', Overs: '77.0',
+    Player: R Vinay Kumar, Runs: '609', SR: '22.0', Span: 2007-2009, Wkts: '21'}

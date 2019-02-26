@@ -1,0 +1,113 @@
+Delhi Daredevils:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '23', '50': '0', 6s: '8', Ave: '14.3', BF: '228', HS: '39',
+    Inns: '35', Mat: '61', 'NO': '15', Player: AB Agarkar, Runs: '286', SR: '125.44',
+    Span: 2006-2013}
+  - {'0': '0', '100': '0', 4s: '21', '50': '1', 6s: '0', Ave: '22.43', BF: '133',
+    HS: '53', Inns: '9', Mat: '13', 'NO': '2', Player: CM Gautam, Runs: '157', SR: '118.05',
+    Span: 2011-2013}
+  - {'0': '3', '100': '0', 4s: '40', '50': '4', 6s: '18', Ave: '20.92', BF: '377',
+    HS: '60', Inns: '32', Mat: '36', 'NO': '7', Player: KM Jadhav, Runs: '523', SR: '138.73',
+    Span: 2007-2013}
+  - {'0': '6', '100': '2', 4s: '414', '50': '25', 6s: '88', Ave: '29.66', BF: '2828',
+    HS: '110', Inns: '147', Mat: '152', 'NO': '23', Player: DPMD Jayawardene, Runs: '3678',
+    SR: '130.06', Span: 2004-2013}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '0', BF: '14', HS: '8',
+    Inns: '5', Mat: '12', 'NO': '5', Player: S Kaul, Runs: '18', SR: '128.57', Span: 2012-2013}
+  - {'0': '6', '100': '0', 4s: '10', '50': '0', 6s: '4', Ave: '9.85', BF: '117', HS: '23',
+    Inns: '27', Mat: '101', 'NO': '14', Player: M Morkel, Runs: '128', SR: '109.4',
+    Span: 2005-2013}
+  - {'0': '2', '100': '0', 4s: '12', '50': '0', 6s: '5', Ave: '13.75', BF: '157',
+    HS: '21', Inns: '22', Mat: '28', 'NO': '10', Player: P Negi, Runs: '165', SR: '105.1',
+    Span: 2011-2013}
+  - {'0': '2', '100': '0', 4s: '54', '50': '2', 6s: '27', Ave: '27.32', BF: '611',
+    HS: '-1', Inns: '41', Mat: '50', 'NO': '10', Player: BJ Rohrer, Runs: '847', SR: '138.63',
+    Span: 2008-2013}
+  - {'0': '8', '100': '1', 4s: '358', '50': '20', 6s: '113', Ave: '28.17', BF: '1967',
+    HS: '119', Inns: '113', Mat: '115', 'NO': '6', Player: V Sehwag, Runs: '3014',
+    SR: '153.23', Span: 2003-2013}
+  - {'0': '12', '100': '5', 4s: '439', '50': '28', 6s: '190', Ave: '32.04', BF: '3085',
+    HS: '135', Inns: '151', Mat: '152', 'NO': '14', Player: DA Warner, Runs: '4390',
+    SR: '142.3', Span: 2007-2013}
+  - {'0': '3', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '4.0', BF: '43', HS: '6',
+    Inns: '15', Mat: '55', 'NO': '9', Player: UT Yadav, Runs: '24', SR: '55.81', Span: 2009-2013}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '33.74', Econ: '8.08', Inns: '59', Mat: '61', Overs: '193.2',
+    Player: AB Agarkar, Runs: '1586', SR: '24.68', Span: 2006-2013, Wkts: '47'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '13', Overs: '0.0',
+    Player: CM Gautam, Runs: '0', SR: '0', Span: 2011-2013, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '19.5', Econ: '8.67', Inns: '3', Mat: '36', Overs: '9.0',
+    Player: KM Jadhav, Runs: '78', SR: '13.5', Span: 2007-2013, Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '27.33', Econ: '5.12', Inns: '4', Mat: '152', Overs: '11.3',
+    Player: DPMD Jayawardene, Runs: '82', SR: '23.0', Span: 2004-2013, Wkts: '3'}
+  - {'4': '1', '5': '0', Ave: '13.25', Econ: '4.71', Inns: '12', Mat: '12', Overs: '40.3',
+    Player: S Kaul, Runs: '212', SR: '15.19', Span: 2012-2013, Wkts: '16'}
+  - {'4': '4', '5': '0', Ave: '21.82', Econ: '7.09', Inns: '99', Mat: '101', Overs: '366.2',
+    Player: M Morkel, Runs: '2619', SR: '18.32', Span: 2005-2013, Wkts: '120'}
+  - {'4': '1', '5': '0', Ave: '21.48', Econ: '6.05', Inns: '24', Mat: '28', Overs: '75.4',
+    Player: P Negi, Runs: '494', SR: '19.74', Span: 2011-2013, Wkts: '23'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '50', Overs: '0.0',
+    Player: BJ Rohrer, Runs: '0', SR: '0', Span: 2008-2013, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '21.73', Econ: '7.51', Inns: '26', Mat: '115', Overs: '57.4',
+    Player: V Sehwag, Runs: '478', SR: '15.73', Span: 2003-2013, Wkts: '22'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '13.0', Inns: '1', Mat: '152', Overs: '1.0',
+    Player: DA Warner, Runs: '13', SR: '0', Span: 2007-2013, Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '26.09', Econ: '7.46', Inns: '53', Mat: '55', Overs: '184.3',
+    Player: UT Yadav, Runs: '1409', SR: '20.5', Span: 2009-2013, Wkts: '54'}
+Rajasthan Royals:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '45', '50': '0', 6s: '21', Ave: '21.88', BF: '436',
+    HS: '49', Inns: '37', Mat: '47', 'NO': '11', Player: STR Binny, Runs: '569', SR: '130.5',
+    Span: 2009-2013}
+  - {'0': '4', '100': '0', 4s: '282', '50': '12', 6s: '33', Ave: '29.32', BF: '2047',
+    HS: '75', Inns: '88', Mat: '96', 'NO': '7', Player: R Dravid, Runs: '2375', SR: '116.02',
+    Span: 2007-2013}
+  - {'0': '1', '100': '0', 4s: '11', '50': '0', 6s: '5', Ave: '15.53', BF: '210',
+    HS: '38', Inns: '27', Mat: '43', 'NO': '12', Player: JP Faulkner, Runs: '233',
+    SR: '110.95', Span: 2009-2013}
+  - {'0': '10', '100': '2', 4s: '564', '50': '36', 6s: '152', Ave: '36.31', BF: '4212',
+    HS: '106', Inns: '183', Mat: '189', 'NO': '33', Player: BJ Hodge, Runs: '5447',
+    SR: '129.32', Span: 2003-2013}
+  - {'0': '8', '100': '1', 4s: '179', '50': '11', 6s: '29', Ave: '25.35', BF: '1420',
+    HS: '103', Inns: '72', Mat: '76', 'NO': '7', Player: AM Rahane, Runs: '1648',
+    SR: '116.06', Span: 2007-2013}
+  - {'0': '1', '100': '0', 4s: '23', '50': '0', 6s: '4', Ave: '18.18', BF: '129',
+    HS: '48', Inns: '11', Mat: '15', 'NO': '0', Player: Sachin Baby, Runs: '200',
+    SR: '155.04', Span: 2011-2013}
+  - {'0': '1', '100': '0', 4s: '24', '50': '1', 6s: '10', Ave: '26.45', BF: '238',
+    HS: '63', Inns: '13', Mat: '14', 'NO': '2', Player: SV Samson, Runs: '291', SR: '122.27',
+    Span: 2011-2013}
+  - {'0': '5', '100': '0', 4s: '5', '50': '0', 6s: '7', Ave: '7.17', BF: '153', HS: '26',
+    Inns: '30', Mat: '96', 'NO': '12', Player: SW Tait, Runs: '129', SR: '84.31',
+    Span: 2005-2013}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '0', HS: '0',
+    Inns: '0', Mat: '0', 'NO': '0', Player: PV Tambe, Runs: '0', SR: '0', Span: 2013-2013}
+  - {'0': '3', '100': '0', 4s: '5', '50': '0', 6s: '1', Ave: '5.92', BF: '76', HS: '12',
+    Inns: '22', Mat: '93', 'NO': '10', Player: SK Trivedi, Runs: '71', SR: '93.42',
+    Span: 2007-2013}
+  - {'0': '7', '100': '1', 4s: '279', '50': '23', 6s: '154', Ave: '34.21', BF: '2104',
+    HS: '101', Inns: '102', Mat: '105', 'NO': '13', Player: SR Watson, Runs: '3045',
+    SR: '144.72', Span: 2004-2013}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '22.68', Econ: '7.32', Inns: '38', Mat: '47', Overs: '96.0',
+    Player: STR Binny, Runs: '703', SR: '18.58', Span: 2009-2013, Wkts: '31'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '96', Overs: '0.0',
+    Player: R Dravid, Runs: '0', SR: '0', Span: 2007-2013, Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '19.93', Econ: '7.18', Inns: '43', Mat: '43', Overs: '151.1',
+    Player: JP Faulkner, Runs: '1096', SR: '16.49', Span: 2009-2013, Wkts: '55'}
+  - {'4': '3', '5': '0', Ave: '22.08', Econ: '7.78', Inns: '78', Mat: '189', Overs: '176.0',
+    Player: BJ Hodge, Runs: '1369', SR: '17.03', Span: 2003-2013, Wkts: '62'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '76', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2013, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '108.0', Econ: '9.0', Inns: '6', Mat: '15', Overs: '12.0',
+    Player: Sachin Baby, Runs: '108', SR: '72.0', Span: 2011-2013, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '4.0', Econ: '0.8', Inns: '1', Mat: '14', Overs: '0.3',
+    Player: SV Samson, Runs: '4', SR: '3.0', Span: 2011-2013, Wkts: '1'}
+  - {'4': '1', '5': '1', Ave: '21.03', Econ: '7.58', Inns: '95', Mat: '96', Overs: '349.2',
+    Player: SW Tait, Runs: '2671', SR: '16.5', Span: 2005-2013, Wkts: '127'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '0', Overs: '0.0', Player: PV
+      Tambe, Runs: '0', SR: '0', Span: 2013-2013, Wkts: '0'}
+  - {'4': '3', '5': '0', Ave: '25.69', Econ: '7.6', Inns: '92', Mat: '93', Overs: '316.3',
+    Player: SK Trivedi, Runs: '2441', SR: '19.99', Span: 2007-2013, Wkts: '95'}
+  - {'4': '1', '5': '0', Ave: '22.65', Econ: '7.05', Inns: '84', Mat: '105', Overs: '289.2',
+    Player: SR Watson, Runs: '2061', SR: '19.08', Span: 2004-2013, Wkts: '91'}

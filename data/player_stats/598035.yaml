@@ -1,0 +1,135 @@
+DelhiDaredevils:
+- batting averages:
+  - {'0': '7', '100': '2', 4s: '49', '50': '1', 6s: '21', Ave: '19.32', BF: '412',
+    HS: '125', Inns: '25', Mat: '26', 'NO': '0', Player: UBT Chand, Runs: '483', SR: '117.23',
+    Span: 2010-2013}
+  - {'0': '3', '100': '0', 4s: '40', '50': '4', 6s: '18', Ave: '21.66', BF: '373',
+    HS: 60*, Inns: '31', Mat: '34', 'NO': '7', Player: KM Jadhav, Runs: '520', SR: '139.41',
+    Span: 2007-2013}
+  - {'0': '6', '100': '2', 4s: '413', '50': '25', 6s: '87', Ave: '30.01', BF: '2808',
+    HS: 110*, Inns: '145', Mat: '150', 'NO': '23', Player: DPMD Jayawardene, Runs: '3662',
+    SR: '130.41', Span: 2004-2013}
+  - {'0': '6', '100': '0', 4s: '10', '50': '0', 6s: '4', Ave: '9.84', BF: '117', HS: 23*,
+    Inns: '27', Mat: '100', 'NO': '14', Player: M Morkel, Runs: '128', SR: '109.40',
+    Span: 2005-2013}
+  - {'0': '2', '100': '0', 4s: '9', '50': '0', 6s: '5', Ave: '12.18', BF: '121', HS: 36*,
+    Inns: '17', Mat: '43', 'NO': '6', Player: S Nadeem, Runs: '134', SR: '110.74',
+    Span: 2007-2013}
+  - {'0': '5', '100': '0', 4s: '4', '50': '0', 6s: '3', Ave: '7.62', BF: '69', HS: 22*,
+    Inns: '16', Mat: '66', 'NO': '8', Player: A Nehra, Runs: '61', SR: '88.40', Span: 2008-2013}
+  - {'0': '4', '100': '0', 4s: '105', '50': '1', 6s: '52', Ave: '23.08', BF: '1146',
+    HS: '60', Inns: '100', Mat: '129', 'NO': '38', Player: IK Pathan, Runs: '1431',
+    SR: '124.86', Span: 2005-2013}
+  - {'0': '2', '100': '0', 4s: '54', '50': '2', 6s: '26', Ave: '27.00', BF: '608',
+    HS: '57', Inns: '40', Mat: '49', 'NO': '9', Player: BJ Rohrer, Runs: '837', SR: '137.66',
+    Span: 2008-2013}
+  - {'0': '8', '100': '1', 4s: '355', '50': '20', 6s: '113', Ave: '28.46', BF: '1935',
+    HS: '119', Inns: '111', Mat: '113', 'NO': '6', Player: V Sehwag, Runs: '2989',
+    SR: '154.47', Span: 2003-2013}
+  - {'0': '12', '100': '5', 4s: '433', '50': '27', 6s: '187', Ave: '31.73', BF: '3028',
+    HS: 135*, Inns: '149', Mat: '150', 'NO': '13', Player: DA Warner, Runs: '4316',
+    SR: '142.53', Span: 2007-2013}
+  - {'0': '3', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '3.66', BF: '38', HS: 6*,
+    Inns: '14', Mat: '53', 'NO': '8', Player: UT Yadav, Runs: '22', SR: '57.89', Span: 2009-2013}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '13', Econ: '-', Inns: '-', Mat: '26',
+    Mdns: '-', Overs: '-', Player: UBT Chand, Runs: '-', SR: '-', Span: 2010-2013,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '19.50', BBI: 2/23, Ct: '13', Econ: '8.66', Inns: '3',
+    Mat: '34', Mdns: '0', Overs: '9.0', Player: KM Jadhav, Runs: '78', SR: '13.5',
+    Span: 2007-2013, St: '1', Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '27.33', BBI: 2/22, Ct: '62', Econ: '7.13', Inns: '4',
+    Mat: '150', Mdns: '0', Overs: '11.3', Player: DPMD Jayawardene, Runs: '82', SR: '23.0',
+    Span: 2004-2013, St: '0', Wkts: '3'}
+  - {'4': '4', '5': '0', Ave: '21.82', BBI: 4/17, Ct: '14', Econ: '7.16', Inns: '98',
+    Mat: '100', Mdns: '7', Overs: '362.2', Player: M Morkel, Runs: '2597', SR: '18.2',
+    Span: 2005-2013, St: '0', Wkts: '119'}
+  - {'4': '0', '5': '0', Ave: '25.17', BBI: 3/16, Ct: '10', Econ: '6.09', Inns: '43',
+    Mat: '43', Mdns: '2', Overs: '161.0', Player: S Nadeem, Runs: '982', SR: '24.7',
+    Span: 2007-2013, St: '0', Wkts: '39'}
+  - {'4': '0', '5': '0', Ave: '24.28', BBI: 3/13, Ct: '18', Econ: '7.61', Inns: '66',
+    Mat: '66', Mdns: '1', Overs: '236.0', Player: A Nehra, Runs: '1797', SR: '19.1',
+    Span: 2008-2013, St: '0', Wkts: '74'}
+  - {'4': '1', '5': '0', Ave: '25.92', BBI: 4/27, Ct: '32', Econ: '7.55', Inns: '125',
+    Mat: '129', Mdns: '12', Overs: '442.5', Player: IK Pathan, Runs: '3344', SR: '20.5',
+    Span: 2005-2013, St: '0', Wkts: '129'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '14', Econ: '-', Inns: '-', Mat: '49',
+    Mdns: '-', Overs: '-', Player: BJ Rohrer, Runs: '-', SR: '-', Span: 2008-2013,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '21.72', BBI: 3/14, Ct: '30', Econ: '8.28', Inns: '26',
+    Mat: '113', Mdns: '0', Overs: '57.4', Player: V Sehwag, Runs: '478', SR: '15.7',
+    Span: 2003-2013, St: '0', Wkts: '22'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '67', Econ: '13.00', Inns: '1', Mat: '150',
+    Mdns: '0', Overs: '1.0', Player: DA Warner, Runs: '13', SR: '-', Span: 2007-2013,
+    St: '0', Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '25.88', BBI: 5/18, Ct: '12', Econ: '7.57', Inns: '51',
+    Mat: '53', Mdns: '3', Overs: '177.4', Player: UT Yadav, Runs: '1346', SR: '20.5',
+    Span: 2009-2013, St: '0', Wkts: '52'}
+PuneWarriors:
+- batting averages:
+  - {'0': '6', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '2.81', BF: '51', HS: '19',
+    Inns: '17', Mat: '78', 'NO': '6', Player: AB Dinda, Runs: '31', SR: '60.78', Span: 2008-2013}
+  - {'0': '5', '100': '1', 4s: '202', '50': '13', 6s: '62', Ave: '36.38', BF: '1504',
+    HS: 111*, Inns: '62', Mat: '65', 'NO': '8', Player: AJ Finch, Runs: '1965', SR: '130.65',
+    Span: 2009-2013}
+  - {'0': '1', '100': '0', 4s: '10', '50': '0', 6s: '1', Ave: '11.70', BF: '130',
+    HS: '17', Inns: '21', Mat: '36', 'NO': '11', Player: B Kumar, Runs: '117', SR: '90.00',
+    Span: 2009-2013}
+  - {'0': '6', '100': '0', 4s: '76', '50': '1', 6s: '14', Ave: '24.08', BF: '867',
+    HS: '52', Inns: '51', Mat: '62', 'NO': '14', Player: M Manhas, Runs: '891', SR: '102.76',
+    Span: 2007-2013}
+  - {'0': '5', '100': '0', 4s: '74', '50': '2', 6s: '35', Ave: '21.21', BF: '706',
+    HS: '79', Inns: '54', Mat: '64', 'NO': '12', Player: AM Nayar, Runs: '891', SR: '126.20',
+    Span: 2007-2013}
+  - {'0': '3', '100': '0', 4s: '4', '50': '0', 6s: '1', Ave: '5.83', BF: '28', HS: '20',
+    Inns: '6', Mat: '21', 'NO': '0', Player: KW Richardson, Runs: '35', SR: '125.00',
+    Span: 2009-2013}
+  - {'0': '9', '100': '0', 4s: '10', '50': '0', 6s: '5', Ave: '5.29', BF: '128', HS: 14*,
+    Inns: '32', Mat: '65', 'NO': '8', Player: R Sharma, Runs: '127', SR: '99.21',
+    Span: 2009-2013}
+  - {'0': '3', '100': '0', 4s: '117', '50': '2', 6s: '34', Ave: '26.30', BF: '1229',
+    HS: '58', Inns: '79', Mat: '92', 'NO': '23', Player: SPD Smith, Runs: '1473',
+    SR: '119.85', Span: 2008-2013}
+  - {'0': '6', '100': '0', 4s: '270', '50': '12', 6s: '105', Ave: '25.93', BF: '2129',
+    HS: '92', Inns: '124', Mat: '130', 'NO': '16', Player: RV Uthappa, Runs: '2801',
+    SR: '131.56', Span: 2007-2013}
+  - {'0': '12', '100': '2', 4s: '326', '50': '14', 6s: '125', Ave: '26.15', BF: '2174',
+    HS: '117', Inns: '135', Mat: '154', 'NO': '13', Player: LJ Wright, Runs: '3191',
+    SR: '146.78', Span: 2004-2013}
+  - {'0': '2', '100': '0', 4s: '195', '50': '13', 6s: '137', Ave: '27.07', BF: '1876',
+    HS: '72', Inns: '107', Mat: '111', 'NO': '14', Player: Yuvraj Singh, Runs: '2518',
+    SR: '134.22', Span: 2003-2013}
+- bowling averages:
+  - {'4': '3', '5': '0', Ave: '22.04', BBI: 4/13, Ct: '10', Econ: '7.33', Inns: '75',
+    Mat: '78', Mdns: '2', Overs: '255.2', Player: AB Dinda, Runs: '1874', SR: '18.0',
+    Span: 2008-2013, St: '0', Wkts: '85'}
+  - {'4': '0', '5': '0', Ave: '47.50', BBI: 1/11, Ct: '23', Econ: '9.42', Inns: '11',
+    Mat: '65', Mdns: '0', Overs: '20.1', Player: AJ Finch, Runs: '190', SR: '30.2',
+    Span: 2009-2013, St: '0', Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '29.30', BBI: 3/9, Ct: '5', Econ: '6.93', Inns: '36',
+    Mat: '36', Mdns: '1', Overs: '126.4', Player: B Kumar, Runs: '879', SR: '25.3',
+    Span: 2009-2013, St: '0', Wkts: '30'}
+  - {'4': '0', '5': '0', Ave: '28.60', BBI: 3/33, Ct: '20', Econ: '8.25', Inns: '8',
+    Mat: '62', Mdns: '0', Overs: '17.2', Player: M Manhas, Runs: '143', SR: '20.8',
+    Span: 2007-2013, St: '0', Wkts: '5'}
+  - {'4': '0', '5': '0', Ave: '35.41', BBI: 3/13, Ct: '18', Econ: '8.64', Inns: '24',
+    Mat: '64', Mdns: '0', Overs: '49.1', Player: AM Nayar, Runs: '425', SR: '24.5',
+    Span: 2007-2013, St: '0', Wkts: '12'}
+  - {'4': '0', '5': '0', Ave: '25.18', BBI: 3/9, Ct: '6', Econ: '7.71', Inns: '20',
+    Mat: '21', Mdns: '1', Overs: '71.5', Player: KW Richardson, Runs: '554', SR: '19.5',
+    Span: 2009-2013, St: '0', Wkts: '22'}
+  - {'4': '1', '5': '0', Ave: '24.40', BBI: 4/34, Ct: '18', Econ: '6.95', Inns: '65',
+    Mat: '65', Mdns: '3', Overs: '231.4', Player: R Sharma, Runs: '1611', SR: '21.0',
+    Span: 2009-2013, St: '0', Wkts: '66'}
+  - {'4': '2', '5': '0', Ave: '19.37', BBI: 4/13, Ct: '56', Econ: '7.60', Inns: '47',
+    Mat: '92', Mdns: '1', Overs: '129.5', Player: SPD Smith, Runs: '988', SR: '15.2',
+    Span: 2008-2013, St: '0', Wkts: '51'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '68', Econ: '-', Inns: '-', Mat: '130',
+    Mdns: '-', Overs: '-', Player: RV Uthappa, Runs: '-', SR: '-', Span: 2007-2013,
+    St: '13', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '32.84', BBI: 3/17, Ct: '45', Econ: '8.39', Inns: '106',
+    Mat: '154', Mdns: '1', Overs: '269.5', Player: LJ Wright, Runs: '2266', SR: '23.4',
+    Span: 2004-2013, St: '0', Wkts: '69'}
+  - {'4': '1', '5': '0', Ave: '19.56', BBI: 4/29, Ct: '30', Econ: '6.96', Inns: '75',
+    Mat: '111', Mdns: '0', Overs: '168.4', Player: Yuvraj Singh, Runs: '1174', SR: '16.8',
+    Span: 2003-2013, St: '0', Wkts: '60'}

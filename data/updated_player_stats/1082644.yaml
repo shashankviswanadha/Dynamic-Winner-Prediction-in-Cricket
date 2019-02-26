@@ -1,0 +1,114 @@
+Kolkata Knight Riders:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '4.29', BF: '48', HS: '-1',
+    Inns: '15', Mat: '61', 'NO': '8', Player: TA Boult, Runs: '30', SR: '62.5', Span: 2009-2017}
+  - {'0': '8', '100': '0', 4s: '139', '50': '6', 6s: '116', Ave: '25.26', BF: '1111',
+    HS: '72', Inns: '98', Mat: '110', 'NO': '24', Player: C de Grandhomme, Runs: '1869',
+    SR: '168.23', Span: 2007-2017}
+  - {'0': '18', '100': '0', 4s: '714', '50': '51', 6s: '81', Ave: '29.37', BF: '5002',
+    HS: '93', Inns: '229', Mat: '233', 'NO': '22', Player: G Gambhir, Runs: '6080',
+    SR: '121.55', Span: 2007-2017}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '9.33', BF: '28', HS: '17',
+    Inns: '7', Mat: '38', 'NO': '4', Player: Kuldeep Yadav, Runs: '28', SR: '100.0',
+    Span: 2014-2017}
+  - {'0': '2', '100': '1', 4s: '174', '50': '19', 6s: '162', Ave: '37.87', BF: '1766',
+    HS: '101', Inns: '84', Mat: '89', 'NO': '15', Player: CA Lynn, Runs: '2613', SR: '147.96',
+    Span: 2010-2017}
+  - {'0': '12', '100': '0', 4s: '70', '50': '1', 6s: '46', Ave: '13.15', BF: '566',
+    HS: '54', Inns: '96', Mat: '229', 'NO': '35', Player: SP Narine, Runs: '802',
+    SR: '141.7', Span: 2011-2017}
+  - {'0': '16', '100': '1', 4s: '292', '50': '15', 6s: '92', Ave: '27.2', BF: '2816',
+    HS: '114', Inns: '146', Mat: '156', 'NO': '23', Player: MK Pandey, Runs: '3346',
+    SR: '118.82', Span: 2007-2017}
+  - {'0': '15', '100': '1', 4s: '338', '50': '21', 6s: '218', Ave: '27.8', BF: '2991',
+    HS: '100', Inns: '204', Mat: '230', 'NO': '50', Player: YK Pathan, Runs: '4281',
+    SR: '143.13', Span: 2007-2017}
+  - {'0': '1', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '7.0', BF: '16', HS: '7',
+    Inns: '6', Mat: '35', 'NO': '4', Player: AS Rajpoot, Runs: '14', SR: '87.5', Span: 2013-2017}
+  - {'0': '9', '100': '0', 4s: '563', '50': '31', 6s: '180', Ave: '29.91', BF: '4037',
+    HS: '92', Inns: '202', Mat: '209', 'NO': '20', Player: RV Uthappa, Runs: '5443',
+    SR: '134.83', Span: 2007-2017}
+  - {'0': '5', '100': '0', 4s: '9', '50': '0', 6s: '7', Ave: '10.08', BF: '102', HS: '24',
+    Inns: '30', Mat: '108', 'NO': '18', Player: UT Yadav, Runs: '121', SR: '118.63',
+    Span: 2009-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '29.18', Econ: '8.02', Inns: '61', Mat: '61', Overs: '215.2',
+    Player: TA Boult, Runs: '1751', SR: '21.53', Span: 2009-2017, Wkts: '60'}
+  - {'4': '0', '5': '0', Ave: '28.61', Econ: '9.01', Inns: '64', Mat: '110', Overs: '138.1',
+    Player: C de Grandhomme, Runs: '1259', SR: '18.84', Span: 2007-2017, Wkts: '44'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '233', Overs: '0.0',
+    Player: G Gambhir, Runs: '0', SR: '0', Span: 2007-2017, Wkts: '0'}
+  - {'4': '0', '5': '1', Ave: '21.17', Econ: '7.12', Inns: '37', Mat: '38', Overs: '136.4',
+    Player: Kuldeep Yadav, Runs: '1016', SR: '17.08', Span: 2014-2017, Wkts: '48'}
+  - {'4': '0', '5': '0', Ave: '31.0', Econ: '7.15', Inns: '7', Mat: '89', Overs: '13.0',
+    Player: CA Lynn, Runs: '93', SR: '26.0', Span: 2010-2017, Wkts: '3'}
+  - {'4': '10', '5': '1', Ave: '18.46', Econ: '5.86', Inns: '224', Mat: '229', Overs: '872.2',
+    Player: SP Narine, Runs: '5133', SR: '18.83', Span: 2011-2017, Wkts: '278'}
+  - {'4': '2', '5': '0', Ave: '21.2', Econ: '7.57', Inns: '10', Mat: '156', Overs: '28.0',
+    Player: MK Pandey, Runs: '212', SR: '16.8', Span: 2007-2017, Wkts: '10'}
+  - {'4': '2', '5': '0', Ave: '28.86', Econ: '7.6', Inns: '134', Mat: '230', Overs: '356.3',
+    Player: YK Pathan, Runs: '2742', SR: '22.52', Span: 2007-2017, Wkts: '95'}
+  - {'4': '1', '5': '1', Ave: '19.59', Econ: '7.16', Inns: '35', Mat: '35', Overs: '117.2',
+    Player: AS Rajpoot, Runs: '862', SR: '16.0', Span: 2013-2017, Wkts: '44'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '11.0', Inns: '1', Mat: '209', Overs: '1.0',
+    Player: RV Uthappa, Runs: '11', SR: '0', Span: 2007-2017, Wkts: '0'}
+  - {'4': '2', '5': '1', Ave: '28.65', Econ: '8.12', Inns: '106', Mat: '108', Overs: '369.3',
+    Player: UT Yadav, Runs: '3037', SR: '20.92', Span: 2009-2017, Wkts: '106'}
+Mumbai Indians:
+- batting averages:
+  - {'0': '4', '100': '0', 4s: '21', '50': '0', 6s: '9', Ave: '11.48', BF: '273',
+    HS: '30', Inns: '48', Mat: '93', 'NO': '23', Player: MG Johnson, Runs: '287',
+    SR: '105.13', Span: 2006-2017}
+  - {'0': '3', '100': '0', 4s: '83', '50': '5', 6s: '66', Ave: '26.02', BF: '975',
+    HS: '86', Inns: '66', Mat: '81', 'NO': '18', Player: HH Pandya, Runs: '1249',
+    SR: '128.1', Span: 2013-2017}
+  - {'0': '1', '100': '0', 4s: '43', '50': '2', 6s: '25', Ave: '30.0', BF: '344',
+    HS: '86', Inns: '25', Mat: '36', 'NO': '7', Player: KH Pandya, Runs: '540', SR: '156.98',
+    Span: 2013-2017}
+  - {'0': '12', '100': '0', 4s: '473', '50': '34', 6s: '468', Ave: '30.68', BF: '4801',
+    HS: '89', Inns: '333', Mat: '371', 'NO': '96', Player: KA Pollard, Runs: '7272',
+    SR: '151.47', Span: 2006-2017}
+  - {'0': '13', '100': '0', 4s: '292', '50': '17', 6s: '103', Ave: '24.43', BF: '2766',
+    HS: '81', Inns: '159', Mat: '170', 'NO': '21', Player: AT Rayudu, Runs: '3371',
+    SR: '121.87', Span: 2007-2017}
+  - {'0': '4', '100': '0', 4s: '73', '50': '2', 6s: '47', Ave: '20.06', BF: '864',
+    HS: '67', Inns: '74', Mat: '104', 'NO': '21', Player: KV Sharma, Runs: '1063',
+    SR: '123.03', Span: 2007-2017}
+  - {'0': '13', '100': '3', 4s: '552', '50': '46', 6s: '261', Ave: '32.98', BF: '4920',
+    HS: '109', Inns: '237', Mat: '249', 'NO': '41', Player: RG Sharma, Runs: '6464',
+    SR: '131.38', Span: 2007-2017}
+  - {'0': '22', '100': '1', 4s: '479', '50': '40', 6s: '198', Ave: '30.33', BF: '4330',
+    HS: '100', Inns: '185', Mat: '187', 'NO': '19', Player: LMP Simmons, Runs: '5035',
+    SR: '116.28', Span: 2007-2017}
+  - {'0': '12', '100': '0', 4s: '40', '50': '1', 6s: '26', Ave: '10.4', BF: '307',
+    HS: '74', Inns: '59', Mat: '126', 'NO': '14', Player: TG Southee, Runs: '468',
+    SR: '152.44', Span: 2007-2017}
+  - {'0': '4', '100': '0', 4s: '183', '50': '10', 6s: '93', Ave: '29.72', BF: '1965',
+    HS: '69', Inns: '109', Mat: '127', 'NO': '28', Player: SS Tiwary, Runs: '2407',
+    SR: '122.49', Span: 2007-2017}
+  - {'0': '5', '100': '0', 4s: '48', '50': '1', 6s: '26', Ave: '14.13', BF: '542',
+    HS: '68', Inns: '75', Mat: '154', 'NO': '27', Player: R Vinay Kumar, Runs: '678',
+    SR: '125.09', Span: 2007-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '24.24', Econ: '7.51', Inns: '92', Mat: '93', Overs: '342.4',
+    Player: MG Johnson, Runs: '2618', SR: '19.04', Span: 2006-2017, Wkts: '108'}
+  - {'4': '0', '5': '0', Ave: '30.33', Econ: '7.67', Inns: '74', Mat: '81', Overs: '192.1',
+    Player: HH Pandya, Runs: '1486', SR: '23.53', Span: 2013-2017, Wkts: '49'}
+  - {'4': '0', '5': '0', Ave: '21.13', Econ: '6.18', Inns: '34', Mat: '36', Overs: '101.5',
+    Player: KH Pandya, Runs: '676', SR: '19.09', Span: 2013-2017, Wkts: '32'}
+  - {'4': '4', '5': '0', Ave: '23.69', Econ: '8.05', Inns: '259', Mat: '371', Overs: '682.2',
+    Player: KA Pollard, Runs: '5519', SR: '17.57', Span: 2006-2017, Wkts: '233'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '170', Overs: '0.0',
+    Player: AT Rayudu, Runs: '0', SR: '0', Span: 2007-2017, Wkts: '0'}
+  - {'4': '1', '5': '1', Ave: '24.8', Econ: '7.29', Inns: '95', Mat: '104', Overs: '296.2',
+    Player: KV Sharma, Runs: '2182', SR: '20.2', Span: 2007-2017, Wkts: '88'}
+  - {'4': '1', '5': '0', Ave: '28.17', Econ: '7.38', Inns: '57', Mat: '249', Overs: '104.4',
+    Player: RG Sharma, Runs: '817', SR: '21.66', Span: 2007-2017, Wkts: '29'}
+  - {'4': '1', '5': '0', Ave: '24.18', Econ: '7.86', Inns: '31', Mat: '187', Overs: '61.4',
+    Player: LMP Simmons, Runs: '532', SR: '16.82', Span: 2007-2017, Wkts: '22'}
+  - {'4': '0', '5': '2', Ave: '26.93', Econ: '8.13', Inns: '124', Mat: '126', Overs: '452.5',
+    Player: TG Southee, Runs: '3743', SR: '19.55', Span: 2007-2017, Wkts: '139'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '127', Overs: '0.0',
+    Player: SS Tiwary, Runs: '0', SR: '0', Span: 2007-2017, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '26.16', Econ: '7.82', Inns: '153', Mat: '154', Overs: '527.5',
+    Player: R Vinay Kumar, Runs: '4185', SR: '19.79', Span: 2007-2017, Wkts: '160'}

@@ -1,0 +1,114 @@
+Mumbai Indians:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '2', Ave: '9.0', BF: '31', HS: '14',
+    Inns: '9', Mat: '67', 'NO': '6', Player: JJ Bumrah, Runs: '27', SR: '87.1', Span: 2013-2016}
+  - {'0': '7', '100': '0', 4s: '208', '50': '14', 6s: '113', Ave: '27.33', BF: '1810',
+    HS: '72', Inns: '124', Mat: '142', 'NO': '28', Player: JC Buttler, Runs: '2624',
+    SR: '144.97', Span: 2009-2016}
+  - {'0': '14', '100': '0', 4s: '124', '50': '2', 6s: '68', Ave: '16.49', BF: '928',
+    HS: '78', Inns: '121', Mat: '199', 'NO': '42', Player: Harbhajan Singh, Runs: '1303',
+    SR: '140.41', Span: 2005-2016}
+  - {'0': '6', '100': '0', 4s: '6', '50': '0', 6s: '8', Ave: '10.09', BF: '76', HS: '20',
+    Inns: '27', Mat: '88', 'NO': '16', Player: MJ McClenaghan, Runs: '111', SR: '146.05',
+    Span: 2009-2016}
+  - {'0': '3', '100': '0', 4s: '71', '50': '5', 6s: '47', Ave: '26.49', BF: '786',
+    HS: '86', Inns: '45', Mat: '58', 'NO': '8', Player: HH Pandya, Runs: '980', SR: '124.68',
+    Span: 2013-2016}
+  - {'0': '0', '100': '0', 4s: '16', '50': '1', 6s: '10', Ave: '33.71', BF: '160',
+    HS: '51', Inns: '11', Mat: '17', 'NO': '4', Player: KH Pandya, Runs: '236', SR: '147.5',
+    Span: 2013-2016}
+  - {'0': '11', '100': '0', 4s: '393', '50': '16', 6s: '53', Ave: '22.69', BF: '2553',
+    HS: '82', Inns: '146', Mat: '149', 'NO': '11', Player: PA Patel, Runs: '3063',
+    SR: '119.98', Span: 2005-2016}
+  - {'0': '10', '100': '0', 4s: '385', '50': '29', 6s: '388', Ave: '31.16', BF: '3857',
+    HS: '89', Inns: '270', Mat: '302', 'NO': '81', Player: KA Pollard, Runs: '5889',
+    SR: '152.68', Span: 2006-2016}
+  - {'0': '11', '100': '0', 4s: '250', '50': '16', 6s: '87', Ave: '24.55', BF: '2368',
+    HS: '81', Inns: '138', Mat: '148', 'NO': '20', Player: AT Rayudu, Runs: '2897',
+    SR: '122.34', Span: 2007-2016}
+  - {'0': '11', '100': '3', 4s: '489', '50': '38', 6s: '235', Ave: '32.49', BF: '4388',
+    HS: '109', Inns: '213', Mat: '224', 'NO': '36', Player: RG Sharma, Runs: '5751',
+    SR: '131.06', Span: 2007-2016}
+  - {'0': '12', '100': '0', 4s: '40', '50': '1', 6s: '22', Ave: '10.63', BF: '290',
+    HS: '74', Inns: '54', Mat: '112', 'NO': '13', Player: TG Southee, Runs: '436',
+    SR: '150.34', Span: 2007-2016}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '24.45', Econ: '7.13', Inns: '67', Mat: '67', Overs: '247.2',
+    Player: JJ Bumrah, Runs: '1785', SR: '20.33', Span: 2013-2016, Wkts: '73'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '142', Overs: '0.0',
+    Player: JC Buttler, Runs: '0', SR: '0', Span: 2009-2016, Wkts: '0'}
+  - {'4': '3', '5': '1', Ave: '24.77', Econ: '6.65', Inns: '188', Mat: '199', Overs: '681.0',
+    Player: Harbhajan Singh, Runs: '4532', SR: '22.33', Span: 2005-2016, Wkts: '183'}
+  - {'4': '1', '5': '1', Ave: '21.17', Econ: '7.76', Inns: '87', Mat: '88', Overs: '314.3',
+    Player: MJ McClenaghan, Runs: '2477', SR: '16.13', Span: 2009-2016, Wkts: '117'}
+  - {'4': '0', '5': '0', Ave: '28.16', Econ: '7.54', Inns: '56', Mat: '58', Overs: '159.1',
+    Player: HH Pandya, Runs: '1211', SR: '22.21', Span: 2013-2016, Wkts: '43'}
+  - {'4': '0', '5': '0', Ave: '16.41', Econ: '5.2', Inns: '15', Mat: '17', Overs: '47.4',
+    Player: KH Pandya, Runs: '279', SR: '16.82', Span: 2013-2016, Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '149', Overs: '0.0',
+    Player: PA Patel, Runs: '0', SR: '0', Span: 2005-2016, Wkts: '0'}
+  - {'4': '4', '5': '0', Ave: '23.0', Econ: '7.85', Inns: '232', Mat: '302', Overs: '619.5',
+    Player: KA Pollard, Runs: '4923', SR: '17.38', Span: 2006-2016, Wkts: '214'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '148', Overs: '0.0',
+    Player: AT Rayudu, Runs: '0', SR: '0', Span: 2007-2016, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '28.17', Econ: '7.38', Inns: '57', Mat: '224', Overs: '104.4',
+    Player: RG Sharma, Runs: '817', SR: '21.66', Span: 2007-2016, Wkts: '29'}
+  - {'4': '0', '5': '2', Ave: '25.47', Econ: '8.09', Inns: '110', Mat: '112', Overs: '401.5',
+    Player: TG Southee, Runs: '3311', SR: '18.55', Span: 2007-2016, Wkts: '130'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '5', '50': '0', 6s: '2', Ave: '11.83', BF: '81', HS: '17',
+    Inns: '14', Mat: '39', 'NO': '8', Player: VR Aaron, Runs: '71', SR: '87.65', Span: 2009-2016}
+  - {'0': '6', '100': '0', 4s: '80', '50': '0', 6s: '39', Ave: '20.25', BF: '852',
+    HS: '49', Inns: '74', Mat: '93', 'NO': '21', Player: STR Binny, Runs: '1073',
+    SR: '125.94', Span: 2009-2016}
+  - {'0': '12', '100': '2', 4s: '392', '50': '28', 6s: '184', Ave: '31.55', BF: '3241',
+    HS: '133', Inns: '181', Mat: '196', 'NO': '35', Player: AB de Villiers, Runs: '4606',
+    SR: '142.12', Span: 2004-2016}
+  - {'0': '1', '100': '1', 4s: '37', '50': '4', 6s: '33', Ave: '29.79', BF: '378',
+    HS: '101', Inns: '22', Mat: '23', 'NO': '3', Player: TM Head, Runs: '566', SR: '149.74',
+    Span: 2013-2016}
+  - {'0': '3', '100': '0', 4s: '8', '50': '0', 6s: '3', Ave: '10.67', BF: '140', HS: '21',
+    Inns: '26', Mat: '73', 'NO': '14', Player: Iqbal Abdulla, Runs: '128', SR: '91.43',
+    Span: 2007-2016}
+  - {'0': '1', '100': '0', 4s: '22', '50': '0', 6s: '8', Ave: '24.22', BF: '128',
+    HS: '45', Inns: '16', Mat: '21', 'NO': '7', Player: SN Khan, Runs: '218', SR: '170.31',
+    Span: 2014-2016}
+  - {'0': '5', '100': '0', 4s: '533', '50': '41', 6s: '168', Ave: '39.07', BF: '4305',
+    HS: '99', Inns: '178', Mat: '190', 'NO': '34', Player: V Kohli, Runs: '5626',
+    SR: '130.69', Span: 2007-2016}
+  - {'0': '5', '100': '0', 4s: '6', '50': '0', 6s: '14', Ave: '7.38', BF: '137', HS: '26',
+    Inns: '33', Mat: '58', 'NO': '9', Player: HV Patel, Runs: '177', SR: '129.2',
+    Span: 2011-2016}
+  - {'0': '0', '100': '0', 4s: '49', '50': '3', 6s: '18', Ave: '24.19', BF: '582',
+    HS: '62', Inns: '32', Mat: '39', 'NO': '5', Player: KL Rahul, Runs: '653', SR: '112.2',
+    Span: 2013-2016}
+  - {'0': '3', '100': '0', 4s: '10', '50': '0', 6s: '5', Ave: '10.73', BF: '148',
+    HS: '26', Inns: '20', Mat: '54', 'NO': '5', Player: KW Richardson, Runs: '161',
+    SR: '108.78', Span: 2009-2016}
+  - {'0': '10', '100': '3', 4s: '437', '50': '30', 6s: '248', Ave: '31.32', BF: '3498',
+    HS: '124', Inns: '176', Mat: '182', 'NO': '20', Player: SR Watson, Runs: '4886',
+    SR: '139.68', Span: 2004-2016}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '28.95', Econ: '7.97', Inns: '37', Mat: '39', Overs: '138.0',
+    Player: VR Aaron, Runs: '1100', SR: '21.79', Span: 2009-2016, Wkts: '38'}
+  - {'4': '1', '5': '0', Ave: '24.63', Econ: '7.28', Inns: '74', Mat: '93', Overs: '154.1',
+    Player: STR Binny, Runs: '1133', SR: '20.11', Span: 2009-2016, Wkts: '46'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '196', Overs: '0.0',
+    Player: AB de Villiers, Runs: '0', SR: '0', Span: 2004-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '26.0', Econ: '8.67', Inns: '12', Mat: '23', Overs: '18.0',
+    Player: TM Head, Runs: '156', SR: '18.0', Span: 2013-2016, Wkts: '6'}
+  - {'4': '1', '5': '1', Ave: '23.13', Econ: '6.58', Inns: '71', Mat: '73', Overs: '241.3',
+    Player: Iqbal Abdulla, Runs: '1619', SR: '20.7', Span: 2007-2016, Wkts: '70'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '21', Overs: '0.0',
+    Player: SN Khan, Runs: '0', SR: '0', Span: 2014-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '81.0', Econ: '8.03', Inns: '43', Mat: '190', Overs: '74.4',
+    Player: V Kohli, Runs: '648', SR: '56.0', Span: 2007-2016, Wkts: '8'}
+  - {'4': '0', '5': '0', Ave: '27.09', Econ: '7.23', Inns: '56', Mat: '58', Overs: '194.5',
+    Player: HV Patel, Runs: '1463', SR: '21.65', Span: 2011-2016, Wkts: '54'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '39', Overs: '0.0',
+    Player: KL Rahul, Runs: '0', SR: '0', Span: 2013-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '26.74', Econ: '7.75', Inns: '52', Mat: '54', Overs: '183.2',
+    Player: KW Richardson, Runs: '1444', SR: '20.37', Span: 2009-2016, Wkts: '54'}
+  - {'4': '1', '5': '0', Ave: '25.78', Econ: '7.55', Inns: '153', Mat: '182', Overs: '490.1',
+    Player: SR Watson, Runs: '3712', SR: '20.42', Span: 2004-2016, Wkts: '144'}

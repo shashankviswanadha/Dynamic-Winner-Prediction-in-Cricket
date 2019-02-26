@@ -1,0 +1,137 @@
+DeccanChargers:
+- batting averages:
+  - {'0': '14', '100': '0', 4s: '189', '50': '14', 6s: '62', Ave: '25.72', BF: '1523',
+    HS: '98', Inns: '79', Mat: '81', 'NO': '6', Player: HH Gibbs, Runs: '1878', SR: '123.30',
+    Span: 2004-2010}
+  - {'0': '4', '100': '1', 4s: '165', '50': '8', 6s: '79', Ave: '27.69', BF: '1026',
+    HS: 109*, Inns: '57', Mat: '57', 'NO': '2', Player: AC Gilchrist, Runs: '1523',
+    SR: '148.44', Span: 2005-2010}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0.00', BF: '0', HS: 0*,
+    Inns: '2', Mat: '13', 'NO': '1', Player: Harmeet Singh, Runs: '0', SR: '-', Span: 2009-2010}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '4', Ave: '11.63', BF: '122', HS: '31',
+    Inns: '19', Mat: '34', 'NO': '8', Player: RJ Harris, Runs: '128', SR: '104.91',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '36', '50': '2', 6s: '13', Ave: '27.33', BF: '232',
+    HS: '84', Inns: '13', Mat: '13', 'NO': '1', Player: MD Mishra, Runs: '328', SR: '141.37',
+    Span: 2007-2010}
+  - {'0': '4', '100': '0', 4s: '0', '50': '0', 6s: '2', Ave: '4.42', BF: '29', HS: 11*,
+    Inns: '17', Mat: '51', 'NO': '10', Player: PP Ojha, Runs: '31', SR: '106.89',
+    Span: 2007-2010}
+  - {'0': '2', '100': '1', 4s: '154', '50': '9', 6s: '74', Ave: '32.72', BF: '1342',
+    HS: 101*, Inns: '66', Mat: '69', 'NO': '12', Player: RG Sharma, Runs: '1767',
+    SR: '131.66', Span: 2007-2010}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '4.86', BF: '96', HS: '10',
+    Inns: '29', Mat: '58', 'NO': '14', Player: RP Singh, Runs: '73', SR: '76.04',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '46', '50': '2', 6s: '18', Ave: '27.19', BF: '480',
+    HS: 78*, Inns: '29', Mat: '29', 'NO': '8', Player: TL Suman, Runs: '571', SR: '118.95',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '6', '50': '0', 6s: '2', Ave: '30.66', BF: '66', HS: 46*,
+    Inns: '8', Mat: '10', 'NO': '5', Player: B Sumanth, Runs: '92', SR: '139.39',
+    Span: 2007-2010}
+  - {'0': '5', '100': '2', 4s: '158', '50': '9', 6s: '60', Ave: '38.90', BF: '1045',
+    HS: 117*, Inns: '55', Mat: '59', 'NO': '13', Player: A Symonds, Runs: '1634',
+    SR: '156.36', Span: 2003-2010}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '40', Econ: '-', Inns: '-', Mat: '81',
+    Mdns: '-', Overs: '-', Player: HH Gibbs, Runs: '-', SR: '-', Span: 2004-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '42', Econ: '-', Inns: '-', Mat: '57',
+    Mdns: '-', Overs: '-', Player: AC Gilchrist, Runs: '-', SR: '-', Span: 2005-2010,
+    St: '14', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '38.62', BBI: 2/23, Ct: '4', Econ: '7.95', Inns: '13',
+    Mat: '13', Mdns: '0', Overs: '38.5', Player: Harmeet Singh, Runs: '309', SR: '29.1',
+    Span: 2009-2010, St: '0', Wkts: '8'}
+  - {'4': '0', '5': '0', Ave: '20.26', BBI: 3/18, Ct: '12', Econ: '7.32', Inns: '33',
+    Mat: '34', Mdns: '3', Overs: '124.3', Player: RJ Harris, Runs: '912', SR: '16.6',
+    Span: 2007-2010, St: '0', Wkts: '45'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '4', Econ: '-', Inns: '-', Mat: '13',
+    Mdns: '-', Overs: '-', Player: MD Mishra, Runs: '-', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '18.65', BBI: 4/21, Ct: '10', Econ: '7.08', Inns: '50',
+    Mat: '51', Mdns: '0', Overs: '176.3', Player: PP Ojha, Runs: '1250', SR: '15.8',
+    Span: 2007-2010, St: '0', Wkts: '67'}
+  - {'4': '1', '5': '0', Ave: '22.15', BBI: 4/6, Ct: '23', Econ: '7.11', Inns: '35',
+    Mat: '69', Mdns: '0', Overs: '81.0', Player: RG Sharma, Runs: '576', SR: '18.6',
+    Span: 2007-2010, St: '0', Wkts: '26'}
+  - {'4': '2', '5': '0', Ave: '21.93', BBI: 4/13, Ct: '21', Econ: '7.62', Inns: '57',
+    Mat: '58', Mdns: '3', Overs: '210.0', Player: RP Singh, Runs: '1601', SR: '17.2',
+    Span: 2007-2010, St: '0', Wkts: '73'}
+  - {'4': '0', '5': '0', Ave: '22.90', BBI: 2/14, Ct: '7', Econ: '7.87', Inns: '13',
+    Mat: '29', Mdns: '0', Overs: '32.0', Player: TL Suman, Runs: '252', SR: '17.4',
+    Span: 2007-2010, St: '0', Wkts: '11'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '6', Econ: '5.00', Inns: '1', Mat: '10',
+    Mdns: '0', Overs: '1.0', Player: B Sumanth, Runs: '5', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '32.71', BBI: 3/21, Ct: '29', Econ: '7.91', Inns: '54',
+    Mat: '59', Mdns: '1', Overs: '157.0', Player: A Symonds, Runs: '1243', SR: '24.7',
+    Span: 2003-2010, St: '0', Wkts: '38'}
+RoyalChallengersBangalore:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '11.00', BF: '7', HS: 9*,
+    Inns: '4', Mat: '10', 'NO': '3', Player: KP Appanna, Runs: '11', SR: '157.14',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '103', '50': '5', 6s: '20', Ave: '26.86', BF: '792',
+    HS: 75*, Inns: '38', Mat: '45', 'NO': '2', Player: R Dravid, Runs: '967', SR: '122.09',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '181', '50': '15', 6s: '32', Ave: '35.91', BF: '1432',
+    HS: 89*, Inns: '55', Mat: '55', 'NO': '9', Player: JH Kallis, Runs: '1652', SR: '115.36',
+    Span: 2004-2010}
+  - {'0': '1', '100': '0', 4s: '88', '50': '3', 6s: '26', Ave: '24.10', BF: '731',
+    HS: '76', Inns: '44', Mat: '50', 'NO': '6', Player: V Kohli, Runs: '916', SR: '125.30',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '10.50', BF: '51', HS: '8',
+    Inns: '17', Mat: '45', 'NO': '13', Player: A Kumble, Runs: '42', SR: '82.35',
+    Span: 2006-2010}
+  - {'0': '4', '100': '1', 4s: '61', '50': '1', 6s: '13', Ave: '27.00', BF: '504',
+    HS: 114*, Inns: '28', Mat: '30', 'NO': '5', Player: MK Pandey, Runs: '621', SR: '123.21',
+    Span: 2007-2010}
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '2', Ave: '5.00', BF: '40', HS: '22',
+    Inns: '12', Mat: '55', 'NO': '4', Player: DW Steyn, Runs: '40', SR: '100.00',
+    Span: 2005-2010}
+  - {'0': '3', '100': '1', 4s: '146', '50': '12', 6s: '119', Ave: '33.15', BF: '1228',
+    HS: 111*, Inns: '69', Mat: '71', 'NO': '11', Player: LRPL Taylor, Runs: '1923',
+    SR: '156.59', Span: 2006-2010}
+  - {'0': '2', '100': '0', 4s: '120', '50': '6', 6s: '54', Ave: '25.62', BF: '1012',
+    HS: 68*, Inns: '61', Mat: '65', 'NO': '10', Player: RV Uthappa, Runs: '1307',
+    SR: '129.15', Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '10', '50': '0', 6s: '7', Ave: '10.13', BF: '116',
+    HS: 25*, Inns: '22', Mat: '41', 'NO': '7', Player: R Vinay Kumar, Runs: '152',
+    SR: '131.03', Span: 2007-2010}
+  - {'0': '4', '100': '2', 4s: '101', '50': '9', 6s: '85', Ave: '33.58', BF: '1163',
+    HS: 141*, Inns: '65', Mat: '68', 'NO': '17', Player: CL White, Runs: '1612', SR: '138.60',
+    Span: 2005-2010}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '40.60', BBI: 1/9, Ct: '0', Econ: '7.51', Inns: '10',
+    Mat: '10', Mdns: '0', Overs: '27.0', Player: KP Appanna, Runs: '203', SR: '32.4',
+    Span: 2007-2010, St: '0', Wkts: '5'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '9', Econ: '-', Inns: '-', Mat: '45',
+    Mdns: '-', Overs: '-', Player: R Dravid, Runs: '-', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '49.20', BBI: 3/18, Ct: '18', Econ: '8.29', Inns: '48',
+    Mat: '55', Mdns: '2', Overs: '148.2', Player: JH Kallis, Runs: '1230', SR: '35.6',
+    Span: 2004-2010, St: '0', Wkts: '25'}
+  - {'4': '0', '5': '0', Ave: '85.00', BBI: 2/25, Ct: '19', Econ: '8.50', Inns: '11',
+    Mat: '50', Mdns: '0', Overs: '20.0', Player: V Kohli, Runs: '170', SR: '60.0',
+    Span: 2007-2010, St: '0', Wkts: '2'}
+  - {'4': '1', '5': '1', Ave: '23.87', BBI: 5/5, Ct: '13', Econ: '6.66', Inns: '45',
+    Mat: '45', Mdns: '1', Overs: '172.0', Player: A Kumble, Runs: '1146', SR: '21.5',
+    Span: 2006-2010, St: '0', Wkts: '48'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '13', Econ: '-', Inns: '-', Mat: '30',
+    Mdns: '-', Overs: '-', Player: MK Pandey, Runs: '-', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '23.51', BBI: 4/9, Ct: '12', Econ: '6.91', Inns: '54',
+    Mat: '55', Mdns: '0', Overs: '204.0', Player: DW Steyn, Runs: '1411', SR: '20.4',
+    Span: 2005-2010, St: '0', Wkts: '60'}
+  - {'4': '0', '5': '0', Ave: '33.62', BBI: 3/28, Ct: '38', Econ: '8.96', Inns: '14',
+    Mat: '71', Mdns: '0', Overs: '30.0', Player: LRPL Taylor, Runs: '269', SR: '22.5',
+    Span: 2006-2010, St: '0', Wkts: '8'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '27', Econ: '-', Inns: '-', Mat: '65',
+    Mdns: '-', Overs: '-', Player: RV Uthappa, Runs: '-', SR: '-', Span: 2007-2010,
+    St: '4', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '25.48', BBI: 4/40, Ct: '9', Econ: '8.04', Inns: '41',
+    Mat: '41', Mdns: '1', Overs: '129.5', Player: R Vinay Kumar, Runs: '1045', SR: '19.0',
+    Span: 2007-2010, St: '0', Wkts: '41'}
+  - {'4': '1', '5': '0', Ave: '21.68', BBI: 4/10, Ct: '28', Econ: '8.88', Inns: '25',
+    Mat: '68', Mdns: '0', Overs: '53.4', Player: CL White, Runs: '477', SR: '14.6',
+    Span: 2005-2010, St: '0', Wkts: '22'}

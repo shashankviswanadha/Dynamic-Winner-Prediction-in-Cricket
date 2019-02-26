@@ -1,0 +1,114 @@
+Mumbai Indians:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '2', '50': '0', 6s: '2', Ave: '8.75', BF: '42', HS: '14',
+    Inns: '13', Mat: '85', 'NO': '9', Player: JJ Bumrah, Runs: '35', SR: '83.33',
+    Span: 2013-2017}
+  - {'0': '9', '100': '0', 4s: '246', '50': '17', 6s: '136', Ave: '28.01', BF: '2095',
+    HS: '73', Inns: '144', Mat: '163', 'NO': '34', Player: JC Buttler, Runs: '3081',
+    SR: '147.06', Span: 2009-2017}
+  - {'0': '6', '100': '0', 4s: '10', '50': '0', 6s: '8', Ave: '8.8', BF: '95', HS: '20',
+    Inns: '33', Mat: '104', 'NO': '18', Player: MJ McClenaghan, Runs: '132', SR: '138.95',
+    Span: 2009-2017}
+  - {'0': '3', '100': '0', 4s: '73', '50': '5', 6s: '48', Ave: '23.81', BF: '836',
+    HS: '86', Inns: '53', Mat: '68', 'NO': '10', Player: HH Pandya, Runs: '1024',
+    SR: '122.49', Span: 2013-2017}
+  - {'0': '0', '100': '0', 4s: '32', '50': '2', 6s: '20', Ave: '31.08', BF: '245',
+    HS: '86', Inns: '18', Mat: '27', 'NO': '5', Player: KH Pandya, Runs: '404', SR: '164.9',
+    Span: 2013-2017}
+  - {'0': '12', '100': '0', 4s: '424', '50': '18', 6s: '55', Ave: '22.41', BF: '2718',
+    HS: '82', Inns: '157', Mat: '160', 'NO': '11', Player: PA Patel, Runs: '3272',
+    SR: '120.38', Span: 2005-2017}
+  - {'0': '12', '100': '0', 4s: '449', '50': '31', 6s: '448', Ave: '30.5', BF: '4556',
+    HS: '89', Inns: '321', Mat: '358', 'NO': '94', Player: KA Pollard, Runs: '6923',
+    SR: '151.95', Span: 2006-2017}
+  - {'0': '0', '100': '0', 4s: '53', '50': '4', 6s: '34', Ave: '30.8', BF: '436',
+    HS: '97', Inns: '22', Mat: '24', 'NO': '2', Player: N Rana, Runs: '616', SR: '141.28',
+    Span: 2013-2017}
+  - {'0': '13', '100': '0', 4s: '292', '50': '17', 6s: '103', Ave: '24.53', BF: '2754',
+    HS: '81', Inns: '158', Mat: '169', 'NO': '21', Player: AT Rayudu, Runs: '3361',
+    SR: '122.04', Span: 2007-2017}
+  - {'0': '12', '100': '3', 4s: '530', '50': '43', 6s: '254', Ave: '33.38', BF: '4716',
+    HS: '109', Inns: '225', Mat: '236', 'NO': '39', Player: RG Sharma, Runs: '6209',
+    SR: '131.66', Span: 2007-2017}
+  - {'0': '12', '100': '0', 4s: '40', '50': '1', 6s: '25', Ave: '10.48', BF: '304',
+    HS: '74', Inns: '58', Mat: '124', 'NO': '14', Player: TG Southee, Runs: '461',
+    SR: '151.64', Span: 2007-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '22.69', Econ: '7.2', Inns: '85', Mat: '85', Overs: '315.0',
+    Player: JJ Bumrah, Runs: '2269', SR: '18.9', Span: 2013-2017, Wkts: '100'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '163', Overs: '0.0',
+    Player: JC Buttler, Runs: '0', SR: '0', Span: 2009-2017, Wkts: '0'}
+  - {'4': '2', '5': '1', Ave: '21.8', Econ: '7.89', Inns: '102', Mat: '104', Overs: '371.3',
+    Player: MJ McClenaghan, Runs: '2965', SR: '16.39', Span: 2009-2017, Wkts: '136'}
+  - {'4': '0', '5': '0', Ave: '29.2', Econ: '7.57', Inns: '64', Mat: '68', Overs: '172.1',
+    Player: HH Pandya, Runs: '1314', SR: '22.96', Span: 2013-2017, Wkts: '45'}
+  - {'4': '0', '5': '0', Ave: '22.5', Econ: '6.01', Inns: '25', Mat: '27', Overs: '74.5',
+    Player: KH Pandya, Runs: '495', SR: '20.41', Span: 2013-2017, Wkts: '22'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '160', Overs: '0.0',
+    Player: PA Patel, Runs: '0', SR: '0', Span: 2005-2017, Wkts: '0'}
+  - {'4': '4', '5': '0', Ave: '23.56', Econ: '8.01', Inns: '258', Mat: '358', Overs: '680.3',
+    Player: KA Pollard, Runs: '5489', SR: '17.52', Span: 2006-2017, Wkts: '233'}
+  - {'4': '0', '5': '0', Ave: '47.0', Econ: '8.55', Inns: '7', Mat: '24', Overs: '11.0',
+    Player: N Rana, Runs: '94', SR: '33.0', Span: 2013-2017, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '169', Overs: '0.0',
+    Player: AT Rayudu, Runs: '0', SR: '0', Span: 2007-2017, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '28.17', Econ: '7.38', Inns: '57', Mat: '236', Overs: '104.4',
+    Player: RG Sharma, Runs: '817', SR: '21.66', Span: 2007-2017, Wkts: '29'}
+  - {'4': '0', '5': '2', Ave: '26.71', Econ: '8.11', Inns: '122', Mat: '124', Overs: '446.5',
+    Player: TG Southee, Runs: '3686', SR: '19.43', Span: 2007-2017, Wkts: '138'}
+Rising Pune Supergiant:
+- batting averages:
+  - {'0': '5', '100': '1', 4s: '192', '50': '12', 6s: '69', Ave: '24.82', BF: '1490',
+    HS: '111', Inns: '83', Mat: '88', 'NO': '5', Player: MA Agarwal, Runs: '1936',
+    SR: '129.93', Span: 2010-2017}
+  - {'0': '7', '100': '1', 4s: '77', '50': '1', 6s: '40', Ave: '22.22', BF: '956',
+    HS: '107', Inns: '87', Mat: '137', 'NO': '36', Player: R Bhatia, Runs: '1133',
+    SR: '118.51', Span: 2007-2017}
+  - {'0': '3', '100': '0', 4s: '2', '50': '0', 6s: '3', Ave: '5.5', BF: '25', HS: '19',
+    Inns: '8', Mat: '13', 'NO': '2', Player: DL Chahar, Runs: '33', SR: '132.0', Span: 2010-2017}
+  - {'0': '7', '100': '0', 4s: '357', '50': '19', 6s: '210', Ave: '37.7', BF: '3718',
+    HS: '73', Inns: '222', Mat: '248', 'NO': '88', Player: MS Dhoni, Runs: '5052',
+    SR: '135.88', Span: 2006-2017}
+  - {'0': '8', '100': '0', 4s: '4', '50': '0', 6s: '0', Ave: '4.56', BF: '108', HS: '22',
+    Inns: '30', Mat: '122', 'NO': '14', Player: AB Dinda, Runs: '73', SR: '67.59',
+    Span: 2008-2017}
+  - {'0': '3', '100': '0', 4s: '13', '50': '0', 6s: '4', Ave: '8.73', BF: '114', HS: '17',
+    Inns: '28', Mat: '148', 'NO': '13', Player: Imran Tahir, Runs: '131', SR: '114.91',
+    Span: 2006-2017}
+  - {'0': '13', '100': '1', 4s: '391', '50': '31', 6s: '71', Ave: '31.02', BF: '3192',
+    HS: '103', Inns: '139', Mat: '145', 'NO': '17', Player: AM Rahane, Runs: '3785',
+    SR: '118.58', Span: 2007-2017}
+  - {'0': '4', '100': '1', 4s: '227', '50': '8', 6s: '61', Ave: '28.83', BF: '2105',
+    HS: '101', Inns: '121', Mat: '140', 'NO': '29', Player: SPD Smith, Runs: '2652',
+    SR: '125.99', Span: 2008-2017}
+  - {'0': '4', '100': '0', 4s: '99', '50': '5', 6s: '58', Ave: '22.71', BF: '949',
+    HS: '77', Inns: '68', Mat: '77', 'NO': '12', Player: BA Stokes, Runs: '1272',
+    SR: '134.04', Span: 2010-2017}
+  - {'0': '8', '100': '0', 4s: '209', '50': '12', 6s: '60', Ave: '30.37', BF: '2223',
+    HS: '75', Inns: '116', Mat: '132', 'NO': '32', Player: MK Tiwary, Runs: '2551',
+    SR: '114.75', Span: 2007-2017}
+  - {'0': '3', '100': '0', 4s: '7', '50': '0', 6s: '1', Ave: '5.2', BF: '87', HS: '15',
+    Inns: '21', Mat: '60', 'NO': '6', Player: A Zampa, Runs: '78', SR: '89.66', Span: 2012-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '8.0', Inns: '1', Mat: '88', Overs: '1.0',
+    Player: MA Agarwal, Runs: '8', SR: '0', Span: 2010-2017, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '27.46', Econ: '7.18', Inns: '129', Mat: '137', Overs: '394.0',
+    Player: R Bhatia, Runs: '2828', SR: '22.95', Span: 2007-2017, Wkts: '103'}
+  - {'4': '0', '5': '0', Ave: '42.78', Econ: '8.37', Inns: '13', Mat: '13', Overs: '46.0',
+    Player: DL Chahar, Runs: '385', SR: '30.67', Span: 2010-2017, Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '12.5', Inns: '1', Mat: '248', Overs: '2.0',
+    Player: MS Dhoni, Runs: '25', SR: '0', Span: 2006-2017, Wkts: '0'}
+  - {'4': '3', '5': '0', Ave: '24.63', Econ: '7.52', Inns: '119', Mat: '122', Overs: '408.1',
+    Player: AB Dinda, Runs: '3079', SR: '19.59', Span: 2008-2017, Wkts: '125'}
+  - {'4': '3', '5': '1', Ave: '20.97', Econ: '6.85', Inns: '141', Mat: '148', Overs: '521.5',
+    Player: Imran Tahir, Runs: '3628', SR: '18.1', Span: 2006-2017, Wkts: '173'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '145', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2017, Wkts: '1'}
+  - {'4': '2', '5': '0', Ave: '19.45', Econ: '7.17', Inns: '48', Mat: '140', Overs: '130.5',
+    Player: SPD Smith, Runs: '992', SR: '15.39', Span: 2008-2017, Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '36.41', Econ: '8.52', Inns: '49', Mat: '77', Overs: '135.1',
+    Player: BA Stokes, Runs: '1165', SR: '25.34', Span: 2010-2017, Wkts: '32'}
+  - {'4': '0', '5': '0', Ave: '25.95', Econ: '8.11', Inns: '30', Mat: '132', Overs: '64.0',
+    Player: MK Tiwary, Runs: '519', SR: '19.2', Span: 2007-2017, Wkts: '20'}
+  - {'4': '0', '5': '1', Ave: '19.43', Econ: '6.78', Inns: '59', Mat: '60', Overs: '207.3',
+    Player: A Zampa, Runs: '1438', SR: '16.82', Span: 2012-2017, Wkts: '74'}

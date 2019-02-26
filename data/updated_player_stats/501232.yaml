@@ -1,0 +1,113 @@
+Pune Warriors:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '14', '50': '2', 6s: '4', Ave: '40.4', BF: '183', HS: '71',
+    Inns: '7', Mat: '8', 'NO': '2', Player: Harpreet Singh, Runs: '202', SR: '110.38',
+    Span: 2010-2011}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '22.0', BF: '18', HS: '19',
+    Inns: '3', Mat: '10', 'NO': '2', Player: Kamran Khan, Runs: '22', SR: '122.22',
+    Span: 2009-2011}
+  - {'0': '4', '100': '0', 4s: '53', '50': '0', 6s: '6', Ave: '26.27', BF: '553',
+    HS: '39', Inns: '31', Mat: '38', 'NO': '9', Player: M Manhas, Runs: '578', SR: '104.52',
+    Span: 2007-2011}
+  - {'0': '4', '100': '0', 4s: '32', '50': '2', 6s: '15', Ave: '17.67', BF: '263',
+    HS: '71', Inns: '21', Mat: '25', 'NO': '0', Player: TD Paine, Runs: '371', SR: '141.06',
+    Span: 2006-2011}
+  - {'0': '4', '100': '1', 4s: '92', '50': '2', 6s: '17', Ave: '25.4', BF: '750',
+    HS: '114', Inns: '41', Mat: '43', 'NO': '6', Player: MK Pandey, Runs: '889', SR: '118.53',
+    Span: 2007-2011}
+  - {'0': '5', '100': '0', 4s: '102', '50': '7', 6s: '40', Ave: '22.62', BF: '668',
+    HS: '86', Inns: '44', Mat: '45', 'NO': '2', Player: JD Ryder, Runs: '950', SR: '142.22',
+    Span: 2006-2011}
+  - {'0': '2', '100': '0', 4s: '5', '50': '0', 6s: '4', Ave: '7.78', BF: '63', HS: '14',
+    Inns: '12', Mat: '20', 'NO': '3', Player: R Sharma, Runs: '70', SR: '111.11',
+    Span: 2009-2011}
+  - {'0': '3', '100': '0', 4s: '4', '50': '0', 6s: '3', Ave: '8.75', BF: '53', HS: '16',
+    Inns: '15', Mat: '32', 'NO': '7', Player: JE Taylor, Runs: '70', SR: '132.08',
+    Span: 2006-2011}
+  - {'0': '6', '100': '0', 4s: '19', '50': '0', 6s: '2', Ave: '12.36', BF: '158',
+    HS: '30', Inns: '33', Mat: '97', 'NO': '19', Player: AC Thomas, Runs: '173', SR: '109.49',
+    Span: 2004-2011}
+  - {'0': '4', '100': '0', 4s: '155', '50': '7', 6s: '69', Ave: '24.78', BF: '1279',
+    HS: '68', Inns: '80', Mat: '85', 'NO': '12', Player: RV Uthappa, Runs: '1685',
+    SR: '131.74', Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '158', '50': '12', 6s: '105', Ave: '27.86', BF: '1460',
+    HS: '71', Inns: '83', Mat: '85', 'NO': '12', Player: Yuvraj Singh, Runs: '1978',
+    SR: '135.48', Span: 2003-2011}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '8', Overs: '0.0', Player: Harpreet
+      Singh, Runs: '0', SR: '0', Span: 2010-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '21.08', Econ: '6.72', Inns: '10', Mat: '10', Overs: '31.4',
+    Player: Kamran Khan, Runs: '253', SR: '15.83', Span: 2009-2011, Wkts: '12'}
+  - {'4': '0', '5': '0', Ave: '20.33', Econ: '7.63', Inns: '3', Mat: '38', Overs: '8.0',
+    Player: M Manhas, Runs: '61', SR: '16.0', Span: 2007-2011, Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '25', Overs: '0.0',
+    Player: TD Paine, Runs: '0', SR: '0', Span: 2006-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '43', Overs: '0.0',
+    Player: MK Pandey, Runs: '0', SR: '0', Span: 2007-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '44.54', Econ: '7.36', Inns: '26', Mat: '45', Overs: '72.4',
+    Player: JD Ryder, Runs: '579', SR: '33.54', Span: 2006-2011, Wkts: '13'}
+  - {'4': '0', '5': '0', Ave: '27.82', Econ: '6.42', Inns: '20', Mat: '20', Overs: '67.4',
+    Player: R Sharma, Runs: '473', SR: '23.88', Span: 2009-2011, Wkts: '17'}
+  - {'4': '0', '5': '1', Ave: '18.28', Econ: '7.03', Inns: '32', Mat: '32', Overs: '113.4',
+    Player: JE Taylor, Runs: '841', SR: '14.83', Span: 2006-2011, Wkts: '46'}
+  - {'4': '1', '5': '0', Ave: '19.27', Econ: '7.08', Inns: '91', Mat: '97', Overs: '316.3',
+    Player: AC Thomas, Runs: '2274', SR: '16.09', Span: 2004-2011, Wkts: '118'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '85', Overs: '0.0',
+    Player: RV Uthappa, Runs: '0', SR: '0', Span: 2007-2011, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '22.0', Econ: '7.48', Inns: '50', Mat: '85', Overs: '103.0',
+    Player: Yuvraj Singh, Runs: '770', SR: '17.66', Span: 2003-2011, Wkts: '35'}
+Royal Challengers Bangalore:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '12', HS: '4',
+    Inns: '3', Mat: '17', 'NO': '3', Player: S Aravind, Runs: '8', SR: '66.67', Span: 2007-2011}
+  - {'0': '7', '100': '1', 4s: '134', '50': '11', 6s: '56', Ave: '29.35', BF: '1402',
+    HS: '105', Inns: '73', Mat: '78', 'NO': '13', Player: AB de Villiers, Runs: '1761',
+    SR: '125.61', Span: 2004-2011}
+  - {'0': '9', '100': '0', 4s: '200', '50': '12', 6s: '39', Ave: '24.68', BF: '1473',
+    HS: '96', Inns: '81', Mat: '84', 'NO': '10', Player: TM Dilshan, Runs: '1752',
+    SR: '118.94', Span: 2004-2011}
+  - {'0': '5', '100': '2', 4s: '163', '50': '10', 6s: '95', Ave: '32.69', BF: '1167',
+    HS: '117', Inns: '57', Mat: '58', 'NO': '6', Player: CH Gayle, Runs: '1667', SR: '142.84',
+    Span: 2005-2011}
+  - {'0': '2', '100': '0', 4s: '67', '50': '4', 6s: '11', Ave: '21.9', BF: '582',
+    HS: '68', Inns: '34', Mat: '37', 'NO': '5', Player: M Kaif, Runs: '635', SR: '109.11',
+    Span: 2003-2011}
+  - {'0': '3', '100': '0', 4s: '13', '50': '0', 6s: '2', Ave: '9.71', BF: '139', HS: '26',
+    Inns: '32', Mat: '66', 'NO': '18', Player: Z Khan, Runs: '136', SR: '97.84', Span: 2006-2011}
+  - {'0': '1', '100': '0', 4s: '139', '50': '5', 6s: '39', Ave: '27.4', BF: '1064',
+    HS: '76', Inns: '59', Mat: '68', 'NO': '9', Player: V Kohli, Runs: '1370', SR: '128.76',
+    Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '1.2', BF: '11', HS: '5',
+    Inns: '5', Mat: '12', 'NO': '0', Player: A Mithun, Runs: '6', SR: '54.55', Span: 2009-2011}
+  - {'0': '1', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '15.0', BF: '48', HS: '19',
+    Inns: '6', Mat: '10', 'NO': '3', Player: J Syed Mohammad, Runs: '45', SR: '93.75',
+    Span: 2009-2011}
+  - {'0': '2', '100': '0', 4s: '79', '50': '5', 6s: '35', Ave: '30.37', BF: '697',
+    HS: '69', Inns: '36', Mat: '40', 'NO': '6', Player: SS Tiwary, Runs: '911', SR: '130.7',
+    Span: 2007-2011}
+  - {'0': '3', '100': '0', 4s: '59', '50': '1', 6s: '14', Ave: '21.63', BF: '577',
+    HS: '57', Inns: '46', Mat: '63', 'NO': '14', Player: DL Vettori, Runs: '692',
+    SR: '119.93', Span: 2006-2011}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '21.18', Econ: '6.43', Inns: '16', Mat: '17', Overs: '51.3',
+    Player: S Aravind, Runs: '360', SR: '18.18', Span: 2007-2011, Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '78', Overs: '0.0',
+    Player: AB de Villiers, Runs: '0', SR: '0', Span: 2004-2011, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '32.83', Econ: '7.12', Inns: '42', Mat: '84', Overs: '83.0',
+    Player: TM Dilshan, Runs: '591', SR: '27.67', Span: 2004-2011, Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '30.19', Econ: '7.0', Inns: '46', Mat: '58', Overs: '127.4',
+    Player: CH Gayle, Runs: '936', SR: '24.71', Span: 2005-2011, Wkts: '31'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '37', Overs: '0.0',
+    Player: M Kaif, Runs: '0', SR: '0', Span: 2003-2011, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '28.39', Econ: '7.83', Inns: '66', Mat: '66', Overs: '243.0',
+    Player: Z Khan, Runs: '1902', SR: '21.76', Span: 2006-2011, Wkts: '67'}
+  - {'4': '0', '5': '0', Ave: '93.33', Econ: '8.48', Inns: '18', Mat: '68', Overs: '33.0',
+    Player: V Kohli, Runs: '280', SR: '66.0', Span: 2007-2011, Wkts: '3'}
+  - {'4': '0', '5': '0', Ave: '40.13', Econ: '9.44', Inns: '12', Mat: '12', Overs: '34.0',
+    Player: A Mithun, Runs: '321', SR: '25.5', Span: 2009-2011, Wkts: '8'}
+  - {'4': '0', '5': '0', Ave: '34.86', Econ: '7.39', Inns: '10', Mat: '10', Overs: '33.0',
+    Player: J Syed Mohammad, Runs: '244', SR: '28.29', Span: 2009-2011, Wkts: '7'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '40', Overs: '0.0',
+    Player: SS Tiwary, Runs: '0', SR: '0', Span: 2007-2011, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '20.87', Econ: '6.0', Inns: '63', Mat: '63', Overs: '237.4',
+    Player: DL Vettori, Runs: '1461', SR: '20.37', Span: 2006-2011, Wkts: '70'}

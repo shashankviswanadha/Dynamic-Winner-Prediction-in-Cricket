@@ -1,0 +1,183 @@
+from match_sim import *
+from stats import *
+import yaml
+from os import listdir
+from os.path import isfile, join
+
+
+def yaml_dump(filepath,data):
+    with open(filepath,"w") as file_descriptor:
+        yaml.dump(data,file_descriptor)
+
+def extract_players(data,team_name):
+    li = {}
+    for pl in data[team_name][0]['batting averages']:
+        li[pl['Player']] = int(pl['Mat'])
+    return li
+
+def get_last_n_of_player(name,number,n,data_structure):
+    path_pl = '/home/shashank/intern_17/data/player_indexes/'
+    pl_data = yaml_loader(path_pl + name + '.yaml')
+    count = 1
+    index = number - 1
+    while count <= n and index > -1:
+        if pl_data[index]['competition'] == 'ipl':
+            file_name = pl_data[index]['file_name']
+            if file_name not in data_structure.keys():
+                data_structure[file_name] = []
+            data_structure[file_name].append(name)
+            count += 1
+        index -= 1
+    return data_structure
+#matches,innings,not_outs,runs,average,balls,centuries,fifties,fours,sixes,zeros,hs,sr,span
+
+
+def update_batting_stats(pl,last_n_stat):
+    last_n_stat.matches_played += 1
+    if pl.balls_played > 0 or pl.is_batting == 1:
+        last_n_stat.batt_innings += 1
+    last_n_stat.balls_faced += pl.balls_played
+    last_n_stat.not_outs += pl.is_batting
+    last_n_stat.runs_scored += pl.runs_scored
+    if last_n_stat.balls_faced != 0:
+        last_n_stat.strike_rate = round(float(last_n_stat.runs_scored)/float(last_n_stat.balls_faced)*100.0,2)
+    if last_n_stat.batt_innings - last_n_stat.not_outs != 0:
+        last_n_stat.average = round(float(last_n_stat.runs_scored)/float(last_n_stat.batt_innings-last_n_stat.not_outs),2)
+    else:
+        last_n_stat.average = float(last_n_stat.runs_scored)
+
+
+def update_bowling_stats(pl,last_n_stat):
+    last_n_stat.matches_played += 1
+    if pl.balls_bowled > 0:
+        last_n_stat.bowl_innings += 1
+    last_n_stat.balls_bowled += pl.balls_bowled
+    last_n_stat.runs_conceded += pl.runs_conceded
+    last_n_stat.wickets_taken += pl.wickets_taken
+    if last_n_stat.wickets_taken != 0:
+        last_n_stat.strike_rate = round(float(last_n_stat.balls_bowled)/float(last_n_stat.wickets_taken),2)
+    else:
+            last_n_stat.strike_rate = last_n_stat.bowl_innings*4.0*6.0
+
+
+    if last_n_stat.balls_bowled != 0:
+            last_n_stat.overs_bowled = int(last_n_stat.balls_bowled)/6 + (int(last_n_stat.balls_bowled)%6)/10.0
+            last_n_stat.economy = round(float(last_n_stat.runs_conceded)/float(last_n_stat.overs_bowled),2)
+
+
+def find_player(name,matchState):
+    found = 0
+    player = None
+    for pl in matchState.team_a.player_list:
+        if name == pl.name:
+            found = 1
+            player = pl
+            break
+    if found == 0:
+        for pl in matchState.team_b.player_list:
+            if name == pl.name:
+                found = 1
+                player = pl
+                break
+    return player
+
+
+
+def simulate_game(match_name,player_list,players):
+    match_name = match_name + '.yaml'
+    ball_by_ball = load_ball_by_ball_data(match_name)
+    matchState = initialize_match(ball_by_ball,match_name)
+    simulate_match(ball_by_ball,matchState)
+    for pl_name in player_list:
+        pl = find_player(pl_name,matchState)
+        update_batting_stats(pl,players[pl_name][0])
+        update_bowling_stats(pl,players[pl_name][1])
+        #print pl_name
+        #print players[pl_name][0]
+def calculate_batting_score(stat,agg_score,n):
+    score = 0
+    if stat.matches_played < n:
+        score = round(agg_score,2)
+    else:
+        score = round(stat.average * stat.strike_rate,2)
+    return score
+
+def calculate_bowling_score(stat,agg_score,n):
+    score = 0.0
+    if stat.matches_played < n:
+        score = round(agg_score,2)
+    else:
+        if stat.economy * stat.strike_rate != 0:
+            score = round(1/(stat.economy * stat.strike_rate),7)
+    return score
+
+def get_last_n_for_a_match(name,batt_agg,bowl_agg,n):
+    path = '/home/shashank/intern_17/data/updated_player_stats/' + name
+    path_pl = '/home/shashank/intern_17/data/player_indexes/'
+    pl_data = yaml_loader(path)
+    team_a_name = pl_data.keys()[0]
+    team_b_name = pl_data.keys()[1]
+    dump_data = {team_a_name:[{'batting scores':[]},{'bowling scores':[]}],team_b_name:[{'batting scores':[]},{'bowling scores':[]}]}
+    team_a_players = extract_players(pl_data,team_a_name)
+    team_b_players = extract_players(pl_data,team_b_name)
+    data_structure ={}
+    players = {}
+
+
+    #matches,innings,overs,runs,wickets,average,econ,fourwi,fivewi,sr,span
+
+    for key,value in team_a_players.iteritems():
+        players[key] = [batting_stats(0,0,0,0,0,0,0,0,0,0,0,0,0,0),bowling_stats(0,0,0,0,0,0,0,0,0,0,0)]
+        data_structure = get_last_n_of_player(key,value,n,data_structure)
+
+    for key,value in team_b_players.iteritems():
+        players[key] = [batting_stats(0,0,0,0,0,0,0,0,0,0,0,0,0,0),bowling_stats(0,0,0,0,0,0,0,0,0,0,0)]
+        data_structure = get_last_n_of_player(key,value,n,data_structure)
+
+    #print players
+    for key,value in data_structure.iteritems():
+        #print key,value
+        simulate_game(key,value,players)
+
+    for key,value in players.iteritems():
+        ba = calculate_batting_score(value[0],batt_agg,n)
+        bo = calculate_bowling_score(value[1],bowl_agg,n)
+        if key in team_a_players.keys():
+            dump_data[team_a_name][0]['batting scores'].append({'Score':ba,'Player':key})
+            dump_data[team_a_name][1]['bowling scores'].append({'Score':bo,'Player':key})
+        else:
+            dump_data[team_b_name][0]['batting scores'].append({'Score':ba,'Player':key})
+            dump_data[team_b_name][1]['bowling scores'].append({'Score':bo,'Player':key})
+
+    print players['PJ Cummins'][1]
+    write_path = '/home/shashank/intern_17/data/last_3_stats/'+ name
+    yaml_dump(write_path,dump_data)
+
+def get_last_n_agg_scores(n):
+    pa = '/home/shashank/intern_17/data/debut_last_n_scores.yaml'
+    da = yaml_loader(pa)
+    bat = da[n][0]['batting score']
+    bowl = da[n][1]['bowling score']
+    return (bat,bowl)
+
+if __name__ == '__main__':
+    season_1_files = [(str(i) + '.yaml') for i in range(335982,336041)]
+    season_1_files.remove(season_1_files[48])
+    season_2_files = [(str(i) + '.yaml') for i in range(392181, 392240)]
+    season_2_files.remove(season_2_files[6])
+    season_2_files.remove(season_2_files[11])
+
+    mypath = '/home/shashank/intern_17/data/updated_player_stats/'
+    agg_scores = get_last_n_agg_scores(3)
+
+    onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+    for f in season_1_files:
+        onlyfiles.remove(f)
+    for f in season_2_files:
+        onlyfiles.remove(f)
+
+    print len(onlyfiles)
+    print len(season_1_files),len(season_2_files)
+
+
+    get_last_n_for_a_match('1082635.yaml',agg_scores[0],agg_scores[1],3)

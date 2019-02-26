@@ -1,0 +1,116 @@
+Delhi Daredevils:
+- batting averages:
+  - {'0': '3', '100': '1', 4s: '133', '50': '7', 6s: '55', Ave: '24.84', BF: '1059',
+    HS: '111', Inns: '60', Mat: '65', 'NO': '4', Player: MA Agarwal, Runs: '1391',
+    SR: '131.35', Span: 2010-2015}
+  - {'0': '5', '100': '0', 4s: '19', '50': '0', 6s: '17', Ave: '17.0', BF: '223',
+    HS: '42', Inns: '34', Mat: '57', 'NO': '17', Player: NM Coulter-Nile, Runs: '289',
+    SR: '129.6', Span: 2009-2015}
+  - {'0': '11', '100': '0', 4s: '326', '50': '28', 6s: '141', Ave: '37.36', BF: '3643',
+    HS: '99', Inns: '170', Mat: '179', 'NO': '52', Player: JP Duminy, Runs: '4408',
+    SR: '121.0', Span: 2004-2015}
+  - {'0': '3', '100': '0', 4s: '11', '50': '0', 6s: '4', Ave: '9.17', BF: '85', HS: '17',
+    Inns: '22', Mat: '105', 'NO': '10', Player: Imran Tahir, Runs: '110', SR: '129.41',
+    Span: 2006-2015}
+  - {'0': '0', '100': '0', 4s: '10', '50': '1', 6s: '9', Ave: '15.6', BF: '132', HS: '60',
+    Inns: '11', Mat: '11', 'NO': '1', Player: SS Iyer, Runs: '156', SR: '118.18',
+    Span: 2014-2015}
+  - {'0': '5', '100': '0', 4s: '71', '50': '4', 6s: '32', Ave: '22.35', BF: '648',
+    HS: '60', Inns: '55', Mat: '60', 'NO': '15', Player: KM Jadhav, Runs: '894', SR: '137.96',
+    Span: 2007-2015}
+  - {'0': '3', '100': '0', 4s: '130', '50': '6', 6s: '55', Ave: '25.94', BF: '1542',
+    HS: '73', Inns: '102', Mat: '122', 'NO': '30', Player: AD Mathews, Runs: '1868',
+    SR: '121.14', Span: 2007-2015}
+  - {'0': '13', '100': '0', 4s: '56', '50': '0', 6s: '5', Ave: '14.12', BF: '605',
+    HS: '49', Inns: '69', Mat: '141', 'NO': '27', Player: A Mishra, Runs: '593', SR: '98.02',
+    Span: 2007-2015}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.0', BF: '11', HS: '4',
+    Inns: '5', Mat: '14', 'NO': '3', Player: DJ Muthuswami, Runs: '6', SR: '54.55',
+    Span: 2013-2015}
+  - {'0': '8', '100': '0', 4s: '189', '50': '11', 6s: '51', Ave: '29.28', BF: '2040',
+    HS: '75', Inns: '106', Mat: '121', 'NO': '27', Player: MK Tiwary, Runs: '2313',
+    SR: '113.38', Span: 2007-2015}
+  - {'0': '3', '100': '0', 4s: '255', '50': '21', 6s: '198', Ave: '27.74', BF: '2561',
+    HS: '83', Inns: '143', Mat: '148', 'NO': '19', Player: Yuvraj Singh, Runs: '3440',
+    SR: '134.32', Span: 2003-2015}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '0', Econ: '8.0', Inns: '1', Mat: '65', Overs: '1.0',
+    Player: MA Agarwal, Runs: '8', SR: '0', Span: 2010-2015, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '23.45', Econ: '7.5', Inns: '55', Mat: '57', Overs: '198.5',
+    Player: NM Coulter-Nile, Runs: '1548', SR: '18.08', Span: 2009-2015, Wkts: '66'}
+  - {'4': '3', '5': '0', Ave: '26.84', Econ: '7.36', Inns: '99', Mat: '179', Overs: '219.2',
+    Player: JP Duminy, Runs: '1637', SR: '21.57', Span: 2004-2015, Wkts: '61'}
+  - {'4': '2', '5': '0', Ave: '20.52', Econ: '6.57', Inns: '100', Mat: '105', Overs: '373.3',
+    Player: Imran Tahir, Runs: '2483', SR: '18.52', Span: 2006-2015, Wkts: '121'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '11', Overs: '0.0',
+    Player: SS Iyer, Runs: '0', SR: '0', Span: 2014-2015, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '22.0', Econ: '8.8', Inns: '4', Mat: '60', Overs: '10.0',
+    Player: KM Jadhav, Runs: '88', SR: '15.0', Span: 2007-2015, Wkts: '4'}
+  - {'4': '1', '5': '0', Ave: '29.52', Econ: '7.22', Inns: '95', Mat: '122', Overs: '277.3',
+    Player: AD Mathews, Runs: '2037', SR: '24.13', Span: 2007-2015, Wkts: '69'}
+  - {'4': '2', '5': '2', Ave: '20.72', Econ: '6.87', Inns: '141', Mat: '141', Overs: '506.4',
+    Player: A Mishra, Runs: '3523', SR: '17.88', Span: 2007-2015, Wkts: '170'}
+  - {'4': '0', '5': '0', Ave: '29.58', Econ: '6.53', Inns: '14', Mat: '14', Overs: '46.5',
+    Player: DJ Muthuswami, Runs: '355', SR: '23.42', Span: 2013-2015, Wkts: '12'}
+  - {'4': '0', '5': '0', Ave: '26.38', Econ: '7.96', Inns: '26', Mat: '121', Overs: '53.0',
+    Player: MK Tiwary, Runs: '422', SR: '19.88', Span: 2007-2015, Wkts: '16'}
+  - {'4': '2', '5': '0', Ave: '21.97', Econ: '7.15', Inns: '97', Mat: '148', Overs: '215.2',
+    Player: Yuvraj Singh, Runs: '1560', SR: '18.2', Span: 2003-2015, Wkts: '71'}
+Kolkata Knight Riders:
+- batting averages:
+  - {'0': '14', '100': '0', 4s: '81', '50': '0', 6s: '34', Ave: '16.1', BF: '756',
+    HS: '45', Inns: '92', Mat: '148', 'NO': '33', Player: PP Chawla, Runs: '950',
+    SR: '125.66', Span: 2007-2015}
+  - {'0': '15', '100': '0', 4s: '528', '50': '38', 6s: '68', Ave: '29.31', BF: '3757',
+    HS: '93', Inns: '173', Mat: '177', 'NO': '17', Player: G Gambhir, Runs: '4572',
+    SR: '121.69', Span: 2007-2015}
+  - {'0': '8', '100': '0', 4s: '15', '50': '0', 6s: '6', Ave: '9.47', BF: '153', HS: '23',
+    Inns: '38', Mat: '139', 'NO': '19', Player: M Morkel, Runs: '180', SR: '117.65',
+    Span: 2005-2015}
+  - {'0': '7', '100': '0', 4s: '14', '50': '0', 6s: '12', Ave: '10.08', BF: '202',
+    HS: '28', Inns: '45', Mat: '147', 'NO': '21', Player: SP Narine, Runs: '242',
+    SR: '119.8', Span: 2011-2015}
+  - {'0': '14', '100': '1', 4s: '233', '50': '11', 6s: '62', Ave: '26.44', BF: '2130',
+    HS: '114', Inns: '108', Mat: '113', 'NO': '14', Player: MK Pandey, Runs: '2485',
+    SR: '116.67', Span: 2007-2015}
+  - {'0': '14', '100': '1', 4s: '261', '50': '15', 6s: '186', Ave: '26.76', BF: '2261',
+    HS: '100', Inns: '160', Mat: '178', 'NO': '35', Player: YK Pathan, Runs: '3345',
+    SR: '147.94', Span: 2007-2015}
+  - {'0': '8', '100': '0', 4s: '139', '50': '8', 6s: '115', Ave: '24.2', BF: '1090',
+    HS: '77', Inns: '108', Mat: '136', 'NO': '33', Player: AD Russell, Runs: '1815',
+    SR: '166.51', Span: 2010-2015}
+  - {'0': '13', '100': '2', 4s: '293', '50': '21', 6s: '224', Ave: '29.88', BF: '3567',
+    HS: '121', Inns: '212', Mat: '241', 'NO': '47', Player: RN ten Doeschate, Runs: '4931',
+    SR: '138.24', Span: 2003-2015}
+  - {'0': '7', '100': '0', 4s: '409', '50': '21', 6s: '140', Ave: '28.68', BF: '3088',
+    HS: '92', Inns: '160', Mat: '166', 'NO': '18', Player: RV Uthappa, Runs: '4072',
+    SR: '131.87', Span: 2007-2015}
+  - {'0': '2', '100': '0', 4s: '56', '50': '0', 6s: '25', Ave: '23.36', BF: '487',
+    HS: '46', Inns: '39', Mat: '47', 'NO': '11', Player: SA Yadav, Runs: '654', SR: '134.29',
+    Span: 2010-2015}
+  - {'0': '4', '100': '0', 4s: '4', '50': '0', 6s: '5', Ave: '7.9', BF: '77', HS: '23',
+    Inns: '22', Mat: '78', 'NO': '12', Player: UT Yadav, Runs: '79', SR: '102.6',
+    Span: 2009-2015}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '26.47', Econ: '7.36', Inns: '148', Mat: '148', Overs: '515.4',
+    Player: PP Chawla, Runs: '3838', SR: '21.34', Span: 2007-2015, Wkts: '145'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '177', Overs: '0.0',
+    Player: G Gambhir, Runs: '0', SR: '0', Span: 2007-2015, Wkts: '0'}
+  - {'4': '4', '5': '0', Ave: '24.02', Econ: '7.29', Inns: '137', Mat: '139', Overs: '512.1',
+    Player: M Morkel, Runs: '3747', SR: '19.7', Span: 2005-2015, Wkts: '156'}
+  - {'4': '9', '5': '1', Ave: '16.12', Econ: '5.45', Inns: '144', Mat: '147', Overs: '560.1',
+    Player: SP Narine, Runs: '3062', SR: '17.69', Span: 2011-2015, Wkts: '190'}
+  - {'4': '2', '5': '0', Ave: '21.2', Econ: '7.57', Inns: '10', Mat: '113', Overs: '28.0',
+    Player: MK Pandey, Runs: '212', SR: '16.8', Span: 2007-2015, Wkts: '10'}
+  - {'4': '2', '5': '0', Ave: '27.93', Econ: '7.54', Inns: '118', Mat: '178', Overs: '332.3',
+    Player: YK Pathan, Runs: '2542', SR: '21.92', Span: 2007-2015, Wkts: '91'}
+  - {'4': '4', '5': '0', Ave: '33.91', Econ: '8.33', Inns: '125', Mat: '136', Overs: '351.2',
+    Player: AD Russell, Runs: '2950', SR: '24.23', Span: 2010-2015, Wkts: '87'}
+  - {'4': '1', '5': '0', Ave: '26.33', Econ: '7.98', Inns: '116', Mat: '241', Overs: '307.2',
+    Player: RN ten Doeschate, Runs: '2475', SR: '19.62', Span: 2003-2015, Wkts: '94'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '11.0', Inns: '1', Mat: '166', Overs: '1.0',
+    Player: RV Uthappa, Runs: '11', SR: '0', Span: 2007-2015, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '23.33', Econ: '6.36', Inns: '10', Mat: '47', Overs: '22.0',
+    Player: SA Yadav, Runs: '140', SR: '22.0', Span: 2010-2015, Wkts: '6'}
+  - {'4': '1', '5': '1', Ave: '28.85', Econ: '7.87', Inns: '76', Mat: '78', Overs: '270.3',
+    Player: UT Yadav, Runs: '2164', SR: '21.64', Span: 2009-2015, Wkts: '75'}

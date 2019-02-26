@@ -1,0 +1,135 @@
+DeccanChargers:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '4.50', BF: '42', HS: '14',
+    Inns: '6', Mat: '7', 'NO': '0', Player: Anirudh Singh, Runs: '27', SR: '64.28',
+    Span: 2007-2010}
+  - {'0': '1', '100': '0', 4s: '44', '50': '3', 6s: '3', Ave: '23.56', BF: '350',
+    HS: 80*, Inns: '19', Mat: '19', 'NO': '3', Player: AA Bilakhia, Runs: '377', SR: '107.71',
+    Span: 2007-2010}
+  - {'0': '3', '100': '1', 4s: '161', '50': '8', 6s: '77', Ave: '28.53', BF: '998',
+    HS: 109*, Inns: '54', Mat: '54', 'NO': '2', Player: AC Gilchrist, Runs: '1484',
+    SR: '148.69', Span: 2005-2010}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0.00', BF: '0', HS: 0*,
+    Inns: '2', Mat: '10', 'NO': '1', Player: Harmeet Singh, Runs: '0', SR: '-', Span: 2009-2010}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '3', Ave: '10.45', BF: '113', HS: '31',
+    Inns: '18', Mat: '31', 'NO': '7', Player: RJ Harris, Runs: '115', SR: '101.76',
+    Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '54', '50': '3', 6s: '6', Ave: '23.52', BF: '386',
+    HS: 78*, Inns: '22', Mat: '22', 'NO': '3', Player: VVS Laxman, Runs: '447', SR: '115.80',
+    Span: 2008-2010}
+  - {'0': '4', '100': '0', 4s: '0', '50': '0', 6s: '2', Ave: '4.42', BF: '29', HS: 11*,
+    Inns: '17', Mat: '48', 'NO': '10', Player: PP Ojha, Runs: '31', SR: '106.89',
+    Span: 2007-2010}
+  - {'0': '2', '100': '1', 4s: '146', '50': '8', 6s: '74', Ave: '33.37', BF: '1276',
+    HS: 101*, Inns: '63', Mat: '66', 'NO': '12', Player: RG Sharma, Runs: '1702',
+    SR: '133.38', Span: 2007-2010}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '4.86', BF: '96', HS: '10',
+    Inns: '29', Mat: '55', 'NO': '14', Player: RP Singh, Runs: '73', SR: '76.04',
+    Span: 2007-2010}
+  - {'0': '6', '100': '0', 4s: '63', '50': '4', 6s: '48', Ave: '19.50', BF: '703',
+    HS: 72*, Inns: '52', Mat: '55', 'NO': '4', Player: DR Smith, Runs: '936', SR: '133.14',
+    Span: 2006-2010}
+  - {'0': '5', '100': '2', 4s: '150', '50': '8', 6s: '55', Ave: '37.43', BF: '979',
+    HS: 117*, Inns: '52', Mat: '56', 'NO': '11', Player: A Symonds, Runs: '1535',
+    SR: '156.79', Span: 2003-2010}
+- bowling averages:
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '4', Econ: '-', Inns: '-', Mat: '7',
+    Mdns: '-', Overs: '-', Player: Anirudh Singh, Runs: '-', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '4', Econ: '-', Inns: '-', Mat: '19',
+    Mdns: '-', Overs: '-', Player: AA Bilakhia, Runs: '-', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '39', Econ: '-', Inns: '-', Mat: '54',
+    Mdns: '-', Overs: '-', Player: AC Gilchrist, Runs: '-', SR: '-', Span: 2005-2010,
+    St: '14', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '50.20', BBI: 2/23, Ct: '4', Econ: '8.41', Inns: '10',
+    Mat: '10', Mdns: '0', Overs: '29.5', Player: Harmeet Singh, Runs: '251', SR: '35.8',
+    Span: 2009-2010, St: '0', Wkts: '5'}
+  - {'4': '0', '5': '0', Ave: '21.65', BBI: 3/23, Ct: '10', Econ: '7.29', Inns: '30',
+    Mat: '31', Mdns: '3', Overs: '112.5', Player: RJ Harris, Runs: '823', SR: '17.8',
+    Span: 2007-2010, St: '0', Wkts: '38'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '4', Econ: '-', Inns: '-', Mat: '22',
+    Mdns: '-', Overs: '-', Player: VVS Laxman, Runs: '-', SR: '-', Span: 2008-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '19.09', BBI: 4/21, Ct: '10', Econ: '7.15', Inns: '47',
+    Mat: '48', Mdns: '0', Overs: '165.3', Player: PP Ojha, Runs: '1184', SR: '16.0',
+    Span: 2007-2010, St: '0', Wkts: '62'}
+  - {'4': '1', '5': '0', Ave: '21.42', BBI: 4/6, Ct: '21', Econ: '7.05', Inns: '34',
+    Mat: '66', Mdns: '0', Overs: '79.0', Player: RG Sharma, Runs: '557', SR: '18.2',
+    Span: 2007-2010, St: '0', Wkts: '26'}
+  - {'4': '2', '5': '0', Ave: '21.77', BBI: 4/13, Ct: '21', Econ: '7.62', Inns: '54',
+    Mat: '55', Mdns: '3', Overs: '200.0', Player: RP Singh, Runs: '1524', SR: '17.1',
+    Span: 2007-2010, St: '0', Wkts: '70'}
+  - {'4': '1', '5': '0', Ave: '22.82', BBI: 4/9, Ct: '21', Econ: '7.72', Inns: '52',
+    Mat: '55', Mdns: '0', Overs: '136.0', Player: DR Smith, Runs: '1050', SR: '17.7',
+    Span: 2006-2010, St: '0', Wkts: '46'}
+  - {'4': '0', '5': '0', Ave: '32.94', BBI: 3/21, Ct: '26', Econ: '7.89', Inns: '51',
+    Mat: '56', Mdns: '1', Overs: '146.0', Player: A Symonds, Runs: '1153', SR: '25.0',
+    Span: 2003-2010, St: '0', Wkts: '35'}
+RajasthanRoyals:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '4.00', BF: '4', HS: '4',
+    Inns: '1', Mat: '1', 'NO': '0', Player: AP Dole, Runs: '4', SR: '100.00', Span: 2010-2010}
+  - {'0': '3', '100': '0', 4s: '28', '50': '1', 6s: '3', Ave: '18.71', BF: '246',
+    HS: '55', Inns: '15', Mat: '15', 'NO': '1', Player: FY Fazal, Runs: '262', SR: '106.50',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '29', '50': '1', 6s: '5', Ave: '19.80', BF: '262',
+    HS: 53*, Inns: '19', Mat: '20', 'NO': '4', Player: AA Jhunjhunwala, Runs: '297',
+    SR: '113.35', Span: 2007-2010}
+  - {'0': '12', '100': '1', 4s: '203', '50': '10', 6s: '51', Ave: '25.00', BF: '1042',
+    HS: 124*, Inns: '66', Mat: '66', 'NO': '5', Player: MJ Lumb, Runs: '1525', SR: '146.35',
+    Span: 2003-2010}
+  - {'0': '1', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '8.75', BF: '51', HS: '8',
+    Inns: '11', Mat: '37', 'NO': '7', Player: M Morkel, Runs: '35', SR: '68.62', Span: 2005-2010}
+  - {'0': '3', '100': '0', 4s: '59', '50': '5', 6s: '34', Ave: '27.69', BF: '475',
+    HS: 94*, Inns: '26', Mat: '26', 'NO': '3', Player: NV Ojha, Runs: '637', SR: '134.10',
+    Span: 2007-2010}
+  - {'0': '6', '100': '1', 4s: '113', '50': '8', 6s: '79', Ave: '26.06', BF: '758',
+    HS: '100', Inns: '55', Mat: '58', 'NO': '6', Player: YK Pathan, Runs: '1277',
+    SR: '168.46', Span: 2007-2010}
+  - {'0': '2', '100': '0', 4s: '9', '50': '0', 6s: '4', Ave: '17.57', BF: '99', HS: '43',
+    Inns: '11', Mat: '16', 'NO': '4', Player: AS Raut, Runs: '123', SR: '124.24',
+    Span: 2009-2010}
+  - {'0': '1', '100': '0', 4s: '4', '50': '0', 6s: '1', Ave: '9.16', BF: '53', HS: '12',
+    Inns: '14', Mat: '40', 'NO': '8', Player: SK Trivedi, Runs: '55', SR: '103.77',
+    Span: 2007-2010}
+  - {'0': '7', '100': '0', 4s: '14', '50': '0', 6s: '7', Ave: '9.85', BF: '204', HS: 34*,
+    Inns: '26', Mat: '41', 'NO': '6', Player: SK Warne, Runs: '197', SR: '96.56',
+    Span: 2004-2010}
+  - {'0': '5', '100': '0', 4s: '96', '50': '10', 6s: '49', Ave: '37.06', BF: '706',
+    HS: 97*, Inns: '38', Mat: '40', 'NO': '9', Player: SR Watson, Runs: '1075', SR: '152.26',
+    Span: 2004-2010}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '21.00', BBI: 2/42, Ct: '1', Econ: '10.50', Inns: '1',
+    Mat: '1', Mdns: '0', Overs: '4.0', Player: AP Dole, Runs: '42', SR: '12.0', Span: 2010-2010,
+    St: '0', Wkts: '2'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '8', Econ: '-', Inns: '-', Mat: '15',
+    Mdns: '-', Overs: '-', Player: FY Fazal, Runs: '-', SR: '-', Span: 2007-2010,
+    St: '0', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '101.00', BBI: 1/9, Ct: '8', Econ: '9.93', Inns: '7',
+    Mat: '20', Mdns: '0', Overs: '10.1', Player: AA Jhunjhunwala, Runs: '101', SR: '61.0',
+    Span: 2007-2010, St: '0', Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '21.66', BBI: 3/32, Ct: '22', Econ: '10.83', Inns: '3',
+    Mat: '66', Mdns: '0', Overs: '6.0', Player: MJ Lumb, Runs: '65', SR: '12.0', Span: 2003-2010,
+    St: '0', Wkts: '3'}
+  - {'4': '1', '5': '0', Ave: '26.26', BBI: 4/17, Ct: '7', Econ: '7.05', Inns: '36',
+    Mat: '37', Mdns: '2', Overs: '126.4', Player: M Morkel, Runs: '893', SR: '22.3',
+    Span: 2005-2010, St: '0', Wkts: '34'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '12', Econ: '-', Inns: '-', Mat: '26',
+    Mdns: '-', Overs: '-', Player: NV Ojha, Runs: '-', SR: '-', Span: 2007-2010, St: '6',
+    Wkts: '-'}
+  - {'4': '2', '5': '0', Ave: '24.48', BBI: 4/10, Ct: '21', Econ: '7.91', Inns: '47',
+    Mat: '58', Mdns: '0', Overs: '133.0', Player: YK Pathan, Runs: '1053', SR: '18.5',
+    Span: 2007-2010, St: '0', Wkts: '43'}
+  - {'4': '0', '5': '0', Ave: '38.00', BBI: 1/18, Ct: '5', Econ: '8.44', Inns: '6',
+    Mat: '16', Mdns: '0', Overs: '9.0', Player: AS Raut, Runs: '76', SR: '27.0', Span: 2009-2010,
+    St: '0', Wkts: '2'}
+  - {'4': '1', '5': '0', Ave: '28.16', BBI: 4/37, Ct: '10', Econ: '7.99', Inns: '39',
+    Mat: '40', Mdns: '0', Overs: '130.2', Player: SK Trivedi, Runs: '1042', SR: '21.1',
+    Span: 2007-2010, St: '0', Wkts: '37'}
+  - {'4': '1', '5': '0', Ave: '24.46', BBI: 4/21, Ct: '13', Econ: '7.34', Inns: '41',
+    Mat: '41', Mdns: '1', Overs: '150.0', Player: SK Warne, Runs: '1101', SR: '20.0',
+    Span: 2004-2010, St: '0', Wkts: '45'}
+  - {'4': '0', '5': '0', Ave: '21.91', BBI: 3/10, Ct: '16', Econ: '7.32', Inns: '32',
+    Mat: '40', Mdns: '1', Overs: '110.4', Player: SR Watson, Runs: '811', SR: '17.9',
+    Span: 2004-2010, St: '0', Wkts: '37'}

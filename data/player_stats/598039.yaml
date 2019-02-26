@@ -1,0 +1,137 @@
+MumbaiIndians:
+- batting averages:
+  - {'0': '6', '100': '0', 4s: '73', '50': '0', 6s: '39', Ave: '16.76', BF: '556',
+    HS: 49*, Inns: '76', Mat: '131', 'NO': '29', Player: Harbhajan Singh, Runs: '788',
+    SR: '141.72', Span: 2005-2013}
+  - {'0': '2', '100': '0', 4s: '15', '50': '0', 6s: '4', Ave: '12.76', BF: '143',
+    HS: '30', Inns: '22', Mat: '43', 'NO': '9', Player: MG Johnson, Runs: '166', SR: '116.08',
+    Span: 2006-2013}
+  - {'0': '7', '100': '0', 4s: '250', '50': '12', 6s: '65', Ave: '26.15', BF: '1892',
+    HS: 90*, Inns: '112', Mat: '128', 'NO': '17', Player: KD Karthik, Runs: '2485',
+    SR: '131.34', Span: 2006-2013}
+  - {'0': '0', '100': '0', 4s: '4', '50': '0', 6s: '1', Ave: '10.50', BF: '78', HS: 14*,
+    Inns: '17', Mat: '46', 'NO': '11', Player: DS Kulkarni, Runs: '63', SR: '80.76',
+    Span: 2007-2013}
+  - {'0': '8', '100': '0', 4s: '14', '50': '0', 6s: '15', Ave: '8.40', BF: '249',
+    HS: 37*, Inns: '49', Mat: '148', 'NO': '19', Player: SL Malinga, Runs: '252',
+    SR: '101.20', Span: 2004-2013}
+  - {'0': '5', '100': '0', 4s: '0', '50': '0', 6s: '3', Ave: '4.25', BF: '64', HS: 11*,
+    Inns: '26', Mat: '93', 'NO': '14', Player: PP Ojha, Runs: '51', SR: '79.68', Span: 2007-2013}
+  - {'0': '5', '100': '0', 4s: '236', '50': '18', 6s: '253', Ave: '29.63', BF: '2296',
+    HS: 89*, Inns: '169', Mat: '194', 'NO': '46', Player: KA Pollard, Runs: '3645',
+    SR: '158.75', Span: 2006-2013}
+  - {'0': '5', '100': '0', 4s: '180', '50': '12', 6s: '56', Ave: '25.80', BF: '1606',
+    HS: 81*, Inns: '89', Mat: '94', 'NO': '13', Player: AT Rayudu, Runs: '1961', SR: '122.10',
+    Span: 2007-2013}
+  - {'0': '7', '100': '2', 4s: '308', '50': '25', 6s: '155', Ave: '32.84', BF: '2802',
+    HS: 109*, Inns: '139', Mat: '150', 'NO': '27', Player: RG Sharma, Runs: '3679',
+    SR: '131.29', Span: 2007-2013}
+  - {'0': '11', '100': '1', 4s: '228', '50': '15', 6s: '149', Ave: '24.95', BF: '2160',
+    HS: 103*, Inns: '129', Mat: '134', 'NO': '15', Player: DR Smith, Runs: '2845',
+    SR: '131.71', Span: 2006-2013}
+  - {'0': '4', '100': '1', 4s: '336', '50': '16', 6s: '34', Ave: '33.90', BF: '2149',
+    HS: 100*, Inns: '87', Mat: '87', 'NO': '10', Player: SR Tendulkar, Runs: '2611',
+    SR: '121.49', Span: 2006-2013}
+- bowling averages:
+  - {'4': '2', '5': '1', Ave: '26.57', BBI: 5/18, Ct: '38', Econ: '6.70', Inns: '125',
+    Mat: '131', Mdns: '8', Overs: '444.0', Player: Harbhajan Singh, Runs: '2976',
+    SR: '23.7', Span: 2005-2013, St: '0', Wkts: '112'}
+  - {'4': '0', '5': '0', Ave: '22.06', BBI: 3/15, Ct: '10', Econ: '7.28', Inns: '42',
+    Mat: '43', Mdns: '1', Overs: '151.2', Player: MG Johnson, Runs: '1103', SR: '18.1',
+    Span: 2006-2013, St: '0', Wkts: '50'}
+  - {'4': '0', '5': '0', Ave: '10.00', BBI: 1/10, Ct: '75', Econ: '5.00', Inns: '1',
+    Mat: '128', Mdns: '0', Overs: '2.0', Player: KD Karthik, Runs: '10', SR: '12.0',
+    Span: 2006-2013, St: '28', Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '26.53', BBI: 3/18, Ct: '10', Econ: '8.04', Inns: '45',
+    Mat: '46', Mdns: '1', Overs: '148.2', Player: DS Kulkarni, Runs: '1194', SR: '19.7',
+    Span: 2007-2013, St: '0', Wkts: '45'}
+  - {'4': '5', '5': '4', Ave: '17.76', BBI: 6/7, Ct: '32', Econ: '6.57', Inns: '144',
+    Mat: '148', Mdns: '10', Overs: '534.3', Player: SL Malinga, Runs: '3517', SR: '16.1',
+    Span: 2004-2013, St: '0', Wkts: '198'}
+  - {'4': '2', '5': '0', Ave: '20.00', BBI: 4/21, Ct: '18', Econ: '6.89', Inns: '90',
+    Mat: '93', Mdns: '0', Overs: '319.1', Player: PP Ojha, Runs: '2200', SR: '17.4',
+    Span: 2007-2013, St: '0', Wkts: '110'}
+  - {'4': '3', '5': '0', Ave: '22.62', BBI: 4/15, Ct: '98', Econ: '7.96', Inns: '151',
+    Mat: '194', Mdns: '0', Overs: '420.4', Player: KA Pollard, Runs: '3349', SR: '17.0',
+    Span: 2006-2013, St: '0', Wkts: '148'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '39', Econ: '-', Inns: '-', Mat: '94',
+    Mdns: '-', Overs: '-', Player: AT Rayudu, Runs: '-', SR: '-', Span: 2007-2013,
+    St: '3', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '28.21', BBI: 4/6, Ct: '68', Econ: '7.79', Inns: '54',
+    Mat: '150', Mdns: '0', Overs: '101.2', Player: RG Sharma, Runs: '790', SR: '21.7',
+    Span: 2007-2013, St: '0', Wkts: '28'}
+  - {'4': '1', '5': '0', Ave: '25.25', BBI: 4/9, Ct: '55', Econ: '7.58', Inns: '107',
+    Mat: '134', Mdns: '3', Overs: '259.4', Player: DR Smith, Runs: '1970', SR: '19.9',
+    Span: 2006-2013, St: '0', Wkts: '78'}
+  - {'4': '0', '5': '0', Ave: '61.50', BBI: 1/12, Ct: '28', Econ: '7.93', Inns: '8',
+    Mat: '87', Mdns: '0', Overs: '15.3', Player: SR Tendulkar, Runs: '123', SR: '46.5',
+    Span: 2006-2013, St: '0', Wkts: '2'}
+SunrisersHyderabad:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '19', '50': '0', 6s: '15', Ave: '17.38', BF: '218',
+    HS: 36*, Inns: '28', Mat: '35', 'NO': '10', Player: A Ashish Reddy, Runs: '313',
+    SR: '143.57', Span: 2009-2013}
+  - {'0': '4', '100': '0', 4s: '242', '50': '18', 6s: '47', Ave: '32.34', BF: '1874',
+    HS: 95*, Inns: '80', Mat: '81', 'NO': '11', Player: S Dhawan, Runs: '2232', SR: '119.10',
+    Span: 2007-2013}
+  - {'0': '10', '100': '0', 4s: '56', '50': '0', 6s: '4', Ave: '15.30', BF: '547',
+    HS: '49', Inns: '59', Mat: '103', 'NO': '23', Player: A Mishra, Runs: '551', SR: '100.73',
+    Span: 2007-2013}
+  - {'0': '7', '100': '0', 4s: '55', '50': '1', 6s: '45', Ave: '17.28', BF: '549',
+    HS: '72', Inns: '68', Mat: '83', 'NO': '22', Player: NLTC Perera, Runs: '795',
+    SR: '144.80', Span: 2008-2013}
+  - {'0': '2', '100': '1', 4s: '44', '50': '0', 6s: '14', Ave: '21.40', BF: '485',
+    HS: 105*, Inns: '28', Mat: '29', 'NO': '3', Player: PA Reddy, Runs: '535', SR: '110.30',
+    Span: 2010-2013}
+  - {'0': '3', '100': '0', 4s: '55', '50': '1', 6s: '36', Ave: '18.07', BF: '582',
+    HS: '60', Inns: '57', Mat: '73', 'NO': '15', Player: DJG Sammy, Runs: '759', SR: '130.41',
+    Span: 2006-2013}
+  - {'0': '8', '100': '0', 4s: '368', '50': '19', 6s: '55', Ave: '28.53', BF: '2603',
+    HS: '94', Inns: '125', Mat: '130', 'NO': '10', Player: KC Sangakkara, Runs: '3281',
+    SR: '126.04', Span: 2004-2013}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '9.00', BF: '55', HS: '9',
+    Inns: '22', Mat: '75', 'NO': '17', Player: I Sharma, Runs: '45', SR: '81.81',
+    Span: 2007-2013}
+  - {'0': '0', '100': '0', 4s: '31', '50': '2', 6s: '13', Ave: '20.35', BF: '344',
+    HS: '67', Inns: '22', Mat: '29', 'NO': '2', Player: KV Sharma, Runs: '407', SR: '118.31',
+    Span: 2007-2013}
+  - {'0': '4', '100': '0', 4s: '10', '50': '0', 6s: '4', Ave: '6.66', BF: '128', HS: '22',
+    Inns: '33', Mat: '117', 'NO': '12', Player: DW Steyn, Runs: '140', SR: '109.37',
+    Span: 2005-2013}
+  - {'0': '0', '100': '0', 4s: '19', '50': '0', 6s: '1', Ave: '17.85', BF: '254',
+    HS: '46', Inns: '17', Mat: '17', 'NO': '3', Player: GH Vihari, Runs: '250', SR: '98.42',
+    Span: 2010-2013}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '24.30', BBI: 3/25, Ct: '10', Econ: '8.69', Inns: '30',
+    Mat: '35', Mdns: '0', Overs: '83.5', Player: A Ashish Reddy, Runs: '729', SR: '16.7',
+    Span: 2009-2013, St: '0', Wkts: '30'}
+  - {'4': '0', '5': '0', Ave: '16.50', BBI: 1/7, Ct: '34', Econ: '8.25', Inns: '6',
+    Mat: '81', Mdns: '0', Overs: '8.0', Player: S Dhawan, Runs: '66', SR: '12.0',
+    Span: 2007-2013, St: '0', Wkts: '4'}
+  - {'4': '2', '5': '2', Ave: '18.52', BBI: 5/17, Ct: '21', Econ: '6.83', Inns: '103',
+    Mat: '103', Mdns: '7', Overs: '374.1', Player: A Mishra, Runs: '2557', SR: '16.2',
+    Span: 2007-2013, St: '0', Wkts: '138'}
+  - {'4': '0', '5': '0', Ave: '24.57', BBI: 3/17, Ct: '29', Econ: '7.81', Inns: '77',
+    Mat: '83', Mdns: '1', Overs: '223.2', Player: NLTC Perera, Runs: '1745', SR: '18.8',
+    Span: 2008-2013, St: '0', Wkts: '71'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '8', Econ: '-', Inns: '-', Mat: '29',
+    Mdns: '-', Overs: '-', Player: PA Reddy, Runs: '-', SR: '-', Span: 2010-2013,
+    St: '0', Wkts: '-'}
+  - {'4': '1', '5': '1', Ave: '21.60', BBI: 5/26, Ct: '35', Econ: '6.83', Inns: '69',
+    Mat: '73', Mdns: '1', Overs: '214.5', Player: DJG Sammy, Runs: '1469', SR: '18.9',
+    Span: 2006-2013, St: '0', Wkts: '68'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '80', Econ: '-', Inns: '-', Mat: '130',
+    Mdns: '-', Overs: '-', Player: KC Sangakkara, Runs: '-', SR: '-', Span: 2004-2013,
+    St: '34', Wkts: '-'}
+  - {'4': '0', '5': '1', Ave: '33.45', BBI: 5/12, Ct: '15', Econ: '7.45', Inns: '75',
+    Mat: '75', Mdns: '2', Overs: '269.1', Player: I Sharma, Runs: '2007', SR: '26.9',
+    Span: 2007-2013, St: '0', Wkts: '60'}
+  - {'4': '0', '5': '0', Ave: '22.52', BBI: 2/19, Ct: '7', Econ: '6.49', Inns: '23',
+    Mat: '29', Mdns: '1', Overs: '59.0', Player: KV Sharma, Runs: '383', SR: '20.8',
+    Span: 2007-2013, St: '0', Wkts: '17'}
+  - {'4': '1', '5': '0', Ave: '21.90', BBI: 4/9, Ct: '30', Econ: '6.49', Inns: '115',
+    Mat: '117', Mdns: '8', Overs: '435.0', Player: DW Steyn, Runs: '2826', SR: '20.2',
+    Span: 2005-2013, St: '0', Wkts: '129'}
+  - {'4': '0', '5': '0', Ave: '13.83', BBI: 3/28, Ct: '8', Econ: '6.91', Inns: '6',
+    Mat: '17', Mdns: '0', Overs: '12.0', Player: GH Vihari, Runs: '83', SR: '12.0',
+    Span: 2010-2013, St: '0', Wkts: '6'}

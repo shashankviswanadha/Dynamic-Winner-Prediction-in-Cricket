@@ -1,0 +1,137 @@
+KingsXIPunjab:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '10', '50': '0', 6s: '2', Ave: '14.57', BF: '104',
+    HS: 17*, Inns: '19', Mat: '53', 'NO': '12', Player: VR Aaron, Runs: '102', SR: '98.07',
+    Span: 2009-2017}
+  - {'0': '4', '100': '0', 4s: '353', '50': '22', 6s: '61', Ave: '32.33', BF: '2534',
+    HS: 97*, Inns: '109', Mat: '110', 'NO': '10', Player: HM Amla, Runs: '3201', SR: '126.32',
+    Span: 2004-2017}
+  - {'0': '13', '100': '1', 4s: '305', '50': '18', 6s: '184', Ave: '24.70', BF: '2241',
+    HS: 145*, Inns: '161', Mat: '170', 'NO': '18', Player: GJ Maxwell, Runs: '3533',
+    SR: '157.65', Span: 2010-2017}
+  - {'0': '12', '100': '2', 4s: '353', '50': '22', 6s: '211', Ave: '35.13', BF: '3534',
+    HS: 120*, Inns: '202', Mat: '222', 'NO': '63', Player: DA Miller, Runs: '4884',
+    SR: '138.20', Span: 2008-2017}
+  - {'0': '6', '100': '0', 4s: '44', '50': '0', 6s: '30', Ave: '18.00', BF: '493',
+    HS: 43*, Inns: '51', Mat: '73', 'NO': '15', Player: AR Patel, Runs: '648', SR: '131.44',
+    Span: 2013-2017}
+  - {'0': '4', '100': '1', 4s: '219', '50': '13', 6s: '93', Ave: '24.98', BF: '1918',
+    HS: 115*, Inns: '129', Mat: '153', 'NO': '28', Player: WP Saha, Runs: '2523',
+    SR: '131.54', Span: 2007-2017}
+  - {'0': '0', '100': '0', 4s: '4', '50': '0', 6s: '0', Ave: '16.00', BF: '53', HS: 13*,
+    Inns: '16', Mat: '67', 'NO': '13', Player: Sandeep Sharma, Runs: '48', SR: '90.56',
+    Span: 2013-2017}
+  - {'0': '3', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '7.83', BF: '62', HS: '9',
+    Inns: '26', Mat: '108', 'NO': '20', Player: I Sharma, Runs: '47', SR: '75.80',
+    Span: 2007-2017}
+  - {'0': '3', '100': '0', 4s: '5', '50': '0', 6s: '4', Ave: '8.40', BF: '74', HS: 21*,
+    Inns: '22', Mat: '89', 'NO': '12', Player: MM Sharma, Runs: '84', SR: '113.51',
+    Span: 2013-2017}
+  - {'0': '3', '100': '0', 4s: '42', '50': '2', 6s: '11', Ave: '20.37', BF: '426',
+    HS: '52', Inns: '30', Mat: '37', 'NO': '6', Player: MP Stoinis, Runs: '489', SR: '114.78',
+    Span: 2012-2017}
+  - {'0': '4', '100': '0', 4s: '165', '50': '7', 6s: '44', Ave: '26.01', BF: '1226',
+    HS: '77', Inns: '63', Mat: '65', 'NO': '4', Player: M Vohra, Runs: '1535', SR: '125.20',
+    Span: 2013-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '29.66', BBI: 3/16, Ct: '3', Econ: '8.23', Inns: '51',
+    Mat: '53', Mdns: '2', Overs: '183.4', Player: VR Aaron, Runs: '1513', SR: '21.6',
+    Span: 2009-2017, St: '0', Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '30', Econ: '15.00', Inns: '2', Mat: '110',
+    Mdns: '0', Overs: '0.2', Player: HM Amla, Runs: '5', SR: '-', Span: 2004-2017,
+    St: '0', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '35.83', BBI: 3/13, Ct: '82', Econ: '7.97', Inns: '115',
+    Mat: '170', Mdns: '1', Overs: '242.3', Player: GJ Maxwell, Runs: '1935', SR: '26.9',
+    Span: 2010-2017, St: '0', Wkts: '54'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '145', Econ: '10.33', Inns: '3',
+    Mat: '222', Mdns: '0', Overs: '3.0', Player: DA Miller, Runs: '31', SR: '-', Span: 2008-2017,
+    St: '0', Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '25.37', BBI: 4/21, Ct: '25', Econ: '6.87', Inns: '73',
+    Mat: '73', Mdns: '2', Overs: '265.4', Player: AR Patel, Runs: '1827', SR: '22.1',
+    Span: 2013-2017, St: '0', Wkts: '72'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '80', Econ: '-', Inns: '-', Mat: '153',
+    Mdns: '-', Overs: '-', Player: WP Saha, Runs: '-', SR: '-', Span: 2007-2017, St: '24',
+    Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '22.00', BBI: 4/25, Ct: '15', Econ: '7.26', Inns: '67',
+    Mat: '67', Mdns: '9', Overs: '242.2', Player: Sandeep Sharma, Runs: '1760', SR: '18.1',
+    Span: 2013-2017, St: '0', Wkts: '80'}
+  - {'4': '1', '5': '1', Ave: '34.38', BBI: 5/12, Ct: '22', Econ: '7.75', Inns: '108',
+    Mat: '108', Mdns: '3', Overs: '390.1', Player: I Sharma, Runs: '3026', SR: '26.6',
+    Span: 2007-2017, St: '0', Wkts: '88'}
+  - {'4': '2', '5': '0', Ave: '27.16', BBI: 4/14, Ct: '19', Econ: '8.08', Inns: '88',
+    Mat: '89', Mdns: '0', Overs: '299.0', Player: MM Sharma, Runs: '2418', SR: '20.1',
+    Span: 2013-2017, St: '0', Wkts: '89'}
+  - {'4': '1', '5': '0', Ave: '24.60', BBI: 4/15, Ct: '8', Econ: '8.14', Inns: '28',
+    Mat: '37', Mdns: '0', Overs: '69.3', Player: MP Stoinis, Runs: '566', SR: '18.1',
+    Span: 2012-2017, St: '0', Wkts: '23'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '24', Econ: '-', Inns: '-', Mat: '65',
+    Mdns: '-', Overs: '-', Player: M Vohra, Runs: '-', SR: '-', Span: 2013-2017, St: '0',
+    Wkts: '-'}
+KolkataKnightRiders:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '4.28', BF: '48', HS: '5',
+    Inns: '15', Mat: '60', 'NO': '8', Player: TA Boult, Runs: '30', SR: '62.50', Span: 2009-2017}
+  - {'0': '16', '100': '0', 4s: '96', '50': '0', 6s: '41', Ave: '15.30', BF: '898',
+    HS: 45*, Inns: '109', Mat: '185', 'NO': '36', Player: PP Chawla, Runs: '1117',
+    SR: '124.38', Span: 2007-2017}
+  - {'0': '6', '100': '0', 4s: '133', '50': '6', 6s: '111', Ave: '26.05', BF: '1036',
+    HS: 72*, Inns: '91', Mat: '101', 'NO': '23', Player: C de Grandhomme, Runs: '1772',
+    SR: '171.04', Span: 2007-2017}
+  - {'0': '18', '100': '0', 4s: '685', '50': '49', 6s: '77', Ave: '29.36', BF: '4773',
+    HS: '93', Inns: '219', Mat: '223', 'NO': '21', Player: G Gambhir, Runs: '5814',
+    SR: '121.81', Span: 2007-2017}
+  - {'0': '9', '100': '0', 4s: '40', '50': '0', 6s: '40', Ave: '12.03', BF: '470',
+    HS: '37', Inns: '86', Mat: '219', 'NO': '34', Player: SP Narine, Runs: '626',
+    SR: '133.19', Span: 2011-2017}
+  - {'0': '16', '100': '1', 4s: '273', '50': '14', 6s: '86', Ave: '26.62', BF: '2604',
+    HS: 114*, Inns: '136', Mat: '146', 'NO': '20', Player: MK Pandey, Runs: '3089',
+    SR: '118.62', Span: 2007-2017}
+  - {'0': '15', '100': '1', 4s: '329', '50': '20', 6s: '215', Ave: '27.94', BF: '2895',
+    HS: '100', Inns: '196', Mat: '220', 'NO': '47', Player: YK Pathan, Runs: '4164',
+    SR: '143.83', Span: 2007-2017}
+  - {'0': '8', '100': '0', 4s: '531', '50': '26', 6s: '160', Ave: '29.24', BF: '3830',
+    HS: '92', Inns: '194', Mat: '201', 'NO': '20', Player: RV Uthappa, Runs: '5089',
+    SR: '132.87', Span: 2007-2017}
+  - {'0': '5', '100': '0', 4s: '51', '50': '1', 6s: '22', Ave: '25.57', BF: '482',
+    HS: 55*, Inns: '55', Mat: '90', 'NO': '29', Player: CR Woakes, Runs: '665', SR: '137.96',
+    Span: 2008-2017}
+  - {'0': '4', '100': '0', 4s: '93', '50': '2', 6s: '33', Ave: '22.15', BF: '789',
+    HS: '60', Inns: '67', Mat: '83', 'NO': '21', Player: SA Yadav, Runs: '1019', SR: '129.15',
+    Span: 2010-2017}
+  - {'0': '5', '100': '0', 4s: '9', '50': '0', 6s: '7', Ave: '9.75', BF: '96', HS: 24*,
+    Inns: '28', Mat: '98', 'NO': '16', Player: UT Yadav, Runs: '117', SR: '121.87',
+    Span: 2009-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '29.11', BBI: 3/19, Ct: '27', Econ: '8.12', Inns: '60',
+    Mat: '60', Mdns: '3', Overs: '211.2', Player: TA Boult, Runs: '1718', SR: '21.4',
+    Span: 2009-2017, St: '0', Wkts: '59'}
+  - {'4': '3', '5': '0', Ave: '24.90', BBI: 4/17, Ct: '49', Econ: '7.42', Inns: '184',
+    Mat: '185', Mdns: '4', Overs: '637.0', Player: PP Chawla, Runs: '4732', SR: '20.1',
+    Span: 2007-2017, St: '0', Wkts: '190'}
+  - {'4': '0', '5': '0', Ave: '28.17', BBI: 3/22, Ct: '46', Econ: '9.15', Inns: '57',
+    Mat: '101', Mdns: '0', Overs: '126.1', Player: C de Grandhomme, Runs: '1155',
+    SR: '18.4', Span: 2007-2017, St: '0', Wkts: '41'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '45', Econ: '-', Inns: '-', Mat: '223',
+    Mdns: '-', Overs: '-', Player: G Gambhir, Runs: '-', SR: '-', Span: 2007-2017,
+    St: '0', Wkts: '-'}
+  - {'4': '10', '5': '1', Ave: '18.04', BBI: 5/19, Ct: '42', Econ: '5.81', Inns: '215',
+    Mat: '219', Mdns: '17', Overs: '837.2', Player: SP Narine, Runs: '4873', SR: '18.6',
+    Span: 2011-2017, St: '0', Wkts: '270'}
+  - {'4': '2', '5': '0', Ave: '21.20', BBI: 4/27, Ct: '70', Econ: '7.57', Inns: '10',
+    Mat: '146', Mdns: '0', Overs: '28.0', Player: MK Pandey, Runs: '212', SR: '16.8',
+    Span: 2007-2017, St: '2', Wkts: '10'}
+  - {'4': '2', '5': '0', Ave: '28.96', BBI: 4/10, Ct: '70', Econ: '7.68', Inns: '132',
+    Mat: '220', Mdns: '1', Overs: '354.3', Player: YK Pathan, Runs: '2723', SR: '22.6',
+    Span: 2007-2017, St: '0', Wkts: '94'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '98', Econ: '11.00', Inns: '1', Mat: '201',
+    Mdns: '0', Overs: '1.0', Player: RV Uthappa, Runs: '11', SR: '-', Span: 2007-2017,
+    St: '32', Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '26.33', BBI: 4/21, Ct: '32', Econ: '8.16', Inns: '87',
+    Mat: '90', Mdns: '3', Overs: '287.0', Player: CR Woakes, Runs: '2344', SR: '19.3',
+    Span: 2008-2017, St: '0', Wkts: '89'}
+  - {'4': '0', '5': '0', Ave: '23.33', BBI: 2/11, Ct: '44', Econ: '6.36', Inns: '10',
+    Mat: '83', Mdns: '0', Overs: '22.0', Player: SA Yadav, Runs: '140', SR: '22.0',
+    Span: 2010-2017, St: '0', Wkts: '6'}
+  - {'4': '2', '5': '1', Ave: '28.58', BBI: 5/18, Ct: '23', Econ: '8.17', Inns: '96',
+    Mat: '98', Mdns: '5', Overs: '335.3', Player: UT Yadav, Runs: '2744', SR: '20.9',
+    Span: 2009-2017, St: '0', Wkts: '96'}

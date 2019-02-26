@@ -1,0 +1,113 @@
+Chennai Super Kings:
+- batting averages:
+  - {'0': '4', '100': '0', 4s: '30', '50': '0', 6s: '7', Ave: '12.44', BF: '311',
+    HS: '46', Inns: '47', Mat: '151', 'NO': '20', Player: R Ashwin, Runs: '336', SR: '108.04',
+    Span: 2007-2015}
+  - {'0': '6', '100': '0', 4s: '245', '50': '14', 6s: '175', Ave: '26.6', BF: '3022',
+    HS: '70', Inns: '192', Mat: '232', 'NO': '50', Player: DJ Bravo, Runs: '3777',
+    SR: '124.98', Span: 2006-2015}
+  - {'0': '6', '100': '0', 4s: '291', '50': '17', 6s: '173', Ave: '37.47', BF: '3016',
+    HS: '73', Inns: '175', Mat: '194', 'NO': '65', Player: MS Dhoni, Runs: '4122',
+    SR: '136.67', Span: 2006-2015}
+  - {'0': '11', '100': '1', 4s: '233', '50': '15', 6s: '74', Ave: '26.98', BF: '2106',
+    HS: '119', Inns: '110', Mat: '123', 'NO': '12', Player: F du Plessis, Runs: '2644',
+    SR: '125.55', Span: 2007-2015}
+  - {'0': '7', '100': '0', 4s: '113', '50': '0', 6s: '58', Ave: '21.4', BF: '1246',
+    HS: '48', Inns: '99', Mat: '137', 'NO': '26', Player: RA Jadeja, Runs: '1562',
+    SR: '125.36', Span: 2007-2015}
+  - {'0': '10', '100': '6', 4s: '540', '50': '29', 6s: '257', Ave: '32.5', BF: '4240',
+    HS: '158', Inns: '197', Mat: '200', 'NO': '21', Player: BB McCullum, Runs: '5720',
+    SR: '134.91', Span: 2005-2015}
+  - {'0': '7', '100': '0', 4s: '4', '50': '0', 6s: '3', Ave: '6.1', BF: '71', HS: '22',
+    Inns: '18', Mat: '82', 'NO': '8', Player: A Nehra, Runs: '61', SR: '85.92', Span: 2008-2015}
+  - {'0': '3', '100': '0', 4s: '7', '50': '0', 6s: '1', Ave: '10.6', BF: '37', HS: '19',
+    Inns: '8', Mat: '32', 'NO': '3', Player: IC Pandey, Runs: '53', SR: '143.24',
+    Span: 2013-2015}
+  - {'0': '8', '100': '3', 4s: '453', '50': '31', 6s: '209', Ave: '35.14', BF: '3668',
+    HS: '109', Inns: '179', Mat: '189', 'NO': '31', Player: SK Raina, Runs: '5200',
+    SR: '141.77', Span: 2006-2015}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.0', BF: '10', HS: '2',
+    Inns: '5', Mat: '48', 'NO': '4', Player: MM Sharma, Runs: '3', SR: '30.0', Span: 2013-2015}
+  - {'0': '16', '100': '3', 4s: '450', '50': '28', 6s: '248', Ave: '26.28', BF: '3787',
+    HS: '110', Inns: '208', Mat: '215', 'NO': '20', Player: DR Smith, Runs: '4940',
+    SR: '130.45', Span: 2006-2015}
+- bowling averages:
+  - {'4': '2', '5': '0', Ave: '24.22', Econ: '6.74', Inns: '149', Mat: '151', Overs: '550.4',
+    Player: R Ashwin, Runs: '3754', SR: '21.32', Span: 2007-2015, Wkts: '155'}
+  - {'4': '3', '5': '0', Ave: '25.32', Econ: '8.03', Inns: '218', Mat: '232', Overs: '702.1',
+    Player: DJ Bravo, Runs: '5647', SR: '18.89', Span: 2006-2015, Wkts: '223'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '12.5', Inns: '1', Mat: '194', Overs: '2.0',
+    Player: MS Dhoni, Runs: '25', SR: '0', Span: 2006-2015, Wkts: '0'}
+  - {'4': '1', '5': '2', Ave: '18.34', Econ: '6.66', Inns: '52', Mat: '123', Overs: '131.4',
+    Player: F du Plessis, Runs: '917', SR: '15.8', Span: 2007-2015, Wkts: '50'}
+  - {'4': '2', '5': '1', Ave: '30.87', Econ: '7.86', Inns: '113', Mat: '137', Overs: '326.0',
+    Player: RA Jadeja, Runs: '2562', SR: '23.57', Span: 2007-2015, Wkts: '83'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '200', Overs: '0.0',
+    Player: BB McCullum, Runs: '0', SR: '0', Span: 2005-2015, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '22.52', Econ: '7.76', Inns: '82', Mat: '82', Overs: '296.0',
+    Player: A Nehra, Runs: '2297', SR: '17.41', Span: 2008-2015, Wkts: '102'}
+  - {'4': '0', '5': '0', Ave: '32.79', Econ: '7.5', Inns: '30', Mat: '32', Overs: '105.0',
+    Player: IC Pandey, Runs: '787', SR: '26.25', Span: 2013-2015, Wkts: '24'}
+  - {'4': '1', '5': '0', Ave: '31.32', Econ: '7.07', Inns: '78', Mat: '189', Overs: '174.2',
+    Player: SK Raina, Runs: '1253', SR: '26.15', Span: 2006-2015, Wkts: '40'}
+  - {'4': '2', '5': '0', Ave: '20.69', Econ: '7.74', Inns: '47', Mat: '48', Overs: '158.3',
+    Player: MM Sharma, Runs: '1262', SR: '15.59', Span: 2013-2015, Wkts: '61'}
+  - {'4': '1', '5': '0', Ave: '25.97', Econ: '7.77', Inns: '127', Mat: '215', Overs: '294.0',
+    Player: DR Smith, Runs: '2285', SR: '20.05', Span: 2006-2015, Wkts: '88'}
+Rajasthan Royals:
+- batting averages:
+  - {'0': '5', '100': '0', 4s: '15', '50': '0', 6s: '7', Ave: '10.18', BF: '151',
+    HS: '41', Inns: '22', Mat: '34', 'NO': '5', Player: Ankit Sharma, Runs: '173',
+    SR: '114.57', Span: 2010-2015}
+  - {'0': '4', '100': '0', 4s: '69', '50': '0', 6s: '34', Ave: '20.4', BF: '721',
+    HS: '49', Inns: '62', Mat: '76', 'NO': '17', Player: STR Binny, Runs: '918', SR: '127.32',
+    Span: 2009-2015}
+  - {'0': '1', '100': '0', 4s: '33', '50': '0', 6s: '31', Ave: '20.94', BF: '575',
+    HS: '46', Inns: '64', Mat: '90', 'NO': '30', Player: JP Faulkner, Runs: '712',
+    SR: '123.83', Span: 2009-2015}
+  - {'0': '3', '100': '0', 4s: '8', '50': '1', 6s: '11', Ave: '18.13', BF: '86', HS: '54',
+    Inns: '12', Mat: '16', 'NO': '4', Player: DJ Hooda, Runs: '145', SR: '168.6',
+    Span: 2013-2015}
+  - {'0': '7', '100': '0', 4s: '30', '50': '0', 6s: '23', Ave: '20.82', BF: '308',
+    HS: '41', Inns: '43', Mat: '78', 'NO': '21', Player: CH Morris, Runs: '458', SR: '148.7',
+    Span: 2011-2015}
+  - {'0': '1', '100': '0', 4s: '64', '50': '4', 6s: '18', Ave: '22.71', BF: '508',
+    HS: '73', Inns: '33', Mat: '36', 'NO': '5', Player: KK Nair, Runs: '636', SR: '125.2',
+    Span: 2013-2015}
+  - {'0': '10', '100': '1', 4s: '275', '50': '21', 6s: '50', Ave: '28.19', BF: '2328',
+    HS: '103', Inns: '105', Mat: '110', 'NO': '10', Player: AM Rahane, Runs: '2678',
+    SR: '115.03', Span: 2007-2015}
+  - {'0': '4', '100': '0', 4s: '103', '50': '8', 6s: '42', Ave: '24.3', BF: '1039',
+    HS: '74', Inns: '55', Mat: '57', 'NO': '5', Player: SV Samson, Runs: '1215', SR: '116.94',
+    Span: 2011-2015}
+  - {'0': '3', '100': '0', 4s: '162', '50': '5', 6s: '43', Ave: '28.01', BF: '1609',
+    HS: '79', Inns: '97', Mat: '113', 'NO': '27', Player: SPD Smith, Runs: '1961',
+    SR: '121.88', Span: 2008-2015}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '8.67', BF: '42', HS: '14',
+    Inns: '7', Mat: '33', 'NO': '4', Player: PV Tambe, Runs: '26', SR: '61.9', Span: 2013-2015}
+  - {'0': '8', '100': '1', 4s: '338', '50': '26', 6s: '190', Ave: '30.75', BF: '2661',
+    HS: '101', Inns: '138', Mat: '143', 'NO': '16', Player: SR Watson, Runs: '3752',
+    SR: '141.0', Span: 2004-2015}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '27.85', Econ: '7.05', Inns: '33', Mat: '34', Overs: '101.1',
+    Player: Ankit Sharma, Runs: '724', SR: '23.35', Span: 2010-2015, Wkts: '26'}
+  - {'4': '1', '5': '0', Ave: '23.33', Econ: '7.17', Inns: '60', Mat: '76', Overs: '127.0',
+    Player: STR Binny, Runs: '910', SR: '19.54', Span: 2009-2015, Wkts: '39'}
+  - {'4': '1', '5': '2', Ave: '22.73', Econ: '7.65', Inns: '90', Mat: '90', Overs: '316.3',
+    Player: JP Faulkner, Runs: '2455', SR: '17.58', Span: 2009-2015, Wkts: '108'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '6.57', Inns: '9', Mat: '16', Overs: '21.0',
+    Player: DJ Hooda, Runs: '138', SR: '0', Span: 2013-2015, Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '22.23', Econ: '7.48', Inns: '76', Mat: '78', Overs: '270.2',
+    Player: CH Morris, Runs: '2045', SR: '17.63', Span: 2011-2015, Wkts: '92'}
+  - {'4': '0', '5': '0', Ave: '19.0', Econ: '7.6', Inns: '4', Mat: '36', Overs: '5.0',
+    Player: KK Nair, Runs: '38', SR: '15.0', Span: 2013-2015, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '110', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2015, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '4.0', Econ: '0.8', Inns: '1', Mat: '57', Overs: '0.3',
+    Player: SV Samson, Runs: '4', SR: '3.0', Span: 2011-2015, Wkts: '1'}
+  - {'4': '2', '5': '0', Ave: '19.45', Econ: '7.17', Inns: '48', Mat: '113', Overs: '130.5',
+    Player: SPD Smith, Runs: '992', SR: '15.39', Span: 2008-2015, Wkts: '51'}
+  - {'4': '2', '5': '0', Ave: '19.37', Econ: '6.51', Inns: '33', Mat: '33', Overs: '122.0',
+    Player: PV Tambe, Runs: '794', SR: '17.85', Span: 2013-2015, Wkts: '41'}
+  - {'4': '1', '5': '0', Ave: '24.44', Econ: '7.22', Inns: '116', Mat: '143', Overs: '381.5',
+    Player: SR Watson, Runs: '2811', SR: '19.92', Span: 2004-2015, Wkts: '115'}

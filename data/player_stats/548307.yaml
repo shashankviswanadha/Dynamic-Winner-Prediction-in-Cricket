@@ -1,0 +1,136 @@
+DelhiDaredevils:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '108', '50': '8', 6s: '41', Ave: '37.06', BF: '864',
+    HS: 93*, Inns: '36', Mat: '39', 'NO': '5', Player: AJ Finch, Runs: '1149', SR: '132.98',
+    Span: 2009-2012}
+  - {'0': '1', '100': '0', 4s: '13', '50': '0', 6s: '4', Ave: '14.40', BF: '118',
+    HS: '46', Inns: '11', Mat: '12', 'NO': '1', Player: GJ Maxwell, Runs: '144', SR: '122.03',
+    Span: 2010-2012}
+  - {'0': '2', '100': '0', 4s: '6', '50': '0', 6s: '2', Ave: '10.85', BF: '78', HS: 16*,
+    Inns: '17', Mat: '63', 'NO': '10', Player: M Morkel, Runs: '76', SR: '97.43',
+    Span: 2005-2012}
+  - {'0': '1', '100': '0', 4s: '4', '50': '0', 6s: '4', Ave: '12.71', BF: '77', HS: 30*,
+    Inns: '10', Mat: '21', 'NO': '3', Player: S Nadeem, Runs: '89', SR: '115.58',
+    Span: 2007-2012}
+  - {'0': '2', '100': '0', 4s: '21', '50': '0', 6s: '12', Ave: '14.90', BF: '289',
+    HS: 44*, Inns: '25', Mat: '33', 'NO': '4', Player: Y Nagar, Runs: '313', SR: '108.30',
+    Span: 2009-2012}
+  - {'0': '6', '100': '0', 4s: '107', '50': '6', 6s: '64', Ave: '22.07', BF: '940',
+    HS: 94*, Inns: '57', Mat: '58', 'NO': '5', Player: NV Ojha, Runs: '1148', SR: '122.12',
+    Span: 2007-2012}
+  - {'0': '3', '100': '0', 4s: '80', '50': '1', 6s: '47', Ave: '24.71', BF: '851',
+    HS: '60', Inns: '73', Mat: '90', 'NO': '28', Player: IK Pathan, Runs: '1112',
+    SR: '130.66', Span: 2005-2012}
+  - {'0': '6', '100': '1', 4s: '257', '50': '13', 6s: '86', Ave: '27.51', BF: '1352',
+    HS: '119', Inns: '82', Mat: '83', 'NO': '4', Player: V Sehwag, Runs: '2146', SR: '158.72',
+    Span: 2003-2012}
+  - {'0': '3', '100': '0', 4s: '97', '50': '6', 6s: '48', Ave: '23.10', BF: '799',
+    HS: 89*, Inns: '59', Mat: '83', 'NO': '12', Player: RE van der Merwe, Runs: '1086',
+    SR: '135.91', Span: 2008-2012}
+  - {'0': '4', '100': '0', 4s: '80', '50': '6', 6s: '41', Ave: '22.80', BF: '875',
+    HS: 71*, Inns: '55', Mat: '62', 'NO': '8', Player: Y Venugopal Rao, Runs: '1072',
+    SR: '122.51', Span: 2007-2012}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '2.33', BF: '15', HS: 3*,
+    Inns: '6', Mat: '21', 'NO': '3', Player: UT Yadav, Runs: '7', SR: '46.66', Span: 2009-2012}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '15', Econ: '5.68', Inns: '2', Mat: '39',
+    Mdns: '0', Overs: '3.1', Player: AJ Finch, Runs: '18', SR: '-', Span: 2009-2012,
+    St: '0', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '107.00', BBI: 1/21, Ct: '7', Econ: '7.64', Inns: '7',
+    Mat: '12', Mdns: '0', Overs: '14.0', Player: GJ Maxwell, Runs: '107', SR: '84.0',
+    Span: 2010-2012, St: '0', Wkts: '1'}
+  - {'4': '2', '5': '0', Ave: '22.80', BBI: 4/17, Ct: '10', Econ: '7.07', Inns: '62',
+    Mat: '63', Mdns: '5', Overs: '225.4', Player: M Morkel, Runs: '1596', SR: '19.3',
+    Span: 2005-2012, St: '0', Wkts: '70'}
+  - {'4': '0', '5': '0', Ave: '20.90', BBI: 3/20, Ct: '3', Econ: '5.77', Inns: '21',
+    Mat: '21', Mdns: '1', Overs: '76.0', Player: S Nadeem, Runs: '439', SR: '21.7',
+    Span: 2007-2012, St: '0', Wkts: '21'}
+  - {'4': '0', '5': '0', Ave: '16.56', BBI: 3/15, Ct: '11', Econ: '7.68', Inns: '16',
+    Mat: '33', Mdns: '0', Overs: '34.3', Player: Y Nagar, Runs: '265', SR: '12.9',
+    Span: 2009-2012, St: '0', Wkts: '16'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '35', Econ: '-', Inns: '-', Mat: '58',
+    Mdns: '-', Overs: '-', Player: NV Ojha, Runs: '-', SR: '-', Span: 2007-2012, St: '9',
+    Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '24.35', BBI: 4/27, Ct: '22', Econ: '7.60', Inns: '87',
+    Mat: '90', Mdns: '7', Overs: '307.3', Player: IK Pathan, Runs: '2338', SR: '19.2',
+    Span: 2005-2012, St: '0', Wkts: '96'}
+  - {'4': '0', '5': '0', Ave: '19.27', BBI: 3/14, Ct: '19', Econ: '8.05', Inns: '22',
+    Mat: '83', Mdns: '0', Overs: '52.4', Player: V Sehwag, Runs: '424', SR: '14.3',
+    Span: 2003-2012, St: '0', Wkts: '22'}
+  - {'4': '0', '5': '0', Ave: '21.94', BBI: 3/18, Ct: '30', Econ: '7.20', Inns: '81',
+    Mat: '83', Mdns: '2', Overs: '274.0', Player: RE van der Merwe, Runs: '1975',
+    SR: '18.2', Span: 2008-2012, St: '0', Wkts: '90'}
+  - {'4': '0', '5': '0', Ave: '50.75', BBI: 2/23, Ct: '15', Econ: '8.63', Inns: '21',
+    Mat: '62', Mdns: '0', Overs: '47.0', Player: Y Venugopal Rao, Runs: '406', SR: '35.2',
+    Span: 2007-2012, St: '0', Wkts: '8'}
+  - {'4': '0', '5': '0', Ave: '38.21', BBI: 2/9, Ct: '7', Econ: '8.20', Inns: '20',
+    Mat: '21', Mdns: '0', Overs: '65.1', Player: UT Yadav, Runs: '535', SR: '27.9',
+    Span: 2009-2012, St: '0', Wkts: '14'}
+KolkataKnightRiders:
+- batting averages:
+  - {'0': '4', '100': '1', 4s: '40', '50': '1', 6s: '27', Ave: '23.75', BF: '577',
+    HS: 107*, Inns: '44', Mat: '68', 'NO': '15', Player: R Bhatia, Runs: '689', SR: '119.41',
+    Span: 2007-2012}
+  - {'0': '2', '100': '0', 4s: '11', '50': '0', 6s: '8', Ave: '17.88', BF: '140',
+    HS: '31', Inns: '10', Mat: '11', 'NO': '1', Player: DB Das, Runs: '161', SR: '115.00',
+    Span: 2008-2012}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '-', BF: '3', HS: 4*,
+    Inns: '1', Mat: '4', 'NO': '1', Player: M de Lange, Runs: '4', SR: '133.33', Span: 2011-2012}
+  - {'0': '6', '100': '0', 4s: '290', '50': '19', 6s: '29', Ave: '30.75', BF: '2012',
+    HS: '86', Inns: '93', Mat: '95', 'NO': '13', Player: G Gambhir, Runs: '2460',
+    SR: '122.26', Span: 2007-2012}
+  - {'0': '2', '100': '0', 4s: '4', '50': '0', 6s: '3', Ave: '12.57', BF: '88', HS: '21',
+    Inns: '18', Mat: '48', 'NO': '11', Player: Iqbal Abdulla, Runs: '88', SR: '100.00',
+    Span: 2007-2012}
+  - {'0': '5', '100': '0', 4s: '269', '50': '24', 6s: '59', Ave: '36.35', BF: '2338',
+    HS: 89*, Inns: '89', Mat: '90', 'NO': '15', Player: JH Kallis, Runs: '2690', SR: '115.05',
+    Span: 2004-2012}
+  - {'0': '6', '100': '0', 4s: '20', '50': '0', 6s: '13', Ave: '12.90', BF: '213',
+    HS: '48', Inns: '39', Mat: '77', 'NO': '18', Player: B Lee, Runs: '271', SR: '127.23',
+    Span: 2005-2012}
+  - {'0': '6', '100': '4', 4s: '352', '50': '18', 6s: '174', Ave: '32.35', BF: '2735',
+    HS: 158*, Inns: '131', Mat: '132', 'NO': '15', Player: BB McCullum, Runs: '3753',
+    SR: '137.22', Span: 2005-2012}
+  - {'0': '7', '100': '1', 4s: '176', '50': '11', 6s: '128', Ave: '26.32', BF: '1387',
+    HS: '100', Inns: '95', Mat: '106', 'NO': '13', Player: YK Pathan, Runs: '2159',
+    SR: '155.65', Span: 2007-2012}
+  - {'0': '1', '100': '0', 4s: '50', '50': '1', 6s: '25', Ave: '22.72', BF: '527',
+    HS: '76', Inns: '40', Mat: '47', 'NO': '11', Player: LR Shukla, Runs: '659', SR: '125.04',
+    Span: 2007-2012}
+  - {'0': '5', '100': '0', 4s: '121', '50': '8', 6s: '37', Ave: '32.00', BF: '1265',
+    HS: 75*, Inns: '61', Mat: '69', 'NO': '15', Player: MK Tiwary, Runs: '1472', SR: '116.36',
+    Span: 2007-2012}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '24.00', BBI: 4/15, Ct: '18', Econ: '7.02', Inns: '62',
+    Mat: '68', Mdns: '0', Overs: '174.1', Player: R Bhatia, Runs: '1224', SR: '20.4',
+    Span: 2007-2012, St: '0', Wkts: '51'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '2', Econ: '-', Inns: '-', Mat: '11',
+    Mdns: '-', Overs: '-', Player: DB Das, Runs: '-', SR: '-', Span: 2008-2012, St: '0',
+    Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '30.60', BBI: 2/36, Ct: '0', Econ: '10.20', Inns: '4',
+    Mat: '4', Mdns: '0', Overs: '15.0', Player: M de Lange, Runs: '153', SR: '18.0',
+    Span: 2011-2012, St: '0', Wkts: '5'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '15', Econ: '-', Inns: '-', Mat: '95',
+    Mdns: '-', Overs: '-', Player: G Gambhir, Runs: '-', SR: '-', Span: 2007-2012,
+    St: '0', Wkts: '-'}
+  - {'4': '1', '5': '1', Ave: '20.60', BBI: 5/10, Ct: '18', Econ: '6.33', Inns: '48',
+    Mat: '48', Mdns: '1', Overs: '162.4', Player: Iqbal Abdulla, Runs: '1030', SR: '19.5',
+    Span: 2007-2012, St: '0', Wkts: '50'}
+  - {'4': '0', '5': '0', Ave: '37.72', BBI: 3/16, Ct: '36', Econ: '7.90', Inns: '74',
+    Mat: '90', Mdns: '4', Overs: '224.2', Player: JH Kallis, Runs: '1773', SR: '28.6',
+    Span: 2004-2012, St: '0', Wkts: '47'}
+  - {'4': '0', '5': '0', Ave: '30.25', BBI: 3/15, Ct: '21', Econ: '7.24', Inns: '77',
+    Mat: '77', Mdns: '7', Overs: '284.0', Player: B Lee, Runs: '2057', SR: '25.0',
+    Span: 2005-2012, St: '0', Wkts: '68'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '60', Econ: '-', Inns: '-', Mat: '132',
+    Mdns: '-', Overs: '-', Player: BB McCullum, Runs: '-', SR: '-', Span: 2005-2012,
+    St: '7', Wkts: '-'}
+  - {'4': '2', '5': '0', Ave: '25.31', BBI: 4/10, Ct: '42', Econ: '7.60', Inns: '89',
+    Mat: '106', Mdns: '1', Overs: '263.0', Player: YK Pathan, Runs: '2000', SR: '19.9',
+    Span: 2007-2012, St: '0', Wkts: '79'}
+  - {'4': '0', '5': '0', Ave: '21.55', BBI: 3/6, Ct: '12', Econ: '7.18', Inns: '37',
+    Mat: '47', Mdns: '3', Overs: '102.0', Player: LR Shukla, Runs: '733', SR: '18.0',
+    Span: 2007-2012, St: '0', Wkts: '34'}
+  - {'4': '0', '5': '0', Ave: '27.70', BBI: 3/19, Ct: '33', Econ: '7.41', Inns: '19',
+    Mat: '69', Mdns: '0', Overs: '37.2', Player: MK Tiwary, Runs: '277', SR: '22.4',
+    Span: 2007-2012, St: '0', Wkts: '10'}

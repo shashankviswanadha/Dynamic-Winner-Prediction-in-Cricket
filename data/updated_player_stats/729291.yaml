@@ -1,0 +1,113 @@
+Kings XI Punjab:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '3.5', BF: '29', HS: '7',
+    Inns: '11', Mat: '43', 'NO': '7', Player: P Awana, Runs: '14', SR: '48.28', Span: 2010-2014}
+  - {'0': '1', '100': '0', 4s: '126', '50': '8', 6s: '51', Ave: '28.87', BF: '1094',
+    HS: '63', Inns: '68', Mat: '79', 'NO': '16', Player: GJ Bailey, Runs: '1501',
+    SR: '137.2', Span: 2006-2014}
+  - {'0': '5', '100': '0', 4s: '4', '50': '0', 6s: '2', Ave: '5.3', BF: '59', HS: '15',
+    Inns: '18', Mat: '96', 'NO': '8', Player: L Balaji, Runs: '53', SR: '89.83', Span: 2008-2014}
+  - {'0': '2', '100': '0', 4s: '15', '50': '0', 6s: '5', Ave: '11.75', BF: '170',
+    HS: '30', Inns: '27', Mat: '57', 'NO': '11', Player: MG Johnson, Runs: '188',
+    SR: '110.59', Span: 2006-2014}
+  - {'0': '10', '100': '0', 4s: '28', '50': '0', 6s: '5', Ave: '12.8', BF: '290',
+    HS: '35', Inns: '46', Mat: '145', 'NO': '21', Player: M Kartik, Runs: '320', SR: '110.34',
+    Span: 2007-2014}
+  - {'0': '2', '100': '0', 4s: '110', '50': '6', 6s: '72', Ave: '23.89', BF: '815',
+    HS: '95', Inns: '63', Mat: '72', 'NO': '9', Player: GJ Maxwell, Runs: '1290',
+    SR: '158.28', Span: 2010-2014}
+  - {'0': '7', '100': '1', 4s: '199', '50': '16', 6s: '116', Ave: '38.47', BF: '2008',
+    HS: '101', Inns: '106', Mat: '118', 'NO': '34', Player: DA Miller, Runs: '2770',
+    SR: '137.95', Span: 2008-2014}
+  - {'0': '2', '100': '0', 4s: '11', '50': '0', 6s: '6', Ave: '15.25', BF: '79', HS: '43',
+    Inns: '12', Mat: '14', 'NO': '4', Player: AR Patel, Runs: '122', SR: '154.43',
+    Span: 2013-2014}
+  - {'0': '3', '100': '0', 4s: '63', '50': '2', 6s: '7', Ave: '19.56', BF: '510',
+    HS: '62', Inns: '31', Mat: '39', 'NO': '4', Player: CA Pujara, Runs: '528', SR: '103.53',
+    Span: 2007-2014}
+  - {'0': '3', '100': '0', 4s: '97', '50': '6', 6s: '46', Ave: '24.73', BF: '938',
+    HS: '85', Inns: '70', Mat: '89', 'NO': '22', Player: WP Saha, Runs: '1187', SR: '126.55',
+    Span: 2007-2014}
+  - {'0': '9', '100': '1', 4s: '402', '50': '21', 6s: '115', Ave: '28.06', BF: '2165',
+    HS: '119', Inns: '123', Mat: '125', 'NO': '6', Player: V Sehwag, Runs: '3283',
+    SR: '151.64', Span: 2003-2014}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '23.55', Econ: '7.41', Inns: '43', Mat: '43', Overs: '162.0',
+    Player: P Awana, Runs: '1201', SR: '19.06', Span: 2010-2014, Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '12.0', Inns: '1', Mat: '79', Overs: '2.0',
+    Player: GJ Bailey, Runs: '24', SR: '0', Span: 2006-2014, Wkts: '0'}
+  - {'4': '4', '5': '1', Ave: '21.91', Econ: '7.66', Inns: '96', Mat: '96', Overs: '330.1',
+    Player: L Balaji, Runs: '2541', SR: '17.08', Span: 2008-2014, Wkts: '116'}
+  - {'4': '0', '5': '0', Ave: '23.05', Econ: '7.34', Inns: '56', Mat: '57', Overs: '204.2',
+    Player: MG Johnson, Runs: '1521', SR: '18.58', Span: 2006-2014, Wkts: '66'}
+  - {'4': '0', '5': '1', Ave: '30.82', Econ: '6.61', Inns: '141', Mat: '145', Overs: '503.3',
+    Player: M Kartik, Runs: '3359', SR: '27.72', Span: 2007-2014, Wkts: '109'}
+  - {'4': '0', '5': '0', Ave: '32.84', Econ: '7.08', Inns: '50', Mat: '72', Overs: '111.3',
+    Player: GJ Maxwell, Runs: '821', SR: '26.76', Span: 2010-2014, Wkts: '25'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '10.33', Inns: '3', Mat: '118', Overs: '3.0',
+    Player: DA Miller, Runs: '31', SR: '0', Span: 2008-2014, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '26.42', Econ: '6.14', Inns: '14', Mat: '14', Overs: '50.1',
+    Player: AR Patel, Runs: '317', SR: '25.08', Span: 2013-2014, Wkts: '12'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '39', Overs: '0.0',
+    Player: CA Pujara, Runs: '0', SR: '0', Span: 2007-2014, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '89', Overs: '0.0',
+    Player: WP Saha, Runs: '0', SR: '0', Span: 2007-2014, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '21.73', Econ: '7.51', Inns: '26', Mat: '125', Overs: '57.4',
+    Player: V Sehwag, Runs: '478', SR: '15.73', Span: 2003-2014, Wkts: '22'}
+Rajasthan Royals:
+- batting averages:
+  - {'0': '5', '100': '1', 4s: '65', '50': '1', 6s: '33', Ave: '22.88', BF: '785',
+    HS: '107', Inns: '69', Mat: '109', 'NO': '28', Player: R Bhatia, Runs: '938',
+    SR: '119.49', Span: 2007-2014}
+  - {'0': '2', '100': '0', 4s: '66', '50': '0', 6s: '30', Ave: '24.64', BF: '600',
+    HS: '49', Inns: '48', Mat: '60', 'NO': '15', Player: STR Binny, Runs: '813', SR: '135.5',
+    Span: 2009-2014}
+  - {'0': '1', '100': '0', 4s: '19', '50': '0', 6s: '8', Ave: '14.45', BF: '286',
+    HS: '38', Inns: '40', Mat: '64', 'NO': '18', Player: JP Faulkner, Runs: '318',
+    SR: '111.19', Span: 2009-2014}
+  - {'0': '0', '100': '0', 4s: '5', '50': '0', 6s: '1', Ave: '10.43', BF: '88', HS: '14',
+    Inns: '18', Mat: '54', 'NO': '11', Player: DS Kulkarni, Runs: '73', SR: '82.95',
+    Span: 2007-2014}
+  - {'0': '5', '100': '0', 4s: '79', '50': '2', 6s: '36', Ave: '19.71', BF: '796',
+    HS: '79', Inns: '62', Mat: '72', 'NO': '13', Player: AM Nayar, Runs: '966', SR: '121.36',
+    Span: 2007-2014}
+  - {'0': '8', '100': '1', 4s: '228', '50': '18', 6s: '43', Ave: '28.29', BF: '1944',
+    HS: '103', Inns: '89', Mat: '93', 'NO': '10', Player: AM Rahane, Runs: '2235',
+    SR: '114.97', Span: 2007-2014}
+  - {'0': '3', '100': '0', 4s: '9', '50': '0', 6s: '3', Ave: '10.9', BF: '106', HS: '26',
+    Inns: '13', Mat: '31', 'NO': '3', Player: KW Richardson, Runs: '109', SR: '102.83',
+    Span: 2009-2014}
+  - {'0': '3', '100': '0', 4s: '61', '50': '5', 6s: '22', Ave: '23.45', BF: '574',
+    HS: '68', Inns: '34', Mat: '36', 'NO': '5', Player: SV Samson, Runs: '680', SR: '118.47',
+    Span: 2011-2014}
+  - {'0': '3', '100': '0', 4s: '132', '50': '4', 6s: '38', Ave: '27.03', BF: '1398',
+    HS: '65', Inns: '85', Mat: '98', 'NO': '23', Player: SPD Smith, Runs: '1676',
+    SR: '119.89', Span: 2008-2014}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '0', BF: '22', HS: '14',
+    Inns: '4', Mat: '13', 'NO': '4', Player: PV Tambe, Runs: '17', SR: '77.27', Span: 2013-2014}
+  - {'0': '7', '100': '1', 4s: '314', '50': '24', 6s: '173', Ave: '31.79', BF: '2403',
+    HS: '101', Inns: '123', Mat: '128', 'NO': '15', Player: SR Watson, Runs: '3433',
+    SR: '142.86', Span: 2004-2014}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '25.77', Econ: '7.17', Inns: '101', Mat: '109', Overs: '302.0',
+    Player: R Bhatia, Runs: '2165', SR: '21.57', Span: 2007-2014, Wkts: '84'}
+  - {'4': '1', '5': '0', Ave: '23.37', Econ: '7.24', Inns: '50', Mat: '60', Overs: '113.0',
+    Player: STR Binny, Runs: '818', SR: '19.37', Span: 2009-2014, Wkts: '35'}
+  - {'4': '1', '5': '2', Ave: '21.62', Econ: '7.3', Inns: '64', Mat: '64', Overs: '234.0',
+    Player: JP Faulkner, Runs: '1708', SR: '17.77', Span: 2009-2014, Wkts: '79'}
+  - {'4': '0', '5': '0', Ave: '27.04', Econ: '7.84', Inns: '53', Mat: '54', Overs: '176.0',
+    Player: DS Kulkarni, Runs: '1379', SR: '20.71', Span: 2007-2014, Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '38.64', Econ: '8.5', Inns: '29', Mat: '72', Overs: '62.1',
+    Player: AM Nayar, Runs: '541', SR: '26.64', Span: 2007-2014, Wkts: '14'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '93', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2014, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '25.55', Econ: '7.11', Inns: '29', Mat: '31', Overs: '103.5',
+    Player: KW Richardson, Runs: '792', SR: '20.1', Span: 2009-2014, Wkts: '31'}
+  - {'4': '0', '5': '0', Ave: '4.0', Econ: '0.8', Inns: '1', Mat: '36', Overs: '0.3',
+    Player: SV Samson, Runs: '4', SR: '3.0', Span: 2011-2014, Wkts: '1'}
+  - {'4': '2', '5': '0', Ave: '19.37', Econ: '7.19', Inns: '47', Mat: '98', Overs: '129.5',
+    Player: SPD Smith, Runs: '988', SR: '15.27', Span: 2008-2014, Wkts: '51'}
+  - {'4': '1', '5': '0', Ave: '18.06', Econ: '6.02', Inns: '13', Mat: '13', Overs: '48.0',
+    Player: PV Tambe, Runs: '289', SR: '18.0', Span: 2013-2014, Wkts: '16'}
+  - {'4': '1', '5': '0', Ave: '24.38', Econ: '7.17', Inns: '106', Mat: '128', Overs: '359.5',
+    Player: SR Watson, Runs: '2633', SR: '19.99', Span: 2004-2014, Wkts: '108'}

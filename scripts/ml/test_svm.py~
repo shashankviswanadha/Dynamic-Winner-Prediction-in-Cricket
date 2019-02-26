@@ -1,0 +1,94 @@
+#from sklearn.neural_network import MLPClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.svm import SVC
+#from sklearn.gaussian_process import GaussianProcessClassifier
+#from sklearn.gaussian_process.kernels import RBF
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier
+from sklearn.naive_bayes import GaussianNB
+#from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+from sklearn.grid_search import ParameterGrid
+from sklearn.grid_search import GridSearchCV
+from data import *
+import matplotlib.pyplot as plt
+
+def yaml_dump(filepath,data):
+    with open(filepath,"w") as file_descriptor:
+        yaml.dump(data,file_descriptor)
+
+
+classifiers = [
+    KNeighborsClassifier(5),
+    SVC(kernel="linear", C=0.025),
+    SVC(gamma=0.01, C=1),
+    DecisionTreeClassifier(max_depth=5),
+    RandomForestClassifier(max_depth=10, n_estimators=10, max_features=2),
+    AdaBoostClassifier(),
+    GaussianNB(),
+    GradientBoostingClassifier()]
+
+names = ["Nearest Neighbors", "Linear SVM", "RBF SVM", "Decision Tree", "Random Forest", "AdaBoost", "Naive Bayes","Gradient Boost"]
+
+write_path = '/home/shashank/intern_17/data/data_for_ml/training_data_trend/'
+wr_dict = {}
+for name in names:
+    wr_dict[name] = []
+
+train_x,train_y = get_data_for_ml(0,20)
+valid_x,valid_y = get_data_for_ml(2,20)
+X = [i for i in range(21)]
+Y = []
+for k in range(21):
+    test_x,test_y = get_single_over_test_data(k)
+    clf = RandomForestClassifier(max_depth=8, n_estimators=19, max_features=4)
+    clf.fit(train_x,train_y)
+    Y.append(clf.score(test_x,test_y))
+
+te_x,te_y = get_data_for_ml(1,20)
+print clf.score(te_x,te_y)
+print Y
+plt.figure()
+plt.plot(X,Y)
+plt.show()
+'''print clf.score(test_x,test_y)
+pred = clf.predict(test_x)
+for x in range(len(pred)):
+    if test_y[x] != pred[x]:
+        print x'''
+
+
+
+'''for name,value in wr_dict.iteritems():
+    path = write_path + name
+    yaml_dump(path,value)'''
+'''
+parameters = {'kernel':['rbf'], 'C':[1,2,3,4,5,6,7,8,9,10],'gamma':[0.001,0.002,0.003,0.004,0.005,0.006,0.007,0.008,0.001,0.01]}
+par = {'n_estimators':[i for i in range(20,81,10)],'max_features':[i for i in range(1,5)],'max_depth':[i for i in range(5,16)]}
+
+grid = list(ParameterGrid(par))
+print len(grid),grid
+i = best_grid = best_score = 0
+for g in grid:
+    print g
+    clf = GradientBoostingClassifier()
+    clf.set_params(**g)
+    clf.fit(train_x,train_y)
+    if clf.score(valid_x,valid_y) > best_score :
+        best_score = clf.score(valid_x,valid_y)
+        best_grid = g
+        print best_score
+    i += 1'''
+
+#svr = SVC(kernel='linear',C=3)
+#svr.fit(train_x,train_y)
+'''
+clf = GradientBoostingClassifier(n_estimators=40,max_depth=9, max_features=1)
+clf.fit(train_x,train_y)
+print clf.score(valid_x,valid_y)
+print clf.score(test_x,test_y)
+print clf.score(test_20_x,test_20_y)
+'''
+
+#print best_grid,best_score
+#clf = GridSearchCV(svr, parameters)
+#clf.fit(train_x,train_y)'''

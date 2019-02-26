@@ -1,0 +1,114 @@
+Kings XI Punjab:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '7', '50': '0', 6s: '3', Ave: '13.0', BF: '112', HS: '16',
+    Inns: '26', Mat: '83', 'NO': '17', Player: KJ Abbott, Runs: '117', SR: '104.46',
+    Span: 2011-2016}
+  - {'0': '4', '100': '2', 4s: '429', '50': '35', 6s: '159', Ave: '41.05', BF: '3522',
+    HS: '115', Inns: '128', Mat: '130', 'NO': '17', Player: SE Marsh, Runs: '4557',
+    SR: '129.39', Span: 2006-2016}
+  - {'0': '11', '100': '0', 4s: '246', '50': '14', 6s: '153', Ave: '22.26', BF: '1903',
+    HS: '95', Inns: '143', Mat: '152', 'NO': '12', Player: GJ Maxwell, Runs: '2916',
+    SR: '153.23', Span: 2010-2016}
+  - {'0': '11', '100': '1', 4s: '317', '50': '22', 6s: '187', Ave: '36.71', BF: '3150',
+    HS: '101', Inns: '174', Mat: '191', 'NO': '55', Player: DA Miller, Runs: '4369',
+    SR: '138.7', Span: 2008-2016}
+  - {'0': '3', '100': '0', 4s: '39', '50': '0', 6s: '17', Ave: '18.5', BF: '391',
+    HS: '43', Inns: '38', Mat: '55', 'NO': '12', Player: AR Patel, Runs: '481', SR: '123.02',
+    Span: 2013-2016}
+  - {'0': '4', '100': '1', 4s: '172', '50': '10', 6s: '89', Ave: '24.55', BF: '1644',
+    HS: '115', Inns: '113', Mat: '136', 'NO': '26', Player: WP Saha, Runs: '2136',
+    SR: '129.93', Span: 2007-2016}
+  - {'0': '1', '100': '0', 4s: '9', '50': '0', 6s: '4', Ave: '22.17', BF: '117', HS: '27',
+    Inns: '10', Mat: '12', 'NO': '4', Player: P Sahu, Runs: '133', SR: '113.68', Span: 2009-2016}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '13.0', BF: '23', HS: '7',
+    Inns: '8', Mat: '47', 'NO': '7', Player: Sandeep Sharma, Runs: '13', SR: '56.52',
+    Span: 2013-2016}
+  - {'0': '3', '100': '0', 4s: '2', '50': '0', 6s: '3', Ave: '9.4', BF: '42', HS: '21',
+    Inns: '13', Mat: '67', 'NO': '8', Player: MM Sharma, Runs: '47', SR: '111.9',
+    Span: 2013-2016}
+  - {'0': '8', '100': '2', 4s: '299', '50': '15', 6s: '122', Ave: '24.8', BF: '2699',
+    HS: '127', Inns: '136', Mat: '138', 'NO': '4', Player: M Vijay, Runs: '3274',
+    SR: '121.3', Span: 2007-2016}
+  - {'0': '2', '100': '0', 4s: '136', '50': '5', 6s: '35', Ave: '27.35', BF: '980',
+    HS: '77', Inns: '50', Mat: '52', 'NO': '4', Player: M Vohra, Runs: '1258', SR: '128.37',
+    Span: 2013-2016}
+- bowling averages:
+  - {'4': '0', '5': '1', Ave: '26.6', Econ: '7.5', Inns: '82', Mat: '83', Overs: '293.3',
+    Player: KJ Abbott, Runs: '2234', SR: '20.96', Span: 2011-2016, Wkts: '84'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '6.5', Inns: '2', Mat: '130', Overs: '2.0',
+    Player: SE Marsh, Runs: '13', SR: '0', Span: 2006-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '33.47', Econ: '7.68', Inns: '103', Mat: '152', Overs: '226.3',
+    Player: GJ Maxwell, Runs: '1774', SR: '25.64', Span: 2010-2016, Wkts: '53'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '10.33', Inns: '3', Mat: '191', Overs: '3.0',
+    Player: DA Miller, Runs: '31', SR: '0', Span: 2008-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '24.49', Econ: '6.53', Inns: '55', Mat: '55', Overs: '198.5',
+    Player: AR Patel, Runs: '1347', SR: '21.69', Span: 2013-2016, Wkts: '55'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '136', Overs: '0.0',
+    Player: WP Saha, Runs: '0', SR: '0', Span: 2007-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '40.5', Econ: '5.4', Inns: '4', Mat: '12', Overs: '10.3',
+    Player: P Sahu, Runs: '81', SR: '31.5', Span: 2009-2016, Wkts: '2'}
+  - {'4': '1', '5': '0', Ave: '21.39', Econ: '7.27', Inns: '47', Mat: '47', Overs: '166.1',
+    Player: Sandeep Sharma, Runs: '1219', SR: '17.49', Span: 2013-2016, Wkts: '57'}
+  - {'4': '2', '5': '0', Ave: '23.62', Econ: '7.89', Inns: '66', Mat: '67', Overs: '220.1',
+    Player: MM Sharma, Runs: '1748', SR: '17.85', Span: 2013-2016, Wkts: '74'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '6.89', Inns: '6', Mat: '138', Overs: '9.0',
+    Player: M Vijay, Runs: '62', SR: '0', Span: 2007-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '52', Overs: '0.0',
+    Player: M Vohra, Runs: '0', SR: '0', Span: 2013-2016, Wkts: '0'}
+Rising Pune Supergiants:
+- batting averages:
+  - {'0': '6', '100': '0', 4s: '17', '50': '0', 6s: '7', Ave: '9.74', BF: '164', HS: '41',
+    Inns: '25', Mat: '43', 'NO': '6', Player: Ankit Sharma, Runs: '185', SR: '112.8',
+    Span: 2010-2016}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.0', BF: '5', HS: '3',
+    Inns: '2', Mat: '8', 'NO': '1', Player: M Ashwin, Runs: '3', SR: '60.0', Span: 2016-2016}
+  - {'0': '4', '100': '0', 4s: '42', '50': '0', 6s: '8', Ave: '13.53', BF: '396',
+    HS: '46', Inns: '56', Mat: '181', 'NO': '24', Player: R Ashwin, Runs: '433', SR: '109.34',
+    Span: 2007-2016}
+  - {'0': '7', '100': '0', 4s: '329', '50': '17', 6s: '193', Ave: '37.58', BF: '3393',
+    HS: '73', Inns: '205', Mat: '228', 'NO': '82', Player: MS Dhoni, Runs: '4622',
+    SR: '136.22', Span: 2006-2016}
+  - {'0': '11', '100': '1', 4s: '305', '50': '19', 6s: '95', Ave: '28.42', BF: '2758',
+    HS: '119', Inns: '138', Mat: '152', 'NO': '16', Player: F du Plessis, Runs: '3467',
+    SR: '125.71', Span: 2007-2016}
+  - {'0': '5', '100': '0', 4s: '129', '50': '1', 6s: '64', Ave: '23.8', BF: '1443',
+    HS: '60', Inns: '124', Mat: '159', 'NO': '49', Player: IK Pathan, Runs: '1785',
+    SR: '123.7', Span: 2005-2016}
+  - {'0': '12', '100': '0', 4s: '132', '50': '2', 6s: '88', Ave: '19.31', BF: '1241',
+    HS: '72', Inns: '129', Mat: '157', 'NO': '38', Player: NLTC Perera, Runs: '1757',
+    SR: '141.58', Span: 2008-2016}
+  - {'0': '9', '100': '3', 4s: '406', '50': '26', 6s: '169', Ave: '34.89', BF: '3327',
+    HS: '115', Inns: '152', Mat: '157', 'NO': '22', Player: KP Pietersen, Runs: '4536',
+    SR: '136.34', Span: 2003-2016}
+  - {'0': '11', '100': '1', 4s: '334', '50': '25', 6s: '63', Ave: '30.07', BF: '2778',
+    HS: '103', Inns: '123', Mat: '129', 'NO': '14', Player: AM Rahane, Runs: '3278',
+    SR: '118.0', Span: 2007-2016}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '9.0', BF: '55', HS: '9',
+    Inns: '23', Mat: '101', 'NO': '18', Player: I Sharma, Runs: '45', SR: '81.82',
+    Span: 2007-2016}
+  - {'0': '4', '100': '0', 4s: '200', '50': '8', 6s: '53', Ave: '27.44', BF: '1935',
+    HS: '90', Inns: '115', Mat: '134', 'NO': '28', Player: SPD Smith, Runs: '2387',
+    SR: '123.36', Span: 2008-2016}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '27.84', Econ: '7.2', Inns: '40', Mat: '43', Overs: '122.1',
+    Player: Ankit Sharma, Runs: '891', SR: '22.91', Span: 2010-2016, Wkts: '32'}
+  - {'4': '0', '5': '0', Ave: '13.38', Econ: '5.61', Inns: '8', Mat: '8', Overs: '31.0',
+    Player: M Ashwin, Runs: '174', SR: '14.31', Span: 2016-2016, Wkts: '13'}
+  - {'4': '3', '5': '0', Ave: '22.91', Econ: '6.64', Inns: '178', Mat: '181', Overs: '645.4',
+    Player: R Ashwin, Runs: '4330', SR: '20.5', Span: 2007-2016, Wkts: '189'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '12.5', Inns: '1', Mat: '228', Overs: '2.0',
+    Player: MS Dhoni, Runs: '25', SR: '0', Span: 2006-2016, Wkts: '0'}
+  - {'4': '1', '5': '2', Ave: '18.34', Econ: '6.66', Inns: '52', Mat: '152', Overs: '131.4',
+    Player: F du Plessis, Runs: '917', SR: '15.8', Span: 2007-2016, Wkts: '50'}
+  - {'4': '2', '5': '1', Ave: '25.23', Econ: '7.51', Inns: '155', Mat: '159', Overs: '539.1',
+    Player: IK Pathan, Runs: '4062', SR: '20.09', Span: 2005-2016, Wkts: '161'}
+  - {'4': '0', '5': '1', Ave: '24.65', Econ: '8.1', Inns: '145', Mat: '157', Overs: '421.3',
+    Player: NLTC Perera, Runs: '3451', SR: '18.06', Span: 2008-2016, Wkts: '140'}
+  - {'4': '0', '5': '0', Ave: '31.41', Econ: '8.09', Inns: '30', Mat: '157', Overs: '66.0',
+    Player: KP Pietersen, Runs: '534', SR: '23.29', Span: 2003-2016, Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '129', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2016, Wkts: '1'}
+  - {'4': '1', '5': '1', Ave: '34.04', Econ: '7.78', Inns: '101', Mat: '101', Overs: '366.1',
+    Player: I Sharma, Runs: '2859', SR: '26.15', Span: 2007-2016, Wkts: '84'}
+  - {'4': '2', '5': '0', Ave: '19.45', Econ: '7.17', Inns: '48', Mat: '134', Overs: '130.5',
+    Player: SPD Smith, Runs: '992', SR: '15.39', Span: 2008-2016, Wkts: '51'}

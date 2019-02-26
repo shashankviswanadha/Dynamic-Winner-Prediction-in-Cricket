@@ -1,0 +1,137 @@
+GujaratLions:
+- batting averages:
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '7.00', BF: '3', HS: 7*,
+    Inns: '2', Mat: '3', 'NO': '1', Player: Ankit Soni, Runs: '7', SR: '233.33', Span: 2017-2017}
+  - {'0': '1', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '28.00', BF: '29', HS: 13*,
+    Inns: '7', Mat: '32', 'NO': '6', Player: Basil Thampi, Runs: '28', SR: '96.55',
+    Span: 2014-2017}
+  - {'0': '2', '100': '0', 4s: '65', '50': '1', 6s: '52', Ave: '21.15', BF: '1077',
+    HS: '73', Inns: '109', Mat: '145', 'NO': '45', Player: JP Faulkner, Runs: '1354',
+    SR: '125.71', Span: 2009-2017}
+  - {'0': '11', '100': '2', 4s: '556', '50': '43', 6s: '210', Ave: '34.60', BF: '4106',
+    HS: '156', Inns: '178', Mat: '182', 'NO': '16', Player: AJ Finch, Runs: '5606',
+    SR: '136.53', Span: 2009-2017}
+  - {'0': '3', '100': '0', 4s: '46', '50': '1', 6s: '23', Ave: '18.50', BF: '458',
+    HS: '67', Inns: '28', Mat: '29', 'NO': '0', Player: Ishan Kishan, Runs: '518',
+    SR: '113.10', Span: 2014-2017}
+  - {'0': '9', '100': '0', 4s: '144', '50': '0', 6s: '66', Ave: '21.13', BF: '1630',
+    HS: '48', Inns: '135', Mat: '191', 'NO': '41', Player: RA Jadeja, Runs: '1987',
+    SR: '121.90', Span: 2007-2017}
+  - {'0': '12', '100': '0', 4s: '393', '50': '19', 6s: '106', Ave: '24.27', BF: '3144',
+    HS: 90*, Inns: '189', Mat: '214', 'NO': '24', Player: KD Karthik, Runs: '4006',
+    SR: '127.41', Span: 2006-2017}
+  - {'0': '14', '100': '7', 4s: '738', '50': '38', 6s: '360', Ave: '31.25', BF: '5552',
+    HS: 158*, Inns: '272', Mat: '277', 'NO': '26', Player: BB McCullum, Runs: '7689',
+    SR: '138.49', Span: 2005-2017}
+  - {'0': '10', '100': '3', 4s: '593', '50': '39', 6s: '260', Ave: '33.57', BF: '4858',
+    HS: 109*, Inns: '241', Mat: '255', 'NO': '40', Player: SK Raina, Runs: '6748',
+    SR: '138.90', Span: 2006-2017}
+  - {'0': '5', '100': '0', 4s: '14', '50': '0', 6s: '3', Ave: '9.76', BF: '168', HS: '24',
+    Inns: '34', Mat: '73', 'NO': '17', Player: PJ Sangwan, Runs: '166', SR: '98.80',
+    Span: 2007-2017}
+  - {'0': '26', '100': '3', 4s: '644', '50': '41', 6s: '323', Ave: '25.96', BF: '5346',
+    HS: 110*, Inns: '285', Mat: '292', 'NO': '24', Player: DR Smith, Runs: '6776',
+    SR: '126.74', Span: 2006-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '30.00', BBI: 1/16, Ct: '1', Econ: '5.45', Inns: '3',
+    Mat: '3', Mdns: '0', Overs: '11.0', Player: Ankit Soni, Runs: '60', SR: '33.0',
+    Span: 2017-2017, St: '0', Wkts: '2'}
+  - {'4': '1', '5': '0', Ave: '25.58', BBI: 4/15, Ct: '6', Econ: '7.60', Inns: '32',
+    Mat: '32', Mdns: '0', Overs: '114.2', Player: Basil Thampi, Runs: '870', SR: '20.1',
+    Span: 2014-2017, St: '0', Wkts: '34'}
+  - {'4': '1', '5': '3', Ave: '23.51', BBI: 5/16, Ct: '48', Econ: '7.86', Inns: '145',
+    Mat: '145', Mdns: '8', Overs: '502.1', Player: JP Faulkner, Runs: '3950', SR: '17.9',
+    Span: 2009-2017, St: '0', Wkts: '168'}
+  - {'4': '0', '5': '0', Ave: '47.85', BBI: 1/9, Ct: '73', Econ: '9.34', Inns: '24',
+    Mat: '182', Mdns: '0', Overs: '35.5', Player: AJ Finch, Runs: '335', SR: '30.7',
+    Span: 2009-2017, St: '0', Wkts: '7'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '12', Econ: '-', Inns: '-', Mat: '29',
+    Mdns: '-', Overs: '-', Player: Ishan Kishan, Runs: '-', SR: '-', Span: 2014-2017,
+    St: '2', Wkts: '-'}
+  - {'4': '3', '5': '1', Ave: '30.91', BBI: 5/16, Ct: '65', Econ: '7.76', Inns: '165',
+    Mat: '191', Mdns: '3', Overs: '489.5', Player: RA Jadeja, Runs: '3802', SR: '23.8',
+    Span: 2007-2017, St: '0', Wkts: '123'}
+  - {'4': '0', '5': '0', Ave: '10.00', BBI: 1/10, Ct: '132', Econ: '5.00', Inns: '1',
+    Mat: '214', Mdns: '0', Overs: '2.0', Player: KD Karthik, Runs: '10', SR: '12.0',
+    Span: 2006-2017, St: '46', Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '118', Econ: '13.00', Inns: '1',
+    Mat: '277', Mdns: '0', Overs: '1.0', Player: BB McCullum, Runs: '13', SR: '-',
+    Span: 2005-2017, St: '14', Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '33.33', BBI: 4/26, Ct: '132', Econ: '7.24', Inns: '106',
+    Mat: '255', Mdns: '0', Overs: '234.3', Player: SK Raina, Runs: '1700', SR: '27.5',
+    Span: 2006-2017, St: '0', Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '27.57', BBI: 3/13, Ct: '21', Econ: '7.54', Inns: '72',
+    Mat: '73', Mdns: '2', Overs: '248.4', Player: PJ Sangwan, Runs: '1875', SR: '21.9',
+    Span: 2007-2017, St: '0', Wkts: '68'}
+  - {'4': '2', '5': '0', Ave: '27.67', BBI: 4/8, Ct: '123', Econ: '8.01', Inns: '158',
+    Mat: '292', Mdns: '3', Overs: '352.0', Player: DR Smith, Runs: '2823', SR: '20.7',
+    Span: 2006-2017, St: '0', Wkts: '102'}
+RisingPuneSupergiant:
+- batting averages:
+  - {'0': '12', '100': '1', 4s: '168', '50': '9', 6s: '127', Ave: '21.38', BF: '2028',
+    HS: '129', Inns: '161', Mat: '189', 'NO': '35', Player: DT Christian, Runs: '2695',
+    SR: '132.88', Span: 2006-2017}
+  - {'0': '7', '100': '0', 4s: '369', '50': '20', 6s: '219', Ave: '37.24', BF: '3894',
+    HS: 73*, Inns: '232', Mat: '258', 'NO': '91', Player: MS Dhoni, Runs: '5251',
+    SR: '134.84', Span: 2006-2017}
+  - {'0': '3', '100': '0', 4s: '13', '50': '0', 6s: '4', Ave: '8.73', BF: '116', HS: 17*,
+    Inns: '29', Mat: '158', 'NO': '14', Player: Imran Tahir, Runs: '131', SR: '112.93',
+    Span: 2006-2017}
+  - {'0': '14', '100': '1', 4s: '413', '50': '32', 6s: '77', Ave: '30.30', BF: '3370',
+    HS: 103*, Inns: '149', Mat: '155', 'NO': '17', Player: AM Rahane, Runs: '4000',
+    SR: '118.69', Span: 2007-2017}
+  - {'0': '4', '100': '1', 4s: '259', '50': '10', 6s: '69', Ave: '30.06', BF: '2342',
+    HS: '101', Inns: '130', Mat: '149', 'NO': '31', Player: SPD Smith, Runs: '2976',
+    SR: '127.07', Span: 2008-2017}
+  - {'0': '4', '100': '1', 4s: '116', '50': '6', 6s: '68', Ave: '23.84', BF: '1105',
+    HS: 103*, Inns: '76', Mat: '85', 'NO': '13', Player: BA Stokes, Runs: '1502',
+    SR: '135.92', Span: 2010-2017}
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '1', Ave: '6.20', BF: '29', HS: '9',
+    Inns: '8', Mat: '24', 'NO': '3', Player: SN Thakur, Runs: '31', SR: '106.89',
+    Span: 2015-2017}
+  - {'0': '9', '100': '0', 4s: '228', '50': '12', 6s: '66', Ave: '30.70', BF: '2344',
+    HS: 75*, Inns: '124', Mat: '141', 'NO': '35', Player: MK Tiwary, Runs: '2733',
+    SR: '116.59', Span: 2007-2017}
+  - {'0': '3', '100': '0', 4s: '39', '50': '1', 6s: '16', Ave: '25.11', BF: '315',
+    HS: '59', Inns: '21', Mat: '21', 'NO': '4', Player: RA Tripathi, Runs: '427',
+    SR: '135.55', Span: 2013-2017}
+  - {'0': '3', '100': '0', 4s: '8', '50': '0', 6s: '10', Ave: '15.20', BF: '116',
+    HS: 39*, Inns: '24', Mat: '76', 'NO': '14', Player: JD Unadkat, Runs: '152', SR: '131.03',
+    Span: 2010-2017}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '-', BF: '2', HS: 2*,
+    Inns: '1', Mat: '5', 'NO': '1', Player: Washington Sundar, Runs: '2', SR: '100.00',
+    Span: 2017-2017}
+- bowling averages:
+  - {'4': '3', '5': '2', Ave: '29.04', BBI: 5/14, Ct: '72', Econ: '8.21', Inns: '168',
+    Mat: '189', Mdns: '1', Overs: '509.2', Player: DT Christian, Runs: '4183', SR: '21.2',
+    Span: 2006-2017, St: '0', Wkts: '144'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '126', Econ: '12.50', Inns: '1',
+    Mat: '258', Mdns: '0', Overs: '2.0', Player: MS Dhoni, Runs: '25', SR: '-', Span: 2006-2017,
+    St: '63', Wkts: '0'}
+  - {'4': '3', '5': '1', Ave: '20.83', BBI: 5/24, Ct: '37', Econ: '7.01', Inns: '151',
+    Mat: '158', Mdns: '4', Overs: '560.5', Player: Imran Tahir, Runs: '3937', SR: '17.8',
+    Span: 2006-2017, St: '0', Wkts: '189'}
+  - {'4': '0', '5': '0', Ave: '5.00', BBI: 1/5, Ct: '66', Econ: '5.00', Inns: '1',
+    Mat: '155', Mdns: '0', Overs: '1.0', Player: AM Rahane, Runs: '5', SR: '6.0',
+    Span: 2007-2017, St: '0', Wkts: '1'}
+  - {'4': '2', '5': '0', Ave: '19.45', BBI: 4/13, Ct: '83', Econ: '7.58', Inns: '48',
+    Mat: '149', Mdns: '1', Overs: '130.5', Player: SPD Smith, Runs: '992', SR: '15.3',
+    Span: 2008-2017, St: '0', Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '36.47', BBI: 3/18, Ct: '33', Econ: '8.43', Inns: '57',
+    Mat: '85', Mdns: '2', Overs: '164.2', Player: BA Stokes, Runs: '1386', SR: '25.9',
+    Span: 2010-2017, St: '0', Wkts: '38'}
+  - {'4': '0', '5': '0', Ave: '25.42', BBI: 3/35, Ct: '6', Econ: '8.14', Inns: '24',
+    Mat: '24', Mdns: '0', Overs: '81.1', Player: SN Thakur, Runs: '661', SR: '18.7',
+    Span: 2015-2017, St: '0', Wkts: '26'}
+  - {'4': '0', '5': '0', Ave: '25.95', BBI: 3/19, Ct: '73', Econ: '8.10', Inns: '30',
+    Mat: '141', Mdns: '0', Overs: '64.0', Player: MK Tiwary, Runs: '519', SR: '19.2',
+    Span: 2007-2017, St: '0', Wkts: '20'}
+  - {'4': '0', '5': '1', Ave: '22.75', BBI: 5/27, Ct: '8', Econ: '7.58', Inns: '10',
+    Mat: '21', Mdns: '0', Overs: '24.0', Player: RA Tripathi, Runs: '182', SR: '18.0',
+    Span: 2013-2017, St: '0', Wkts: '8'}
+  - {'4': '0', '5': '1', Ave: '22.26', BBI: 5/25, Ct: '18', Econ: '7.68', Inns: '75',
+    Mat: '76', Mdns: '1', Overs: '269.3', Player: JD Unadkat, Runs: '2071', SR: '17.3',
+    Span: 2010-2017, St: '0', Wkts: '93'}
+  - {'4': '0', '5': '0', Ave: '48.00', BBI: 1/7, Ct: '3', Econ: '6.85', Inns: '5',
+    Mat: '5', Mdns: '0', Overs: '14.0', Player: Washington Sundar, Runs: '96', SR: '42.0',
+    Span: 2017-2017, St: '0', Wkts: '2'}

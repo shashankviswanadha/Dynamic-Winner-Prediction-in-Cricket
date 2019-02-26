@@ -1,0 +1,114 @@
+Rising Pune Supergiant:
+- batting averages:
+  - {'0': '12', '100': '1', 4s: '166', '50': '9', 6s: '124', Ave: '21.23', BF: '2007',
+    HS: '129', Inns: '158', Mat: '184', 'NO': '33', Player: DT Christian, Runs: '2654',
+    SR: '132.24', Span: 2006-2017}
+  - {'0': '7', '100': '0', 4s: '361', '50': '19', 6s: '212', Ave: '37.05', BF: '3788',
+    HS: '73', Inns: '227', Mat: '253', 'NO': '89', Player: MS Dhoni, Runs: '5113',
+    SR: '134.98', Span: 2006-2017}
+  - {'0': '3', '100': '0', 4s: '13', '50': '0', 6s: '4', Ave: '8.73', BF: '116', HS: '17',
+    Inns: '29', Mat: '153', 'NO': '14', Player: Imran Tahir, Runs: '131', SR: '112.93',
+    Span: 2006-2017}
+  - {'0': '14', '100': '1', 4s: '403', '50': '32', 6s: '75', Ave: '30.74', BF: '3278',
+    HS: '103', Inns: '144', Mat: '150', 'NO': '17', Player: AM Rahane, Runs: '3904',
+    SR: '119.1', Span: 2007-2017}
+  - {'0': '4', '100': '1', 4s: '246', '50': '9', 6s: '65', Ave: '29.81', BF: '2238',
+    HS: '101', Inns: '125', Mat: '144', 'NO': '30', Player: SPD Smith, Runs: '2832',
+    SR: '126.54', Span: 2008-2017}
+  - {'0': '4', '100': '0', 4s: '106', '50': '6', 6s: '62', Ave: '22.49', BF: '1021',
+    HS: '77', Inns: '73', Mat: '82', 'NO': '12', Player: BA Stokes, Runs: '1372',
+    SR: '134.38', Span: 2010-2017}
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '1', Ave: '6.2', BF: '29', HS: '9',
+    Inns: '8', Mat: '20', 'NO': '3', Player: SN Thakur, Runs: '31', SR: '106.9', Span: 2015-2017}
+  - {'0': '8', '100': '0', 4s: '217', '50': '12', 6s: '65', Ave: '30.8', BF: '2284',
+    HS: '75', Inns: '119', Mat: '136', 'NO': '33', Player: MK Tiwary, Runs: '2649',
+    SR: '115.98', Span: 2007-2017}
+  - {'0': '3', '100': '0', 4s: '18', '50': '0', 6s: '10', Ave: '20.17', BF: '185',
+    HS: '-1', Inns: '16', Mat: '16', 'NO': '4', Player: RA Tripathi, Runs: '242',
+    SR: '130.81', Span: 2013-2017}
+  - {'0': '3', '100': '0', 4s: '8', '50': '0', 6s: '10', Ave: '15.2', BF: '116', HS: '39',
+    Inns: '24', Mat: '71', 'NO': '14', Player: JD Unadkat, Runs: '152', SR: '131.03',
+    Span: 2010-2017}
+  - {'0': '0', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '0', BF: '0', HS: '0',
+    Inns: '0', Mat: '0', 'NO': '0', Player: Washington Sundar, Runs: '0', SR: '0',
+    Span: 2017-2017}
+- bowling averages:
+  - {'4': '3', '5': '2', Ave: '29.31', Econ: '8.21', Inns: '163', Mat: '184', Overs: '493.2',
+    Player: DT Christian, Runs: '4074', SR: '21.29', Span: 2006-2017, Wkts: '139'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '12.5', Inns: '1', Mat: '253', Overs: '2.0',
+    Player: MS Dhoni, Runs: '25', SR: '0', Span: 2006-2017, Wkts: '0'}
+  - {'4': '3', '5': '1', Ave: '20.93', Econ: '6.9', Inns: '146', Mat: '153', Overs: '541.5',
+    Player: Imran Tahir, Runs: '3789', SR: '17.96', Span: 2006-2017, Wkts: '181'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '150', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2017, Wkts: '1'}
+  - {'4': '2', '5': '0', Ave: '19.45', Econ: '7.17', Inns: '48', Mat: '144', Overs: '130.5',
+    Player: SPD Smith, Runs: '992', SR: '15.39', Span: 2008-2017, Wkts: '51'}
+  - {'4': '0', '5': '0', Ave: '36.39', Econ: '8.42', Inns: '54', Mat: '82', Overs: '154.1',
+    Player: BA Stokes, Runs: '1310', SR: '25.69', Span: 2010-2017, Wkts: '36'}
+  - {'4': '0', '5': '0', Ave: '21.04', Econ: '7.74', Inns: '20', Mat: '20', Overs: '68.0',
+    Player: SN Thakur, Runs: '526', SR: '16.32', Span: 2015-2017, Wkts: '25'}
+  - {'4': '0', '5': '0', Ave: '25.95', Econ: '8.11', Inns: '30', Mat: '136', Overs: '64.0',
+    Player: MK Tiwary, Runs: '519', SR: '19.2', Span: 2007-2017, Wkts: '20'}
+  - {'4': '0', '5': '1', Ave: '21.25', Econ: '7.39', Inns: '9', Mat: '16', Overs: '23.0',
+    Player: RA Tripathi, Runs: '170', SR: '17.25', Span: 2013-2017, Wkts: '8'}
+  - {'4': '0', '5': '1', Ave: '22.54', Econ: '7.46', Inns: '70', Mat: '71', Overs: '250.4',
+    Player: JD Unadkat, Runs: '1916', SR: '17.69', Span: 2010-2017, Wkts: '85'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '0', Overs: '0.0', Player: Washington
+      Sundar, Runs: '0', SR: '0', Span: 2017-2017, Wkts: '0'}
+Sunrisers Hyderabad:
+- batting averages:
+  - {'0': '9', '100': '0', 4s: '55', '50': '2', 6s: '35', Ave: '21.95', BF: '569',
+    HS: '79', Inns: '59', Mat: '79', 'NO': '22', Player: Bipul Sharma, Runs: '812',
+    SR: '142.71', Span: 2007-2017}
+  - {'0': '6', '100': '0', 4s: '540', '50': '35', 6s: '98', Ave: '30.8', BF: '3987',
+    HS: '95', Inns: '174', Mat: '175', 'NO': '20', Player: S Dhawan, Runs: '4743',
+    SR: '118.96', Span: 2007-2017}
+  - {'0': '8', '100': '0', 4s: '221', '50': '13', 6s: '78', Ave: '25.88', BF: '2195',
+    HS: '77', Inns: '137', Mat: '154', 'NO': '30', Player: MC Henriques, Runs: '2769',
+    SR: '126.15', Span: 2006-2017}
+  - {'0': '3', '100': '1', 4s: '49', '50': '3', 6s: '44', Ave: '19.04', BF: '608',
+    HS: '108', Inns: '54', Mat: '67', 'NO': '9', Player: DJ Hooda, Runs: '857', SR: '140.95',
+    Span: 2013-2017}
+  - {'0': '1', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '17.0', BF: '49', HS: '8',
+    Inns: '18', Mat: '49', 'NO': '15', Player: S Kaul, Runs: '51', SR: '104.08', Span: 2012-2017}
+  - {'0': '3', '100': '0', 4s: '19', '50': '0', 6s: '4', Ave: '9.57', BF: '215', HS: '24',
+    Inns: '42', Mat: '108', 'NO': '19', Player: B Kumar, Runs: '220', SR: '102.33',
+    Span: 2009-2017}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '4.5', BF: '9', HS: '6',
+    Inns: '3', Mat: '11', 'NO': '1', Player: Mohammed Siraj, Runs: '9', SR: '100.0',
+    Span: 2016-2017}
+  - {'0': '13', '100': '0', 4s: '232', '50': '12', 6s: '119', Ave: '21.16', BF: '2178',
+    HS: '94', Inns: '142', Mat: '156', 'NO': '20', Player: NV Ojha, Runs: '2581',
+    SR: '118.5', Span: 2007-2017}
+  - {'0': '0', '100': '0', 4s: '9', '50': '0', 6s: '6', Ave: '14.29', BF: '68', HS: '15',
+    Inns: '15', Mat: '39', 'NO': '8', Player: Rashid Khan, Runs: '100', SR: '147.06',
+    Span: 2015-2017}
+  - {'0': '15', '100': '5', 4s: '718', '50': '56', 6s: '297', Ave: '35.27', BF: '4997',
+    HS: '135', Inns: '227', Mat: '228', 'NO': '24', Player: DA Warner, Runs: '7160',
+    SR: '143.29', Span: 2007-2017}
+  - {'0': '3', '100': '1', 4s: '263', '50': '15', 6s: '43', Ave: '28.57', BF: '2121',
+    HS: '101', Inns: '100', Mat: '108', 'NO': '11', Player: KS Williamson, Runs: '2543',
+    SR: '119.9', Span: 2009-2017}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '21.67', Econ: '6.22', Inns: '67', Mat: '79', Overs: '206.4',
+    Player: Bipul Sharma, Runs: '1322', SR: '20.33', Span: 2007-2017, Wkts: '61'}
+  - {'4': '0', '5': '0', Ave: '16.5', Econ: '8.25', Inns: '6', Mat: '175', Overs: '8.0',
+    Player: S Dhawan, Runs: '66', SR: '12.0', Span: 2007-2017, Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '28.82', Econ: '8.1', Inns: '128', Mat: '154', Overs: '363.2',
+    Player: MC Henriques, Runs: '2968', SR: '21.17', Span: 2006-2017, Wkts: '103'}
+  - {'4': '0', '5': '0', Ave: '42.33', Econ: '7.37', Inns: '23', Mat: '67', Overs: '50.1',
+    Player: DJ Hooda, Runs: '381', SR: '33.44', Span: 2013-2017, Wkts: '9'}
+  - {'4': '1', '5': '0', Ave: '20.44', Econ: '6.33', Inns: '49', Mat: '49', Overs: '171.4',
+    Player: S Kaul, Runs: '1124', SR: '18.73', Span: 2012-2017, Wkts: '55'}
+  - {'4': '2', '5': '1', Ave: '22.44', Econ: '6.9', Inns: '108', Mat: '108', Overs: '395.3',
+    Player: B Kumar, Runs: '2760', SR: '19.29', Span: 2009-2017, Wkts: '123'}
+  - {'4': '1', '5': '0', Ave: '17.44', Econ: '7.3', Inns: '11', Mat: '11', Overs: '43.0',
+    Player: Mohammed Siraj, Runs: '314', SR: '14.33', Span: 2016-2017, Wkts: '18'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '156', Overs: '0.0',
+    Player: NV Ojha, Runs: '0', SR: '0', Span: 2007-2017, Wkts: '0'}
+  - {'4': '0', '5': '1', Ave: '14.29', Econ: '6.17', Inns: '39', Mat: '39', Overs: '149.1',
+    Player: Rashid Khan, Runs: '929', SR: '13.77', Span: 2015-2017, Wkts: '65'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '13.0', Inns: '1', Mat: '228', Overs: '1.0',
+    Player: DA Warner, Runs: '13', SR: '0', Span: 2007-2017, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '28.97', Econ: '6.77', Inns: '52', Mat: '108', Overs: '125.2',
+    Player: KS Williamson, Runs: '869', SR: '25.07', Span: 2009-2017, Wkts: '30'}

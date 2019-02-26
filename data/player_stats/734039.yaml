@@ -1,0 +1,137 @@
+DelhiDaredevils:
+- batting averages:
+  - {'0': '3', '100': '1', 4s: '101', '50': '5', 6s: '44', Ave: '23.00', BF: '846',
+    HS: '111', Inns: '51', Mat: '56', 'NO': '3', Player: MA Agarwal, Runs: '1104',
+    SR: '130.49', Span: 2010-2014}
+  - {'0': '11', '100': '0', 4s: '315', '50': '27', 6s: '134', Ave: '37.62', BF: '3462',
+    HS: 99*, Inns: '161', Mat: '170', 'NO': '49', Player: JP Duminy, Runs: '4214',
+    SR: '121.72', Span: 2004-2014}
+  - {'0': '3', '100': '0', 4s: '11', '50': '0', 6s: '4', Ave: '9.81', BF: '83', HS: 17*,
+    Inns: '21', Mat: '97', 'NO': '10', Player: Imran Tahir, Runs: '108', SR: '130.12',
+    Span: 2006-2014}
+  - {'0': '5', '100': '0', 4s: '68', '50': '4', 6s: '31', Ave: '23.33', BF: '597',
+    HS: 60*, Inns: '50', Mat: '54', 'NO': '14', Player: KM Jadhav, Runs: '840', SR: '140.70',
+    Span: 2007-2014}
+  - {'0': '10', '100': '0', 4s: '308', '50': '15', 6s: '90', Ave: '25.23', BF: '2432',
+    HS: 90*, Inns: '144', Mat: '161', 'NO': '20', Player: KD Karthik, Runs: '3129',
+    SR: '128.65', Span: 2006-2014}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.20', BF: '28', HS: '5',
+    Inns: '10', Mat: '39', 'NO': '5', Player: Mohammed Shami, Runs: '16', SR: '57.14',
+    Span: 2010-2014}
+  - {'0': '3', '100': '0', 4s: '10', '50': '0', 6s: '5', Ave: '9.62', BF: '160', HS: 36*,
+    Inns: '25', Mat: '62', 'NO': '9', Player: S Nadeem, Runs: '154', SR: '96.25',
+    Span: 2007-2014}
+  - {'0': '1', '100': '0', 4s: '39', '50': '2', 6s: '24', Ave: '30.87', BF: '329',
+    HS: 59*, Inns: '26', Mat: '35', 'NO': '10', Player: JDS Neesham, Runs: '494',
+    SR: '150.15', Span: 2010-2014}
+  - {'0': '7', '100': '1', 4s: '260', '50': '14', 6s: '87', Ave: '33.70', BF: '1985',
+    HS: 103*, Inns: '93', Mat: '96', 'NO': '13', Player: KP Pietersen, Runs: '2696',
+    SR: '135.81', Span: 2003-2014}
+  - {'0': '8', '100': '0', 4s: '182', '50': '11', 6s: '51', Ave: '29.90', BF: '1966',
+    HS: 75*, Inns: '101', Mat: '114', 'NO': '26', Player: MK Tiwary, Runs: '2243',
+    SR: '114.08', Span: 2007-2014}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '4.00', BF: '32', HS: 6*,
+    Inns: '12', Mat: '53', 'NO': '7', Player: JD Unadkat, Runs: '20', SR: '62.50',
+    Span: 2010-2014}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '21', Econ: '8.00', Inns: '1', Mat: '56',
+    Mdns: '0', Overs: '1.0', Player: MA Agarwal, Runs: '8', SR: '-', Span: 2010-2014,
+    St: '0', Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '29.00', BBI: 4/20, Ct: '57', Econ: '7.51', Inns: '93',
+    Mat: '170', Mdns: '0', Overs: '208.2', Player: JP Duminy, Runs: '1566', SR: '23.1',
+    Span: 2004-2014, St: '0', Wkts: '54'}
+  - {'4': '1', '5': '0', Ave: '20.77', BBI: 4/21, Ct: '25', Econ: '6.53', Inns: '92',
+    Mat: '97', Mdns: '4', Overs: '343.3', Player: Imran Tahir, Runs: '2244', SR: '19.0',
+    Span: 2006-2014, St: '0', Wkts: '108'}
+  - {'4': '0', '5': '0', Ave: '19.50', BBI: 2/23, Ct: '20', Econ: '8.66', Inns: '3',
+    Mat: '54', Mdns: '0', Overs: '9.0', Player: KM Jadhav, Runs: '78', SR: '13.5',
+    Span: 2007-2014, St: '2', Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '10.00', BBI: 1/10, Ct: '90', Econ: '5.00', Inns: '1',
+    Mat: '161', Mdns: '0', Overs: '2.0', Player: KD Karthik, Runs: '10', SR: '12.0',
+    Span: 2006-2014, St: '35', Wkts: '1'}
+  - {'4': '1', '5': '0', Ave: '21.97', BBI: 4/24, Ct: '8', Econ: '7.25', Inns: '39',
+    Mat: '39', Mdns: '2', Overs: '133.2', Player: Mohammed Shami, Runs: '967', SR: '18.1',
+    Span: 2010-2014, St: '0', Wkts: '44'}
+  - {'4': '0', '5': '0', Ave: '28.32', BBI: 3/16, Ct: '12', Econ: '6.43', Inns: '62',
+    Mat: '62', Mdns: '3', Overs: '229.0', Player: S Nadeem, Runs: '1473', SR: '26.4',
+    Span: 2007-2014, St: '0', Wkts: '52'}
+  - {'4': '0', '5': '0', Ave: '26.03', BBI: 3/16, Ct: '8', Econ: '8.41', Inns: '31',
+    Mat: '35', Mdns: '1', Overs: '83.3', Player: JDS Neesham, Runs: '703', SR: '18.5',
+    Span: 2010-2014, St: '0', Wkts: '27'}
+  - {'4': '0', '5': '0', Ave: '30.23', BBI: 3/33, Ct: '37', Econ: '8.03', Inns: '28',
+    Mat: '96', Mdns: '0', Overs: '64.0', Player: KP Pietersen, Runs: '514', SR: '22.5',
+    Span: 2003-2014, St: '0', Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '26.84', BBI: 3/19, Ct: '59', Econ: '7.87', Inns: '23',
+    Mat: '114', Mdns: '0', Overs: '44.2', Player: MK Tiwary, Runs: '349', SR: '20.4',
+    Span: 2007-2014, St: '0', Wkts: '13'}
+  - {'4': '0', '5': '1', Ave: '22.15', BBI: 5/25, Ct: '9', Econ: '7.69', Inns: '52',
+    Mat: '53', Mdns: '0', Overs: '181.3', Player: JD Unadkat, Runs: '1396', SR: '17.2',
+    Span: 2010-2014, St: '0', Wkts: '63'}
+KingsXIPunjab:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '3.50', BF: '29', HS: 7*,
+    Inns: '11', Mat: '46', 'NO': '7', Player: P Awana, Runs: '14', SR: '48.27', Span: 2010-2014}
+  - {'0': '1', '100': '0', 4s: '142', '50': '8', 6s: '59', Ave: '29.53', BF: '1253',
+    HS: '63', Inns: '80', Mat: '92', 'NO': '22', Player: GJ Bailey, Runs: '1713',
+    SR: '136.71', Span: 2006-2014}
+  - {'0': '1', '100': '0', 4s: '55', '50': '1', 6s: '4', Ave: '25.95', BF: '544',
+    HS: 65*, Inns: '35', Mat: '51', 'NO': '12', Player: R Dhawan, Runs: '597', SR: '109.74',
+    Span: 2007-2014}
+  - {'0': '3', '100': '0', 4s: '19', '50': '0', 6s: '7', Ave: '12.26', BF: '208',
+    HS: '30', Inns: '33', Mat: '67', 'NO': '14', Player: MG Johnson, Runs: '233',
+    SR: '112.01', Span: 2006-2014}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '7.00', BF: '12', HS: '7',
+    Inns: '1', Mat: '3', 'NO': '0', Player: Karanveer Singh, Runs: '7', SR: '58.33',
+    Span: 2014-2014}
+  - {'0': '3', '100': '0', 4s: '141', '50': '9', 6s: '105', Ave: '26.18', BF: '1050',
+    HS: '95', Inns: '75', Mat: '84', 'NO': '9', Player: GJ Maxwell, Runs: '1728',
+    SR: '164.57', Span: 2010-2014}
+  - {'0': '7', '100': '1', 4s: '225', '50': '18', 6s: '133', Ave: '38.93', BF: '2238',
+    HS: 101*, Inns: '118', Mat: '130', 'NO': '38', Player: DA Miller, Runs: '3115',
+    SR: '139.18', Span: 2008-2014}
+  - {'0': '2', '100': '0', 4s: '17', '50': '0', 6s: '7', Ave: '15.00', BF: '134',
+    HS: 43*, Inns: '18', Mat: '27', 'NO': '6', Player: AR Patel, Runs: '180', SR: '134.32',
+    Span: 2013-2014}
+  - {'0': '3', '100': '0', 4s: '118', '50': '8', 6s: '53', Ave: '24.43', BF: '1097',
+    HS: 85*, Inns: '80', Mat: '102', 'NO': '23', Player: WP Saha, Runs: '1393', SR: '126.98',
+    Span: 2007-2014}
+  - {'0': '9', '100': '1', 4s: '441', '50': '22', 6s: '125', Ave: '27.60', BF: '2399',
+    HS: '119', Inns: '136', Mat: '138', 'NO': '6', Player: V Sehwag, Runs: '3588',
+    SR: '149.56', Span: 2003-2014}
+  - {'0': '1', '100': '0', 4s: '53', '50': '0', 6s: '12', Ave: '27.47', BF: '327',
+    HS: '47', Inns: '19', Mat: '21', 'NO': '2', Player: M Vohra, Runs: '467', SR: '142.81',
+    Span: 2013-2014}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '23.20', BBI: 4/34, Ct: '6', Econ: '7.46', Inns: '46',
+    Mat: '46', Mdns: '3', Overs: '171.0', Player: P Awana, Runs: '1276', SR: '18.6',
+    Span: 2010-2014, St: '0', Wkts: '55'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '35', Econ: '12.00', Inns: '1', Mat: '92',
+    Mdns: '0', Overs: '2.0', Player: GJ Bailey, Runs: '24', SR: '-', Span: 2006-2014,
+    St: '0', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '29.97', BBI: 3/13, Ct: '13', Econ: '7.21', Inns: '46',
+    Mat: '51', Mdns: '2', Overs: '153.4', Player: R Dhawan, Runs: '1109', SR: '24.9',
+    Span: 2007-2014, St: '0', Wkts: '37'}
+  - {'4': '0', '5': '0', Ave: '23.10', BBI: 3/15, Ct: '16', Econ: '7.45', Inns: '66',
+    Mat: '67', Mdns: '2', Overs: '241.5', Player: MG Johnson, Runs: '1802', SR: '18.6',
+    Span: 2006-2014, St: '0', Wkts: '78'}
+  - {'4': '0', '5': '0', Ave: '12.75', BBI: 2/16, Ct: '1', Econ: '5.66', Inns: '3',
+    Mat: '3', Mdns: '0', Overs: '9.0', Player: Karanveer Singh, Runs: '51', SR: '13.5',
+    Span: 2014-2014, St: '0', Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '35.61', BBI: 3/26, Ct: '43', Econ: '7.74', Inns: '55',
+    Mat: '84', Mdns: '1', Overs: '119.3', Player: GJ Maxwell, Runs: '926', SR: '27.5',
+    Span: 2010-2014, St: '0', Wkts: '26'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '81', Econ: '10.33', Inns: '3', Mat: '130',
+    Mdns: '0', Overs: '3.0', Player: DA Miller, Runs: '31', SR: '-', Span: 2008-2014,
+    St: '0', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '25.32', BBI: 3/21, Ct: '9', Econ: '6.31', Inns: '27',
+    Mat: '27', Mdns: '1', Overs: '100.1', Player: AR Patel, Runs: '633', SR: '24.0',
+    Span: 2013-2014, St: '0', Wkts: '25'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '51', Econ: '-', Inns: '-', Mat: '102',
+    Mdns: '-', Overs: '-', Player: WP Saha, Runs: '-', SR: '-', Span: 2007-2014, St: '11',
+    Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '21.72', BBI: 3/14, Ct: '39', Econ: '8.28', Inns: '26',
+    Mat: '138', Mdns: '0', Overs: '57.4', Player: V Sehwag, Runs: '478', SR: '15.7',
+    Span: 2003-2014, St: '0', Wkts: '22'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '5', Econ: '-', Inns: '-', Mat: '21',
+    Mdns: '-', Overs: '-', Player: M Vohra, Runs: '-', SR: '-', Span: 2013-2014, St: '0',
+    Wkts: '-'}

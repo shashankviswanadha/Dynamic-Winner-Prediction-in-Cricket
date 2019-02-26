@@ -1,0 +1,137 @@
+MumbaiIndians:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '2', Ave: '7.00', BF: '43', HS: 14*,
+    Inns: '14', Mat: '97', 'NO': '9', Player: JJ Bumrah, Runs: '35', SR: '81.39',
+    Span: 2013-2017}
+  - {'0': '18', '100': '0', 4s: '129', '50': '2', 6s: '70', Ave: '15.25', BF: '1044',
+    HS: '78', Inns: '139', Mat: '228', 'NO': '48', Player: Harbhajan Singh, Runs: '1388',
+    SR: '132.95', Span: 2005-2017}
+  - {'0': '8', '100': '0', 4s: '10', '50': '0', 6s: '8', Ave: '8.00', BF: '99', HS: '20',
+    Inns: '38', Mat: '116', 'NO': '21', Player: MJ McClenaghan, Runs: '136', SR: '137.37',
+    Span: 2009-2017}
+  - {'0': '16', '100': '0', 4s: '18', '50': '0', 6s: '16', Ave: '6.56', BF: '301',
+    HS: 37*, Inns: '70', Mat: '235', 'NO': '26', Player: SL Malinga, Runs: '289',
+    SR: '96.01', Span: 2004-2017}
+  - {'0': '3', '100': '0', 4s: '83', '50': '5', 6s: '62', Ave: '25.93', BF: '962',
+    HS: 86*, Inns: '65', Mat: '80', 'NO': '18', Player: HH Pandya, Runs: '1219', SR: '126.71',
+    Span: 2013-2017}
+  - {'0': '14', '100': '0', 4s: '460', '50': '19', 6s: '60', Ave: '22.52', BF: '2933',
+    HS: '82', Inns: '169', Mat: '172', 'NO': '11', Player: PA Patel, Runs: '3559',
+    SR: '121.34', Span: 2005-2017}
+  - {'0': '12', '100': '0', 4s: '472', '50': '33', 6s: '463', Ave: '30.47', BF: '4777',
+    HS: 89*, Inns: '332', Mat: '370', 'NO': '95', Player: KA Pollard, Runs: '7222',
+    SR: '151.18', Span: 2006-2017}
+  - {'0': '0', '100': '0', 4s: '75', '50': '7', 6s: '51', Ave: '31.23', BF: '688',
+    HS: '97', Inns: '33', Mat: '36', 'NO': '3', Player: N Rana, Runs: '937', SR: '136.19',
+    Span: 2013-2017}
+  - {'0': '4', '100': '0', 4s: '70', '50': '2', 6s: '46', Ave: '20.07', BF: '858',
+    HS: '67', Inns: '73', Mat: '103', 'NO': '21', Player: KV Sharma, Runs: '1044',
+    SR: '121.67', Span: 2007-2017}
+  - {'0': '13', '100': '3', 4s: '552', '50': '46', 6s: '261', Ave: '33.12', BF: '4913',
+    HS: 109*, Inns: '236', Mat: '248', 'NO': '41', Player: RG Sharma, Runs: '6459',
+    SR: '131.46', Span: 2007-2017}
+  - {'0': '20', '100': '1', 4s: '474', '50': '39', 6s: '194', Ave: '30.15', BF: '4298',
+    HS: 100*, Inns: '184', Mat: '186', 'NO': '19', Player: LMP Simmons, Runs: '4976',
+    SR: '115.77', Span: 2007-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '22.97', BBI: 3/10, Ct: '14', Econ: '7.28', Inns: '97',
+    Mat: '97', Mdns: '8', Overs: '359.2', Player: JJ Bumrah, Runs: '2619', SR: '18.9',
+    Span: 2013-2017, St: '0', Wkts: '114'}
+  - {'4': '3', '5': '1', Ave: '25.57', BBI: 5/18, Ct: '69', Econ: '6.64', Inns: '217',
+    Mat: '228', Mdns: '12', Overs: '785.0', Player: Harbhajan Singh, Runs: '5217',
+    SR: '23.0', Span: 2005-2017, St: '0', Wkts: '204'}
+  - {'4': '2', '5': '1', Ave: '22.03', BBI: 5/29, Ct: '21', Econ: '8.07', Inns: '114',
+    Mat: '116', Mdns: '5', Overs: '417.3', Player: MJ McClenaghan, Runs: '3372', SR: '16.3',
+    Span: 2009-2017, St: '0', Wkts: '153'}
+  - {'4': '8', '5': '4', Ave: '18.32', BBI: 6/7, Ct: '44', Econ: '6.81', Inns: '230',
+    Mat: '235', Mdns: '13', Overs: '859.5', Player: SL Malinga, Runs: '5864', SR: '16.1',
+    Span: 2004-2017, St: '0', Wkts: '320'}
+  - {'4': '0', '5': '0', Ave: '29.73', BBI: 3/7, Ct: '39', Econ: '7.66', Inns: '73',
+    Mat: '80', Mdns: '4', Overs: '190.1', Player: HH Pandya, Runs: '1457', SR: '23.2',
+    Span: 2013-2017, St: '0', Wkts: '49'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '98', Econ: '-', Inns: '-', Mat: '172',
+    Mdns: '-', Overs: '-', Player: PA Patel, Runs: '-', SR: '-', Span: 2005-2017,
+    St: '24', Wkts: '-'}
+  - {'4': '4', '5': '0', Ave: '23.68', BBI: 4/15, Ct: '210', Econ: '8.08', Inns: '259',
+    Mat: '370', Mdns: '1', Overs: '682.2', Player: KA Pollard, Runs: '5519', SR: '17.5',
+    Span: 2006-2017, St: '0', Wkts: '233'}
+  - {'4': '0', '5': '0', Ave: '47.00', BBI: 1/10, Ct: '8', Econ: '8.54', Inns: '7',
+    Mat: '36', Mdns: '0', Overs: '11.0', Player: N Rana, Runs: '94', SR: '33.0', Span: 2013-2017,
+    St: '0', Wkts: '2'}
+  - {'4': '1', '5': '1', Ave: '24.71', BBI: 5/24, Ct: '26', Econ: '7.32', Inns: '94',
+    Mat: '103', Mdns: '1', Overs: '293.2', Player: KV Sharma, Runs: '2150', SR: '20.2',
+    Span: 2007-2017, St: '0', Wkts: '87'}
+  - {'4': '1', '5': '0', Ave: '28.17', BBI: 4/6, Ct: '100', Econ: '7.80', Inns: '57',
+    Mat: '248', Mdns: '0', Overs: '104.4', Player: RG Sharma, Runs: '817', SR: '21.6',
+    Span: 2007-2017, St: '0', Wkts: '29'}
+  - {'4': '1', '5': '0', Ave: '24.18', BBI: 4/19, Ct: '71', Econ: '8.62', Inns: '31',
+    Mat: '186', Mdns: '1', Overs: '61.4', Player: LMP Simmons, Runs: '532', SR: '16.8',
+    Span: 2007-2017, St: '0', Wkts: '22'}
+SunrisersHyderabad:
+- batting averages:
+  - {'0': '6', '100': '0', 4s: '566', '50': '37', 6s: '104', Ave: '31.37', BF: '4169',
+    HS: 95*, Inns: '180', Mat: '181', 'NO': '21', Player: S Dhawan, Runs: '4988',
+    SR: '119.64', Span: 2007-2017}
+  - {'0': '8', '100': '0', 4s: '235', '50': '14', 6s: '80', Ave: '26.64', BF: '2288',
+    HS: '77', Inns: '142', Mat: '160', 'NO': '33', Player: MC Henriques, Runs: '2904',
+    SR: '126.92', Span: 2006-2017}
+  - {'0': '1', '100': '0', 4s: '3', '50': '0', 6s: '0', Ave: '17.00', BF: '51', HS: 8*,
+    Inns: '19', Mat: '55', 'NO': '16', Player: S Kaul, Runs: '51', SR: '100.00', Span: 2012-2017}
+  - {'0': '4', '100': '0', 4s: '19', '50': '0', 6s: '4', Ave: '9.16', BF: '216', HS: 24*,
+    Inns: '43', Mat: '114', 'NO': '19', Player: B Kumar, Runs: '220', SR: '101.85',
+    Span: 2009-2017}
+  - {'0': '4', '100': '0', 4s: '126', '50': '5', 6s: '80', Ave: '21.63', BF: '1286',
+    HS: '89', Inns: '102', Mat: '123', 'NO': '20', Player: Mohammad Nabi, Runs: '1774',
+    SR: '137.94', Span: 2010-2017}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '4.50', BF: '9', HS: 6*,
+    Inns: '3', Mat: '15', 'NO': '1', Player: Mohammed Siraj, Runs: '9', SR: '100.00',
+    Span: 2016-2017}
+  - {'0': '13', '100': '0', 4s: '232', '50': '12', 6s: '120', Ave: '21.05', BF: '2187',
+    HS: 94*, Inns: '143', Mat: '162', 'NO': '20', Player: NV Ojha, Runs: '2590', SR: '118.42',
+    Span: 2007-2017}
+  - {'0': '0', '100': '0', 4s: '9', '50': '0', 6s: '6', Ave: '12.87', BF: '72', HS: '15',
+    Inns: '16', Mat: '45', 'NO': '8', Player: Rashid Khan, Runs: '103', SR: '143.05',
+    Span: 2015-2017}
+  - {'0': '2', '100': '0', 4s: '21', '50': '1', 6s: '9', Ave: '19.55', BF: '295',
+    HS: '69', Inns: '24', Mat: '32', 'NO': '6', Player: V Shankar, Runs: '352', SR: '119.32',
+    Span: 2013-2017}
+  - {'0': '15', '100': '6', 4s: '744', '50': '57', 6s: '312', Ave: '35.67', BF: '5184',
+    HS: 135*, Inns: '233', Mat: '234', 'NO': '24', Player: DA Warner, Runs: '7456',
+    SR: '143.82', Span: 2007-2017}
+  - {'0': '8', '100': '0', 4s: '345', '50': '25', 6s: '244', Ave: '26.37', BF: '3334',
+    HS: '83', Inns: '192', Mat: '205', 'NO': '25', Player: Yuvraj Singh, Runs: '4404',
+    SR: '132.09', Span: 2003-2017}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '16.50', BBI: 1/7, Ct: '72', Econ: '8.25', Inns: '6',
+    Mat: '181', Mdns: '0', Overs: '8.0', Player: S Dhawan, Runs: '66', SR: '12.0',
+    Span: 2007-2017, St: '0', Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '30.17', BBI: 3/11, Ct: '70', Econ: '8.25', Inns: '134',
+    Mat: '160', Mdns: '0', Overs: '376.2', Player: MC Henriques, Runs: '3108', SR: '21.9',
+    Span: 2006-2017, St: '0', Wkts: '103'}
+  - {'4': '2', '5': '0', Ave: '19.44', BBI: 4/14, Ct: '13', Econ: '6.79', Inns: '55',
+    Mat: '55', Mdns: '2', Overs: '194.4', Player: S Kaul, Runs: '1322', SR: '17.1',
+    Span: 2012-2017, St: '0', Wkts: '68'}
+  - {'4': '2', '5': '1', Ave: '22.56', BBI: 5/19, Ct: '26', Econ: '7.04', Inns: '114',
+    Mat: '114', Mdns: '8', Overs: '419.3', Player: B Kumar, Runs: '2956', SR: '19.2',
+    Span: 2009-2017, St: '0', Wkts: '131'}
+  - {'4': '4', '5': '0', Ave: '21.09', BBI: 4/10, Ct: '64', Econ: '6.94', Inns: '123',
+    Mat: '123', Mdns: '7', Overs: '428.0', Player: Mohammad Nabi, Runs: '2974', SR: '18.2',
+    Span: 2010-2017, St: '0', Wkts: '141'}
+  - {'4': '1', '5': '0', Ave: '20.68', BBI: 4/24, Ct: '4', Econ: '7.84', Inns: '15',
+    Mat: '15', Mdns: '0', Overs: '58.0', Player: Mohammed Siraj, Runs: '455', SR: '15.8',
+    Span: 2016-2017, St: '0', Wkts: '22'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '104', Econ: '-', Inns: '-', Mat: '162',
+    Mdns: '-', Overs: '-', Player: NV Ojha, Runs: '-', SR: '-', Span: 2007-2017, St: '22',
+    Wkts: '-'}
+  - {'4': '0', '5': '1', Ave: '15.20', BBI: 5/3, Ct: '17', Econ: '6.13', Inns: '45',
+    Mat: '45', Mdns: '1', Overs: '173.2', Player: Rashid Khan, Runs: '1064', SR: '14.8',
+    Span: 2015-2017, St: '0', Wkts: '70'}
+  - {'4': '0', '5': '0', Ave: '32.75', BBI: 2/12, Ct: '23', Econ: '8.45', Inns: '21',
+    Mat: '32', Mdns: '1', Overs: '46.3', Player: V Shankar, Runs: '393', SR: '23.2',
+    Span: 2013-2017, St: '0', Wkts: '12'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '109', Econ: '13.00', Inns: '1',
+    Mat: '234', Mdns: '0', Overs: '1.0', Player: DA Warner, Runs: '13', SR: '-', Span: 2007-2017,
+    St: '0', Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '23.10', BBI: 4/29, Ct: '48', Econ: '7.29', Inns: '120',
+    Mat: '205', Mdns: '0', Overs: '253.1', Player: Yuvraj Singh, Runs: '1848', SR: '18.9',
+    Span: 2003-2017, St: '0', Wkts: '80'}

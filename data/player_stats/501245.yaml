@@ -1,0 +1,134 @@
+ChennaiSuperKings:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '4', '50': '0', 6s: '0', Ave: '5.55', BF: '69', HS: 11*,
+    Inns: '14', Mat: '45', 'NO': '5', Player: R Ashwin, Runs: '50', SR: '72.46', Span: 2007-2011}
+  - {'0': '4', '100': '0', 4s: '133', '50': '11', 6s: '34', Ave: '32.85', BF: '1153',
+    HS: 71*, Inns: '62', Mat: '76', 'NO': '20', Player: S Badrinath, Runs: '1380',
+    SR: '119.68', Span: 2007-2011}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '1', Ave: '23.00', BF: '23', HS: 16*,
+    Inns: '4', Mat: '42', 'NO': '3', Player: DE Bollinger, Runs: '23', SR: '100.00',
+    Span: 2006-2011}
+  - {'0': '3', '100': '0', 4s: '141', '50': '7', 6s: '62', Ave: '34.37', BF: '1440',
+    HS: 73*, Inns: '79', Mat: '89', 'NO': '25', Player: MS Dhoni, Runs: '1856', SR: '128.88',
+    Span: 2006-2011}
+  - {'0': '1', '100': '1', 4s: '138', '50': '10', 6s: '37', Ave: '44.93', BF: '1145',
+    HS: 116*, Inns: '46', Mat: '54', 'NO': '13', Player: MEK Hussey, Runs: '1483',
+    SR: '129.51', Span: 2003-2011}
+  - {'0': '0', '100': '0', 4s: '13', '50': '0', 6s: '1', Ave: '13.66', BF: '99', HS: '43',
+    Inns: '13', Mat: '40', 'NO': '4', Player: SB Jakati, Runs: '123', SR: '124.24',
+    Span: 2007-2011}
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '2', Ave: '6.14', BF: '34', HS: '20',
+    Inns: '8', Mat: '27', 'NO': '1', Player: S Randiv, Runs: '43', SR: '126.47', Span: 2005-2011}
+  - {'0': '6', '100': '0', 4s: '153', '50': '6', 6s: '123', Ave: '27.92', BF: '1549',
+    HS: 71*, Inns: '121', Mat: '148', 'NO': '42', Player: JA Morkel, Runs: '2206',
+    SR: '142.41', Span: 2004-2011}
+  - {'0': '2', '100': '1', 4s: '197', '50': '17', 6s: '101', Ave: '36.36', BF: '1663',
+    HS: '101', Inns: '78', Mat: '81', 'NO': '13', Player: SK Raina, Runs: '2364',
+    SR: '142.15', Span: 2006-2011}
+  - {'0': '1', '100': '0', 4s: '59', '50': '3', 6s: '28', Ave: '27.16', BF: '487',
+    HS: 85*, Inns: '40', Mat: '50', 'NO': '15', Player: WP Saha, Runs: '679', SR: '139.42',
+    Span: 2007-2011}
+  - {'0': '2', '100': '1', 4s: '114', '50': '7', 6s: '62', Ave: '27.21', BF: '1093',
+    HS: '127', Inns: '53', Mat: '55', 'NO': '2', Player: M Vijay, Runs: '1388', SR: '126.98',
+    Span: 2007-2011}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '19.21', BBI: 4/18, Ct: '12', Econ: '6.40', Inns: '44',
+    Mat: '45', Mdns: '2', Overs: '168.0', Player: R Ashwin, Runs: '1076', SR: '18.0',
+    Span: 2007-2011, St: '0', Wkts: '56'}
+  - {'4': '0', '5': '0', Ave: '22.00', BBI: 1/16, Ct: '18', Econ: '7.33', Inns: '2',
+    Mat: '76', Mdns: '0', Overs: '3.0', Player: S Badrinath, Runs: '22', SR: '18.0',
+    Span: 2007-2011, St: '0', Wkts: '1'}
+  - {'4': '1', '5': '0', Ave: '22.74', BBI: 4/13, Ct: '10', Econ: '7.30', Inns: '41',
+    Mat: '42', Mdns: '3', Overs: '146.2', Player: DE Bollinger, Runs: '1069', SR: '18.6',
+    Span: 2006-2011, St: '0', Wkts: '47'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '34', Econ: '-', Inns: '-', Mat: '89',
+    Mdns: '-', Overs: '-', Player: MS Dhoni, Runs: '-', SR: '-', Span: 2006-2011,
+    St: '23', Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '32', Econ: '5.00', Inns: '1', Mat: '54',
+    Mdns: '0', Overs: '1.0', Player: MEK Hussey, Runs: '5', SR: '-', Span: 2003-2011,
+    St: '0', Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '23.73', BBI: 4/22, Ct: '14', Econ: '7.32', Inns: '39',
+    Mat: '40', Mdns: '1', Overs: '132.5', Player: SB Jakati, Runs: '973', SR: '19.4',
+    Span: 2007-2011, St: '0', Wkts: '41'}
+  - {'4': '0', '5': '0', Ave: '24.24', BBI: 3/20, Ct: '9', Econ: '7.33', Inns: '25',
+    Mat: '27', Mdns: '0', Overs: '82.4', Player: S Randiv, Runs: '606', SR: '19.8',
+    Span: 2005-2011, St: '0', Wkts: '25'}
+  - {'4': '2', '5': '0', Ave: '26.96', BBI: 4/30, Ct: '31', Econ: '7.98', Inns: '135',
+    Mat: '148', Mdns: '6', Overs: '422.0', Player: JA Morkel, Runs: '3371', SR: '20.2',
+    Span: 2004-2011, St: '0', Wkts: '125'}
+  - {'4': '1', '5': '0', Ave: '24.90', BBI: 4/26, Ct: '37', Econ: '6.98', Inns: '35',
+    Mat: '81', Mdns: '0', Overs: '74.5', Player: SK Raina, Runs: '523', SR: '21.3',
+    Span: 2006-2011, St: '0', Wkts: '21'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '25', Econ: '-', Inns: '-', Mat: '50',
+    Mdns: '-', Overs: '-', Player: WP Saha, Runs: '-', SR: '-', Span: 2007-2011, St: '6',
+    Wkts: '-'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '24', Econ: '4.00', Inns: '1', Mat: '55',
+    Mdns: '0', Overs: '1.0', Player: M Vijay, Runs: '4', SR: '-', Span: 2007-2011,
+    St: '0', Wkts: '0'}
+KolkataKnightRiders:
+- batting averages:
+  - {'0': '3', '100': '0', 4s: '1', '50': '0', 6s: '1', Ave: '3.85', BF: '40', HS: '15',
+    Inns: '12', Mat: '52', 'NO': '5', Player: L Balaji, Runs: '27', SR: '67.50', Span: 2008-2011}
+  - {'0': '3', '100': '0', 4s: '25', '50': '0', 6s: '10', Ave: '17.85', BF: '333',
+    HS: '44', Inns: '30', Mat: '50', 'NO': '9', Player: R Bhatia, Runs: '375', SR: '112.61',
+    Span: 2007-2011}
+  - {'0': '0', '100': '0', 4s: '88', '50': '4', 6s: '37', Ave: '27.79', BF: '1069',
+    HS: 60*, Inns: '67', Mat: '81', 'NO': '23', Player: MV Boucher, Runs: '1223',
+    SR: '114.40', Span: 2004-2011}
+  - {'0': '5', '100': '0', 4s: '257', '50': '16', 6s: '22', Ave: '29.43', BF: '1761',
+    HS: '86', Inns: '81', Mat: '83', 'NO': '8', Player: G Gambhir, Runs: '2149', SR: '122.03',
+    Span: 2007-2011}
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '2', Ave: '16.75', BF: '64', HS: '21',
+    Inns: '11', Mat: '31', 'NO': '7', Player: Iqbal Abdulla, Runs: '67', SR: '104.68',
+    Span: 2007-2011}
+  - {'0': '5', '100': '0', 4s: '238', '50': '20', 6s: '48', Ave: '35.13', BF: '2044',
+    HS: 89*, Inns: '78', Mat: '78', 'NO': '12', Player: JH Kallis, Runs: '2319', SR: '113.45',
+    Span: 2004-2011}
+  - {'0': '3', '100': '0', 4s: '18', '50': '0', 6s: '12', Ave: '15.53', BF: '178',
+    HS: '48', Inns: '28', Mat: '51', 'NO': '13', Player: B Lee, Runs: '233', SR: '130.89',
+    Span: 2005-2011}
+  - {'0': '4', '100': '0', 4s: '140', '50': '7', 6s: '52', Ave: '26.01', BF: '1186',
+    HS: 85*, Inns: '70', Mat: '77', 'NO': '11', Player: EJG Morgan, Runs: '1535',
+    SR: '129.42', Span: 2006-2011}
+  - {'0': '6', '100': '1', 4s: '140', '50': '9', 6s: '104', Ave: '24.73', BF: '1036',
+    HS: '100', Inns: '77', Mat: '85', 'NO': '9', Player: YK Pathan, Runs: '1682',
+    SR: '162.35', Span: 2007-2011}
+  - {'0': '4', '100': '0', 4s: '105', '50': '8', 6s: '33', Ave: '35.22', BF: '1062',
+    HS: 75*, Inns: '50', Mat: '56', 'NO': '14', Player: MK Tiwary, Runs: '1268', SR: '119.39',
+    Span: 2007-2011}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '2.00', BF: '7', HS: 2*,
+    Inns: '2', Mat: '13', 'NO': '1', Player: JD Unadkat, Runs: '2', SR: '28.57', Span: 2010-2011}
+- bowling averages:
+  - {'4': '1', '5': '1', Ave: '25.09', BBI: 5/24, Ct: '8', Econ: '7.77', Inns: '52',
+    Mat: '52', Mdns: '1', Overs: '174.2', Player: L Balaji, Runs: '1355', SR: '19.3',
+    Span: 2008-2011, St: '0', Wkts: '54'}
+  - {'4': '1', '5': '0', Ave: '25.21', BBI: 4/15, Ct: '14', Econ: '7.23', Inns: '47',
+    Mat: '50', Mdns: '0', Overs: '132.2', Player: R Bhatia, Runs: '958', SR: '20.8',
+    Span: 2007-2011, St: '0', Wkts: '38'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '40', Econ: '-', Inns: '-', Mat: '81',
+    Mdns: '-', Overs: '-', Player: MV Boucher, Runs: '-', SR: '-', Span: 2004-2011,
+    St: '13', Wkts: '-'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '12', Econ: '-', Inns: '-', Mat: '83',
+    Mdns: '-', Overs: '-', Player: G Gambhir, Runs: '-', SR: '-', Span: 2007-2011,
+    St: '0', Wkts: '-'}
+  - {'4': '1', '5': '1', Ave: '18.85', BBI: 5/10, Ct: '8', Econ: '6.06', Inns: '31',
+    Mat: '31', Mdns: '1', Overs: '105.4', Player: Iqbal Abdulla, Runs: '641', SR: '18.6',
+    Span: 2007-2011, St: '0', Wkts: '34'}
+  - {'4': '0', '5': '0', Ave: '41.02', BBI: 3/16, Ct: '32', Econ: '7.98', Inns: '65',
+    Mat: '78', Mdns: '4', Overs: '200.2', Player: JH Kallis, Runs: '1600', SR: '30.8',
+    Span: 2004-2011, St: '0', Wkts: '39'}
+  - {'4': '0', '5': '0', Ave: '31.28', BBI: 3/15, Ct: '17', Econ: '7.06', Inns: '51',
+    Mat: '51', Mdns: '5', Overs: '186.0', Player: B Lee, Runs: '1314', SR: '26.5',
+    Span: 2005-2011, St: '0', Wkts: '42'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '33', Econ: '-', Inns: '-', Mat: '77',
+    Mdns: '-', Overs: '-', Player: EJG Morgan, Runs: '-', SR: '-', Span: 2006-2011,
+    St: '0', Wkts: '-'}
+  - {'4': '2', '5': '0', Ave: '24.18', BBI: 4/10, Ct: '32', Econ: '7.52', Inns: '71',
+    Mat: '85', Mdns: '1', Overs: '209.0', Player: YK Pathan, Runs: '1572', SR: '19.2',
+    Span: 2007-2011, St: '0', Wkts: '65'}
+  - {'4': '0', '5': '0', Ave: '26.20', BBI: 3/19, Ct: '24', Econ: '7.27', Inns: '18',
+    Mat: '56', Mdns: '0', Overs: '36.0', Player: MK Tiwary, Runs: '262', SR: '21.6',
+    Span: 2007-2011, St: '0', Wkts: '10'}
+  - {'4': '0', '5': '0', Ave: '15.26', BBI: 3/10, Ct: '1', Econ: '7.07', Inns: '12',
+    Mat: '13', Mdns: '0', Overs: '41.0', Player: JD Unadkat, Runs: '290', SR: '12.9',
+    Span: 2010-2011, St: '0', Wkts: '19'}

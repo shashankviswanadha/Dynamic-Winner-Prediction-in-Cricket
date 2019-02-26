@@ -1,0 +1,113 @@
+Chennai Super Kings:
+- batting averages:
+  - {'0': '2', '100': '0', 4s: '2', '50': '0', 6s: '0', Ave: '4.67', BF: '40', HS: '11',
+    Inns: '8', Mat: '19', 'NO': '2', Player: R Ashwin, Runs: '28', SR: '70.0', Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '70', '50': '4', 6s: '18', Ave: '27.0', BF: '591',
+    HS: '64', Inns: '38', Mat: '46', 'NO': '12', Player: S Badrinath, Runs: '702',
+    SR: '118.78', Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '0', Ave: '5.0', BF: '5', HS: '5',
+    Inns: '1', Mat: '20', 'NO': '0', Player: DE Bollinger, Runs: '5', SR: '100.0',
+    Span: 2006-2010}
+  - {'0': '2', '100': '0', 4s: '105', '50': '6', 6s: '44', Ave: '35.08', BF: '1074',
+    HS: '73', Inns: '55', Mat: '60', 'NO': '16', Player: MS Dhoni, Runs: '1368', SR: '127.37',
+    Span: 2006-2010}
+  - {'0': '0', '100': '0', 4s: '149', '50': '12', 6s: '55', Ave: '45.86', BF: '915',
+    HS: '93', Inns: '34', Mat: '34', 'NO': '5', Player: ML Hayden, Runs: '1330', SR: '145.36',
+    Span: 2005-2010}
+  - {'0': '1', '100': '1', 4s: '67', '50': '4', 6s: '24', Ave: '41.17', BF: '553',
+    HS: '116', Inns: '23', Mat: '30', 'NO': '5', Player: MEK Hussey, Runs: '741',
+    SR: '134.0', Span: 2003-2010}
+  - {'0': '0', '100': '0', 4s: '13', '50': '0', 6s: '1', Ave: '17.83', BF: '79', HS: '43',
+    Inns: '7', Mat: '18', 'NO': '1', Player: SB Jakati, Runs: '107', SR: '135.44',
+    Span: 2007-2010}
+  - {'0': '1', '100': '0', 4s: '101', '50': '7', 6s: '56', Ave: '32.08', BF: '910',
+    HS: '98', Inns: '47', Mat: '50', 'NO': '8', Player: SK Raina, Runs: '1251', SR: '137.47',
+    Span: 2006-2010}
+  - {'0': '1', '100': '0', 4s: '6', '50': '0', 6s: '5', Ave: '9.69', BF: '132', HS: '33',
+    Inns: '20', Mat: '30', 'NO': '7', Player: T Thushara, Runs: '126', SR: '95.45',
+    Span: 2004-2010}
+  - {'0': '1', '100': '0', 4s: '0', '50': '0', 6s: '0', Ave: '3.0', BF: '4', HS: '3',
+    Inns: '3', Mat: '12', 'NO': '2', Player: S Tyagi, Runs: '3', SR: '75.0', Span: 2009-2010}
+  - {'0': '1', '100': '1', 4s: '36', '50': '2', 6s: '30', Ave: '27.45', BF: '387',
+    HS: '127', Inns: '21', Mat: '23', 'NO': '1', Player: M Vijay, Runs: '549', SR: '141.86',
+    Span: 2007-2010}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '21.3', Econ: '5.94', Inns: '18', Mat: '19', Overs: '65.4',
+    Player: R Ashwin, Runs: '426', SR: '19.7', Span: 2007-2010, Wkts: '20'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '3.0', Inns: '1', Mat: '46', Overs: '2.0',
+    Player: S Badrinath, Runs: '6', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '29.94', Econ: '7.49', Inns: '19', Mat: '20', Overs: '68.0',
+    Player: DE Bollinger, Runs: '509', SR: '24.0', Span: 2006-2010, Wkts: '17'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '60', Overs: '0.0',
+    Player: MS Dhoni, Runs: '0', SR: '0', Span: 2006-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '34', Overs: '0.0',
+    Player: ML Hayden, Runs: '0', SR: '0', Span: 2005-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '5.0', Inns: '1', Mat: '30', Overs: '1.0',
+    Player: MEK Hussey, Runs: '5', SR: '0', Span: 2003-2010, Wkts: '0'}
+  - {'4': '2', '5': '0', Ave: '18.63', Econ: '6.98', Inns: '17', Mat: '18', Overs: '64.0',
+    Player: SB Jakati, Runs: '447', SR: '16.0', Span: 2007-2010, Wkts: '24'}
+  - {'4': '0', '5': '0', Ave: '29.33', Econ: '5.58', Inns: '19', Mat: '50', Overs: '39.5',
+    Player: SK Raina, Runs: '264', SR: '26.56', Span: 2006-2010, Wkts: '9'}
+  - {'4': '0', '5': '0', Ave: '21.76', Econ: '7.12', Inns: '30', Mat: '30', Overs: '104.0',
+    Player: T Thushara, Runs: '740', SR: '18.35', Span: 2004-2010, Wkts: '34'}
+  - {'4': '0', '5': '0', Ave: '52.0', Econ: '6.78', Inns: '12', Mat: '12', Overs: '30.5',
+    Player: S Tyagi, Runs: '260', SR: '37.0', Span: 2009-2010, Wkts: '5'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '4.0', Inns: '1', Mat: '23', Overs: '1.0',
+    Player: M Vijay, Runs: '4', SR: '0', Span: 2007-2010, Wkts: '0'}
+Mumbai Indians:
+- batting averages:
+  - {'0': '0', '100': '0', 4s: '3', '50': '0', 6s: '1', Ave: '5.8', BF: '26', HS: '11',
+    Inns: '5', Mat: '8', 'NO': '0', Player: AN Ahmed, Runs: '29', SR: '111.54', Span: 2007-2010}
+  - {'0': '3', '100': '0', 4s: '75', '50': '7', 6s: '41', Ave: '25.58', BF: '751',
+    HS: '70', Inns: '52', Mat: '58', 'NO': '14', Player: DJ Bravo, Runs: '972', SR: '129.43',
+    Span: 2006-2010}
+  - {'0': '1', '100': '0', 4s: '90', '50': '8', 6s: '14', Ave: '30.22', BF: '718',
+    HS: '75', Inns: '33', Mat: '34', 'NO': '6', Player: S Dhawan, Runs: '816', SR: '113.65',
+    Span: 2007-2010}
+  - {'0': '2', '100': '0', 4s: '28', '50': '0', 6s: '16', Ave: '15.05', BF: '218',
+    HS: '49', Inns: '30', Mat: '54', 'NO': '9', Player: Harbhajan Singh, Runs: '316',
+    SR: '144.95', Span: 2005-2010}
+  - {'0': '5', '100': '0', 4s: '52', '50': '0', 6s: '5', Ave: '21.4', BF: '460', HS: '46',
+    Inns: '49', Mat: '75', 'NO': '24', Player: R McLaren, Runs: '535', SR: '116.3',
+    Span: 2005-2010}
+  - {'0': '2', '100': '0', 4s: '3', '50': '0', 6s: '3', Ave: '9.14', BF: '62', HS: '27',
+    Inns: '16', Mat: '53', 'NO': '9', Player: SL Malinga, Runs: '64', SR: '103.23',
+    Span: 2004-2010}
+  - {'0': '0', '100': '0', 4s: '51', '50': '3', 6s: '44', Ave: '22.74', BF: '455',
+    HS: '83', Inns: '36', Mat: '44', 'NO': '5', Player: KA Pollard, Runs: '705', SR: '154.95',
+    Span: 2006-2010}
+  - {'0': '0', '100': '0', 4s: '28', '50': '4', 6s: '11', Ave: '32.9', BF: '234',
+    HS: '75', Inns: '12', Mat: '12', 'NO': '2', Player: AT Rayudu, Runs: '329', SR: '140.6',
+    Span: 2007-2010}
+  - {'0': '0', '100': '0', 4s: '12', '50': '0', 6s: '2', Ave: '19.33', BF: '86', HS: '24',
+    Inns: '9', Mat: '10', 'NO': '3', Player: R Sathish, Runs: '116', SR: '134.88',
+    Span: 2009-2010}
+  - {'0': '2', '100': '0', 4s: '147', '50': '9', 6s: '18', Ave: '37.9', BF: '847',
+    HS: '72', Inns: '33', Mat: '33', 'NO': '4', Player: SR Tendulkar, Runs: '1099',
+    SR: '129.75', Span: 2006-2010}
+  - {'0': '0', '100': '0', 4s: '57', '50': '4', 6s: '22', Ave: '32.17', BF: '432',
+    HS: '69', Inns: '21', Mat: '23', 'NO': '3', Player: SS Tiwary, Runs: '579', SR: '134.03',
+    Span: 2007-2010}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '37.4', Econ: '6.93', Inns: '8', Mat: '8', Overs: '27.0',
+    Player: AN Ahmed, Runs: '187', SR: '32.4', Span: 2007-2010, Wkts: '5'}
+  - {'4': '2', '5': '0', Ave: '25.49', Econ: '8.45', Inns: '55', Mat: '58', Overs: '172.0',
+    Player: DJ Bravo, Runs: '1453', SR: '18.11', Span: 2006-2010, Wkts: '57'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '34', Overs: '0.0',
+    Player: S Dhawan, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '22.49', Econ: '6.27', Inns: '51', Mat: '54', Overs: '178.3',
+    Player: Harbhajan Singh, Runs: '1147', SR: '21.0', Span: 2005-2010, Wkts: '51'}
+  - {'4': '1', '5': '0', Ave: '29.21', Econ: '7.52', Inns: '74', Mat: '75', Overs: '239.1',
+    Player: R McLaren, Runs: '1811', SR: '23.15', Span: 2005-2010, Wkts: '62'}
+  - {'4': '1', '5': '0', Ave: '19.41', Econ: '6.53', Inns: '51', Mat: '53', Overs: '179.5',
+    Player: SL Malinga, Runs: '1223', SR: '17.13', Span: 2004-2010, Wkts: '63'}
+  - {'4': '0', '5': '0', Ave: '22.5', Econ: '7.76', Inns: '34', Mat: '44', Overs: '87.0',
+    Player: KA Pollard, Runs: '675', SR: '17.4', Span: 2006-2010, Wkts: '30'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '12', Overs: '0.0',
+    Player: AT Rayudu, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '79.0', Econ: '11.29', Inns: '3', Mat: '10', Overs: '7.0',
+    Player: R Sathish, Runs: '79', SR: '42.0', Span: 2009-2010, Wkts: '1'}
+  - {'4': '0', '5': '0', Ave: '61.5', Econ: '6.15', Inns: '8', Mat: '33', Overs: '15.3',
+    Player: SR Tendulkar, Runs: '123', SR: '46.5', Span: 2006-2010, Wkts: '2'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '23', Overs: '0.0',
+    Player: SS Tiwary, Runs: '0', SR: '0', Span: 2007-2010, Wkts: '0'}

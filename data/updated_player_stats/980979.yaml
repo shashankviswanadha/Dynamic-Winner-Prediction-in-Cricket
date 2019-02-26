@@ -1,0 +1,114 @@
+Rising Pune Supergiants:
+- batting averages:
+  - {'0': '5', '100': '0', 4s: '42', '50': '0', 6s: '9', Ave: '13.45', BF: '404',
+    HS: '46', Inns: '59', Mat: '189', 'NO': '26', Player: R Ashwin, Runs: '444', SR: '109.9',
+    Span: 2007-2016}
+  - {'0': '3', '100': '0', 4s: '212', '50': '14', 6s: '81', Ave: '28.42', BF: '1865',
+    HS: '71', Inns: '120', Mat: '135', 'NO': '31', Player: GJ Bailey, Runs: '2529',
+    SR: '135.6', Span: 2006-2016}
+  - {'0': '7', '100': '1', 4s: '77', '50': '1', 6s: '40', Ave: '21.79', BF: '956',
+    HS: '107', Inns: '87', Mat: '136', 'NO': '35', Player: R Bhatia, Runs: '1133',
+    SR: '118.51', Span: 2007-2016}
+  - {'0': '7', '100': '0', 4s: '340', '50': '17', 6s: '199', Ave: '37.07', BF: '3519',
+    HS: '73', Inns: '213', Mat: '236', 'NO': '84', Player: MS Dhoni, Runs: '4782',
+    SR: '135.89', Span: 2006-2016}
+  - {'0': '8', '100': '0', 4s: '4', '50': '0', 6s: '0', Ave: '4.56', BF: '108', HS: '22',
+    Inns: '28', Mat: '112', 'NO': '12', Player: AB Dinda, Runs: '73', SR: '67.59',
+    Span: 2008-2016}
+  - {'0': '1', '100': '2', 4s: '172', '50': '8', 6s: '20', Ave: '33.53', BF: '1151',
+    HS: '109', Inns: '48', Mat: '49', 'NO': '5', Player: UT Khawaja, Runs: '1442',
+    SR: '125.28', Span: 2010-2016}
+  - {'0': '12', '100': '0', 4s: '137', '50': '2', 6s: '96', Ave: '19.52', BF: '1296',
+    HS: '72', Inns: '136', Mat: '165', 'NO': '41', Player: NLTC Perera, Runs: '1854',
+    SR: '143.06', Span: 2008-2016}
+  - {'0': '14', '100': '1', 4s: '368', '50': '30', 6s: '68', Ave: '31.1', BF: '3038',
+    HS: '103', Inns: '131', Mat: '137', 'NO': '15', Player: AM Rahane, Runs: '3608',
+    SR: '118.76', Span: 2007-2016}
+  - {'0': '7', '100': '0', 4s: '4', '50': '0', 6s: '2', Ave: '4.32', BF: '148', HS: '18',
+    Inns: '50', Mat: '131', 'NO': '25', Player: RP Singh, Runs: '108', SR: '72.97',
+    Span: 2007-2016}
+  - {'0': '3', '100': '0', 4s: '172', '50': '10', 6s: '84', Ave: '31.03', BF: '1828',
+    HS: '69', Inns: '100', Mat: '115', 'NO': '28', Player: SS Tiwary, Runs: '2234',
+    SR: '122.21', Span: 2007-2016}
+  - {'0': '4', '100': '0', 4s: '6', '50': '0', 6s: '1', Ave: '6.09', BF: '71', HS: '15',
+    Inns: '14', Mat: '35', 'NO': '3', Player: A Zampa, Runs: '67', SR: '94.37', Span: 2012-2016}
+- bowling averages:
+  - {'4': '3', '5': '0', Ave: '23.63', Econ: '6.67', Inns: '186', Mat: '189', Overs: '670.4',
+    Player: R Ashwin, Runs: '4513', SR: '21.07', Span: 2007-2016, Wkts: '191'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '12.0', Inns: '1', Mat: '135', Overs: '2.0',
+    Player: GJ Bailey, Runs: '24', SR: '0', Span: 2006-2016, Wkts: '0'}
+  - {'4': '1', '5': '0', Ave: '27.2', Econ: '7.17', Inns: '128', Mat: '136', Overs: '391.0',
+    Player: R Bhatia, Runs: '2802', SR: '22.78', Span: 2007-2016, Wkts: '103'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '12.5', Inns: '1', Mat: '236', Overs: '2.0',
+    Player: MS Dhoni, Runs: '25', SR: '0', Span: 2006-2016, Wkts: '0'}
+  - {'4': '3', '5': '0', Ave: '25.21', Econ: '7.62', Inns: '109', Mat: '112', Overs: '372.1',
+    Player: AB Dinda, Runs: '2849', SR: '19.76', Span: 2008-2016, Wkts: '113'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '49', Overs: '0.0',
+    Player: UT Khawaja, Runs: '0', SR: '0', Span: 2010-2016, Wkts: '0'}
+  - {'4': '0', '5': '1', Ave: '25.0', Econ: '8.16', Inns: '153', Mat: '165', Overs: '447.4',
+    Player: NLTC Perera, Runs: '3700', SR: '18.15', Span: 2008-2016, Wkts: '148'}
+  - {'4': '0', '5': '0', Ave: '5.0', Econ: '5.0', Inns: '1', Mat: '137', Overs: '1.0',
+    Player: AM Rahane, Runs: '5', SR: '6.0', Span: 2007-2016, Wkts: '1'}
+  - {'4': '3', '5': '1', Ave: '24.93', Econ: '7.4', Inns: '130', Mat: '131', Overs: '480.5',
+    Player: RP Singh, Runs: '3615', SR: '19.9', Span: 2007-2016, Wkts: '145'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '115', Overs: '0.0',
+    Player: SS Tiwary, Runs: '0', SR: '0', Span: 2007-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '24.69', Econ: '7.01', Inns: '34', Mat: '35', Overs: '120.2',
+    Player: A Zampa, Runs: '864', SR: '20.63', Span: 2012-2016, Wkts: '35'}
+Sunrisers Hyderabad:
+- batting averages:
+  - {'0': '5', '100': '0', 4s: '468', '50': '31', 6s: '83', Ave: '31.12', BF: '3438',
+    HS: '95', Inns: '151', Mat: '152', 'NO': '19', Player: S Dhawan, Runs: '4108',
+    SR: '119.49', Span: 2007-2016}
+  - {'0': '6', '100': '0', 4s: '178', '50': '8', 6s: '62', Ave: '25.66', BF: '1785',
+    HS: '77', Inns: '111', Mat: '126', 'NO': '25', Player: MC Henriques, Runs: '2207',
+    SR: '123.64', Span: 2006-2016}
+  - {'0': '3', '100': '0', 4s: '29', '50': '2', 6s: '18', Ave: '15.57', BF: '331',
+    HS: '54', Inns: '34', Mat: '45', 'NO': '6', Player: DJ Hooda, Runs: '436', SR: '131.72',
+    Span: 2013-2016}
+  - {'0': '3', '100': '0', 4s: '16', '50': '0', 6s: '4', Ave: '10.78', BF: '194',
+    HS: '24', Inns: '35', Mat: '92', 'NO': '17', Player: B Kumar, Runs: '194', SR: '100.0',
+    Span: 2009-2016}
+  - {'0': '2', '100': '0', 4s: '0', '50': '0', 6s: '1', Ave: '2.25', BF: '13', HS: '6',
+    Inns: '6', Mat: '32', 'NO': '2', Player: Mustafizur Rahman, Runs: '9', SR: '69.23',
+    Span: 2015-2016}
+  - {'0': '9', '100': '0', 4s: '4', '50': '0', 6s: '3', Ave: '5.23', BF: '101', HS: '22',
+    Inns: '25', Mat: '117', 'NO': '12', Player: A Nehra, Runs: '68', SR: '67.33',
+    Span: 2008-2016}
+  - {'0': '12', '100': '0', 4s: '198', '50': '10', 6s: '113', Ave: '21.02', BF: '1837',
+    HS: '94', Inns: '123', Mat: '133', 'NO': '18', Player: NV Ojha, Runs: '2207',
+    SR: '120.14', Span: 2007-2016}
+  - {'0': '0', '100': '0', 4s: '2', '50': '0', 6s: '1', Ave: '17.0', BF: '7', HS: '9',
+    Inns: '3', Mat: '17', 'NO': '2', Player: BB Sran, Runs: '17', SR: '242.86', Span: 2011-2016}
+  - {'0': '15', '100': '5', 4s: '642', '50': '50', 6s: '277', Ave: '34.09', BF: '4498',
+    HS: '135', Inns: '211', Mat: '212', 'NO': '21', Player: DA Warner, Runs: '6478',
+    SR: '144.02', Span: 2007-2016}
+  - {'0': '3', '100': '1', 4s: '217', '50': '11', 6s: '31', Ave: '26.59', BF: '1690',
+    HS: '101', Inns: '86', Mat: '93', 'NO': '10', Player: KS Williamson, Runs: '2021',
+    SR: '119.59', Span: 2009-2016}
+  - {'0': '6', '100': '0', 4s: '296', '50': '23', 6s: '214', Ave: '26.4', BF: '2944',
+    HS: '83', Inns: '168', Mat: '179', 'NO': '22', Player: Yuvraj Singh, Runs: '3855',
+    SR: '130.94', Span: 2003-2016}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '16.5', Econ: '8.25', Inns: '6', Mat: '152', Overs: '8.0',
+    Player: S Dhawan, Runs: '66', SR: '12.0', Span: 2007-2016, Wkts: '4'}
+  - {'4': '0', '5': '0', Ave: '27.39', Econ: '8.01', Inns: '109', Mat: '126', Overs: '318.2',
+    Player: MC Henriques, Runs: '2575', SR: '20.32', Span: 2006-2016, Wkts: '94'}
+  - {'4': '0', '5': '0', Ave: '61.6', Econ: '7.39', Inns: '16', Mat: '45', Overs: '40.1',
+    Player: DJ Hooda, Runs: '308', SR: '48.2', Span: 2013-2016, Wkts: '5'}
+  - {'4': '2', '5': '0', Ave: '23.97', Econ: '6.92', Inns: '92', Mat: '92', Overs: '331.3',
+    Player: B Kumar, Runs: '2325', SR: '20.51', Span: 2009-2016, Wkts: '97'}
+  - {'4': '0', '5': '1', Ave: '14.78', Econ: '5.6', Inns: '32', Mat: '32', Overs: '121.5',
+    Player: Mustafizur Rahman, Runs: '724', SR: '14.92', Span: 2015-2016, Wkts: '49'}
+  - {'4': '2', '5': '0', Ave: '22.51', Econ: '7.56', Inns: '117', Mat: '117', Overs: '421.1',
+    Player: A Nehra, Runs: '3196', SR: '17.8', Span: 2008-2016, Wkts: '142'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '0', Inns: '0', Mat: '133', Overs: '0.0',
+    Player: NV Ojha, Runs: '0', SR: '0', Span: 2007-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '26.25', Econ: '7.0', Inns: '17', Mat: '17', Overs: '55.3',
+    Player: BB Sran, Runs: '420', SR: '20.81', Span: 2011-2016, Wkts: '16'}
+  - {'4': '0', '5': '0', Ave: '0', Econ: '13.0', Inns: '1', Mat: '212', Overs: '1.0',
+    Player: DA Warner, Runs: '13', SR: '0', Span: 2007-2016, Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '31.0', Econ: '6.9', Inns: '49', Mat: '93', Overs: '118.2',
+    Player: KS Williamson, Runs: '837', SR: '26.3', Span: 2009-2016, Wkts: '27'}
+  - {'4': '2', '5': '0', Ave: '22.49', Econ: '7.22', Inns: '113', Mat: '179', Overs: '246.0',
+    Player: Yuvraj Singh, Runs: '1777', SR: '18.68', Span: 2003-2016, Wkts: '79'}

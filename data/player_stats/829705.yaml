@@ -1,0 +1,137 @@
+KolkataKnightRiders:
+- batting averages:
+  - {'0': '14', '100': '0', 4s: '80', '50': '0', 6s: '34', Ave: '16.03', BF: '755',
+    HS: 45*, Inns: '90', Mat: '146', 'NO': '31', Player: PP Chawla, Runs: '946', SR: '125.29',
+    Span: 2007-2015}
+  - {'0': '15', '100': '0', 4s: '520', '50': '37', 6s: '67', Ave: '29.24', BF: '3692',
+    HS: '93', Inns: '171', Mat: '175', 'NO': '17', Player: G Gambhir, Runs: '4503',
+    SR: '121.96', Span: 2007-2015}
+  - {'0': '8', '100': '0', 4s: '15', '50': '0', 6s: '6', Ave: '9.47', BF: '153', HS: 23*,
+    Inns: '38', Mat: '137', 'NO': '19', Player: M Morkel, Runs: '180', SR: '117.64',
+    Span: 2005-2015}
+  - {'0': '7', '100': '0', 4s: '14', '50': '0', 6s: '12', Ave: '10.08', BF: '202',
+    HS: '28', Inns: '45', Mat: '145', 'NO': '21', Player: SP Narine, Runs: '242',
+    SR: '119.80', Span: 2011-2015}
+  - {'0': '12', '100': '1', 4s: '227', '50': '11', 6s: '62', Ave: '26.63', BF: '2109',
+    HS: 114*, Inns: '106', Mat: '111', 'NO': '14', Player: MK Pandey, Runs: '2450',
+    SR: '116.16', Span: 2007-2015}
+  - {'0': '14', '100': '1', 4s: '257', '50': '15', 6s: '186', Ave: '26.72', BF: '2233',
+    HS: '100', Inns: '158', Mat: '176', 'NO': '34', Player: YK Pathan, Runs: '3314',
+    SR: '148.41', Span: 2007-2015}
+  - {'0': '8', '100': '0', 4s: '124', '50': '7', 6s: '111', Ave: '23.08', BF: '1037',
+    HS: 77*, Inns: '106', Mat: '134', 'NO': '32', Player: AD Russell, Runs: '1708',
+    SR: '164.70', Span: 2010-2015}
+  - {'0': '10', '100': '0', 4s: '221', '50': '9', 6s: '72', Ave: '20.60', BF: '1829',
+    HS: 86*, Inns: '132', Mat: '145', 'NO': '17', Player: Shakib Al Hasan, Runs: '2370',
+    SR: '129.57', Span: 2006-2015}
+  - {'0': '7', '100': '0', 4s: '403', '50': '21', 6s: '140', Ave: '28.74', BF: '3050',
+    HS: '92', Inns: '158', Mat: '164', 'NO': '18', Player: RV Uthappa, Runs: '4024',
+    SR: '131.93', Span: 2007-2015}
+  - {'0': '2', '100': '0', 4s: '52', '50': '0', 6s: '23', Ave: '23.84', BF: '468',
+    HS: 46*, Inns: '37', Mat: '45', 'NO': '11', Player: SA Yadav, Runs: '620', SR: '132.47',
+    Span: 2010-2015}
+  - {'0': '4', '100': '0', 4s: '4', '50': '0', 6s: '5', Ave: '7.90', BF: '77', HS: '23',
+    Inns: '22', Mat: '77', 'NO': '12', Player: UT Yadav, Runs: '79', SR: '102.59',
+    Span: 2009-2015}
+- bowling averages:
+  - {'4': '1', '5': '0', Ave: '26.20', BBI: 4/17, Ct: '38', Econ: '7.43', Inns: '146',
+    Mat: '146', Mdns: '4', Overs: '510.4', Player: PP Chawla, Runs: '3799', SR: '21.1',
+    Span: 2007-2015, St: '0', Wkts: '145'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '36', Econ: '-', Inns: '-', Mat: '175',
+    Mdns: '-', Overs: '-', Player: G Gambhir, Runs: '-', SR: '-', Span: 2007-2015,
+    St: '0', Wkts: '-'}
+  - {'4': '4', '5': '0', Ave: '24.08', BBI: 4/17, Ct: '23', Econ: '7.30', Inns: '135',
+    Mat: '137', Mdns: '12', Overs: '504.1', Player: M Morkel, Runs: '3685', SR: '19.7',
+    Span: 2005-2015, St: '0', Wkts: '153'}
+  - {'4': '9', '5': '1', Ave: '15.97', BBI: 5/19, Ct: '28', Econ: '5.46', Inns: '142',
+    Mat: '145', Mdns: '12', Overs: '552.1', Player: SP Narine, Runs: '3019', SR: '17.5',
+    Span: 2011-2015, St: '0', Wkts: '189'}
+  - {'4': '2', '5': '0', Ave: '21.20', BBI: 4/27, Ct: '56', Econ: '7.57', Inns: '10',
+    Mat: '111', Mdns: '0', Overs: '28.0', Player: MK Pandey, Runs: '212', SR: '16.8',
+    Span: 2007-2015, St: '2', Wkts: '10'}
+  - {'4': '2', '5': '0', Ave: '28.11', BBI: 4/10, Ct: '60', Econ: '7.61', Inns: '117',
+    Mat: '176', Mdns: '1', Overs: '328.3', Player: YK Pathan, Runs: '2502', SR: '22.1',
+    Span: 2007-2015, St: '0', Wkts: '89'}
+  - {'4': '4', '5': '0', Ave: '34.05', BBI: 4/18, Ct: '53', Econ: '8.38', Inns: '123',
+    Mat: '134', Mdns: '1', Overs: '345.2', Player: AD Russell, Runs: '2895', SR: '24.3',
+    Span: 2010-2015, St: '0', Wkts: '85'}
+  - {'4': '4', '5': '2', Ave: '19.44', BBI: 6/6, Ct: '38', Econ: '6.58', Inns: '145',
+    Mat: '145', Mdns: '7', Overs: '531.5', Player: Shakib Al Hasan, Runs: '3500',
+    SR: '17.7', Span: 2006-2015, St: '0', Wkts: '180'}
+  - {'4': '0', '5': '0', Ave: '-', BBI: '-', Ct: '76', Econ: '11.00', Inns: '1', Mat: '164',
+    Mdns: '0', Overs: '1.0', Player: RV Uthappa, Runs: '11', SR: '-', Span: 2007-2015,
+    St: '23', Wkts: '0'}
+  - {'4': '0', '5': '0', Ave: '23.33', BBI: 2/11, Ct: '18', Econ: '6.36', Inns: '10',
+    Mat: '45', Mdns: '0', Overs: '22.0', Player: SA Yadav, Runs: '140', SR: '22.0',
+    Span: 2010-2015, St: '0', Wkts: '6'}
+  - {'4': '1', '5': '1', Ave: '29.59', BBI: 5/18, Ct: '19', Econ: '7.99', Inns: '75',
+    Mat: '77', Mdns: '5', Overs: '266.3', Player: UT Yadav, Runs: '2131', SR: '22.2',
+    Span: 2009-2015, St: '0', Wkts: '72'}
+MumbaiIndians:
+- batting averages:
+  - {'0': '4', '100': '0', 4s: '46', '50': '2', 6s: '40', Ave: '21.02', BF: '532',
+    HS: 95*, Inns: '40', Mat: '53', 'NO': '6', Player: CJ Anderson, Runs: '715', SR: '134.39',
+    Span: 2009-2015}
+  - {'0': '0', '100': '0', 4s: '1', '50': '0', 6s: '2', Ave: '25.00', BF: '26', HS: 14*,
+    Inns: '5', Mat: '35', 'NO': '4', Player: JJ Bumrah, Runs: '25', SR: '96.15', Span: 2013-2015}
+  - {'0': '7', '100': '2', 4s: '377', '50': '25', 6s: '137', Ave: '34.26', BF: '2793',
+    HS: '156', Inns: '121', Mat: '124', 'NO': '12', Player: AJ Finch, Runs: '3735',
+    SR: '133.72', Span: 2009-2015}
+  - {'0': '11', '100': '0', 4s: '103', '50': '1', 6s: '56', Ave: '16.23', BF: '771',
+    HS: '78', Inns: '103', Mat: '173', 'NO': '36', Player: Harbhajan Singh, Runs: '1088',
+    SR: '141.11', Span: 2005-2015}
+  - {'0': '15', '100': '0', 4s: '17', '50': '0', 6s: '16', Ave: '6.80', BF: '279',
+    HS: 37*, Inns: '64', Mat: '202', 'NO': '23', Player: SL Malinga, Runs: '279',
+    SR: '100.00', Span: 2004-2015}
+  - {'0': '7', '100': '0', 4s: '0', '50': '0', 6s: '3', Ave: '4.50', BF: '104', HS: 11*,
+    Inns: '36', Mat: '131', 'NO': '20', Player: PP Ojha, Runs: '72', SR: '69.23',
+    Span: 2007-2015}
+  - {'0': '10', '100': '0', 4s: '328', '50': '25', 6s: '335', Ave: '30.67', BF: '3273',
+    HS: 89*, Inns: '237', Mat: '267', 'NO': '73', Player: KA Pollard, Runs: '5031',
+    SR: '153.71', Span: 2006-2015}
+  - {'0': '8', '100': '0', 4s: '227', '50': '14', 6s: '68', Ave: '24.00', BF: '2079',
+    HS: 81*, Inns: '120', Mat: '128', 'NO': '15', Player: AT Rayudu, Runs: '2520',
+    SR: '121.21', Span: 2007-2015}
+  - {'0': '7', '100': '2', 4s: '393', '50': '32', 6s: '197', Ave: '33.17', BF: '3612',
+    HS: 109*, Inns: '176', Mat: '187', 'NO': '34', Player: RG Sharma, Runs: '4711',
+    SR: '130.42', Span: 2007-2015}
+  - {'0': '2', '100': '0', 4s: '105', '50': '4', 6s: '29', Ave: '24.41', BF: '754',
+    HS: '64', Inns: '46', Mat: '53', 'NO': '7', Player: AP Tare, Runs: '952', SR: '126.25',
+    Span: 2009-2015}
+  - {'0': '4', '100': '0', 4s: '27', '50': '0', 6s: '19', Ave: '12.18', BF: '367',
+    HS: '34', Inns: '59', Mat: '127', 'NO': '22', Player: R Vinay Kumar, Runs: '451',
+    SR: '122.88', Span: 2007-2015}
+- bowling averages:
+  - {'4': '0', '5': '0', Ave: '34.10', BBI: 2/18, Ct: '32', Econ: '9.00', Inns: '28',
+    Mat: '53', Mdns: '0', Overs: '72.0', Player: CJ Anderson, Runs: '648', SR: '22.7',
+    Span: 2009-2015, St: '0', Wkts: '19'}
+  - {'4': '0', '5': '0', Ave: '25.38', BBI: 3/14, Ct: '5', Econ: '7.18', Inns: '35',
+    Mat: '35', Mdns: '3', Overs: '127.1', Player: JJ Bumrah, Runs: '914', SR: '21.1',
+    Span: 2013-2015, St: '0', Wkts: '36'}
+  - {'4': '0', '5': '0', Ave: '56.20', BBI: 1/11, Ct: '51', Econ: '9.31', Inns: '19',
+    Mat: '124', Mdns: '0', Overs: '30.1', Player: AJ Finch, Runs: '281', SR: '36.2',
+    Span: 2009-2015, St: '0', Wkts: '5'}
+  - {'4': '3', '5': '1', Ave: '25.47', BBI: 5/18, Ct: '54', Econ: '6.61', Inns: '162',
+    Mat: '173', Mdns: '10', Overs: '585.0', Player: Harbhajan Singh, Runs: '3872',
+    SR: '23.0', Span: 2005-2015, St: '0', Wkts: '152'}
+  - {'4': '6', '5': '4', Ave: '18.22', BBI: 6/7, Ct: '38', Econ: '6.61', Inns: '197',
+    Mat: '202', Mdns: '10', Overs: '729.5', Player: SL Malinga, Runs: '4829', SR: '16.5',
+    Span: 2004-2015, St: '0', Wkts: '265'}
+  - {'4': '3', '5': '0', Ave: '22.58', BBI: 4/15, Ct: '21', Econ: '7.14', Inns: '128',
+    Mat: '131', Mdns: '2', Overs: '451.5', Player: PP Ojha, Runs: '3229', SR: '18.9',
+    Span: 2007-2015, St: '0', Wkts: '143'}
+  - {'4': '3', '5': '0', Ave: '23.13', BBI: 4/15, Ct: '149', Econ: '8.00', Inns: '207',
+    Mat: '267', Mdns: '1', Overs: '549.1', Player: KA Pollard, Runs: '4396', SR: '17.3',
+    Span: 2006-2015, St: '0', Wkts: '190'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '54', Econ: '-', Inns: '-', Mat: '128',
+    Mdns: '-', Overs: '-', Player: AT Rayudu, Runs: '-', SR: '-', Span: 2007-2015,
+    St: '3', Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '28.17', BBI: 4/6, Ct: '81', Econ: '7.80', Inns: '57',
+    Mat: '187', Mdns: '0', Overs: '104.4', Player: RG Sharma, Runs: '817', SR: '21.6',
+    Span: 2007-2015, St: '0', Wkts: '29'}
+  - {'4': '-', '5': '-', Ave: '-', BBI: '-', Ct: '13', Econ: '-', Inns: '-', Mat: '53',
+    Mdns: '-', Overs: '-', Player: AP Tare, Runs: '-', SR: '-', Span: 2009-2015, St: '14',
+    Wkts: '-'}
+  - {'4': '1', '5': '0', Ave: '24.79', BBI: 4/40, Ct: '37', Econ: '7.89', Inns: '126',
+    Mat: '127', Mdns: '1', Overs: '436.4', Player: R Vinay Kumar, Runs: '3446', SR: '18.8',
+    Span: 2007-2015, St: '0', Wkts: '139'}
